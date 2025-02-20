@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-17T12:08:06</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Burke</ce:surname>
+<ce:given-name>Eva</ce:given-name>
+</author>
+<affiliation>
+<organization>Trinity College Dublin</organization>
+<city>Dublin</city>
+<country iso-code="IRL"/>
+<ce:source-text>Eva Burke completed her PhD, funded by the Irish Research Council, at the school of English at Trinity College Dublin under the supervision of Dr. Clare Clarke. Her research looks at domestic noir fiction, specifically the work of Gillian Flynn. Eva has published work in the Journal of International Women’s Studies, Feminist Spaces and Trinity Postgraduate Review and the 2018 edited collection From the Domestic to the Dominant: The New Face of Crime Fiction, published by Palgrave Macmillan. She also co-edited a special ‘domestic noir’ issue of Clues: A Journal of Detection.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Schnabel</ce:surname>
+<ce:given-name>Jennifer</ce:given-name>
+</author>
+<affiliation>
+<organization>The Ohio State University</organization>
+<city>Columbus</city>
+<country iso-code="USA"/>
+<ce:source-text>Jennifer Schnabel is associate professor and English subject librarian at The Ohio State University. She contributes scholarly book reviews to Clues: A Journal of Detection and Crime Fiction Studies, and her own research explores women and crime fiction. She recently co-chaired the Mystery and Detective Fiction Area of the Popular Culture Association and is the Research Support Officer for the International Crime Fiction Association.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter, Eva Burke and Jennifer Schnabel; individual chapters, the contributors</publishercopyright>
+<ce:para>This book provides a critical overview of the cultural impact of the Murder, She Wrote TV series and its paratextual elements, including board and video games, podcasts, fan conventions, collectible figures, and ghostwritten novels. It also explores the series’ position within the crime genre, particularly its engagement with earlier iterations of the ‘lady detective’. Bringing together a broad range of experts, the book includes contributions from both academics and crime fiction novelists to offer a wide-ranging view of this popular series and its afterlives. Suitable for scholars and students working on popular culture, crime fiction, TV studies or fan studies, this collection provides an interdisciplinary analysis of one of the most successful and enduring female-fronted detective series in history.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>204</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-3</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">The Fairest of Them All: Jessica Fletcher’s Reign of the Queen of Mystery in Murder, She Wrote</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Schnabel</ce:surname>
+<ce:given-name>Jennifer</ce:given-name>
+</author>
+<affiliation>
+<organization>The Ohio State University</organization>
+<city>Columbus</city>
+<country iso-code="USA"/>
+<ce:source-text>Jennifer Schnabel is associate professor and English subject librarian at The Ohio State University. She contributes scholarly book reviews to Clues: A Journal of Detection and Crime Fiction Studies, and her own research explores women and crime fiction. She recently co-chaired the Mystery and Detective Fiction Area of the Popular Culture Association and is the Research Support Officer for the International Crime Fiction Association.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter, Eva Burke and Jennifer Schnabel; individual chapters, the contributors</publishercopyright>
+<ce:para>Jessica Fletcher, the protagonist in the American television series Murder, She Wrote (1984–1996), is a retired English teacher from Cabot Cove, Maine, who turned to mystery writing after her husband died. She continues to publish mysteries under the pen name J.B. Fletcher and also investigates crimes in Cabot Cove and in other cities when she travels for book tours or visits friends and family. The iconic character, played by Angela Lansbury, is particularly noteworthy in the study of television history because she is an older female protagonist and a skilled investigator, a change from the more traditional male detective archetype viewers were accustomed to seeing on their screens.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>11</first-page>
+<last-page>22</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-4</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Women Writing for Television’s Woman Writer: The Fourteen Women Writers of Murder, She Wrote</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Humphreys</ce:surname>
+<ce:given-name>Kristi</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y"> <publishercopyright>© 2025 selection and editorial matter, Eva Burke and Jennifer Schnabel; individual chapters, the contributors</publishercopyright>
+<ce:para>Murder, She Wrote is well-known for its popularity and longevity, but the contributions of women television writers specifically to the series deserve close examination. Of the 264 episodes, 28 are written or co-written by women television writers.1 Thus, just 10.6% of Murder, She Wrote episodes were written or co-written by women; yet, when fandom websites rank episodes by popularity, women-written episodes dominate proportionally. For example, when https://www.w3.org/1999/xlink" xlink:href="https://s3-euw1-ap-pe-df-pch-content-public-p.s3.eu-west-1.amazonaws.com/9781003438632/1fa88863-1b7f-44bc-9f26-dc7b5ecc7a3e/content/www.Screenrant.com">Screenrant.com ranks the 10 best Cabot Cove episodes, 50% were written by women, and when https://www.w3.org/1999/xlink" xlink:href="https://s3-euw1-ap-pe-df-pch-content-public-p.s3.eu-west-1.amazonaws.com/9781003438632/1fa88863-1b7f-44bc-9f26-dc7b5ecc7a3e/content/www.IMDB.com">IMDB.com lists the top 10 most popular episodes, 30% were written by women, with “Murder Takes the Bus,” co-written by Maryanne Kasica, ranked as the most popular of all episodes. More importantly, the episodes are unique within the full series for their treatment of women's issues. This study contends that the women writers of Murder, She Wrote shaped characters in ways that were more faithful to experience,2 and uses seven categories to organize the analysis: respect and the aging woman, sexual desire and innuendo, feminism, career women, housework, tough issues, and friendship to support this assertion.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>23</first-page>
+<last-page>35</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-5</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Murder, She Wrote: Bridging the Gap between the Golden Age and Cozy Mysteries</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>P.M.</ce:initials>
+<ce:surname>Betz</ce:surname>
+<ce:given-name>Phyllis M.</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y"> <publishercopyright>© 2025 selection and editorial matter, Eva Burke and Jennifer Schnabel; individual chapters, the contributors</publishercopyright>
+<ce:para>As an upbeat instrumental begins, the viewer sees a middle-aged woman riding her bicycle through a small coastal town. The scene reflects a standard portrait of such a community: a small harbor where working and pleasure boats are moored; well-kept houses fronted with gardens; a main street lined with small stores. As the cyclist rides through the town, she waves at friends and neighbors going about their daily routines. Viewers also see this woman walking along the shoreline seemingly mulling over some problem; since she is holding a pencil, a viewer could surmise she is thinking about some writing project. This is affirmed as this montage ends with the woman pulling the last page of a manuscript from her typewriter with a pleased look.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>36</first-page>
+<last-page>49</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-7</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Misogyny She Wrote: How Murder, She Wrote Typifies the Backlash against Feminism</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.P.</ce:initials>
+<ce:surname>Freier</ce:surname>
+<ce:given-name>Mary P.</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y"> 
+<publishercopyright>© 2025 selection and editorial matter, Eva Burke and Jennifer Schnabel; individual chapters, the contributors</publishercopyright>
+<ce:para>When Murder, She Wrote premiered in 1984, critics hailed Jessica Fletcher as a positive depiction of an older woman in television, at a time when relatively few television series featured women as protagonists, much less older women. Murder, She Wrote is neither a police procedural nor a series with a private detective as protagonist. Jessica Fletcher is an amateur detective who always beats the professional detectives by solving the crime. Watching the show is still a pleasure, although twenty-first century viewers might find some elements from the period amusing, such as spiral perms and big shoulders on women's dresses. However, the show has some dated elements that are much more disturbing: the representation of women, women's issues, and feminism throughout the series. Examining the depiction of women in Murder, She Wrote shows us that the series exemplifies the backlash against feminism in the 1980s, as described by Susan Faludi in Backlash: The Undeclared War Against American Women. Faludi's study explained how the antifeminist backlash created a media that inflated the importance of flawed statistical studies on marriage and fertility, a climate that affected television series: “In prime-time television shows, single, professional, and feminist women are humiliated, turned into harpies, or hit by nervous breakdowns; the wise ones recant their independent ways by the closing sequence” (Faludi, 1991, p. xi). The increase of women as major characters in television series such as thirtysomething and films such as Fatal Attraction gave Faludi ample evidence to prove her case. Other scholars writing in the early to mid-nineties about this phenomenon, however, claim that it is not the antifeminist backlash that Faludi describes, that the claims of backlash misinterpret the concept of postfeminism.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>53</first-page>
+<last-page>65</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-8</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">“This Woman Has a Brilliant Criminal Mind”: Information Behavior of a Widow Woman from Maine</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.M.</ce:initials>
+<ce:surname>Kazmer</ce:surname>
+<ce:given-name>Michelle M.</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y"> 
+<publishercopyright>© 2025 selection and editorial matter, Eva Burke and Jennifer Schnabel; individual chapters, the contributors</publishercopyright>
+<ce:para>The development of Jessica Fletcher as a female amateur detective in the tradition of Agatha Christie's Miss Jane Marple has been widely asserted in scholarly and popular literature (e.g., Irons, 1995, p. xi). When Fletcher describes herself in the series pilot as “a widow woman from Maine,” she echoes Miss Marple's introduction of herself as “living alone, as I do, in a rather out-of-the-way part of the world” (Christie, 1930). Scholars have produced a strong corpus of work examining Jessica Fletcher and Jane Marple vis-a-vis each other as older, single, female, rural, amateur detectives.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>66</first-page>
+<last-page>78</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-9</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">The Undercover Feminism of Jessica Fletcher in: Murder, She Wrote</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Dempsey</ce:surname>
+<ce:given-name>Sharon</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y"> 
+<publishercopyright>© 2025 selection and editorial matter, Eva Burke and Jennifer Schnabel; individual chapters, the contributors</publishercopyright>
+<ce:para>All right I thought, why don't we meld Miss Marple and Miss Christie into one character, a mystery writer who actually solves murder mysteries using logic, good sense, observation, and a twinkly sense of humour that masks the sharp brain lurking beneath a very attractive hair do.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>79</first-page>
+<last-page>89</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-11</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Something Sultry and Seductive about This Place: New Orleans in the Murder, She Wrote Imagination</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.E.</ce:initials>
+<ce:surname>Anderson</ce:surname>
+<ce:given-name>Jill E.</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter</publishercopyright>
+<ce:para>When the Louisiana State Press issued the essay collection The Tacky South in 2022, the editors and I, making the publicity circuit, received the same comment over and over: “Murder, She Wrote took place in Maine, not the South!” The problem? I had contributed an essay that centered on the undisputedly Southern Blanche from The Golden Girls and the Yankee Jessica Fletcher in MSW and their associations with images of tacky white Southerners. People kept insisting that Jessica Fletcher's link to the South was non-existent, but in its entire 264-episode run, only 54 episodes of MSW take place in Cabot Cove, ME, Jessica's hometown and a decidedly un-Southern locale. However, as an internationally known bestselling mystery author, Jessica is also a consummate traveler, taking to planes, trains, and automobiles to traverse the globe and solve murders for her seemingly endless slew of friends and family. Maine cannot contain her multitudes. Therefore, the show repeatedly, depending on the episode's location, transmits the aesthetics of culture and region to its primetime audience, often depending on stereotypes and regional images to argue for the place-ness of a storyline.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>93</first-page>
+<last-page>104</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-11</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">‘Norman Rockwell-land’ or ‘Death Capital of Maine’?: Race, Social Status, and Parochialism as Factors in the Perceived ‘Coziness’ of Crime in Reagan-Era Cabot Cove</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.P.</ce:initials>
+<ce:surname>Winburn</ce:surname>
+<ce:given-name>Allysha Powanda</ce:given-name>
+</author>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Winburn</ce:surname>
+<ce:given-name>Mark J.</ce:given-name>
+</author>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>C.E.</ce:initials>
+<ce:surname>Bird</ce:surname>
+<ce:given-name>Cate E.</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter</publishercopyright>
+<ce:para>With a life that spanned nearly a century (b. 1894-d. 1978) and an artistic career that exceeded six decades, artist and illustrator Norman Rockwell was synonymous with the idyllic, late-twentieth-century, New-England-tinged brand of Americana that came to characterize the U.S. television crime drama Murder, She Wrote. While Rockwell's work during the 1960s delved into struggles related to the civil rights movement, his early work did not tackle deep-seated structural racial, economic, or sexual or gender inequities. Instead, the young Rockwell painted idealized portrayals of white Americana filled with nostalgia, humor, and hope. His earlier art reflected a cisgender, heteronormative, overwhelmingly white traditional idealism, and in re-presenting it (sensu Latour, 1987), reproduced and reified it within American culture. Perceived as lighthearted and optimistic, his earlier artwork served as a kind of beacon that even among the turmoil of world wars and economic depressions, all things would ultimately return to normal, and balance would ultimately be restored—albeit a balance tipped in favor of the status quo. This sense of balance, and the feelings of security and ‘coziness’ it produces, is echoed in Murder, She Wrote, which also depicts an idealized, whitewashed world in which disruptions—in this case, homicides and the processes that surround them (including processes of both investigation and grieving)—are resolved and the status quo restored.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>93</first-page>
+<last-page>104</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-11</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">From Murder, She Wrote to La Signora in Giallo Jessica Fletcher as a Pop Culture Icon in Italy</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Casiraghi</ce:surname>
+<ce:given-name>Lucia</ce:given-name>
+</author>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Salmaso</ce:surname>
+<ce:given-name>Nicolò</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter</publishercopyright>
+<ce:para>Originally broadcast in Italy from June 1, 1988, to April 9, 1997, by the state-owned channel RAI 1, Murder, She Wrote rapidly became one of the most successful and iconic television shows in the country. Since its original prime time broadcast, reruns have continued to air and continue today at a specific time slot, Monday–Friday at 1 pm (lunchtime for most Italians), winning over even the newest generations of viewers. In particular and remarkably all this while, the character of Jessica Fletcher has been a real pop culture icon in a country that is culturally very distant from the United States.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>128</first-page>
+<last-page>146</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="34">
+<reference seq="1">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Alina Moradei Interview</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="2007"/>
+<ref-website>
+<ce:e-address type="url">https://www.youtube.com/watch?v=PkZVHtwCkjU</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Alina Moradei Interview, 2007, https://www.youtube.com/watch?v=PkZVHtwCkjU.</ref-fulltext>
+<ce:source-text>Alina Moradei Interview, 2007, https://www.youtube.com/watch?v=PkZVHtwCkjU.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Perception of Dubbing by Italian Audiences</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Rachele</ce:surname>
+<ce:given-name>Antonini</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Chiaro</ce:surname>
+<ce:given-name>Delia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Audiovisual Translation: Language Transfer on Screen</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>97</first-page>
+<last-page>114</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Palgrave Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>Antonini Rachele, and Delia Chiaro. “The Perception of Dubbing by Italian Audiences.” Audiovisual Translation: Language Transfer on Screen, Jorge Díaz Cintas, and Gunilla Anderman, eds., London: Palgrave Macmillan, 2009. 97–114.</ref-fulltext>
+<ce:source-text>Antonini Rachele, and Delia Chiaro. “The Perception of Dubbing by Italian Audiences.” Audiovisual Translation: Language Transfer on Screen, Jorge Díaz Cintas, and Gunilla Anderman, eds., London: Palgrave Macmillan, 2009. 97–114.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Luca</ce:surname>
+<ce:given-name>Barra</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Palinsesto: Storia E Tecnica Della Programmazione Televisiva</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>Rome: Editori Laterza</ref-text>
+</ref-info>
+<ref-fulltext>Barra Luca. Palinsesto: Storia e tecnica della programmazione televisiva. Rome: Editori Laterza, 2015.</ref-fulltext>
+<ce:source-text>Barra Luca. Palinsesto: Storia e tecnica della programmazione televisiva. Rome: Editori Laterza, 2015.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-title>
+<ref-titletext-english>In Search of a Discourse on Aging: The Elderly on Television</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>John</ce:surname>
+<ce:given-name>Bell</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The GerOntologist</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>305</first-page>
+<last-page>311</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bell John. “In Search of a Discourse on Aging: The Elderly on Television.” The Gerontologist 32.3 (1992): 305–311.</ref-fulltext>
+<ce:source-text>Bell John. “In Search of a Discourse on Aging: The Elderly on Television.” The Gerontologist 32.3 (1992): 305–311.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Paul</ce:surname>
+<ce:given-name>Booth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Companion to Media Fandom and Fan Studies</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>Hoboken (NJ): Wiley-Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Booth Paul. A Companion to Media Fandom and Fan Studies. Hoboken (NJ): Wiley-Blackwell, 2018.</ref-fulltext>
+<ce:source-text>Booth Paul. A Companion to Media Fandom and Fan Studies. Hoboken (NJ): Wiley-Blackwell, 2018.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fiori sulla mattonella con l’impronta e la firma Angela Lansbury: Milano commemora La Signora in Giallo</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Filippo M</ce:surname>
+<ce:given-name>Capra</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Fanpage.It</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://www.fanpage.it/milano/fiori-sulla-mattonella-con-limpronta-e-la-firma-angela-lansbury-milano-commemora-la-signora-in-giallo/</ce:e-address>
+</ref-website>
+<ref-text>October 12</ref-text>
+</ref-info>
+<ref-fulltext>Capra Filippo M. “Fiori sulla mattonella con l’impronta e la firma Angela Lansbury: Milano commemora La Signora in Giallo.” Fanpage.it, October 12, 2022, https://www.fanpage.it/milano/fiori-sulla-mattonella-con-limpronta-e-la-firma-angela-lansbury-milano-commemora-la-signora-in-giallo/.</ref-fulltext>
+<ce:source-text>Capra Filippo M. “Fiori sulla mattonella con l’impronta e la firma Angela Lansbury: Milano commemora La Signora in Giallo.” Fanpage.it, October 12, 2022, https://www.fanpage.it/milano/fiori-sulla-mattonella-con-limpronta-e-la-firma-angela-lansbury-milano-commemora-la-signora-in-giallo/.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Alessandro</ce:surname>
+<ce:given-name>Carlucci</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Impact of the English Language in Italy: Linguistic Outcomes And Political Implications</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>Munich: LINCOM GmbH</ref-text>
+</ref-info>
+<ref-fulltext>Carlucci Alessandro. The Impact of the English Language in Italy: Linguistic Outcomes and Political Implications. Munich: LINCOM GmbH, 2018.</ref-fulltext>
+<ce:source-text>Carlucci Alessandro. The Impact of the English Language in Italy: Linguistic Outcomes and Political Implications. Munich: LINCOM GmbH, 2018.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Anthony</ce:surname>
+<ce:given-name>Cristiano</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Atay</ce:surname>
+<ce:given-name>Ahmet</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Millennials and Media Ecology: Culture, Pedagogy, and Politics</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Cristiano Anthony, and Ahmet Atay, eds. Millennials and Media Ecology: Culture, Pedagogy, and Politics. New York: Routledge, 2019.</ref-fulltext>
+<ce:source-text>Cristiano Anthony, and Ahmet Atay, eds. Millennials and Media Ecology: Culture, Pedagogy, and Politics. New York: Routledge, 2019.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Marcel</ce:surname>
+<ce:given-name>Danesi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Memes and the Future of Pop Culture</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Leiden: Brill</ref-text>
+</ref-info>
+<ref-fulltext>Danesi Marcel. Memes and the Future of Pop Culture. Leiden: Brill, 2019.</ref-fulltext>
+<ce:source-text>Danesi Marcel. Memes and the Future of Pop Culture. Leiden: Brill, 2019.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Richard</ce:surname>
+<ce:given-name>Dawkins</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Selfish Gene</ref-sourcetitle>
+<ref-publicationyear first="1976"/>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Dawkins Richard. The Selfish Gene. Oxford: Oxford University Press, 1976.</ref-fulltext>
+<ce:source-text>Dawkins Richard. The Selfish Gene. Oxford: Oxford University Press, 1976.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Chiara Francesca</ce:surname>
+<ce:given-name>Ferrari</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Since When is Fran Drescher Jewish? Dubbing Stereotypes In The Nanny, The Simpsons, and The Sopranos</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Austin (TX): University of Texas Press</ref-text>
+</ref-info>
+<ref-fulltext>Ferrari Chiara Francesca. Since When Is Fran Drescher Jewish? Dubbing Stereotypes in The Nanny, The Simpsons, and The Sopranos. Austin (TX): University of Texas Press, 2010.</ref-fulltext>
+<ce:source-text>Ferrari Chiara Francesca. Since When Is Fran Drescher Jewish? Dubbing Stereotypes inThe Nanny, The Simpsons, and The Sopranos. Austin (TX): University of Texas Press, 2010.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Fischer</ce:surname>
+<ce:given-name>Peter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Murder, She Wrote</ref-sourcetitle>
+<ref-publicationyear first="1984" last="1996"/>
+<ref-text>Producers, Television series, New York: CBS</ref-text>
+</ref-info>
+<ref-fulltext>Fischer Peter S. et al., (Producers). Murder, She Wrote. [Television series]. New York: CBS, 1984–1996.</ref-fulltext>
+<ce:source-text>Fischer Peter S. et al., (Producers). Murder, She Wrote. [Television series]. New York: CBS, 1984–1996.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Growing Old Online</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Fitzgerald</ce:surname>
+<ce:given-name>Helena</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wired.Com</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://www.wired.com/story/growing-old-online/</ce:e-address>
+</ref-website>
+<ref-text>September 25</ref-text>
+</ref-info>
+<ref-fulltext>Fitzgerald Helena. “Growing Old Online”. Wired.com, September 25, 2022, https://www.wired.com/story/growing-old-online/</ref-fulltext>
+<ce:source-text>Fitzgerald Helena. “Growing Old Online”. Wired.com, September 25, 2022, https://www.wired.com/story/growing-old-online/</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-sourcetitle>Goodbye, Dear Mrs. Fletcher!</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://www.youtube.com/watch?v=VFV7DyyL99U.</ce:e-address>
+</ref-website>
+<ref-text>Bumper</ref-text>
+</ref-info>
+<ref-fulltext>“Goodbye, Dear Mrs. Fletcher!” Bumper, 2022, https://www.youtube.com/watch?v=VFV7DyyL99U.</ref-fulltext>
+<ce:source-text>“Goodbye, Dear Mrs. Fletcher!” Bumper, 2022, https://www.youtube.com/watch?v=VFV7DyyL99U.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-sourcetitle>Gran Premio Internazionale Dello Spettacolo.</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-website>
+<ce:e-address type="url">https://it.wikipediaorg/wiki/Gran_Premio_Internazionale_dello_Spettacolo</ce:e-address>
+</ref-website>
+<ref-text>Wikipedia</ref-text>
+</ref-info>
+<ref-fulltext>“Gran Premio Internazionale dello Spettacolo.” Wikipedia, 1999, https://it.wikipediaorg/wiki/Gran_Premio_Internazionale_dello_Spettacolo.</ref-fulltext> <ce:source-text>“Gran Premio Internazionale dello Spettacolo.” Wikipedia, 1999, https://it.wikipediaorg/wiki/Gran_Premio_Internazionale_dello_Spettacolo.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Feminism Comes of Age on Television: The Portrayals of Empowered Older Women from Murder, She Wrote to Damages.”</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Hant</ce:surname>
+<ce:given-name>Myrnaa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Taboo: The Journal Of Culture and Education Culture and Education</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>5</first-page>
+<last-page>19</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hant, Myrna A. “Feminism Comes of Age on Television: The Portrayals of Empowered Older Women from Murder, She Wrote to Damages.” Taboo: The Journal Of Culture and Education Culture and Education 14.1 (2014): 5–19</ref-fulltext>
+<ce:source-text>Hant, Myrna A. “Feminism Comes of Age on Television: The Portrayals of Empowered Older Women from Murder, She Wrote to Damages.” Taboo: The Journal Of Culture and Education Culture and Education 14.1 (2014): 5–19</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Double Whammy Making Italy the West's Fastest-Shrinking Nation.</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Horowitz</ce:surname>
+<ce:given-name>Jason</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The New York Times</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">https://www.nytimes.com/2023/01/30/world/europe/italy-birthrate.html</ce:e-address>
+</ref-website>
+<ref-text>January 30</ref-text>
+</ref-info>
+<ref-fulltext>Horowitz, Jason. “The Double Whammy Making Italy the West’s Fastest-Shrinking Nation.” The New York Times, January 30, 2023, https://www.nytimes.com/2023/01/30/world/europe/italy-birthrate.html</ref-fulltext>
+<ce:source-text>Horowitz, Jason. “The Double Whammy Making Italy the West’s Fastest-Shrinking Nation.” The New York Times, January 30, 2023, https://www.nytimes.com/2023/01/30/world/europe/italy-birthrate.html</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Il teatropostaggio da un milione di dollari</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Performing Arts Research Center</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://parcfirenze.net/il-teatropostaggio-da-un-milione-di-dollari-residenza/</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>“Il teatropostaggio da un milione di dollari”. Performing Arts Research Center, 2022, https://parcfirenze.net/il-teatropostaggio-da-un-milione-di-dollari-residenza/</ref-fulltext>
+<ce:source-text>“Il teatropostaggio da un milione di dollari”. Performing Arts Research Center, 2022, https://parcfirenze.net/il-teatropostaggio-da-un-milione-di-dollari-residenza/</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Jenkins</ce:surname>
+<ce:given-name>Henry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Confronting the Challenges of Participatory Culture: Media Education</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Cambridge (MA): MIT Press</ref-text>
+</ref-info>
+<ref-fulltext>Jenkins, Henry. Confronting the Challenges of Participatory Culture: Media Education for the 21st Century. Cambridge (MA): MIT Press, 2009.</ref-fulltext>
+<ce:source-text>Jenkins, Henry. Confronting the Challenges of Participatory Culture: Media Education for the 21st Century. Cambridge (MA): MIT Press, 2009.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>La Signora in Giallo</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Il Mondo Dei Doppiatori</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https://www.antoniogenna.net/doppiaggio/telefilm/lasignoraingiallo.htm</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>“La Signora in Giallo.” Il mondo dei doppiatori, 2024, https://www.antoniogenna.net/doppiaggio/telefilm/lasignoraingiallo.htm</ref-fulltext>
+<ce:source-text>“La Signora in Giallo.” Il mondo dei doppiatori, 2024, https://www.antoniogenna.net/doppiaggio/telefilm/lasignoraingiallo.htm</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Scarpellini</ce:surname>
+<ce:given-name>Matteo</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Angela Lansbury Wins a Telegatto for Murder, She Wrote</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-website>
+<ce:e-address type="url">https://www.youtube.com/watch?v=zdOF9DlNcJU</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Matteo Scarpellini. Angela Lansbury Wins a Telegatto for Murder, She Wrote (1999),2021, https://www.youtube.com/watch?v=zdOF9DlNcJU.</ref-fulltext>
+<ce:source-text>Matteo Scarpellini. Angela Lansbury Wins a Telegatto for Murder, She Wrote (1999),2021, https://www.youtube.com/watch?v=zdOF9DlNcJU.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>McCulloch</ce:surname>
+<ce:given-name>Gretchen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Because Internet: Understanding the New Rules of Language</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>New York: Riverhead Books</ref-text>
+</ref-info>
+<ref-fulltext>McCulloch, Gretchen. Because Internet: Understanding the New Rules of Language. New York: Riverhead Books, 2019.</ref-fulltext>
+<ce:source-text>McCulloch, Gretchen. Because Internet: Understanding the New Rules of Language. New York: Riverhead Books, 2019.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Memissima 2022</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Artribune</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://www.artribune.com/mostre-evento-arte/memissima-2022/</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>“Memissima 2022.” Artribune, 2022, https://www.artribune.com/mostre-evento-arte/memissima-2022/.</ref-fulltext>
+<ce:source-text>“Memissima 2022.” Artribune, 2022, https://www.artribune.com/mostre-evento-arte/memissima-2022/.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Internet Memes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.M.</ce:initials>
+<ce:surname>Miltner</ce:surname>
+<ce:given-name>Kate M</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The SAGE Handbook of Social Media</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>London: SAGE Publications</ref-text>
+</ref-info>
+<ref-fulltext>Miltner, Kate M. “Internet Memes.” The SAGE Handbook of Social Media, Jean Burgess, Alice Marwick, and Thomas Poell, eds., London: SAGE Publications, 2017, 412–428.</ref-fulltext>
+<ce:source-text>Miltner, Kate M. “Internet Memes.” The SAGE Handbook of Social Media, Jean Burgess, Alice Marwick, and Thomas Poell, eds., London: SAGE Publications, 2017, 412–428.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Monteleone</ce:surname>
+<ce:given-name>Franco</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Storia Della Radio E Della Televisione in Italia: Costume, società e Politica</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>Milan: Feltrinelli Editore</ref-text>
+</ref-info>
+<ref-fulltext>Monteleone, Franco. Storia della radio e della televisione in Italia: Costume, società e Politica. Milan: Feltrinelli Editore, 2021.</ref-fulltext>
+<ce:source-text>Monteleone, Franco. Storia della radio e della televisione in Italia: Costume, società e Politica. Milan: Feltrinelli Editore, 2021.</ce:source-text>
+</reference> 
+<reference seq="26">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Instagram Memers Are Performing in Sold-Out Live Shows</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Montgomery</ce:surname>
+<ce:given-name>Blake</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>GizModo.Com</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">, https://gizmodo.com/instagram-memes-wikipedia-sold-out-live-shows-1850040438</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Montgomery, Blake. “Instagram Memers Are Performing in Sold-Out Live Shows.” GizModo.Com, February 3, 2023, https://gizmodo.com/instagram-memes-wikipedia-sold-out-live-shows-1850040438</ref-fulltext>
+<ce:source-text>Montgomery, Blake. “Instagram Memers Are Performing in Sold-Out Live Shows.” GizModo.Com, February 3, 2023, https://gizmodo.com/instagram-memes-wikipedia-sold-out-live-shows-1850040438</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Palumbo</ce:surname>
+<ce:given-name>Giuseppe</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Key Terms in Translation Studies</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>London: Continuum</ref-text>
+</ref-info>
+<ref-fulltext>Palumbo, Giuseppe. Key Terms in Translation Studies. London: Continuum, 2009.</ref-fulltext>
+<ce:source-text>Palumbo, Giuseppe. Key Terms in Translation Studies. London: Continuum, 2009.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Usi Del Turpiloquio Nella Traduzione Filmica.”</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Pavesi</ce:surname>
+<ce:given-name>Maria</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.L.</ce:initials>
+<ce:surname>Malinverno</ce:surname>
+<ce:given-name>Anna Lisa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tradurre Il Cinema: Atti Del Convegno Organizzato Da G. Soria E C. Taylor, 29-30 Novembre 1996</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>75</first-page>
+<last-page>90</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Christopher Taylor, ed., Trieste: University of Trieste</ref-text>
+</ref-info>
+<ref-fulltext>Pavesi, Maria, and Anna Lisa Malinverno. “Usi del turpiloquio nella traduzione filmica.” Tradurre Il Cinema: Atti Del Convegno Organizzato Da G. Soria E C. Taylor, 29-30 Novembre 1996 Christopher Taylor, ed., Trieste: University of Trieste, 2000, 75–90.</ref-fulltext>
+<ce:source-text>Pavesi, Maria, and Anna Lisa Malinverno. “Usi del turpiloquio nella traduzione filmica.” Tradurre Il Cinema: Atti Del Convegno Organizzato Da G. Soria E C. Taylor, 29-30 Novembre 1996 Christopher Taylor, ed., Trieste: University of Trieste, 2000, 75–90.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Perego</ce:surname>
+<ce:given-name>Elisa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>La Traduzione Audiovisiva</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>Rome: Carocci Editore</ref-text>
+</ref-info>
+<ref-fulltext>Perego, Elisa. La traduzione audiovisiva. Rome: Carocci Editore, 2005.</ref-fulltext>
+<ce:source-text>Perego, Elisa. La traduzione audiovisiva. Rome: Carocci Editore, 2005.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Italy and the USA: Cultural Change through Language and Nar</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Pulcini</ce:surname>
+<ce:given-name>Virginia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The English Language and Anglo-American Culture in Twentieth-Century Italy</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>31</first-page>
+<last-page>46</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Legenda</ref-text>
+</ref-info>
+<ref-fulltext>The English Language and Anglo-American Culture in Twentieth-Century Italy" Italy and the USA: Cultural Change through Language and Narrative, Guido Bonsaver, Alessandro Carlucci, and Matthew Reza, eds., Oxford: Legenda, 2019, 31–46.</ref-fulltext>
+<ce:source-text>Pulcini, Virginia. “The English Language and Anglo-American Culture in Twentieth-Century Italy" Italy and the USA: Cultural Change through Language and Narrative, Guido Bonsaver, Alessandro Carlucci, and Matthew Reza, eds., Oxford: Legenda, 2019, 31–46.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Sacconi</ce:surname>
+<ce:given-name>Susanna</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>How the Nanny has Become La Tata: Analysis of an Audiovisual Translation Product</ref-sourcetitle>
+<ref-publicationyear first="2012" last="2013"/>
+<ref-website>
+<ce:e-address type="url">https://thesis.unipdit/handle/20.500.12608/16543</ce:e-address>
+</ref-website>
+<ref-text>Diss. University of Padua</ref-text>
+</ref-info>
+<ref-fulltext>Sacconi, Susanna. How The Nanny Has Become La Tata: Analysis of an Audiovisual Translation Product. Diss. University of Padua 2012/2013. https://thesis.unipdit/handle/20.500.12608/16543</ref-fulltext>
+<ce:source-text>Sacconi, Susanna. How The Nanny Has Become La Tata: Analysis of an Audiovisual Translation Product. Diss. University of Padua 2012/2013. https://thesis.unipdit/handle/20.500.12608/16543</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Memes in a Digital World: Reconciling with a Conceptual Troublemaker.”</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Shifman</ce:surname>
+<ce:given-name>Limor</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Computer-Mediated Communication</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>362</first-page>
+<last-page>377</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Shifman, Limor. “Memes in a Digital World: Reconciling with a Conceptual Troublemaker.” Journal of Computer-Mediated Communication 18.3 (2013a): 362–377.</ref-fulltext>
+<ce:source-text>Shifman, Limor. “Memes in a Digital World: Reconciling with a Conceptual Troublemaker.” Journal of Computer-Mediated Communication 18.3 (2013a): 362–377.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Shifman</ce:surname>
+<ce:given-name>Limor</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Memes in Digital Culture</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>Cambridge (MA): MIT Press</ref-text>
+</ref-info>
+<ref-fulltext>Shifman, Limor. Memes in Digital Culture. Cambridge (MA): MIT Press, 2013b.</ref-fulltext>
+<ce:source-text>Shifman, Limor. Memes in Digital Culture. Cambridge (MA): MIT Press, 2013b.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.E.</ce:initials>
+<ce:surname>Wiggins</ce:surname>
+<ce:given-name>Bradley E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Discursive Power of Memes in Digital Culture: Ideology, Semiotics, and Intertextuality</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Wiggins, Bradley E. The Discursive Power of Memes in Digital Culture: Ideology, Semiotics, and Intertextuality. New York: Routledge, 2020</ref-fulltext>
+<ce:source-text>Wiggins, Bradley E. The Discursive Power of Memes in Digital Culture: Ideology, Semiotics, and Intertextuality. New York: Routledge, 2020</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-11</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">‘Now, Am I Imagining Things, or Isn’t that a Little Fairy Person There in among the Flowers?’: Constructions of ‘Ireland’ in Murder, She Wrote</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Burke</ce:surname>
+<ce:given-name>Eva</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter</publishercopyright>
+<ce:para>The links between Murder, She Wrote and Ireland are well established. Several episodes of the show, including ‘The Wind Around the Tower’ (1992) and ‘A Killing in Cork’ (1993), feature protagonist Jessica Fletcher visiting Ireland, and actress Angela Lansbury has owned a home in County Cork since the late 1960s. The show is popular in Ireland to this day, with episodes broadcast daily via Sky TV. This chapter will explore why a show about a retired mystery writer solving crimes in rural Maine remains so popular in Ireland, particularly in light of its depiction of Ireland as something more akin to De Valera's notorious midcentury ideal of a land of saints and scholars (and stereotypes) than an authentic depiction of the nation. It is also worth noting that according to crime fiction scholar Brian Cliff (2018), Irish readers and writers of crime fiction have traditionally betrayed a generic distrust of structures of legal authority, particularly structures inherited from British colonial rule. Interestingly, Cliff identifies the ‘cosy village mystery’ (which Murder, She Wrote embodies) as a subgenre of crime fiction, which has not taken root in contemporary Irish crime fiction.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>147</first-page>
+<last-page>155</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-11</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">“Agatha Christie’s Ghost May Strike You Dead!”
+Murder, She Wrote and an Agatha Christie Sense of Murder</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Aldridge</ce:surname>
+<ce:given-name>Mark</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter</publishercopyright>
+<ce:para>It is no secret that Murder, She Wrote owes some debt to the world of Agatha Christie. In fact, in the early years of the show, the connection was sometimes touted as a selling point to both network executives and the (potential) viewing public before the series was able to establish its own identity more firmly. This chapter explores the connections between Christie's work and Murder, She Wrote, paying particular attention to the first season of the show (1984–1985). This formative season saw the programme turn its hand to several approaches to murder mysteries, some of which would not be revisited after this first run, while it honed a formula that would enable its ongoing international success. To explore the ways in which the programme both used and reworked the works of Agatha Christie, I will first need to establish the important production influences that earlier Christie-related projects had on the creation of Murder, She Wrote, as well as Christie's character Miss Marple. Then, I will look at the way that some of Christie's best-known tropes and tricks were used by the programme, paying particular attention to the ways that it transformed some of these ideas and approaches to make them suitable for American network television. While the use of the word “tropes” may imply that Christie offered repetitive and highly formulaic stories, this was not the case, even if we may recognise some of the devices that she re-used and helped to establish as classic scenarios of the crime fiction genre. However, Christie also played with the mystery form, and this chapter will also consider how this is reflected in these early episodes, before finally looking at how the series managed to forge its own identity.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>159</first-page>
+<last-page>170</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="38">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Agatha Christie on Screen</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Aldridge</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>All in the Family</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>Basingstoke: Palgrave Macmillan.[Television] CBS</ref-text>
+</ref-info>
+<ref-fulltext>Aldridge, M. (2016) Agatha Christie on Screen. Basingstoke: Palgrave Macmillan.
+All in the Family (1971-9) [Television] CBS</ref-fulltext>
+<ce:source-text>Aldridge, M. (2016) Agatha Christie on Screen. Basingstoke: Palgrave Macmillan.
+All in the Family (1971-9) [Television] CBS</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Fitting End: The Country House, Agatha Christie, and Dead Man’s Folly</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Barnett</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Clues: A Journal of Detection</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>34</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>63</first-page>
+<last-page>71</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>(Spring 2016)</ref-text>
+</ref-info>
+<ref-fulltext>Barnett, S. (2016) “A Fitting End: The Country House, Agatha Christie, and Dead Man’s Folly”, Clues: A Journal of Detection, Vol. 34, Issue 1 (Spring 2016), pp. 63–71.</ref-fulltext>
+<ce:source-text>Barnett, S. (2016) “A Fitting End: The Country House, Agatha Christie, and Dead Man’s Folly”, Clues: A Journal of Detection, Vol. 34, Issue 1 (Spring 2016), pp. 63–71.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Bernthal</ce:surname>
+<ce:given-name>J.C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Agatha Christie: A Companion to the Mystery Fiction</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-text>efferson: McFarland.</ref-text>
+</ref-info>
+<ref-fulltext>Bernthal, J.C. (2022) Agatha Christie: A Companion to the Mystery Fiction. Jefferson: McFarland.</ref-fulltext>
+<ce:source-text>Bernthal, J.C. (2022) Agatha Christie: A Companion to the Mystery Fiction. Jefferson: McFarland.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.W.</ce:initials>
+<ce:surname>Bonanno</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Angela Lansbury: A Biography</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<ref-text>New York: St. Martin’s Press</ref-text>
+</ref-info>
+<ref-fulltext>Bonanno, M.W. (1987) Angela Lansbury: A Biography. New York: St. Martin’s Press.</ref-fulltext>
+<ce:source-text>Bonanno, M.W. (1987) Angela Lansbury: A Biography. New York: St. Martin’s Press.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Caribbean Mystery</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>CBS/Warner Bros.</ref-sourcetitle>
+<ref-publicationyear first="1983"/>
+</ref-info>
+<ref-fulltext>A Caribbean Mystery (1983) [Television] CBS/Warner Bros.</ref-fulltext>
+<ce:source-text>A Caribbean Mystery (1983) [Television] CBS/Warner Bros.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Mysterious Affair at Styles</ref-sourcetitle>
+<ref-publicationyear first="1921"/>
+<ref-text>The Bodley Head. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1921) The Mysterious Affair at Styles. London: The Bodley Head. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1921) The Mysterious Affair at Styles. London: The Bodley Head. [British book publications]</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Murder of Roger Ackroyd</ref-sourcetitle>
+<ref-publicationyear first="1926"/>
+<ref-text>London: The Bodley Head. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1926) The Murder of Roger Ackroyd. London: The Bodley Head. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1926) The Murder of Roger Ackroyd. London: The Bodley Head. [British book publications]</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Murder at the Vicarage</ref-sourcetitle>
+<ref-publicationyear first="1930"/>
+</ref-info>
+<ref-fulltext>Christie, A. (1930) The Murder at the Vicarage. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1930) The Murder at the Vicarage. London: Collins Crime Club. [British book publications]</ce:source-text>
+
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“The Tuesday Night Club”, in</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Thirteen Problems.</ref-sourcetitle>
+<ref-publicationyear first="1932"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>9</first-page>
+<last-page>24</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Collins Crime Club,[British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1932) “The Tuesday Night Club”, in The Thirteen Problems. London: Collins Crime Club, pp. 9–24. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1932) “The Tuesday Night Club”, in The Thirteen Problems. London: Collins Crime Club, pp. 9–24. [British book publications]</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Murder on the Orient Express. London:</ref-sourcetitle>
+<ref-publicationyear first="1934"/>
+<ref-text>Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1934) Murder on the Orient Express. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1934) Murder on the Orient Express. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Death on the Nile.</ref-sourcetitle>
+<ref-publicationyear first="1937"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1937) Death on the Nile. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1937) Death on the Nile. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dumb Witness.</ref-sourcetitle>
+<ref-publicationyear first="1937"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1937) Dumb Witness. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1937) Dumb Witness. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Hercule Poirot’s Christmas.</ref-sourcetitle>
+<ref-publicationyear first="1938"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1938) Hercule Poirot’s Christmas. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1938) Hercule Poirot’s Christmas. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>And Then There Were None</ref-sourcetitle>
+<ref-publicationyear first="1939"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1939) And Then There Were None. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1939) And Then There Were None. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Hollow.</ref-sourcetitle>
+<ref-publicationyear first="1946"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1946) The Hollow. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1946) The Hollow. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Pocket Full of Rye.</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1953) A Pocket Full of Rye. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1953) A Pocket Full of Rye. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Mirror Crack’d from Side to Side.</ref-sourcetitle>
+<ref-publicationyear first="1962"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1962) The Mirror Crack’d from Side to Side. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1962) The Mirror Crack’d from Side to Side. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Caribbean Mystery.</ref-sourcetitle>
+<ref-publicationyear first="1964"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1964) A Caribbean Mystery. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1964) A Caribbean Mystery. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Endless Night.</ref-sourcetitle>
+<ref-publicationyear first="1967"/>
+<ref-text>London: Collins Crime Club. [British book publications]</ref-text>
+</ref-info>
+<ref-fulltext>Christie, A. (1967) Endless Night. London: Collins Crime Club. [British book publications]</ref-fulltext>
+<ce:source-text>Christie, A. (1967) Endless Night. London: Collins Crime Club. [British book publications]</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Adventure of Silver Blaze</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Conan Doyle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Memoirs of Sherlock Holmes</ref-sourcetitle>
+<ref-publicationyear first="1893"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>28</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: G. Newnes Ltd</ref-text>
+</ref-info>
+<ref-fulltext>Conan Doyle, A. (1893) “The Adventure of Silver Blaze”, in The Memoirs of Sherlock Holmes. London: G. Newnes Ltd, pp. 1–28.</ref-fulltext>
+<ce:source-text>Conan Doyle, A. (1893) “The Adventure of Silver Blaze”, in The Memoirs of Sherlock Holmes. London: G. Newnes Ltd, pp. 1–28.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Genre in Transition: Agatha Christie, Trains, and the Whodunit</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Ewers</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>JNT: Journal of Narrative Theory</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>46</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>97</first-page>
+<last-page>120</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ewers, C.
+(2016) “Genre in Transition: Agatha Christie, Trains, and the Whodunit”, JNT: Journal of Narrative Theory, Vol. 46, Issue 1 (Winter 2016), pp. 97–120.</ref-fulltext>
+<ce:source-text>Ewers, C.
+(2016) “Genre in Transition: Agatha Christie, Trains, and the Whodunit”, JNT: Journal of Narrative Theory, Vol. 46, Issue 1 (Winter 2016), pp. 97–120.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Angela Lansbury Seeks Series</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Farber</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>14</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Farber, S. (1984) “Angela Lansbury Seeks Series”, New York Times, 30 April 1984, p. 14.</ref-fulltext>
+<ce:source-text>Farber, S. (1984) “Angela Lansbury Seeks Series”, New York Times, 30 April 1984, p. 14.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Me and Murder, She Wrote.</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.D.</ce:initials>
+<ce:surname>Fischer</ce:surname>
+<ce:given-name>P.D.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Grove Point Press</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>California: Grove Point Press</ref-text>
+</ref-info>
+<ref-fulltext>Fischer, P.D. (2013) Me and Murder, She Wrote. California: Grove Point Press</ref-fulltext>
+<ce:source-text>Series”, New York Times, 30 April 1984, p. 14. Fischer, P.D. (2013) Me and Murder, She Wrote. California: Grove Point Press</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Detecting Women: Gender and the Hollywood Detective Film</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Gates</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Detecting Women: Gender and the Hollywood Detective Film.</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Albany: State University of New York Press.</ref-text>
+</ref-info>
+<ref-fulltext>Gates, P. (2011) Detecting Women: Gender and the Hollywood Detective Film. Albany: State University of New York Press.</ref-fulltext>
+<ce:source-text>Gates, P. (2011) Detecting Women: Gender and the Hollywood Detective Film. Albany: State University of New York Press.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Gottfried</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Balancing Act: The Authorised Biography of Angela Lansbury</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>New York: Little, Brown and Company</ref-text>
+</ref-info>
+<ref-fulltext>Gottfried, M. (1999) Balancing Act: The Authorised Biography of Angela Lansbury. New York: Little, Brown and Company</ref-fulltext>
+<ce:source-text>Gottfried, M. (1999) Balancing Act: The Authorised Biography of Angela Lansbury. New York: Little, Brown and Company</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Kleiser</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Grease</ref-sourcetitle>
+<ref-publicationyear first="1978"/>
+<ref-text>[Film] dir. Randal Kleiser.</ref-text>
+</ref-info>
+<ref-fulltext>Grease (1978) [Film] dir. Randal Kleiser.</ref-fulltext>
+<ce:source-text>Grease (1978) [Film] dir. Randal Kleiser.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Hammerton</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>She Cooked: A Cabot Cove Cookbook.</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-text>London: Inde- pendently published.</ref-text>
+</ref-info>
+<ref-fulltext>Hammerton, J. (2022) Murder, She Cooked: A Cabot Cove Cookbook. London: Inde- pendently published.</ref-fulltext>
+<ce:source-text>Hammerton, J. (2022) Murder, She Cooked: A Cabot Cove Cookbook. London: Inde- pendently published.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Interview with Angela Lansbury.</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Mirror Crack’d</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Blu-ray, UK: StudioCanal.</ref-text>
+</ref-info>
+<ref-fulltext>“Interview with Angela Lansbury” (2017) The Mirror Crack’d [Blu-ray], UK: StudioCanal.</ref-fulltext>
+<ce:source-text>“Interview with Angela Lansbury” (2017) The Mirror Crack’d [Blu-ray], UK: StudioCanal.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“From Spinster to Hipster: The ‘Suitability’ of Miss Marple and Anna Lee”, in </ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Irons</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Warthling Roberts</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Feminism in Women’s Detective Fic- tion.</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>64</first-page>
+<last-page>75</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Toronto: University of Toronto Press</ref-text>
+</ref-info>
+<ref-fulltext>Irons, G. &amp; Warthling Roberts, J. (1995) “From Spinster to Hipster: The ‘Suitability’ of Miss Marple and Anna Lee”, in Irons, G. (ed.) Feminism in Women’s Detective Fic- tion. Toronto: University of Toronto Press, pp. 64–75.</ref-fulltext>
+<ce:source-text>Irons, G. &amp; Warthling Roberts, J. (1995) “From Spinster to Hipster: The ‘Suitability’ of Miss Marple and Anna Lee”, in Irons, G. (ed.) Feminism in Women’s Detective Fic- tion. Toronto: University of Toronto Press, pp. 64–75.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.D.</ce:initials>
+<ce:surname>Maida</ce:surname>
+<ce:given-name>P.D.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.B..</ce:initials>
+<ce:surname>Spornick</ce:surname>
+<ce:given-name>N.B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Murder She Wrote: A Study of Agatha Christie’s Detective Fiction.</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<ref-text>Ohio: Bowling Green State University Popular Press.</ref-text>
+</ref-info>
+<ref-fulltext>Maida, P.D. &amp; Spornick, N.B. (1982) Murder She Wrote: A Study of Agatha Christie’s Detective Fiction. Ohio: Bowling Green State University Popular Press.</ref-fulltext>
+<ce:source-text>Maida, P.D. &amp; Spornick, N.B. (1982) Murder She Wrote: A Study of Agatha Christie’s Detective Fiction. Ohio: Bowling Green State University Popular Press.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.I.</ce:initials>
+<ce:surname>Magnum</ce:surname>
+<ce:given-name>P.I.</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1980"/>
+<ref-text>[Television] CBS</ref-text>
+</ref-info>
+<ref-fulltext>Magnum, P.I. (1980–8) [Television] CBS.</ref-fulltext>
+<ce:source-text>Magnum, P.I. (1980–8) [Television] CBS.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-title>
+<ref-titletext-english>EMI Films. </ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>The Mirror Crack’d.</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="1980"/>
+<ref-text>Directed by Guy Hamilton.</ref-text>
+</ref-info>
+<ref-fulltext>The Mirror Crack’d. (1980) EMI Films. Directed by Guy Hamilton.</ref-fulltext>
+<ce:source-text>The Mirror Crack’d. (1980) EMI Films. Directed by Guy Hamilton.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Murder, She Wrote</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="1984" last="1996"/>
+<ref-text>Television CBS</ref-text>
+</ref-info>
+<ref-fulltext>Murder, She Wrote (1984-1996) [Television] CBS</ref-fulltext>
+<ce:source-text>Murder, She Wrote (1984-1996) [Television] CBS</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.R.</ce:initials>
+<ce:surname>Parish</ce:surname>
+<ce:given-name>J.R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Unofficial Murder, She Wrote Casebook</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<ref-text>New York: Kensington Books</ref-text>
+</ref-info>
+<ref-fulltext>Parish, J.R. (1997). The Unofficial Murder, She Wrote Casebook. New York: Kensington Books</ref-fulltext>
+<ce:source-text>Parish, J.R. (1997). The Unofficial Murder, She Wrote Casebook. New York: Kensington Books</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Shaw</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Vanacker</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reflecting on Miss MarpleReflecting on Miss Marple</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<ref-text>London: Routledge.</ref-text>
+</ref-info>
+<ref-fulltext>Shaw, M &amp; Vanacker, S. (1991) Reflecting on Miss Marple. London: Routledge.</ref-fulltext>
+<ce:source-text>Shaw, M &amp; Vanacker, S. (1991) Reflecting on Miss Marple. London: Routledge.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Simon &amp; Simon</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="1981"/>
+<ref-text>[Television] CBS.</ref-text>
+</ref-info>
+<ref-fulltext>Simon &amp; Simon (1981–9) [Television] CBS.</ref-fulltext>
+<ce:source-text>Simon &amp; Simon (1981–9) [Television] CBS.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“‘Tea and scandal at four-thirty’: Fantasies of Englishness and Agatha Christie’s Fiction of the 1930s and 1940s”</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Yiannitsaros</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Clues: A Journal of Detection</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+</ref-info>
+<ref-fulltext>Yiannitsaros, C. (2017) “‘Tea and scandal at four-thirty’: Fantasies of Englishness and Agatha Christie’s Fiction of the 1930s and 1940s”, Clues: A Journal of Detection, Vol. 35, Issue 2 (Fall 2017), pp. 78–88.</ref-fulltext>
+<ce:source-text>Yiannitsaros, C. (2017) “‘Tea and scandal at four-thirty’: Fantasies of Englishness and Agatha Christie’s Fiction of the 1930s and 1940s”, Clues: A Journal of Detection, Vol. 35, Issue 2 (Fall 2017), pp. 78–88.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.A.</ce:initials>
+<ce:surname>York</ce:surname>
+<ce:given-name>R.A</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Agatha Christie: Power and Illusion</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-text>Basingstoke: Palgrave Macmillan.</ref-text>
+</ref-info>
+<ref-fulltext>York, R.A. (2007). Agatha Christie: Power and Illusion. Basingstoke: Palgrave Macmillan.</ref-fulltext>
+<ce:source-text>York, R.A. (2007). Agatha Christie: Power and Illusion. Basingstoke: Palgrave Macmillan.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-11</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Death in Plastic: A Ludonarrative Analysis of Murder, She Wrote: The Game and Murder on Madison Avenue</titletext> </citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Arnaudo</ce:surname>
+<ce:given-name>Marco</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter</publishercopyright>
+<ce:para>An influential 2009 article by Hocking introduced the term “ludonarrative” to the field of game studies, and it gave scholars the impulse to interrogate the intersections of gamic and narrative functions within a playable artifact. In Hocking's article, the ludonarrative approach uncovered a dissonance in the video game Bioshock “between what it is about as a story, and what it is about as a game” (255). On the other hand, the ludonarrative approach can equally be employed to describe or promote expressive harmony “as a synchronization between mechanics and narrative that create a consistent and realized experience of story” (Despain – Ash 1).</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>171</first-page>
+<last-page>184</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.4324/9781003438632-11</ce:doi>
+<itemid idtype="TPB-ID">20252000060185</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Re-watching Murder, She Wrote: An Auto-Ethnographic Exploration of Queer Fandom and Race</titletext> 
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Trivedi</ce:surname>
+<ce:given-name>Nina</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 selection and editorial matter</publishercopyright>
+<ce:para>I formed a ritual of comfort watching televised reruns of Murder, She Wrote while writing my Ph.D., an endeavour characterised by extensive periods of quiet anxiety and solitary writing. Time spent at home writing was punctuated by breaks dedicated to the comfort of viewing this program. Murder, She Wrote reruns throughout the day, and afternoon afforded me the opportunity to strategically schedule my writing breaks. The act of comfort watching served as a source of reassurance during this time in my life. The television shows or films that we repetitively watch stand steadfastly by our side, offering a crucial respite from the real world, and supply us with a much-needed infusion of joy. Engaging in the act of “comfort viewing,” a practice often synonymous with the terms “comfort show” or “comfort movie,” can provide us with a profound sense of solace and can help to alleviate anxiety. Willens (2013), as underscored by Wheeler (2015), referred to the communal aspect of binge-watching, highlighting the concept of “binge-bonding” to articulate the para-social interactions formed when viewing our favourite television programmes. This term encapsulates the phenomenon whereby the emotional responses engendered by such viewing experiences, are extended to, and built upon by interactions with colleagues and/or friends.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Reassessing Murder, She Wrote: The Afterlives of a Popular Culture Phenomenon</sourcetitle>
+<sourcetitle-abbrev>Reassessing murd., She Wrote: The Afterlives of a pop. Culture phenom.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781003438632</isbn>
+<isbn type="electronic" length="13">9781040325926</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>185</first-page>
+<last-page>197</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>18</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/edit/10.4324/9781003438632</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>
