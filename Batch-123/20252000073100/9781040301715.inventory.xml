@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Comments></Comments>
+    <Selected_for_coverage_YorN>Y</Selected_for_coverage_YorN>
+    <ASJC1>3300</ASJC1>
+    <ASJC2>1200</ASJC2>
+    <Book_Language>ENG</Book_Language>
+    <Book_Title>Transnational Asylum: Toward a Principled Framework</Book_Title>
+    <Publisher_Name>Taylor &amp; Francis</Publisher_Name>
+    <Publisher_Year>2025-03-19T00:00:00</Publisher_Year>
+    <ISBN13>9781040301722; 9781003463146; 9781032732190; 9781032732152</ISBN13>
+    <E-ISBN13>9781040301715</E-ISBN13>
+    <Audience_Type>05</Audience_Type>
+    <Product_Selection>Scopus</Product_Selection>
+  </record>
+</Inventory>
