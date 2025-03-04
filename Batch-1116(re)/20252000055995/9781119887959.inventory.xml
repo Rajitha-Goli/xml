@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Comments></Comments>
+    <Selected_for_coverage_YorN>Y</Selected_for_coverage_YorN>
+    <ASJC1>1700</ASJC1>
+    <ASJC2>2200</ASJC2>
+    <ASJC3>3300</ASJC3>
+    <Book_Language>ENG</Book_Language>
+    <Book_Title>Perceptions and Analysis of Digital Risks</Book_Title>
+    <Publisher_Name>Wiley</Publisher_Name>
+    <Publisher_Year>2021-12-17T00:00:00</Publisher_Year>
+    <ISBN13>9781786307446; 9781119887942; 9781119887935</ISBN13>
+    <E-ISBN13>9781119887959</E-ISBN13>
+    <Product_Selection>Scopus</Product_Selection>
+  </record>
+</Inventory>
