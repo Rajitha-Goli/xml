@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-28T17:40:09</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119200802</ce:doi>
+<itemid idtype="TPB-ID">20252000058707</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">The New Edge in Knowledge: How Knowledge Management Is Changing the Way We Do Business</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:degrees>Dr.</ce:degrees>
+<ce:surname>Carla</ce:surname>
+<ce:given-name>O'Dell</ce:given-name>
+</author>
+<affiliation>
+<organization>APQC</organization>
+<country iso-code="USA"/>
+<ce:source-text>Dr. Carla O ’ Dell is president of APQC and is considered one of the world’s leading experts in knowledge management.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Hubert</ce:surname>
+<ce:given-name>Cindy</ce:given-name>
+</author>
+<affiliation>
+<organization>APQC</organization>
+<country iso-code="USA"/>
+<ce:source-text>Cindy Hubert is the executive director of APQC ’s Advisory Services, which provides individualized and collaborative approaches to solve business problems and address strategic needs.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>C.</ce:initials>
+<ce:surname>O'Dell</ce:surname>
+<ce:given-name>Carla</ce:given-name>
+</person>
+<affiliation>
+<organization>APQC</organization>
+<country iso-code="USA"/>
+<ce:source-text>Dr. Carla O ’ Dell is president of APQC and is considered one of the world’s leading experts in knowledge management.</ce:source-text>
+</affiliation>
+</correspondence>
+<correspondence>
+<person>
+<ce:initials>C.</ce:initials>
+<ce:surname>Hubert</ce:surname>
+<ce:given-name>Cindy</ce:given-name>
+</person>
+<affiliation>
+<organization>APQC</organization>
+<country iso-code="USA"/>
+<ce:source-text>Cindy Hubert is the executive director of APQC ’s Advisory Services, which provides individualized and collaborative approaches to solve business problems and address strategic needs.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2011 by American Productivity &amp; Quality Center. All rights reserved</publishercopyright>
+<ce:para>The best thinking and actions in the fast-moving arena of collaboration and knowledge management The New Edge in Knowledge captures the most practical and innovative practices to ensure organizations have the knowledge they need in the future and, more importantly, the ability to connect the dots and use knowledge to succeed today. Build or retrofit your organization for new ways of working and collaboration by using knowledge management Adapt to today's most popular ways to collaborate such as social networking Overcome organization silos, knowledge hoarding and "not invented here" resistance Take advantage of emerging technologies and mobile devices to build networks and share knowledge Identify what can be learned from Facebook, Twitter, Google and Amazon to make firms and people smarter, stronger and faster Straightforward and easy-to-follow, this is the resource you'll turn to again and again to get-and stay-in the know. Plus, the book is filled with real-world examples – the case studies and snapshots of how best practice companies are achieving success with knowledge management.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>The new edge in knowledge: how knowledge management is changing the way we do business</sourcetitle>
+<sourcetitle-abbrev>The new edge in knowl.: how knowl. management is changing the n.a. we do bus.</sourcetitle-abbrev>
+<isbn type="print" length="13">9780470917398</isbn>
+<isbn type="electronic" length="13">9781119200802</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>236</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2015"/>
+<publicationdate>
+<year>2015</year>
+<month>10</month>
+<day>10</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119200802</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="23">
+<reference seq="1">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Bernoff</ce:surname>
+<ce:given-name>Josh</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Li</ce:surname>
+<ce:given-name>Charlene</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Groundswell: Winning in a World Transformed by Social Technologies</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>Boston : Harvard Business School Press</ref-text>
+</ref-info>
+<ref-fulltext>Bernoff, Josh, and CharleneLi. 2008. Groundswell: Winning in a World Transformed by Social Technologies. Boston: Harvard Business School Press.</ref-fulltext>
+<ce:source-text>Bernoff, Josh, and CharleneLi. 2008. Groundswell: Winning in a World Transformed by Social Technologies. Boston: Harvard Business School Press.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>CIA</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Intellipedia Gurus Win 2009 Homeland Security Medal</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-website>
+<ce:e-address type="url">https://www.cia.gov/news-information/featured-story-archive/intellipedia-homeland-security-medal.html</ce:e-address>
+</ref-website>
+<ref-text>Retrieved October 8</ref-text>
+</ref-info>
+<ref-fulltext>CIA. 2009a. “Intellipedia Gurus Win 2009 Homeland Security Medal.” Retrieved October 8.https://www.cia.gov/news-information/featured-story-archive/intellipedia-homeland-security-medal.html.</ref-fulltext>
+<ce:source-text>CIA. 2009a. “Intellipedia Gurus Win 2009 Homeland Security Medal.” Retrieved October 8.https://www.cia.gov/news-information/featured-story-archive/intellipedia-homeland-security-medal.html.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>CIA</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>The World Factbook 2009</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-website>
+<ce:e-address type="url">https://www.cia.gov/library/publications/the-world-factbook/fields/2151.html?countryName=&amp;countryCode=xx&amp;regionCode=%B5?countryCode=xx#xx</ce:e-address>
+</ref-website>
+<ref-text>Washington, DC: Central Intelligence Agency</ref-text>
+</ref-info>
+<ref-fulltext>CIA. 2009 b. The World Factbook 2009. Washington, DC: Central Intelligence Agency. https://www.cia.gov/library/publications/the-world-factbook/fields/2151.html?countryName=&amp;countryCode=xx&amp;regionCode=%B5?countryCode=xx#xx.</ref-fulltext>
+<ce:source-text>CIA. 2009 b. The World Factbook 2009. Washington, DC: Central Intelligence Agency. https://www.cia.gov/library/publications/the-world-factbook/fields/2151.html?countryName=&amp;countryCode=xx&amp;regionCode=%B5?countryCode=xx#xx.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>DailyFinance</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Best Buy Inc. Company Description</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">www.dailyfinance.com/company/best-buy-incorporated/bby/nys/company-description</ce:e-address>
+</ref-website>
+<ref-text>Retrieved July 2</ref-text>
+</ref-info>
+<ref-fulltext>DailyFinance. “Best Buy Inc. Company Description.” Retrieved July 2, 2010. www.dailyfinance.com/company/best-buy-incorporated/bby/nys/company-description.</ref-fulltext>
+<ce:source-text>DailyFinance. “Best Buy Inc. Company Description.” Retrieved July 2, 2010. www.dailyfinance.com/company/best-buy-incorporated/bby/nys/company-description.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-sourcetitle>Encarta World English Dictionary Online</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">http://encarta.msn.com/dictionary_561539567/teachable_moment.html</ce:e-address>
+</ref-website>
+<ref-text>Teachable MomentAccessed October 29</ref-text>
+</ref-info>
+<ref-fulltext>Encarta World English Dictionary Online, s.v. “Teachable Moment.” Accessed October 29, 2010. http://encarta.msn.com/dictionary_561539567/teachable_moment.html.</ref-fulltext>
+<ce:source-text>Encarta World English Dictionary Online, s.v. “Teachable Moment.” Accessed October 29, 2010. http://encarta.msn.com/dictionary_561539567/teachable_moment.html.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Entner</ce:surname>
+<ce:given-name>Roger</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Smartphones to Overtake Feature Phones in U.S by 2011</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">http://blog.nielsen.com/nielsenwire/consumer/smartphones-to-overtake-feature-phones-in-u-s-by-2011</ce:e-address>
+</ref-website>
+<ref-text>Nielsenwire, March 26</ref-text>
+</ref-info>
+<ref-fulltext>Entner, Roger. 2010. “Smartphones to Overtake Feature Phones in U.S. by 2011.” Nielsenwire, March 26. http://blog.nielsen.com/nielsenwire/consumer/smartphones-to-overtake-feature-phones-in-u-s-by-2011.</ref-fulltext>
+<ce:source-text>Entner, Roger. 2010. “Smartphones to Overtake Feature Phones in U.S. by 2011.” Nielsenwire, March 26. http://blog.nielsen.com/nielsenwire/consumer/smartphones-to-overtake-feature-phones-in-u-s-by-2011.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Friedlander</ce:surname>
+<ce:given-name>Joan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Email Interruptions May Lower IQ</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">www.evancarmichael.com/Productivity/3227/Email-Interruptions-May-Lower-IQ.html</ce:e-address>
+</ref-website>
+<ref-text>Evan Carmichael, Retrieved July 2</ref-text>
+</ref-info>
+<ref-fulltext>Friedlander, Joan. 2010. “Email Interruptions May Lower IQ.” Evan Carmichael, Retrieved July 2. www.evancarmichael.com/Productivity/3227/Email-Interruptions-May-Lower-IQ.html.</ref-fulltext>
+<ce:source-text>Friedlander, Joan. 2010. “Email Interruptions May Lower IQ.” Evan Carmichael, Retrieved July 2. www.evancarmichael.com/Productivity/3227/Email-Interruptions-May-Lower-IQ.html.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Gaudin</ce:surname>
+<ce:given-name>Sharon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Twitter Now has 75M Users; Most Asleep at the Mouse</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">www.computerworld.com/s/article/9148878/Twitter_now_has_75M_users_most_asleep_at_the_mouse</ce:e-address>
+</ref-website>
+<ref-text>Computerworld, January 26</ref-text>
+</ref-info>
+<ref-fulltext>Gaudin, Sharon. 2010. “Twitter Now has 75M Users; Most Asleep at the Mouse.” Computerworld, January 26. www.computerworld.com/s/article/9148878/Twitter_now_has_75M_users_most_asleep_at_the_mouse.</ref-fulltext>
+<ce:source-text>Gaudin, Sharon. 2010. “Twitter Now has 75M Users; Most Asleep at the Mouse.” Computerworld, January 26. www.computerworld.com/s/article/9148878/Twitter_now_has_75M_users_most_asleep_at_the_mouse.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Giles</ce:surname>
+<ce:given-name>Martin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A World of Connections: A Special Report on Social Networking</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">www.economist.com/specialreports/specialreportslist.cfm?category=455022</ce:e-address>
+</ref-website>
+<ref-text>The Economist, January 30</ref-text>
+</ref-info>
+<ref-fulltext>Giles, Martin. 2010. “A World of Connections: A Special Report on Social Networking.” The Economist, January 30. www.economist.com/specialreports/specialreportslist.cfm?category=455022.</ref-fulltext>
+<ce:source-text>Giles, Martin. 2010. “A World of Connections: A Special Report on Social Networking.” The Economist, January 30. www.economist.com/specialreports/specialreportslist.cfm?category=455022.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.J.</ce:initials>
+<ce:surname>Grayson</ce:surname>
+<ce:given-name>C. Jackson</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>O' Dell</ce:surname>
+<ce:given-name>Carla</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>If Only We Knew What We Know: Transfer of Internal Knowledge and Best Practice</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<ref-text>New York: Free Press</ref-text>
+</ref-info>
+<ref-fulltext>Grayson, C. Jackson, and Carla O’Dell. 1998. If Only We Knew What We Know: Transfer of Internal Knowledge and Best Practice. New York: Free Press.</ref-fulltext>
+<ce:source-text>Grayson, C. Jackson, and Carla O’Dell. 1998. If Only We Knew What We Know: Transfer of Internal Knowledge and Best Practice. New York: Free Press.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Collaboration: How Leaders Avoid the Traps</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.T.</ce:initials>
+<ce:surname>Hansen</ce:surname>
+<ce:given-name>Morten T.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Create Unity and Reap Big Results</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Boston: Harvard Business School Press</ref-text>
+</ref-info>
+<ref-fulltext>Hansen, Morten T.2009. Collaboration: How Leaders Avoid the Traps, Create Unity and Reap Big Results. Boston: Harvard Business School Press.</ref-fulltext>
+<ce:source-text>Hansen, Morten T.2009. Collaboration: How Leaders Avoid the Traps, Create Unity and Reap Big Results. Boston: Harvard Business School Press.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Idinopulos</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>In-the-Flow and above-the-Flow</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-website>
+<ce:e-address type="url">http://michaeli.typepad.com/my_weblog/2007/12/in-the-flow-and.html</ce:e-address>
+</ref-website>
+<ref-text>Transparent Office, December 26</ref-text>
+</ref-info>
+<ref-fulltext>Idinopulos, Michael. 2007. “In-the-Flow and Above-the-Flow.” Transparent Office, December 26. http://michaeli.typepad.com/my_weblog/2007/12/in-the-flow-and.html.</ref-fulltext>
+<ce:source-text>Idinopulos, Michael. 2007. “In-the-Flow and Above-the-Flow.” Transparent Office, December 26. http://michaeli.typepad.com/my_weblog/2007/12/in-the-flow-and.html.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Li</ce:surname>
+<ce:given-name>Charlene</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Charron</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:surname>Favier</ce:surname>
+<ce:given-name>Jaap</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Computing: How Networks Erode Institutional Power, and What to Do about It</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-text>Cambridge, MA: Forrester</ref-text>
+</ref-info>
+<ref-fulltext>Li, Charlene, ChrisCharron, and JaapFavier. 2006. Social Computing: How Networks Erode Institutional Power, and What to Do About It. Cambridge, MA: Forrester.</ref-fulltext>
+<ce:source-text>Li, Charlene, ChrisCharron, and JaapFavier. 2006. Social Computing: How Networks Erode Institutional Power, and What to Do About It. Cambridge, MA: Forrester.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Lohr</ce:surname>
+<ce:given-name>Steve</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Slow Down, Brave Multitasker, and Don’ T Read This in Traffic</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-website>
+<ce:e-address type="url">www.nytimes.com/2007/03/25/business/25multi.html?_r=4&amp;adxnnl=1&amp;pagewanted=all&amp;adxnnlx=1248001246-NdyHv9c/WRNTpPJ58Tb/2A</ce:e-address>
+</ref-website>
+<ref-text>New York Times, March 25</ref-text>
+</ref-info>
+<ref-fulltext>Lohr, Steve. 2007. “Slow Down, Brave Multitasker, and Don’ t Read This in Traffic.” New York Times, March 25. www.nytimes.com/2007/03/25/business/25multi.html?_r=4&amp;adxnnl=1 &amp;pagewanted=all&amp;adxnnlx=1248001246-NdyHv9c/WRNTpPJ58Tb/2A.</ref-fulltext>
+<ce:source-text>Lohr, Steve. 2007. “Slow Down, Brave Multitasker, and Don’ t Read This in Traffic.” New York Times, March 25. www.nytimes.com/2007/03/25/business/25multi.html?_r=4&amp;adxnnl=1 &amp;pagewanted=all&amp;adxnnlx=1248001246-NdyHv9c/WRNTpPJ58Tb/2A.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Miniwatts Marketing Group</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Internet World Stats</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-website>
+<ce:e-address type="url">www.internetworldstats.com/stats.htm</ce:e-address>
+</ref-website>
+<ref-text>December 31</ref-text>
+</ref-info>
+<ref-fulltext>Miniwatts Marketing Group. 2009. “Internet World Stats.” December 31. www.internetworldstats.com/stats.htm.</ref-fulltext>
+<ce:source-text>Miniwatts Marketing Group. 2009. “Internet World Stats.” December 31. www.internetworldstats.com/stats.htm.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.J.</ce:initials>
+<ce:surname>Moore</ce:surname>
+<ce:given-name>Robert J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Data on Twitter’ S Users and Engagement</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">http://themetricsystem.rjmetrics.com/2010/01/26/new-data-on-twitters-users-and-engagement/</ce:e-address>
+</ref-website>
+<ref-text>RJMetrics, January 26</ref-text>
+</ref-info>
+<ref-fulltext>Moore, Robert J.2010 . “New Data on Twitter’ s Users and Engagement .” RJMetrics, January 26. http://themetricsystem.rjmetrics.com/2010/01/26/new-data-on-twitters-users-and-engagement/.</ref-fulltext>
+<ce:source-text>Moore, Robert J.2010 . “New Data on Twitter’ s Users and Engagement .” RJMetrics, January 26. http://themetricsystem.rjmetrics.com/2010/01/26/new-data-on-twitters-users-and-engagement/.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Nass</ce:surname>
+<ce:given-name>Clifford</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Digital Nation: Life on the Virtual Frontier</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">www.pbs.org/wgbh/pages/frontline/digitalnation/interviews/nass.html</ce:e-address>
+</ref-website>
+<ref-text>Video Interview, February 2</ref-text>
+</ref-info>
+<ref-fulltext>Nass, Clifford. 2010 . “Video Interview .” Digital Nation: Life on the Virtual Frontier, February 2. www.pbs.org/wgbh/pages/frontline/digitalnation/interviews/nass.html.</ref-fulltext>
+<ce:source-text>Nass, Clifford. 2010 . “Video Interview .” Digital Nation: Life on the Virtual Frontier, February 2. www.pbs.org/wgbh/pages/frontline/digitalnation/interviews/nass.html.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Nonaka</ce:surname>
+<ce:given-name>Ikujiro</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Takeuchi</ce:surname>
+<ce:given-name>Hirotaka</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Knowledge - Creating Company: How Japanese Companies Create the Dynamics of Innovation</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Nonaka, Ikujiro, and HirotakaTakeuchi . 1995 . The Knowledge - Creating Company: How Japanese Companies Create the Dynamics of Innovation. New York: Oxford University Press .</ref-fulltext>
+<ce:source-text>Nonaka, Ikujiro, and HirotakaTakeuchi . 1995 . The Knowledge - Creating Company: How Japanese Companies Create the Dynamics of Innovation. New York: Oxford University Press .</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Pattison</ce:surname>
+<ce:given-name>Kermit</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Worker, Interrupted: The Cost of Task Switching</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-website>
+<ce:e-address type="url">www.fastcompany.com/articles/2008/07/interview-gloria-mark.html</ce:e-address>
+</ref-website>
+<ref-text>Fast Company, July 28</ref-text>
+</ref-info>
+<ref-fulltext>Pattison, Kermit. 2008 . “Worker, Interrupted: The Cost of Task Switching .” Fast Company, July 28. www.fastcompany.com/articles/2008/07/interview-gloria-mark.html.</ref-fulltext>
+<ce:source-text>Pattison, Kermit. 2008 . “Worker, Interrupted: The Cost of Task Switching .” Fast Company, July 28. www.fastcompany.com/articles/2008/07/interview-gloria-mark.html.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>PricewaterhouseCoopers</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Managing Tomorrow’ S People</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-website>
+<ce:e-address type="url">www.pwc.com/gx/en/managing-tomorrows-people/future-of-work/pdf/mtp-millennials-at-work.pdf</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>PricewaterhouseCoopers . 2007 . “Managing Tomorrow’ s People .” www.pwc.com/gx/en/managing-tomorrows-people/future-of-work/pdf/mtp-millennials-at-work.pdf.</ref-fulltext>
+<ce:source-text>PricewaterhouseCoopers . 2007 . “Managing Tomorrow’ s People .” www.pwc.com/gx/en/managing-tomorrows-people/future-of-work/pdf/mtp-millennials-at-work.pdf.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Rao</ce:surname>
+<ce:given-name>Leena</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Linkedin Tops 70 Million Users</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">http://techcrunch.com/2010/06/20/linkedin-tops-70-million-users-includes-over-one-million-company-profiles/</ce:e-address>
+</ref-website>
+<ref-text>TechCrunch, June 20</ref-text>
+</ref-info>
+<ref-fulltext>Rao, Leena. 2010 . “LinkedIn Tops 70 Million Users .” TechCrunch, June 20. http://techcrunch.com/2010/06/20/linkedin-tops-70-million-users-includes-over-one-million-company-profiles/.</ref-fulltext>
+<ce:source-text>Rao, Leena. 2010 . “LinkedIn Tops 70 Million Users .” TechCrunch, June 20. http://techcrunch.com/2010/06/20/linkedin-tops-70-million-users-includes-over-one-million-company-profiles/.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Does the Internet Make You Smarter?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Shirky</ce:surname>
+<ce:given-name>Clay</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">http://online.wsj.com/article/SB1000144052748704025304575284973472694334.html</ce:e-address>
+</ref-website>
+<ref-text>June 4</ref-text>
+</ref-info>
+<ref-fulltext>Shirky, Clay. 2010 . “Does the Internet Make You Smarter?” Wall Street Journal, June 4. http://online.wsj.com/article/SB10001424052748704025304575 284973472694334.html</ref-fulltext>
+<ce:source-text>Shirky, Clay. 2010 . “Does the Internet Make You Smarter?” Wall Street Journal, June 4. http://online.wsj.com/article/SB10001424052748704025304575 284973472694334.html</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Surowiecki</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Wisdom of Crowds: Why the Many are Smarter than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations .</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>New York: Anchor</ref-text>
+</ref-info>
+<ref-fulltext>Surowiecki, James. 2005 . The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations .New York: Anchor .</ref-fulltext>
+<ce:source-text>Surowiecki, James. 2005 . The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations .New York: Anchor .</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit>
+</units>

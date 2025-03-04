@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-28T17:40:09</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119201014</ce:doi>
+<itemid idtype="TPB-ID">20252000064067</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Surviving the Bond Bear Market: Bondland's Nuclear Winter</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Cohen</ce:surname>
+<ce:given-name>Marilyn</ce:given-name>
+</author>
+<affiliation>
+<organization>Envision Capital Management, Inc</organization>
+<country iso-code="USA"/>
+<ce:source-text>As CEO of Los Angeles–based Envision Capital Management, Inc., Marilyn Cohen is one of the top bond managers in the country. Her 30-year fi nancial career has included securities analysis at William O’Neil &amp; Co., bond brokerage at Cantor Fitzgerald, Inc., and for the past 16 years, founder and CEO of Envision Capital Management in Los Angeles. She specializes in managing bond portfolios for individuals. For over 15 years Marilyn has written the bond column appearing in Forbes magazine. She is the co-author of Bonds Now! (John Wiley &amp; Sons, 2009) and authored The Bond Bible (New York Institute of Finance). Additionally, she is a popular guest on CNBC, Fox Business News, PBS, Bloomberg News, and the major broadcast networks. Marilyn’s specialty is guiding individuals through the workings of the bond market in plain English.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Malburg</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+<affiliation>
+<organization>Resource Group, Inc</organization>
+<country iso-code="LBN"/>
+<ce:source-text>As founder and managing editor of Writers Resource Group, Inc., Chris Malburg is an accomplished fi nancial writer with over four million words in print spread among 11 popular books. Chris is a CPA, has an MBA, and is a former partner at an investment banking fi rm. Chris’ clients and projects span securities broker/dealers, automotive manufacturers, software companies, healthcare companies, and insurance and fi nancial services enterprises.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>M.</ce:initials>
+<ce:surname>Cohen</ce:surname>
+<ce:given-name>Marilyn</ce:given-name>
+</person>
+<affiliation>
+<organization>Envision Capital Management, Inc</organization>
+<country iso-code="USA"/>
+<ce:source-text>As CEO of Los Angeles–based Envision Capital Management, Inc., Marilyn Cohen is one of the top bond managers in the country. Her 30-year fi nancial career has included securities analysis at William O’Neil &amp; Co., bond brokerage at Cantor Fitzgerald, Inc., and for the past 16 years, founder and CEO of Envision Capital Management in Los Angeles. She specializes in managing bond portfolios for individuals. For over 15 years Marilyn has written the bond column appearing in Forbes magazine. She is the co-author of Bonds Now! (John Wiley &amp; Sons, 2009) and authored The Bond Bible (New York Institute of Finance). Additionally, she is a popular guest on CNBC, Fox Business News, PBS, Bloomberg News, and the major broadcast networks. Marilyn’s specialty is guiding individuals through the workings of the bond market in plain English.</ce:source-text>
+</affiliation>
+</correspondence>
+<correspondence>
+<person>
+<ce:initials>C.</ce:initials>
+<ce:surname>Malburg</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</person>
+<affiliation>
+<organization>Resource Group, Inc</organization>
+<country iso-code="LBN"/>
+<ce:source-text>As founder and managing editor of Writers Resource Group, Inc., Chris Malburg is an accomplished fi nancial writer with over four million words in print spread among 11 popular books. Chris is a CPA, has an MBA, and is a former partner at an investment banking fi rm. Chris’ clients and projects span securities broker/dealers, automotive manufacturers, software companies, healthcare companies, and insurance and fi nancial services enterprises.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2011 by Writers Resource Group, Inc. All rights reserved</publishercopyright>
+<ce:para>Praise for surviving the bond bear market "a confluence of events are converging to produce a rise in bond yields and a decline in bond prices. Authors Cohen and Malburg call the emerging bear market in bonds . . . 'Bondland's Nuclear Winter.' I call shorting bonds . . . 'The Trade of the Decade.' But whatever it is called, this book articulates the root cause of the developing crisis by taking you through a journey of strong analysis, great anecdotes, and visual stories."—Doug Kass, founder and President, Seabreeze Partners Management "Baby Boomers beware—the thirty-year bond bull market is finished. Marilyn Cohen describes the bond market's coming nuclear winter and what investors must do to protect themselves. This book comes with an automated workbook to help you manage your bond investments like the pros. Learn to build a bond market bomb shelter and pick the green shoots when it is safe to come out again. Cohen prepares you for the worst, even as she hopes for the best."—Jane Bryant Quinn, author of Making the Most of Your Money Now</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Surviving the bond bear market: bondland's nuclear winter</sourcetitle>
+<sourcetitle-abbrev>Surviving the bond. bear mark.: bondland's nucl. n.a.</sourcetitle-abbrev>
+<isbn type="print" length="13">9780470937525</isbn>
+<isbn type="electronic" length="13">9781119201014</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>1065</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2015" />
+<publicationdate>
+<year>2015</year>
+<month>09</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201014</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>

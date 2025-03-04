@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-28T17:40:09</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119201946</ce:doi>
+<itemid idtype="TPB-ID">20252000061488</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Accounts Payable and Sarbanes-Oxley: Strengthening Your Internal Controls</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.S.</ce:initials>
+<ce:surname>Schaeffer</ce:surname>
+<ce:given-name>Mary S.</ce:given-name>
+</author>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>M.S.</ce:initials>
+<ce:surname>Schaeffer</ce:surname>
+<ce:given-name>Mary S.</ce:given-name>
+</person>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Copyright © 2006 by Mary S. Schaeffer. All rights reserved.</publishercopyright>
+<ce:para>"Accounts Payable and Sarbanes-Oxley cements Mary Schaeffer's reputation as the premier authority on accounts payable. She provides great detail on all aspects of the payables systems needed to comply with Sarbanes-Oxley. A must for every controller's bookshelf!" —Steven Bragg, Premier Data Services "Mary Schaeffer has done it again! America's most accomplished accounts payable expert has written another authoritative and comprehensive work. This time she takes aim at internal controls and the Sarbanes-Oxley Act as they impact the payables function. Whether or not you are required to comply with the Act, this book will help you meet the challenges facing professionals who demand effective and efficient controls both now and in the future. This book is an enormous resource and blueprint for any financial professional." —Bob Lovallo, President, Pinpoint Profit Recovery Services, Inc. "There are many guides to complying with Sarbanes-Oxley yet this text is the first I have seen that provides accounts payable departments with a game plan, both from a mile-high and an in-the-trenches viewpoint. Even if you are not concerned with SOX, this guide provides the foundational control framework and best practices for any accounts payable department." —Richard B. Lanza, CPA/CITP, CFE, PMP, President, Cash Recovery Partners L.L.C "Mary Schaeffer's book provides clearly written guidance on the causes, consequences, and best practices for accounts payables internal controls. Every accounting, auditing, and information technology professional who deals with accounts payable will find some useful suggestions in this book." —Dr. Will Yancey, CPA, independent consultant "If you only read one book on the duties and responsibilities of the accounts payable representative-make it this one. Ms. Schaeffer is absolutely brilliant at explaining the impact the Sarbanes-Oxley Act will have on the organization and its accounts payable procedures. Whether you are a seasoned accounts payable representative or just new to the position, this book will help you to become firmly grounded in your ability to perform your role in the accounts payable department." —Jerry W. Michael, President, IRSCompliance.org The accounts payable blueprint to becoming Sarbanes-Oxley compliant The Sarbanes-Oxley Act provides a rigorous discipline that can be used by all organizations, regardless of whether they are publicly traded or not. Strong internal controls and segregation of duties should become a standard way of thinking rather than something required by law. Accounts Payable and Sarbanes-Oxley provides a comprehensive overview of the Act and lays out the necessary guidelines that affect accounts payable to ensure compliance in the accounts payable department.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Accounts Payable and Sarbanes-Oxley: Strengthening Your Internal Controls</sourcetitle>
+<sourcetitle-abbrev>Accounts Payable and Sarbanes-Oxley: strength. Your intern. Controls</sourcetitle-abbrev>
+<isbn type="print" length="13">9780471785880</isbn>
+<isbn type="electronic" length="13">9781119201946</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>185</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2015"/>
+<publicationdate>
+<year>2015</year>
+<month>09</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201946</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>

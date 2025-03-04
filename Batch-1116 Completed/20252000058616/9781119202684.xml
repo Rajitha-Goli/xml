@@ -1,0 +1,1712 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-28T17:40:09</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.1002/9781119202684</ce:doi>
+<itemid idtype="TPB-ID">20252000058616</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">401(k) Day Trading: The Art of Cashing in on a Shaky Market in Minutes a Day</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Richard</ce:surname>
+<ce:given-name>Schmitt</ce:given-name>
+</author>
+<affiliation>
+<organization>Golden Gate University</organization>
+<country iso-code="USA"/>
+<ce:source-text>Richard schmitt is an adjunct professor teaching retirement planning at the Edward S. Ageno School of Business at Golden Gate University in San Francisco.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>S.</ce:initials>
+<ce:surname>Richard</ce:surname>
+<ce:given-name>Schmitt</ce:given-name>
+</person>
+<affiliation>
+<organization>Golden Gate University</organization>
+<country iso-code="USA"/>
+<ce:source-text>Richard schmitt is an adjunct professor teaching retirement planning at the Edward S. Ageno School of Business at Golden Gate University in San Francisco.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>C 2011 by Richard Schmitt. All rights reserved</publishercopyright>
+<ce:para>For many, retirement has become increasingly difficult to both attain and afford. But there is a way today's 401(k) participant, as well as those contributing to similar retirement savings plans, can turn their retirement dreams into reality. With over twenty-five years of experience consulting on retirement plans, author Richard Schmitt knows what it takes to make the most of them, and now, in 401(k) Day Trading: The Art of Cashing in on a Shaky Market in Minutes a Day, he shows you how. Divided into four comprehensive parts, this reliable resource takes you step-by-step through the environment, rationale, and process of day trading your retirement portfolio in minutes a day. It skillfully outlines an approach to buying low and selling high through daily fund exchanges—that draws on many of the fundamental principles of investment management—to exploit daily market volatility.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>401(k) day trading: the art of cashing in on a shaky market in minutes a day</sourcetitle>
+<sourcetitle-abbrev>401(k) day n.a.: the art of cashing in on a shaky mark. in minutes a day</sourcetitle-abbrev>
+<isbn type="print" length="13">9781118085417</isbn>
+<isbn type="electronic" length="13">9781119202684</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>298</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2015" />
+<publicationdate>
+<year>2015</year>
+<month>10</month>
+<day>10</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202684</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="90">
+<reference seq="1">
+<ref-info>
+<ref-sourcetitle>401(k) Benchmarking Survey</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Deloitte Consulting, LLP</ref-text>
+</ref-info>
+<ref-fulltext>401(k) Benchmarking Survey, 2008 ed., Deloitte Consulting, LLP, 7.</ref-fulltext>
+<ce:source-text>401(k) Benchmarking Survey, 2008 ed., Deloitte Consulting, LLP, 7.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Williams Walsh</ce:surname>
+<ce:given-name>Mary</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.S.</ce:initials>
+<ce:surname>Bernard</ce:surname>
+<ce:given-name>Tara Siegel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>In Need of Cash, More Companies Cut 401(k) Match</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>New York Times, December 21</ref-text>
+</ref-info>
+<ref-fulltext>Mary Williams Walsh and Tara Siegel Bernard, “In Need of Cash, More Companies Cut 401(k) Match,” New York Times, December 21, 2008.</ref-fulltext>
+<ce:source-text>Mary Williams Walsh and Tara Siegel Bernard, “In Need of Cash, More Companies Cut 401(k) Match,” New York Times, December 21, 2008.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.T.</ce:initials>
+<ce:surname>Allen Jr</ce:surname>
+<ce:given-name>Everett T.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.J.</ce:initials>
+<ce:surname>Melone</ce:surname>
+<ce:given-name>Joseph J.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Rosenbloom</ce:surname>
+<ce:given-name>Jerry S.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>D.F.</ce:initials>
+<ce:surname>Mahoney</ce:surname>
+<ce:given-name>Dennis F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Retirement Plans, 10th ed</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>431</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>New York: McGraw-Hill/Irwin</ref-text>
+</ref-info>
+<ref-fulltext>Everett T. Allen Jr., Joseph J. Melone, Jerry S. Rosenbloom, and Dennis F. Mahoney, Retirement Plans, 10th ed. (New York: McGraw-Hill/Irwin, 2008), 431.</ref-fulltext>
+<ce:source-text>Everett T. Allen Jr., Joseph J. Melone, Jerry S. Rosenbloom, and Dennis F. Mahoney, Retirement Plans, 10th ed. (New York: McGraw-Hill/Irwin, 2008), 431.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-sourcetitle>2011 Investment Company Institute, 51st ed</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>128</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Washington, DC: Investment Company Institute</ref-text>
+</ref-info>
+<ref-fulltext>2011 Investment Company Fact Book, 51st ed. (Washington, DC: Investment Company Institute, 2011), 128.</ref-fulltext>
+<ce:source-text>2011 Investment Company Fact Book, 51st ed. (Washington, DC: Investment Company Institute, 2011), 128.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Jaffe</ce:surname>
+<ce:given-name>Charles</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Motley Fool Rushes into Mutual Funds</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>San Francisco Chronicle, January 25</ref-text>
+</ref-info>
+<ref-fulltext>Charles Jaffe, “Motley Fool Rushes into Mutual Funds, ” San Francisco Chronicle, January 25, 2009.</ref-fulltext>
+<ce:source-text>Charles Jaffe, “Motley Fool Rushes into Mutual Funds, ” San Francisco Chronicle, January 25, 2009.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:surname>Hirsch</ce:surname>
+<ce:given-name>Jeffrey A.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Hirsch</ce:surname>
+<ce:given-name>Yale</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Stock Trader’s Almanac 2010</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<page-information>
+<pages-text>161, 162, 169, 170</pages-text>
+</page-information>
+</volisspag>
+<ref-text>Hoboken, NJ: John Wiley &amp; Sons</ref-text>
+</ref-info>
+<ref-fulltext>Jeffrey A. Hirsch and Yale Hirsch, Stock Trader’s Almanac 2010 (Hoboken, NJ: John Wiley &amp; Sons, 2010), 161, 162, 169, 170.</ref-fulltext>
+<ce:source-text>Jeffrey A. Hirsch and Yale Hirsch, Stock Trader’s Almanac 2010 (Hoboken, NJ: John Wiley &amp; Sons, 2010), 161, 162, 169, 170.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Charles Schwab &amp; Co. and Age Wave</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Rethinking Retirement</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>March/April</ref-text>
+</ref-info>
+<ref-fulltext>“Rethinking Retirement,” Charles Schwab &amp; Co. and Age Wave, March/April 2008.</ref-fulltext>
+<ce:source-text>“Rethinking Retirement,” Charles Schwab &amp; Co. and Age Wave, March/April 2008.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Choi</ce:surname>
+<ce:given-name>Candice</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Flexible Retirement Lets Firms Retain Wisdom</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>San Francisco Chronicle, July 30</ref-text>
+</ref-info>
+<ref-fulltext>Candice Choi, “Flexible Retirement Lets Firms Retain Wisdom,” San Francisco Chronicle, July 30, 2008.</ref-fulltext>
+<ce:source-text>Candice Choi, “Flexible Retirement Lets Firms Retain Wisdom,” San Francisco Chronicle, July 30, 2008.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.T.</ce:initials>
+<ce:surname>Allen Jr</ce:surname>
+<ce:given-name>Everett T.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.J.</ce:initials>
+<ce:surname>Melone</ce:surname>
+<ce:given-name>Joseph J.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Rosenbloom</ce:surname>
+<ce:given-name>Jerry S.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>D.F.</ce:initials>
+<ce:surname>Mahoney</ce:surname>
+<ce:given-name>Dennis F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Retirement Plans, 10th ed</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>597</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>New York: McGraw-Hill/Irwin</ref-text>
+</ref-info>
+<ref-fulltext>Everett T. Allen Jr., Joseph J. Melone, Jerry S. Rosenbloom, and Dennis F. Mahoney, Retirement Plans, 10th ed. (New York: McGraw-Hill/Irwin, 2008), 597.</ref-fulltext>
+<ce:source-text>Everett T. Allen Jr., Joseph J. Melone, Jerry S. Rosenbloom, and Dennis F. Mahoney, Retirement Plans, 10th ed. (New York: McGraw-Hill/Irwin, 2008), 597.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-sourcetitle>Health, United States, 2009, with Special Feature on Medical Technology</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>44</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Health Statistics</ref-text>
+</ref-info>
+<ref-fulltext>“Health, United States, 2009, with Special Feature on Medical Technology,” U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Health Statistics, 44</ref-fulltext>
+<ce:source-text>“Health, United States, 2009, with Special Feature on Medical Technology,” U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Health Statistics, 44.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Agency History, Research Notes &amp; Special Studies bytheHistorian’s Office, ResearchNote#3</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Social Security Online History</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Details of Ida May Fuller’s Payroll Tax Contributions</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">www.ssa.gov</ce:e-address>
+</ref-website>
+<ref-text>Social Security Online History</ref-text>
+</ref-info>
+<ref-fulltext>Social Security Online History, Agency History, Research Notes &amp; Special Studies by the Historian’s Office, Research Note #3: “Details of Ida May Fuller’s Payroll Tax Contributions,” Social Security Online History, www.ssa.gov</ref-fulltext>
+<ce:source-text>Social Security Online History, Agency History, Research Notes &amp; Special Studies by the Historian’s Office, Research Note #3: “Details of Ida May Fuller’s Payroll Tax Contributions,” Social Security Online History, www.ssa.gov.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-sourcetitle>Health, United States, 2009, with Special Feature on Medical Technology</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>44</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“Health, United States, 2009, with Special Feature on Medical Technology,” 44</ref-fulltext>
+<ce:source-text>“Health, United States, 2009, with Special Feature on Medical Technology,” 44.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-sourcetitle>Social Security 2010 Trustees’ 2010 Report</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>released Thursday, August 6</ref-text>
+</ref-info>
+<ref-fulltext>Social Security 2010 Trustees’ 2010 Report, released Thursday, August 6, 2010</ref-fulltext>
+<ce:source-text>Social Security 2010 Trustees’ 2010 Report, released Thursday, August 6, 2010.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.J.</ce:initials>
+<ce:surname>Lim</ce:surname>
+<ce:given-name>Paul J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Maybe This Time, It’s Buy, Buy, Buy and Hold</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>New York Times, December 21</ref-text>
+</ref-info>
+<ref-fulltext>Paul J. Lim, “Maybe This Time, It’s Buy, Buy, Buy and Hold,” New York Times, December 21, 2008</ref-fulltext>
+<ce:source-text>Paul J. Lim, “Maybe This Time, It’s Buy, Buy, Buy and Hold,” New York Times, December 21, 2008.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-sourcetitle>FAQs about Benefits—Retirement Issues, Retirement Question 14</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">www.ebri.org/publications/benfaq/index.cfm?fa=retfaq14</ce:e-address>
+</ref-website>
+<ref-text>Employee Benefits Research Institute, Figure 1</ref-text>
+</ref-info>
+<ref-fulltext>“FAQs about Benefits—Retirement Issues, Retirement Question 14, ” Employee Benefits Research Institute, Figure 1, www.ebri.org/publications/ benfaq/index.cfm?fa retfaq14.</ref-fulltext>
+<ce:source-text>“FAQs about Benefits—Retirement Issues, Retirement Question 14, ” Employee Benefits Research Institute, Figure 1, www.ebri.org/publications/ benfaq/index.cfm?fa retfaq14.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Trends in Retirement Income Plan Administrative Costs</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.C.</ce:initials>
+<ce:surname>Hustead</ce:surname>
+<ce:given-name>Edwin C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Living with Defined Contribution Plans</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<ref-text>Olivia S. Mitchell and Sylvester J. Schieber Philadelphia: University of Pennsylvania Press</ref-text>
+</ref-info>
+<ref-fulltext>Edwin C. Hustead, “Trends in Retirement Income Plan Administrative Costs,” in Living with Defined Contribution Plans, ed. Olivia S. Mitchell and Sylvester J. Schieber (Philadelphia: University of Pennsylvania Press, 1998).</ref-fulltext>
+<ce:source-text>Edwin C. Hustead, “Trends in Retirement Income Plan Administrative Costs,” in Living with Defined Contribution Plans, ed. Olivia S. Mitchell and Sylvester J. Schieber (Philadelphia: University of Pennsylvania Press, 1998).</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:surname>Hirsch</ce:surname>
+<ce:given-name>Jeffrey A.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Hirsch</ce:surname>
+<ce:given-name>Yale</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Stock Trader’s Almanac 2010</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>150</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Hoboken, NJ: John Wiley &amp; Sons</ref-text>
+</ref-info>
+<ref-fulltext>Jeffrey A. Hirsch and Yale Hirsch, Stock Trader’s Almanac 2010 (Hoboken,
+NJ: John Wiley &amp; Sons, 2010), 150.</ref-fulltext>
+<ce:source-text>Jeffrey A. Hirsch and Yale Hirsch, Stock Trader’s Almanac 2010 (Hoboken,
+NJ: John Wiley &amp; Sons, 2010), 150.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Defined Benefit vs. 401(k) Plans: Investment Returns for 2003–2006</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Watson Wyatt Insider</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>June</ref-text>
+</ref-info>
+<ref-fulltext>“Defined Benefit vs. 401(k) Plans: Investment Returns for 2003–2006, ” Watson Wyatt Insider, June 2008.</ref-fulltext>
+<ce:source-text>“Defined Benefit vs. 401(k) Plans: Investment Returns for 2003–2006, ” Watson Wyatt Insider, June 2008.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Ptak</ce:surname>
+<ce:given-name>Stephanie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Investors Regain Footing</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Dalbar, Inc, March 31</ref-text>
+</ref-info>
+<ref-fulltext>Stephanie Ptak, “Investors Regain Footing,” Dalbar, Inc., March 31, 2010</ref-fulltext>
+<ce:source-text>Stephanie Ptak, “Investors Regain Footing,” Dalbar, Inc., March 31, 2010</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Vanguard Group</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>12</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data,” Vanguard Group, 12.</ref-fulltext>
+<ce:source-text>“How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data,” Vanguard Group, 12.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.T.</ce:initials>
+<ce:surname>Allen Jr</ce:surname>
+<ce:given-name>Everett T.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.J.</ce:initials>
+<ce:surname>Melone</ce:surname>
+<ce:given-name>Joseph J.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Rosenbloom</ce:surname>
+<ce:given-name>Jerry S.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>D.F.</ce:initials>
+<ce:surname>Mahoney</ce:surname>
+<ce:given-name>Dennis F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Retirement Plans, 10th ed</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>133</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>New York: McGraw-Hill/Irwin</ref-text>
+</ref-info>
+<ref-fulltext>Everett T. Allen Jr., Joseph J. Melone, Jerry S. Rosenbloom, and Dennis F. Mahoney, Retirement Plans, 10th ed. (New York: McGraw-Hill/Irwin, 2008), 133.</ref-fulltext>
+<ce:source-text>Everett T. Allen Jr., Joseph J. Melone, Jerry S. Rosenbloom, and Dennis F. Mahoney, Retirement Plans, 10th ed. (New York: McGraw-Hill/Irwin, 2008), 133.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-sourcetitle>How America Saves</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“How America Saves 2010,” 14.</ref-fulltext>
+<ce:source-text>“How America Saves 2010,” 14.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-sourcetitle>401(k) Benchmarking Survey</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>27</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Deloitte Consulting, LLP</ref-text>
+</ref-info>
+<ref-fulltext>401(k) Benchmarking Survey, 2008 ed., Deloitte Consulting, LLP, 27.</ref-fulltext>
+<ce:source-text>401(k) Benchmarking Survey, 2008 ed., Deloitte Consulting, LLP, 27.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-sourcetitle>How America Saves</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>70</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“How America Saves 2010,” 70</ref-fulltext>
+<ce:source-text>“How America Saves 2010,” 70.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-sourcetitle>Internal Revenue Code</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>72</vol-first>
+<part>Part t</part>
+</volume-issue-number>
+</volisspag>
+<ref-text>Section</ref-text>
+</ref-info>
+<ref-fulltext>Internal Revenue Code, Section 72(t).</ref-fulltext>
+<ce:source-text>Internal Revenue Code, Section 72(t).</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-sourcetitle>How America Saves</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>66</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“How America Saves 2010,” 66</ref-fulltext>
+<ce:source-text>“How America Saves 2010,” 66.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-sourcetitle>2011 Investment Company Fact Book</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>128</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>51st ed., Washington, DC: Investment Company Institute</ref-text>
+</ref-info>
+<ref-fulltext>Investment Company Fact Book, 51st ed. (Washington, DC: Investment Company Institute, 2011), 128.</ref-fulltext>
+<ce:source-text>Investment Company Fact Book, 51st ed. (Washington, DC: Investment Company Institute, 2011), 128.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-title>
+<ref-titletext-english>IFSL Hedge Funds 2010—Recovery Begun in 2009 Looks Set to Continue</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Maslakovic</ce:surname>
+<ce:given-name>Marko</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Hedgefund Journal</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>May</ref-text>
+</ref-info>
+<ref-fulltext>Marko Maslakovic, “IFSL Hedge Funds 2010—Recovery Begun in 2009 Looks Set to Continue,” Hedgefund Journal, May 2010.</ref-fulltext>
+<ce:source-text>Marko Maslakovic, “IFSL Hedge Funds 2010—Recovery Begun in 2009 Looks Set to Continue,” Hedgefund Journal, May 2010.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Vanguard Group</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>49</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data,” Vanguard Group, 49.</ref-fulltext>
+<ce:source-text>“How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data,” Vanguard Group, 49.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-sourcetitle>The American College Dictionary</ref-sourcetitle>
+<ref-publicationyear first="1947"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1048</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>New York: Random House</ref-text>
+</ref-info>
+<ref-fulltext>The American College Dictionary (New York: Random House, 1947), 1048.</ref-fulltext>
+<ce:source-text>The American College Dictionary (New York: Random House, 1947), 1048.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.T.</ce:initials>
+<ce:surname>Allen</ce:surname>
+<ce:given-name>Everett T.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.J.</ce:initials>
+<ce:surname>Melone</ce:surname>
+<ce:given-name>Joseph J.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Rosenbloom</ce:surname>
+<ce:given-name>Jerry S.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>D.F.</ce:initials>
+<ce:surname>Mahoney</ce:surname>
+<ce:given-name>Dennis F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Retirement Plans, 10Th ed</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>431</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>New York: McGraw-Hill/Irwin</ref-text>
+</ref-info>
+<ref-fulltext>Everett T. Allen Jr., Joseph J. Melone, Jerry S. Rosenbloom, and Dennis F. Mahoney, Retirement Plans, 10th ed. (New York: McGraw-Hill/Irwin, 2008), 431.</ref-fulltext>
+<ce:source-text>Everett T. Allen Jr., Joseph J. Melone, Jerry S. Rosenbloom, and Dennis F. Mahoney, Retirement Plans, 10th ed. (New York: McGraw-Hill/Irwin, 2008), 431.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Advances in Prospect Theory: Cumula tive Representation of Uncertainty</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Tversky</ce:surname>
+<ce:given-name>Amos</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Kahneman</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Risk and Uncertainty</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>297</first-page>
+<last-page>323</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Amos Tversky and Daniel Kahneman, “Advances in Prospect Theory: Cumula tive Representation of Uncertainty,” Journal of Risk and Uncertainty, no. 5, 1992, 297–323.</ref-fulltext>
+<ce:source-text>Amos Tversky and Daniel Kahneman, “Advances in Prospect Theory: Cumula tive Representation of Uncertainty,” Journal of Risk and Uncertainty, no. 5, 1992, 297–323.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.J.</ce:initials>
+<ce:surname>Lim</ce:surname>
+<ce:given-name>Paul J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>When Nest Eggs Change Colors</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York Times, April 8</ref-text>
+</ref-info>
+<ref-fulltext>Paul J. Lim, “When Nest Eggs Change Colors,” New York Times, April 8, 2009.</ref-fulltext>
+<ce:source-text>Paul J. Lim, “When Nest Eggs Change Colors,” New York Times, April 8, 2009.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-sourcetitle>Department of Labor Regulations Section 2550.404C-1 Issued Pursuant to ERISA Section</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>404</vol-first>
+<part>Part c</part>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Department of Labor Regulations Section 2550.404c-1 issued pursuant to ERISA Section 404(c).</ref-fulltext>
+<ce:source-text>Department of Labor Regulations Section 2550.404c-1 issued pursuant to ERISA Section 404(c).</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-sourcetitle>How America Saves</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>50</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“HowAmerica Saves 2010,” 50.</ref-fulltext>
+<ce:source-text>“HowAmerica Saves 2010,” 50.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-sourcetitle>2011 Investment Company Fact Book</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>104</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>119</ref-text>
+</ref-info>
+<ref-fulltext>2011 Investment Company Fact Book, 104, 119.</ref-fulltext>
+<ce:source-text>2011 Investment Company Fact Book, 104, 119.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.P.</ce:initials>
+<ce:surname>Dunleavy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>That Rush to Beat the Market</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York Times, April 12</ref-text>
+</ref-info>
+<ref-fulltext>M. P. Dunleavy, “That Rush to Beat the Market,” New York Times, April 12, 2009.</ref-fulltext>
+<ce:source-text>M. P. Dunleavy, “That Rush to Beat the Market,” NewYorkTimes, April 12, 2009.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-sourcetitle>How America Saves</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>51</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“How America Saves 2010,” 51.</ref-fulltext>
+<ce:source-text>“How America Saves 2010,” 51.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Big Slide in 401(k)s Spurs Call for Change</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Laise</ce:surname>
+<ce:given-name>Eleanor</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>January 8</ref-text>
+</ref-info>
+<ref-fulltext>Eleanor Laise, “Big Slide in 401(k)s Spurs Call for Change,” Wall Street Journal, January 8, 2009.</ref-fulltext>
+<ce:source-text>Eleanor Laise, “Big Slide in 401(k)s Spurs Call for Change,” Wall Street Journal, January 8, 2009.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Marino</ce:surname>
+<ce:given-name>Vivian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Big Dividends in Dangerous Terrain</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York Times, March 1</ref-text>
+</ref-info>
+<ref-fulltext>Vivian Marino, “Big Dividends in Dangerous Terrain,” New York Times, March 1, 2009.</ref-fulltext>
+<ce:source-text>Vivian Marino, “Big Dividends in Dangerous Terrain,” New York Times, March 1, 2009.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-sourcetitle>Morningstar Target-Date Series Research Paper</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>31</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Industry Survey</ref-text>
+</ref-info>
+<ref-fulltext>Morningstar Target-Date Series Research Paper: 2010 Industry Survey, 31.</ref-fulltext>
+<ce:source-text>Morningstar Target-Date Series Research Paper: 2010 Industry Survey, 31.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Christopher L</ce:surname>
+<ce:given-name>Jones</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>167</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Hoboken, NJ: John Wiley &amp; Sons</ref-text>
+</ref-info>
+<ref-fulltext>ChristopherL.Jones, The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines (Hoboken, NJ: John Wiley &amp; Sons, 2008), 167.</ref-fulltext>
+<ce:source-text>ChristopherL.Jones, The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines (Hoboken, NJ: John Wiley &amp; Sons, 2008), 167.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-sourcetitle>How America Saves</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>60</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>“How America Saves 2010,” 60</ref-fulltext>
+<ce:source-text>“How America Saves 2010,” 60</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-sourcetitle>Prime Number</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>New York Times, September 12</ref-text>
+</ref-info>
+<ref-fulltext>“Prime Number,” New York Times, September 12, 2010.</ref-fulltext>
+<ce:source-text>“Prime Number,” New York Times, September 12, 2010.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Hinton</ce:surname>
+<ce:given-name>Christopher</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>UAL Says Bankruptcy Rumor is Completely Untrue</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>MarketWatch, September 8</ref-text>
+</ref-info>
+<ref-fulltext>Christopher Hinton, “UAL Says Bankruptcy Rumor Is Completely Untrue,” MarketWatch, September 8, 2008.</ref-fulltext>
+<ce:source-text>Christopher Hinton, “UAL Says Bankruptcy Rumor Is Completely Untrue,” MarketWatch, September 8, 2008.</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>De Aenlle</ce:surname>
+<ce:given-name>Conrad</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>When Emotions Move the Markets</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York Times October 11</ref-text>
+</ref-info>
+<ref-fulltext>Conrad de Aenlle, “When Emotions Move the Markets,” New York Times, October 11, 2009.</ref-fulltext>
+<ce:source-text>Conrad de Aenlle, “When Emotions Move the Markets,” New York Times, October 11, 2009.</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Tilson</ce:surname>
+<ce:given-name>Whitney</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Heins</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Long and Strong</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Forbes, January 18</ref-text>
+</ref-info>
+<ref-fulltext>Whitney Tilson and John Heins, “Long and Strong,” Forbes, January 18, 2010.</ref-fulltext>
+<ce:source-text>Whitney Tilson and John Heins, “Long and Strong,” Forbes, January 18, 2010.</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Severson</ce:surname>
+<ce:given-name>Kim</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Gets Ready to Count Calories</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-text>New York Times December 13</ref-text>
+</ref-info>
+<ref-fulltext>Kim Severson, “New York Gets Ready to Count Calories,” New York Times, December 13, 2006.</ref-fulltext>
+<ce:source-text>Kim Severson, “New York Gets Ready to Count Calories,” New York Times, December 13, 2006.</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.L.</ce:initials>
+<ce:surname>Jones</ce:surname>
+<ce:given-name>Christopher L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>126</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Hoboken, NJ: John Wiley &amp; Sons, 2008</ref-text>
+</ref-info>
+<ref-fulltext>Christopher L. Jones, The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines (Hoboken, NJ: John Wiley &amp; Sons, 2008), 126</ref-fulltext>
+<ce:source-text>Christopher L. Jones, The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines (Hoboken, NJ: John Wiley &amp; Sons, 2008), 126</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:surname>Hirsch</ce:surname>
+<ce:given-name>Jeffrey A.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Hirsch</ce:surname>
+<ce:given-name>Yale</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Stock Trader’s Almanac 2010</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<page-information>
+<pages-text>161, 162, 169, 170</pages-text>
+</page-information>
+</volisspag>
+<ref-text>Hoboken, NJ: John Wiley &amp; Sons</ref-text>
+</ref-info>
+<ref-fulltext>Jeffrey A. Hirsch and Yale Hirsch, Stock Trader’s Almanac 2010 (Hoboken, NJ: John Wiley &amp; Sons, 2010), 161, 162, 169, 170.</ref-fulltext>
+<ce:source-text>Jeffrey A. Hirsch and Yale Hirsch, Stock Trader’s Almanac 2010 (Hoboken, NJ: John Wiley &amp; Sons, 2010), 161, 162, 169, 170.</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>GDP (Official Exchange Rate)</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>The World Factbook</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Central Intelligence Agency Washington, DC: Government Printing Office</ref-text>
+</ref-info>
+<ref-fulltext>“GDP (Official Exchange Rate),” in The World Factbook, Central Intelligence Agency (Washington, DC: Government Printing Office, 2010).</ref-fulltext>
+<ce:source-text>“GDP (Official Exchange Rate),” in The World Factbook, Central Intelligence Agency (Washington, DC: Government Printing Office, 2010).</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.J.</ce:initials>
+<ce:surname>Lim</ce:surname>
+<ce:given-name>Paul J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A U-Turn on Market Risk</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York Times, July 5</ref-text>
+</ref-info>
+<ref-fulltext>Paul J. Lim, “A U-Turn on Market Risk,” New York Times, July 5, 2009.</ref-fulltext>
+<ce:source-text>Paul J. Lim, “A U-Turn on Market Risk,” New York Times, July 5, 2009.</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.G.</ce:initials>
+<ce:surname>Rubin</ce:surname>
+<ce:given-name>Allen G.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oil and You</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">www.earthlink.net</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Allen G. Rubin, “Oil and You,” www.earthlink.net, p. 2.</ref-fulltext>
+<ce:source-text>Allen G. Rubin, “Oil and You,” www.earthlink.net, p. 2.</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Employment Status of the Civilian Noninstitutional Population 16 Years and Over, 1970 to Date</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Bureau of Labor Statistics</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Household Data Historical September</ref-text>
+</ref-info>
+<ref-fulltext>“Employment Status of the Civilian Noninstitutional Population 16 Years and Over, 1970 to Date,” Bureau of Labor Statistics, Household Data Historical, September 2009.</ref-fulltext>
+<ce:source-text>“Employment Status of the Civilian Noninstitutional Population 16 Years and Over, 1970 to Date,” Bureau of Labor Statistics, Household Data Historical, September 2009.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.N.M.D.</ce:initials>
+<ce:surname>Butler</ce:surname>
+<ce:given-name>Robert N.M.D</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Longevity Revolution: The Benefits and Challenges Of Living a Longer Life</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>New York: PublicAffairs</ref-text>
+</ref-info>
+<ref-fulltext>Robert N. Butler, M.D., The Longevity Revolution: The Benefits and Challenges of Living a Longer Life (New York: PublicAffairs, 2008).</ref-fulltext>
+<ce:source-text>Robert N. Butler, M.D., The Longevity Revolution: The Benefits and Challenges of Living a Longer Life (New York: PublicAffairs, 2008).</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Rugaber</ce:surname>
+<ce:given-name>Christopher</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Movie industry’s Short-Sighted Fight</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>San Francisco Chronicle, March 10</ref-text>
+</ref-info>
+<ref-fulltext>Christopher Rugaber, “Movie industry’s short-sighted fight,” San Francisco Chronicle, March 10, 2009.</ref-fulltext>
+<ce:source-text>Christopher Rugaber, “Movie industry’s short-sighted fight,” San Francisco Chronicle, March 10, 2009.</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.I.I.</ce:initials>
+<ce:surname>Harry Hurt</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Generation with More than Hand-Eye Coordination</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>New York Times, December 21</ref-text>
+</ref-info>
+<ref-fulltext>Harry Hurt III, “A Generation with More than Hand-Eye Coordination,” New York Times, December 21, 2008.</ref-fulltext>
+<ce:source-text>Harry Hurt III, “A Generation with More than Hand-Eye Coordination,” New York Times, December 21, 2008.</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Stein</ce:surname>
+<ce:given-name>Ben</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Smoot-Hawley Act is More than a Laugh Line</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York Times, May 10</ref-text>
+</ref-info>
+<ref-fulltext>Ben Stein, “The Smoot-Hawley Act Is More Than a Laugh Line,” New York Times, May 10, 2009.</ref-fulltext>
+<ce:source-text>Ben Stein, “The Smoot-Hawley Act Is More Than a Laugh Line,” New York Times, May 10, 2009.</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Morgenson</ce:surname>
+<ce:given-name>Gretchen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Debt’s Deadly Grip</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>New York Times, August 22</ref-text>
+</ref-info>
+<ref-fulltext>Gretchen Morgenson, “Debt’s Deadly Grip, ” New York Times, August 22, 2010.</ref-fulltext>
+<ce:source-text>Gretchen Morgenson, “Debt’s Deadly Grip, ” New York Times, August 22, 2010.</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-sourcetitle>Prime Number</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>New York Times, September 19</ref-text>
+</ref-info>
+<ref-fulltext>“Prime Number,” New York Times, September 19, 2010.</ref-fulltext>
+<ce:source-text>“Prime Number,” New York Times, September 19, 2010.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Anderson</ce:surname>
+<ce:given-name>Doug</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Below The Topline: The Recession &amp; Declining Immigration</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Nielsenwire, September 1</ref-text>
+</ref-info>
+<ref-fulltext>Doug Anderson, “Below the Topline: The Recession &amp; Declining Immigration,” Nielsenwire, September 1, 2009.</ref-fulltext>
+<ce:source-text>Doug Anderson, “Below the Topline: The Recession &amp; Declining Immigration,” Nielsenwire, September 1, 2009.</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Anderson</ce:surname>
+<ce:given-name>Doug</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Below the Topline: Women’s Growing Economic Power</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Nielsenwire, October 6</ref-text>
+</ref-info>
+<ref-fulltext>Doug Anderson, “Below the Topline: Women’s Growing Economic Power,” Nielsenwire, October 6, 2009.</ref-fulltext>
+<ce:source-text>Doug Anderson, “Below the Topline: Women’s Growing Economic Power,” Nielsenwire, October 6, 2009.</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Trend Analysis of the Sex Ratio At Birth in the United States</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.J.</ce:initials>
+<ce:surname>Matthew</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>B.E.</ce:initials>
+<ce:surname>Hamilton</ce:surname>
+<ce:given-name>Brady E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>National Vital Statistics Reports, Center for Disease Control and Prevention, National Center for Health Statistics</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>53</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>10</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>No. 20 June 14, Table 1</ref-text>
+</ref-info>
+<ref-fulltext>T. J. Matthew and Brady E. Hamilton, “Trend Analysis of the Sex Ratio at Birth in the United States National Vital Statistics Reports, Center for Disease Control and Prevention, National Center for Health Statistics, Vol. 53, No. 20, June 14, 2005, Table 1, p. 10.</ref-fulltext>
+<ce:source-text>T. J. Matthew and Brady E. Hamilton, “Trend Analysis of the Sex Ratio at Birth in the United States National Vital Statistics Reports, Center for Disease Control and Prevention, National Center for Health Statistics, Vol. 53, No. 20, June 14, 2005, Table 1, p. 10.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Deaths: Final Data for 2005</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.-C.</ce:initials>
+<ce:surname>Kung</ce:surname>
+<ce:given-name>Hsiang-Ching</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.L.</ce:initials>
+<ce:surname>Hoyert</ce:surname>
+<ce:given-name>Donna L.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>X.</ce:initials>
+<ce:surname>Jiaquan</ce:surname>
+<ce:given-name>Xu</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>S.L.</ce:initials>
+<ce:surname>Murphy</ce:surname>
+<ce:given-name>Sherry L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>U.S. Department of Health and Human Services Centers for Disease Control and Prevention, National Center for Health Statistics National Vital Statistics Reports</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>56</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>No. 10, April 24</ref-text>
+</ref-info>
+<ref-fulltext>Hsiang-Ching Kung, Donna L. Hoyert, Jiaquan Xu, and Sherry L. Murphy, “Deaths: Final Data for 2005,” U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Health Statis tics, National Vital Statistics Reports, Vol. 56, No. 10, April 24, 2008.</ref-fulltext>
+<ce:source-text>Hsiang-Ching Kung, Donna L. Hoyert, Jiaquan Xu, and Sherry L. Murphy, “Deaths: Final Data for 2005,” U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Health Statis tics, National Vital Statistics Reports, Vol. 56, No. 10, April 24, 2008.</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>U.S. Census Bureau Newsroom</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Facts for Features: Women’s History Month, March 2010</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>January 5</ref-text>
+</ref-info>
+<ref-fulltext>“Facts for Features: Women’s History Month, March 2010,” U.S. Census Bureau Newsroom, January 5, 2010.</ref-fulltext>
+<ce:source-text>“Facts for Features: Women’s History Month, March 2010,” U.S. Census Bureau Newsroom, January 5, 2010.</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Demographic Trends in the 20th Century</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Hobbs</ce:surname>
+<ce:given-name>Frank</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Stoop</ce:surname>
+<ce:given-name>Nicole</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Census 2000 Special Reports, U.S. Department of Commerce, Economics and Statistics Administration</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>62</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>U.S. Census Bureau, November</ref-text>
+</ref-info>
+<ref-fulltext>Frank Hobbs and Nicole Stoops, “Demographic Trends in the 20th Century,” Census 2000 Special Reports, U.S. Department of Commerce, Economics and Statistics Administration, U.S. Census Bureau, November 2002, 62.</ref-fulltext>
+<ce:source-text>Frank Hobbs and Nicole Stoops, “Demographic Trends in the 20th Century,” Census 2000 Special Reports, U.S. Department of Commerce, Economics and Statistics Administration, U.S. Census Bureau, November 2002, 62.</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-sourcetitle>Monthly Budget Review</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Congressional Budget Office, October</ref-text>
+</ref-info>
+<ref-fulltext>“Monthly Budget Review,” Congressional Budget Office, October 2010.</ref-fulltext>
+<ce:source-text>“Monthly Budget Review,” Congressional Budget Office, October 2010.</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Calmas</ce:surname>
+<ce:given-name>Jackie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Budget Gap is Revised to Surpass $1.8 Trillion</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York Times, May 12</ref-text>
+</ref-info>
+<ref-fulltext>Jackie Calmas, “Budget Gap Is Revised to Surpass $1.8 Trillion,” New York Times, May 12, 2009.</ref-fulltext>
+<ce:source-text>Jackie Calmas, “Budget Gap Is Revised to Surpass $1.8 Trillion,” New York Times, May 12, 2009.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.C.</ce:initials>
+<ce:surname>Goss</ce:surname>
+<ce:given-name>Stephen C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Presentation at Enrolled Actuaries meeting</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Chief Actuary, Social Security Administration April 14</ref-text>
+</ref-info>
+<ref-fulltext>StephenC.Goss, Chief Actuary, Social Security Administration, April 14, 2010, presentation at Enrolled Actuaries meeting</ref-fulltext>
+<ce:source-text>StephenC.Goss, Chief Actuary, Social Security Administration, April 14, 2010, presentation at Enrolled Actuaries meeting</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Defined Benefit vs. 401(k) Plans: Investment Returns for 2003–2006</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Watson Wyatt Insider</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>June</ref-text>
+</ref-info>
+<ref-fulltext>“Defined Benefit vs. 401(k) Plans: Investment Returns for 2003–2006,” Watson Wyatt Insider, June 2008, 5.</ref-fulltext>
+<ce:source-text>“Defined Benefit vs. 401(k) Plans: Investment Returns for 2003–2006,” Watson Wyatt Insider, June 2008, 5.</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Damodaran</ce:surname>
+<ce:given-name>Aswath</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Annual Returns on Stock</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">http://pages.stern.nyu.edu/adamodar/NewHomePage/datafile/histretSP.html</ce:e-address>
+</ref-website>
+<ref-text>T.Bonds and T.Bills: 1928 Current</ref-text>
+</ref-info>
+<ref-fulltext>Aswath Damodaran, “Annual Returns on Stock, T.Bonds and T.Bills: 1928 Current,” http://pages.stern.nyu.edu/adamodar/NewHomePage/datafile/histretSP.html.</ref-fulltext>
+<ce:source-text>Aswath Damodaran, “Annual Returns on Stock, T.Bonds and T.Bills: 1928 Current,” http://pages.stern.nyu.edu/adamodar/NewHomePage/datafile/histretSP.html.</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What’s Ahead for the Markets and the Economy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.J.</ce:initials>
+<ce:surname>Siegel</ce:surname>
+<ce:given-name>Jeremy J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pension Group Investment Forum</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>March 23</ref-text>
+</ref-info>
+<ref-fulltext>Jeremy J. Siegel, “What’s Ahead for the Markets and the Economy,” Pension Group Investment Forum, March 23, 2010.</ref-fulltext>
+<ce:source-text>Jeremy J. Siegel, “What’s Ahead for the Markets and the Economy,” Pension Group Investment Forum, March 23, 2010.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-sourcetitle>Global Capital Markets: Entering a New Era</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">www.mckinsey.com/mgi/publications/gcmsixthannualreport/executivesummary.asp</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Global Capital Markets: Entering a New Era,” www.mckinsey.com/mgi/publications/gcmsixthannualreport/executivesummary.asp.</ref-fulltext>
+<ce:source-text>Global Capital Markets: Entering a New Era,” www.mckinsey.com/mgi/publications/gcmsixthannualreport/executivesummary.asp.</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Miller</ce:surname>
+<ce:given-name>Matthew</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Greenberg</ce:surname>
+<ce:given-name>Duncan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Forbes 400</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Forbes, September 30</ref-text>
+</ref-info>
+<ref-fulltext>Matthew Miller and Duncan Greenberg, eds. “The Forbes 400,” Forbes, September 30, 2009.</ref-fulltext>
+<ce:source-text>Matthew Miller and Duncan Greenberg, eds. “The Forbes 400,” Forbes, September 30, 2009.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Appell</ce:surname>
+<ce:given-name>Douglas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Worldwide Assets Rebound 18% in 2009</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">www.pionline.com/article/20100628/PRINTSUB/306289977</ce:e-address>
+</ref-website>
+<ref-text>June 28</ref-text>
+</ref-info>
+<ref-fulltext>Douglas Appell, “Worldwide Assets Rebound 18% in 2009,” June 28, 2010, www.pionline.com/article/20100628/PRINTSUB/306289977.</ref-fulltext>
+<ce:source-text>Douglas Appell, “Worldwide Assets Rebound 18% in 2009,” June 28, 2010, www.pionline.com/article/20100628/PRINTSUB/306289977.</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Deloitte Consulting</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>401(k)Benchmarking Survey</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>LLP</ref-text>
+</ref-info>
+<ref-fulltext>401(k) Benchmarking Survey, 2008 ed., Deloitte Consulting, LLP, 7</ref-fulltext>
+<ce:source-text>401(k) Benchmarking Survey, 2008 ed., Deloitte Consulting, LLP, 7</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Ptak</ce:surname>
+<ce:given-name>Stephanie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Investors Regain Footing</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Dalbar, Inc, March 31</ref-text>
+</ref-info>
+<ref-fulltext>Stephanie Ptak, “Investors Regain Footing,” Dalbar, Inc., March 31, 2010.</ref-fulltext>
+<ce:source-text>Stephanie Ptak, “Investors Regain Footing,” Dalbar, Inc., March 31, 2010.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Christopher L</ce:surname>
+<ce:given-name>Jones</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>80</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Hoboken, NJ: John Wiley &amp; Sons</ref-text>
+</ref-info>
+<ref-fulltext>ChristopherL.Jones, The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines (Hoboken, NJ: John Wiley &amp; Sons, 2008), 80.</ref-fulltext>
+<ce:source-text>ChristopherL.Jones, The Intelligent Portfolio: Practical Wisdom on Personal Investing from Financial Engines (Hoboken, NJ: John Wiley &amp; Sons, 2008), 80.</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Kotkin</ce:surname>
+<ce:given-name>Stephen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Bear Saw around the Corner</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York Times, January 3</ref-text>
+</ref-info>
+<ref-fulltext>Stephen Kotkin, “A Bear Saw around the Corner,” New York Times, January 3, 2009.</ref-fulltext>
+<ce:source-text>Stephen Kotkin, “A Bear Saw around the Corner,” New York Times, January 3, 2009.</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Jaffe</ce:surname>
+<ce:given-name>Charles</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Motley Fool Rushes into Mutual Funds</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>San Francisco Chron icle, January 25</ref-text>
+</ref-info>
+<ref-fulltext>CharlesJaffe, “Motley Fool Rushes into Mutual Funds,” San Francisco Chron icle, January 25, 2009.</ref-fulltext>
+<ce:source-text>CharlesJaffe, “Motley Fool Rushes into Mutual Funds,” San Francisco Chron icle, January 25, 2009.</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Vanguard Group</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>51</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>"How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data,” Vanguard Group, 51.</ref-fulltext>
+<ce:source-text>"How America Saves 2010: A Report on Vanguard 2009 Defined Contribution Plan Data,” Vanguard Group, 51.</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Relentless Rules of Humble Arithmetic</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Bogle</ce:surname>
+<ce:given-name>Jhon C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Analysts Journal</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>November/December 2005</ref-text>
+</ref-info>
+<ref-fulltext>John C. Bogle, “The Relentless Rules of Humble Arithmetic,” Financial Analysts Journal (November/December 2005), 1.</ref-fulltext>
+<ce:source-text>John C. Bogle, “The Relentless Rules of Humble Arithmetic,” Financial Analysts Journal (November/December 2005), 1.</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Johnson</ce:surname>
+<ce:given-name>Kim</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Krueger</ce:surname>
+<ce:given-name>Tom</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Market Timing versus Dollar-Cost Averaging: Evidence Based on Two Decades of Standard &amp; Poor’s 500 Index Values</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">www.valueaveraging.ca/docs/AnalysisDollarCostAveraging.pdf</ce:e-address>
+</ref-website>
+<ref-text>500 Index Values</ref-text>
+</ref-info>
+<ref-fulltext>Kim Johnson and Tom Krueger, “Market Timing versus Dollar-Cost Averag ing: Evidence Based on Two Decades of Standard &amp; Poor’s 500 Index Values,” 2003, 3. www.valueaveraging.ca/docs/AnalysisDollarCostAveraging.pdf.</ref-fulltext>
+<ce:source-text>Kim Johnson and Tom Krueger, “Market Timing versus Dollar-Cost Averag ing: Evidence Based on Two Decades of Standard &amp; Poor’s 500 Index Values,” 2003, 3. www.valueaveraging.ca/docs/AnalysisDollarCostAveraging.pdf.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-title>
+<ref-titletext-english>ETFs Seek Room in Your 401(k)</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Gullapalli</ce:surname>
+<ce:given-name>Diya</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-text>September 10</ref-text>
+</ref-info>
+<ref-fulltext>Diya Gullapalli, “ETFs Seek Room in Your 401(k),” Wall Street Journal, September 10, 2007.</ref-fulltext>
+<ce:source-text>Diya Gullapalli, “ETFs Seek Room in Your 401(k),” Wall Street Journal, September 10, 2007.</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Fidelity Investments</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Spartan 500 Index Fund</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>April 29</ref-text>
+</ref-info>
+<ref-fulltext>“Spartan 500 Index Fund,” Fidelity Investments, April 29, 2010, 9.</ref-fulltext>
+<ce:source-text>“Spartan 500 Index Fund,” Fidelity Investments, April 29, 2010, 9.</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-sourcetitle>Vanguard Institutional Index Fund Prospectus</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>27</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>April 29</ref-text>
+</ref-info>
+<ref-fulltext>Vanguard Institutional Index Fund prospectus, April 29, 2010, 27</ref-fulltext>
+<ce:source-text>Vanguard Institutional Index Fund prospectus, April 29, 2010, 27</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-sourcetitle>Father Mike Healy’s sermon at Saint Bartholomew Parish Community</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>San Mateo, CA, June 14</ref-text>
+</ref-info>
+<ref-fulltext>Father Mike Healy’s sermon at Saint Bartholomew Parish Community, San Mateo, CA, June 14, 2009.</ref-fulltext>
+<ce:source-text>Father Mike Healy’s sermon at Saint Bartholomew Parish Community, San Mateo, CA, June 14, 2009.</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Graham</ce:surname>
+<ce:given-name>Benjamin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Intelligent Investor: The Definitive Book on Value Investing</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>89</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>New York: HarperCollins, rev. ed</ref-text>
+</ref-info>
+<ref-fulltext>Benjamin Graham, The Intelligent Investor: The Definitive Book on Value Investing, rev. ed. (New York: HarperCollins, 2006), 89.</ref-fulltext>
+<ce:source-text>Benjamin Graham, The Intelligent Investor: The Definitive Book on Value Investing, rev. ed. (New York: HarperCollins, 2006), 89.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Morrissey</ce:surname>
+<ce:given-name>Janet</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Ways to Shelter Your Retirement</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Fortune, August 19, 2009</ref-text>
+</ref-info>
+<ref-fulltext>Janet Morrissey, “New Ways to Shelter Your Retirement,” Fortune, August 19, 2009.</ref-fulltext>
+<ce:source-text>Janet Morrissey, “New Ways to Shelter Your Retirement,” Fortune, August 19, 2009.</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-sourcetitle>Global Capital Markets: Entering a New Era</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">www.mckinsey.com/mgi/publications/gcmsixthannualreport/executivesummary.asp</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Global Capital Markets: Entering a New Era,” www.mckinsey.com/mgi/publications/gcmsixthannualreport/executivesummary.asp.</ref-fulltext>
+<ce:source-text>Global Capital Markets: Entering a New Era,” www.mckinsey.com/mgi/publications/gcmsixthannualreport/executivesummary.asp.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit>
+</units>

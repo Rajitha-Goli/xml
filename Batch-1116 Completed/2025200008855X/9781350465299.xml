@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-01T10:39:09</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Contemporary Plays from Iraq: Volume II</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Al-Azraki</ce:surname>
+<ce:given-name>Amir</ce:given-name>
+</author>
+<affiliation>
+<organization>Renison University College</organization>
+<city>Waterloo</city>
+<country iso-code="CAN"/>
+<ce:source-text>Amir Al-Azraki is a playwright, literary translator, Theatre of the Oppressed practitioner, and Associate Professor and Coordinator of the Studies in Islamic and Arab Cultures Program at Renison University College, University of Waterloo. Among his plays are: Waiting for Gilgamesh: Scenes from Iraq, The Mug, and The Widow . Al- Azraki is the translator of Africanism: Blacks in the Medieval Arab Imaginary, author of The Discourse of War in Contemporary Theatre (in Arabic), co-editor and cotranslator of Contemporary Plays from Iraq, “A Rehearsal for Revolution”: An Approach to Theatre of the Oppressed (in Arabic), and co-editor and co-translator of Arabic poetry in Consequence, The Common, Poetry Foundation, and Talking Writing</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Casey</ce:surname>
+<ce:given-name>Jeff</ce:given-name>
+</author>
+<affiliation>
+<organization>Norwich University</organization>
+<country iso-code="USA"/>
+<ce:source-text>Jeff Casey is Associate Professor of Theatre and Theatre Director at Norwich University. His scholarly articles have appeared in Theatre Topics, Quarterly Review of Film and Video, Modern Drama, and Ecumenica . He works extensively as a theatre director, producer, designer, dramaturge, and playwright. His directing credits include Cabaret, Chicago, Kafka’s The Trial, Voices from a People’s History of the United States, Harold Pinter’s Party Time and The New World Order, and Neil Simon’s Rumors</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Amir Al-Azraki and James Al-Shamma, 2025</publishercopyright>
+<ce:para>Eleven plays that respond to the aftermath of the American-led invasion, providing a window into Iraq's cultural and theatrical landscape during a time of profound change. Standing as a testament to Iraq's enduring spirit and its deep-rooted tradition of political theatre, this volume expands on the previous instalment, showcasing the themes and dramatic styles that help define the country's art. From grappling with trauma, terrorism, and alienation to portraying love, resilience, and resistance, these plays offer a vivid portrayal of post-invasion Iraq, serving as an essential anthology for theatre enthusiasts, Middle Eastern theatre students, and anyone curious about the human stories emerging from this turbulent period. More than a collection of plays though, each work includes a personal introduction by its playwright, shedding light on their creative motivations and the historical backdrop that inspired these powerful pieces. Through these translated plays, Contemporary Plays from Iraq Volume II brings to the forefront narratives often overlooked or silenced, highlighting on the experiences of those marginalized by conflict, extremism, and societal norms. Featureing a general introduction that provides a more focused exploration of the issues, themes, challenges, and dramatic styles that define contemporary theatre in Iraq after the war, as well as serves as a vital roadmap for understanding the broader context in which these plays unfoldUnique, comprehensive, and diverse in its exploration of Iraqi theatre, and enriched by the insights of the playwrights themselves, this is a collection of voices that deserve to be heard and understood</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>257</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">A Cemetery</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Al-Abadi</ce:surname>
+<ce:given-name>Ali</ce:given-name>
+</author>
+<affiliation>
+<organization>International Cairo University Theater Forum</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ"/>
+<ce:source-text>Ali Al-Abadi is a playwright, director, and actor from Karbala and holds a Master’s degree in Theatre Arts from the College of Fine Arts at the University of Baghdad. Among his plays are The Black Suitcases (al- Ḥ aq ā ʾ ib al-S ū d), I Am Not Crazy (An ā Lastu Majn ū n), and Women’s Bath (Ḥ ammam Nisw ā n). His plays have been presented in numerous countries, including Oman, Kuwait, Jordan, Libya, Belgium, Germany, Morocco, Algeria, and Tunisia. He has received numerous awards, including the best play at the International Cairo University Theater Forum in Egypt in 2021</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.</ce:initials>
+<ce:surname>Al-Abadi</ce:surname>
+<ce:given-name>Ali</ce:given-name>
+</person>
+<affiliation>
+<organization>International Cairo University Theater Forum</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ"/>
+<ce:source-text>Ali Al-Abadi is a playwright, director, and actor from Karbala and holds a Master’s degree in Theatre Arts from the College of Fine Arts at the University of Baghdad. Among his plays are The Black Suitcases (al- Ḥ aq ā ʾ ib al-S ū d), I Am Not Crazy (An ā Lastu Majn ū n), and Women’s Bath (Ḥ ammam Nisw ā n). His plays have been presented in numerous countries, including Oman, Kuwait, Jordan, Libya, Belgium, Germany, Morocco, Algeria, and Tunisia. He has received numerous awards, including the best play at the International Cairo University Theater Forum in Egypt in 2021.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>A Cemetery © Ali Al-Abadi, 2025</publishercopyright>
+<ce:para>A Cemetery combines protest and satire, refl ecting the grim reality of gratuitous death in Iraq. Iraq offers fertile ground to engage in dialogues about our culture through art to address topics that distinguish it from other countries. The rhythm of memory shifts progressively from tragedy to massacre to the bloody present, at times making one feel as though each Iraqi is nothing but a potential corpse. Given the upheavals the country has faced, epitomized by the phenomenon of gratuitous death, it became imperative for us to confront it, often through satire. A Cemetery belongs to the realm of theatre of the absurd, seeking to critically expose the crisis of existence in the Arab region through the politics of death, condemning it and the destruction that has befallen Arabs and Iraqis in particular</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>24</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Robots</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Al-Taee</ce:surname>
+<ce:given-name>Faten</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Babylon</organization>
+<country iso-code="IRQ"/>
+<ce:source-text>Faten Al-Taee is a writer from Babel and an Assistant Professor at the Department of Theatre Arts, University of Babylon. Among her plays are Ash Color Bread (Khubz bilawn al-Ram ā d), Colonization (ʾ Ist ī ṭ ā n), and Another Enemy (ʿ Adu Ā khar). She is an award-winning actress, having received accolades for her performances at several festivals. Among her research work are Chaos Theory in Postmodern Theatre, Satire in Arab Theatre, and Intellectual Transformations and Their Impact on Women</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>F.</ce:initials>
+<ce:surname>Al-Taee</ce:surname>
+<ce:given-name>Faten</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Babylon</organization>
+<country iso-code="IRQ"/>
+<ce:source-text>Faten Al-Taee is a writer from Babel and an Assistant Professor at the Department of Theatre Arts, University of Babylon. Among her plays are Ash Color Bread (Khubz bilawn al-Ram ā d), Colonization (ʾ Ist ī ṭ ā n), and Another Enemy (ʿ Adu Ā khar). She is an award-winning actress, having received accolades for her performances at several festivals. Among her research work are Chaos Theory in Postmodern Theatre, Satire in Arab Theatre, and Intellectual Transformations and Their Impact on Women</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Robots © Faten Al-Taee, 2025</publishercopyright>
+<ce:para>Breaking the norms of Iraqi traditions, this play focuses on the customs of marriage and gender. In this marriage, the husband and wife have differing awarenesses of the traditions that shape their consciousness. While the husband seeks a path of nonconformity, the wife remains in the cycle of repeating the roles of mother, sister, and daughter and all the customs of the wedding night. She fears her mother, her father, the cat, and those relatives who stand behind the door. However, despite all this, the husband remains steadfast, afraid of nothing but his wife rehearsing social norms to please him. Surprisingly, it is the wife who feels compelled to subjugate herself to the husband. She becomes a machine imitating cultural norms, evolving into an actual robot. The play depicts a normal day in the life of the couple, from eating together to the sound of the tea kettle, the game between the husband and the robot, then transitioning to the dark bedroom, the robot at the center, with the hymn of the child confi rming the controlling routine that neither the husband nor the wife tries to break. The wife is metaphorically no longer alive, and in the courtroom, the husband is found guilty of murdering his wife. The judge, limited in his thinking by cultural norms, is unable to see the case critically. As such, the play emphasizes that each individual should critically examine their culture and become agents who develop their own opinions and principles not dictated by customs and traditions. Social issues occupy a signifi cant space in my thinking as a playwright. I pay attention to my surrounding environment, to portray societal phenomena vividly through drama. The play depicts several issues and confl icts: the customs and traditions of the wedding night and marriage; the idea of women’s eternal honor and their role as victims and sacrifi ces; the dysfunctional relationship between the husband and wife; the husband and his father about the inheritance; and, fi nally, the husband and the judge about the murder of his wife. The other core problematic issue is the individual’s selffl agellation and self-confl ict, exhibited in the wife who is adhering to the traditional role of her gender, accepted by her society but rejected by her husband. By representing societal issues, I explore and unveil a relationship between social and human ideas and their laws, all shaped through artistic frames. My aim is to create aesthetic and philosophical images of what society should be and what it can become.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>25</first-page>
+<last-page>42</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Women of War</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Al-Asadi</ce:surname>
+<ce:given-name>Jawad</ce:given-name>
+</author>
+<affiliation>
+<organization>Prince Claus Award</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ"/>
+<ce:source-text>Jawad Al-Asadi, born in Karbala, Iraq in 1947, is a distinguished theatre director and playwright. He studied theatre at the Baghdad Academy of Fine Arts and graduated in 1972. He began his career in Baghdad, working alongside the renowned Modern Art Theatre Group for several years then went to Bulgaria and fi nished his PhD in 1983. Al-Assadi is widely recognized as a leading director and playwright in the Arab world and has been honored with the prestigious Prince Claus Award for his commitment to the freedom of cultural expression. Over the course of 25 years as an expatriate, residing in various Arab countries, he has written several plays that have been translated into English, Russian, and French. Among his notable works are Baghdadi Bath (Ḥ amm ā m Baghdadi), Women of War (Nis ā ʾ al-Harb), and Forget Hamlet (Ens ū Hamlet)</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>J.</ce:initials>
+<ce:surname>Al-Asadi</ce:surname>
+<ce:given-name>Jawad</ce:given-name>
+</person>
+<affiliation>
+<organization>Prince Claus Award</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ"/>
+<ce:source-text>Jawad Al-Asadi, born in Karbala, Iraq in 1947, is a distinguished theatre director and playwright. He studied theatre at the Baghdad Academy of Fine Arts and graduated in 1972. He began his career in Baghdad, working alongside the renowned Modern Art Theatre Group for several years then went to Bulgaria and fi nished his PhD in 1983. Al-Assadi is widely recognized as a leading director and playwright in the Arab world and has been honored with the prestigious Prince Claus Award for his commitment to the freedom of cultural expression. Over the course of 25 years as an expatriate, residing in various Arab countries, he has written several plays that have been translated into English, Russian, and French. Among his notable works are Baghdadi Bath (Ḥ amm ā m Baghdadi), Women of War (Nis ā ʾ al-Harb), and Forget Hamlet (Ens ū Hamlet)</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Women of War © Jawad Al-Asadi, 2025</publishercopyright>
+<ce:para>Women of war, with their oppressive circumstances, displacement, and migration to lands other than their own, write their lives in exile. They struggle to fi nd acceptance in a new society and adapt to exile while longing for their homelands, from which they were forcibly driven away during times of social deterioration, the disintegration of human values, brutal repression, and free horizons closed off. In their struggle for a new life in foreign cities, with new traditions, and new ideas, the women fi nd themselves living a more refi ned and less harsh life, and with more freedom to enjoy artistic and intellectual pursuits, freedoms they lacked in their homelands. However, they experience a psychological confl ict when narrating their lives and trying to make sense of the violent and harsh realities they endured in their countries: the brutal abuse that left unprecedented torment in their souls. These women come from different homelands and, thus, have diverse expressions of their oppression and injustice, which color the play and give it a distinctive character.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>43</first-page>
+<last-page>78</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">The Mug</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Al-Azraki</ce:surname>
+<ce:given-name>Amir</ce:given-name>
+</author>
+<affiliation>
+<organization>Renison University College</organization>
+<city>Waterloo</city>
+<country iso-code="CAN"/>
+<ce:source-text>Amir Al-Azraki is a playwright, literary translator, Theatre of the Oppressed practitioner, and Associate Professor and Coordinator of the Studies in Islamic and Arab Cultures Program at Renison University College, University of Waterloo. Among his plays are: Waiting for Gilgamesh: Scenes from Iraq, The Mug, and The Widow . Al- Azraki is the translator of Africanism: Blacks in the Medieval Arab Imaginary, author of The Discourse of War in Contemporary Theatre (in Arabic), co-editor and cotranslator of Contemporary Plays from Iraq, “A Rehearsal for Revolution”: An Approach to Theatre of the Oppressed (in Arabic), and co-editor and co-translator of Arabic poetry in Consequence, The Common, Poetry Foundation, and Talking Writing</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.</ce:initials>
+<ce:surname>Al-Azraki</ce:surname>
+<ce:given-name>Amir</ce:given-name>
+</person>
+<affiliation>
+<organization>Renison University College</organization>
+<city>Waterloo</city>
+<country iso-code="CAN"/>
+<ce:source-text>Amir Al-Azraki is a playwright, literary translator, Theatre of the Oppressed practitioner, and Associate Professor and Coordinator of the Studies in Islamic and Arab Cultures Program at Renison University College, University of Waterloo. Among his plays are: Waiting for Gilgamesh: Scenes from Iraq, The Mug, and The Widow . Al- Azraki is the translator of Africanism: Blacks in the Medieval Arab Imaginary, author of The Discourse of War in Contemporary Theatre (in Arabic), co-editor and cotranslator of Contemporary Plays from Iraq, “A Rehearsal for Revolution”: An Approach to Theatre of the Oppressed (in Arabic), and co-editor and co-translator of Arabic poetry in Consequence, The Common, Poetry Foundation, and Talking Writing</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>The Mug © Amir Al-Azraki, 2025</publishercopyright>
+<ce:para>First presented in 2017 at the University of Waterloo and later echoing through the airwaves as an audio play during the UNESCO Short Play Festival in 2019 at the University of Otago, New Zealand, The Mug unveils a poignant narrative inspired by the harsh realities of an Iraqi artist refugee. In Canada, Arab refugees navigate the complex challenges of settlement, acculturation, and assimilation. This short play depicts the experiences of a theatre artist in his early 60s, grappling with the scars of a tumultuous past while navigating the challenges of a new life in Canada. I had the pleasure to visit this artist in his temporary residence in Kitchener, Ontario. Observing an array of mugs adorned with various university logos in his home, my curiosity about their signifi cance unraveled a deeply moving tale. Each mug, a token bestowed upon him after sharing the harrowing chronicles of his life in Iraq, became a tangible repository of his tribulations and triumphs. The artist’s wry comment about using these gifted mugs to sip Arag (a liquor), a bitter nod to the irony of solace found in such simple tokens, resonated with profound implications. As he uncovered his history, a mosaic of wounds and trauma emerged. Invited to speak at various universities and cultural events, he returns home to his wife and children, who are now struggling with linguistic and cultural dislocation in Canada, including the challenge of losing their profi ciency in Arabic and his own diffi culty in securing employment and learning English to communicate with his family and the community. Each night, grappling with disappointment and a sense of helplessness, he pours himself a drink in a university mug, listens to music, and immerses himself in memories of the past. The nightly ritual of pouring Arag into one of the universitybranded mugs became a cathartic act, intertwining with the strains of music and a nostalgic journey into his bygone life. Against the backdrop of a family struggling with fractured communication and unmet aspirations, the play unfolds a poignant narrative of agony, alienation, exploitation, nostalgia, desire, and despair. The Mug is inspired by the artist’s moving story. It sheds light on the journey of an Iraqi artist tortured in Saddam’s regime, who witnessed the loss of his sons during the American invasion, only to fi nd refuge in Canada. The play serves as a testament to the enduring human spirit, encapsulating the universal themes of resilience and the search for meaning amidst the ruins of a shattered past.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>79</first-page>
+<last-page>86</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Azrael</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Ghazi</ce:surname>
+<ce:given-name>Mithal</ce:given-name>
+</author>
+<affiliation>
+<organization>Ministry of Culture</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ"/>
+<ce:source-text>Mithal Ghazi is an Iraqi playwright born in 1967 in Baghdad. He holds a PhD in literature and theatrical criticism from the University of Baghdad, College of Fine Arts. Among his plays are What Doesn’t Come (Mal ā Ya ʾ t ī ; 1990), Abdullah bin Zubair (2001), Glut (al-Tukhma ; 2003), and Blackout (ʾ Ẓ l ā m ; 2011). Some of his plays have been translated into German and Japanese. He has made contributions to television drama and has written numerous plays for children’s theatre. He was awarded several accolades, including the Creativity Award from the Ministry of Culture in 2010 for his play Waiting for Rain (Fi ʾ Iti ẓ ā ral-Ma ṭ ar) and Sharjah Award for Arab Creativity in 2000</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>M.</ce:initials>
+<ce:surname>Ghazi</ce:surname>
+<ce:given-name>Mithal</ce:given-name>
+</person>
+<affiliation>
+<organization>Ministry of Culture</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ"/>
+<ce:source-text>Mithal Ghazi is an Iraqi playwright born in 1967 in Baghdad. He holds a PhD in literature and theatrical criticism from the University of Baghdad, College of Fine Arts. Among his plays are What Doesn’t Come (Mal ā Ya ʾ t ī ; 1990), Abdullah bin Zubair (2001), Glut (al-Tukhma ; 2003), and Blackout (ʾ Ẓ l ā m ; 2011). Some of his plays have been translated into German and Japanese. He has made contributions to television drama and has written numerous plays for children’s theatre. He was awarded several accolades, including the Creativity Award from the Ministry of Culture in 2010 for his play Waiting for Rain (Fi ʾ Iti ẓ ā ral-Ma ṭ ar) and Sharjah Award for Arab Creativity in 2000</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Azrael © Mithal Ghazi, 2025</publishercopyright>
+<ce:para>Azrael is an attempt to delve into the meaning of life and death in a country where the essence of meaning is lost amidst the contradictions in our lives. Azrael is a scream in the face of death, an attempt to make sense of this life that is precious to us as Iraqis. The play introduces Azrael, the eternal symbol, as a way to reckon with the profound political, social, and artistic signifi cance of life. It is a life whose constant tumult never ends, for nothing is worse than death. Life is more beautiful when our eyes are fi xed on its last light as we leave it unwillingly. In the mad cities where the power over life fl ows from the power to kill, the dividing line between life and death becomes blurred. It is necessary to unravel this confl ict by defi ning the space between these two worlds, and thus, the play becomes a platform for an immense philosophical debate between the Angel of Death, who is akin to a postal worker unaware of the joy and sorrow contained in their deliveries, and a comedic actress who plays many roles on stage, as a queen, a princess, and a pauper. However, her great roles cannot help to save her from death, as death is an authoritarian power that does not heed or succumb to the numerous rationales of living. Yet, the play tries to shift the power from the realm of death to the realm of life, allowing life to triumph in the end with Azrael taking on the burdens and aspirations of those whose lives he takes away. The play is an invitation to life more than it is an invitation to death. It is life—the most beautiful, the sweetest, and the most exemplary.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>87</first-page>
+<last-page>104</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Almas</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Al-Hadi</ce:surname>
+<ce:given-name>Muhaned</ce:given-name>
+</author>
+<affiliation>
+<organization>Baghdad International Theatre Festival</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ"/>
+<ce:source-text>Muhaned Al-Hadi is an actor, director, and playwright, originally from Baghdad but currently lives in France. He obtained his Diploma in Fine Arts from Baghdad in 1990. His plays include Curfew (Ha ḍ ar Tijw ā l), Hotspot (Qalb al- Ḥ adath), and Camp (K ā mb) . He has received numerous awards, including best actor at the National Award for Young Actors in Baghdad in 1999, best production at the Carthage Theatre Days Armature in Tunisia in 2007, and best director at the Baghdad International Theatre Festival in 2013.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>M.</ce:initials>
+<ce:surname>Al-Hadi</ce:surname>
+<ce:given-name>Muhaned</ce:given-name>
+</person>
+<affiliation>
+<organization>Ministry of Culture</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ"/>
+<ce:source-text>Muhaned Al-Hadi is an actor, director, and playwright, originally from Baghdad but currently lives in France. He obtained his Diploma in Fine Arts from Baghdad in 1990. His plays include Curfew (Ha ḍ ar Tijw ā l), Hotspot (Qalb al- Ḥ adath), and Camp (K ā mb) . He has received numerous awards, including best actor at the National Award for Young Actors in Baghdad in 1999, best production at the Carthage Theatre Days Armature in Tunisia in 2007, and best director at the Baghdad International Theatre Festival in 2013.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Almas © Muhaned Al-Hadi, 2025</publishercopyright>
+<ce:para>I wrote this play in 2019, as an artist-in-residence, funded by the Nora program at La Chartreuse Cnes de Villeneuve lez Avignon in France. The work was fi rst performed by students of the Conservatoire à rayonnement r é gional de Lyon. It was later nominated for the best translated play in Rhone-Alpes and was presented as a theatrical reading with professional actors in Th é â tre Nouvelle G é n é ration, Lyon. This play is about the enslavement and captivity of Yazidi and Christian women in northern Iraq by ISIS in 2014. When I was in France, I spoke with the dramaturge about my intention to write about a real event that occurred years ago in Iraq. He was shocked and said he had heard nothing of it. The group of students who presented the show thought the play was a product of imagination. It came as a huge shock when they learned that these were real events. Thus, this play provides a much-needed documentation of this unknown tragedy amidst the silence and indifference of Arab theatre. The world fell silent about the genocide of Yazidis and Christians, including Arab writers. Very few novels and plays attempted to address this tragedy. In total, there were fi ve plays and two novels. Arab theatre artists are afraid to address this story for many reasons, foremost among them is the artists’ sectarian prejudices. I was unsure if this play would see the stage, not because of the complexity of the text, but because the play would not sell in the Arab world. Almas is a painful story that refl ects an opportunistic world, and if it were in any other country, it would have gained wide recognition.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>105</first-page>
+<last-page>130</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Sardanapalus</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Al-Majidi</ce:surname>
+<ce:given-name>Khazal</ce:given-name>
+</author>
+<affiliation>
+<organization>Derna University</organization>
+<city>Derna</city>
+<country iso-code="LBY" />
+<ce:source-text>Khazal Al-Majidi is playwright, poet, and scholar in religions and ancient civilizations. He worked in the Cinema and Theatre Department, radio, TV, Iraqi magazines, and newspapers in Iraq. He taught at Babel College of Philosophy and Theology in Baghdad, Derna University in Libya, Leiden University in the Netherlands. Author of 114 books translated into English, French, Spanish, Romanian, Persian, and Kurdish. His 60 books cover civilizations, religions, mythology, Orientalism, art, and literary history. His plays are published in two volumes and eight collections. Among his plays are Hamlet without Hamlet (Hamlet Bil ā Hamlet ; 1992), Ziusudra (S ī dr ā ;1999), Yellow Music (Mus ī q ā Ṣ afr ā ; 2008), The Descent of Ishtar’s to Amiriya Shelter (Niz ū l ʿ Isht ā r ʾ l ā Malja ʾ al- ʿā mr ī ya ; 1994), and Sardanapalus (Sardanb ā l ; 2022)</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>K.</ce:initials>
+<ce:surname>Al-Majidi</ce:surname>
+<ce:given-name>Khazal</ce:given-name>
+</person>
+<affiliation>
+<organization>Derna University</organization>
+<city>Derna</city>
+<country iso-code="LBY" />
+<ce:source-text>Khazal Al-Majidi is playwright, poet, and scholar in religions and ancient civilizations. He worked in the Cinema and Theatre Department, radio, TV, Iraqi magazines, and newspapers in Iraq. He taught at Babel College of Philosophy and Theology in Baghdad, Derna University in Libya, Leiden University in the Netherlands. Author of 114 books translated into English, French, Spanish, Romanian, Persian, and Kurdish. His 60 books cover civilizations, religions, mythology, Orientalism, art, and literary history. His plays are published in two volumes and eight collections. Among his plays are Hamlet without Hamlet (Hamlet Bil ā Hamlet ; 1992), Ziusudra (S ī dr ā ;1999), Yellow Music (Mus ī q ā Ṣ afr ā ; 2008), The Descent of Ishtar’s to Amiriya Shelter (Niz ū l ʿ Isht ā r ʾ l ā Malja ʾ al- ʿā mr ī ya ; 1994), and Sardanapalus (Sardanb ā l ; 2022)</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Sardanapalus © Khazal Al-Majidi, 2025</publishercopyright>
+<ce:para>The fall of the Assyrian Empire is considered one of the great tragic events in history. After two major Assyrian empires emerged in the modern Assyrian era (746–911 BCE and 745–609 BCE) and following the powerful rule of the Assyrian dynasty with its great kings (Sargon, Sennacherib, Esarhaddon, and Ashurbanipal), weakness suddenly crept into the body of this empire. It collapsed without passing through a prolonged period of decline or weakness. In other words, it fell while still standing on its feet suddenly. The direct cause of this collapse may have been the series of wars it fought, its excessive use of force, the vast expanse and laxity of its army, and the enormous expenditure on these wars. Greek historians and writers of the Old Testament distorted the history of this empire, portraying the fi nal moments of its collapse in a way that diverges completely from the truth. For instance, the Greek historian Diodorus Siculus depicted the last king of Assyria, whom they call Sardanapalus (a Greek rendering of the name of the king Ashurbanipal II), as a cowardly, weak, and effeminate fi gure who wore women’s clothing and indulged in pleasures. In reality, this king was attempting to rectify the damages caused by the wars and to reduce the size of the empire, which had become diffi cult to control due to revolts in distant regions. He was a deeply confl icted human personality, grappling internally. He was indeed a complex fi gure of the fi rst order. This play attempts to restore the reputation of Sardanapalus, whom Westerner and Hebrew authors together have maligned. It seeks to explore the real reasons behind the empire’s collapse: the corrosive effect of devastating wars, the rampant treachery within its court, the diffi culty in controlling revolts on its fringes, and the alliance of enemies around it. Because this play is a work of art rather than a fi eld of history, I attempt to move away from pure historical context to present Sardanapalus with all his spiritual and psychological tensions, making him a mirror of this end. The play also tries to juxtapose mirrors of the past and present, refl ecting events between them clearly, pointing out the tragedy of wars, the dominance of the impulse for death and destruction, the lust for power, the usurpation of freedoms, and the suppression of people. The present will be the foundation of this theatrical work, and the past will assist in revealing the fl aws of this present. Sardanapalus will reveal a hidden tone of tension in the hearts of all people, their aversion to the language of war, death, killing, and destruction. This is an attempt to cleanse our souls, crowded with the pin pricks of the past and present from the games of death and the justifi cations for killing in the name of nation, values, honor, and principles.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq: Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq: Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>131</first-page>
+<last-page>154</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025" />
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">The Clock</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Al-Ramadhani</ce:surname>
+<ce:given-name>Nahedh</ce:given-name>
+</author>
+<affiliation>
+<organization>Monodrama Competition in Fujairah</organization>
+<city>Istanbul</city>
+<country iso-code="TUR" />
+<ce:source-text>Nahedh Al-Ramadhani, born in 1964, is a writer from Mosul but currently resides in Istanbul. He holds a Bachelor’s degree in arts from the University of Mosul in 1987, and a Master’s in education (Arabic Language) specializing in modern literature. His works include 14 plays, four novels, and numerous short stories. Some of his works have been translated into English, German, Italian, and Kurdish. He has received several awards for his theatrical works, including the Sharjah Award for Creativity for his play Shahriar’s Companion (Nad ī m Shahray ā r) in 2002, the Theatre Association Award in the UAE for his play Rehearsal for the Fall of Baghdad (Brova Suq ūṭ Baghdad) in 2004, and the Monodrama Competition Award in Fujairah in 2010 for his play The Belly of the Whale (Jawf al- Ḥū t)</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>N.</ce:initials>
+<ce:surname>Al-Ramadhani</ce:surname>
+<ce:given-name>Nahedh</ce:given-name>
+</person>
+<affiliation>
+<organization>Monodrama Competition in Fujairah</organization>
+<city>Istanbul</city>
+<country iso-code="TUR" />
+<ce:source-text>Nahedh Al-Ramadhani, born in 1964, is a writer from Mosul but currently resides in Istanbul. He holds a Bachelor’s degree in arts from the University of Mosul in 1987, and a Master’s in education (Arabic Language) specializing in modern literature. His works include 14 plays, four novels, and numerous short stories. Some of his works have been translated into English, German, Italian, and Kurdish. He has received several awards for his theatrical works, including the Sharjah Award for Creativity for his play Shahriar’s Companion (Nad ī m Shahray ā r) in 2002, the Theatre Association Award in the UAE for his play Rehearsal for the Fall of Baghdad (Brova Suq ūṭ Baghdad) in 2004, and the Monodrama Competition Award in Fujairah in 2010 for his play The Belly of the Whale (Jawf al- Ḥū t)</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>The Clock © Nahedh Al-Ramadhani, 2025</publishercopyright>
+<ce:para>At the beginning of the twentieth century, the eyes of Arab societies turned towards a class of nationalist intellectuals who, on their shoulders, carried the responsibility of uplifting Arab societies that were often impoverished, backward, and subjected to English or French colonization. In the era of English and French colonization, the elite class gained signifi cant respect in the Arab countries. They attained a status that transcended the boundaries of their small nations outlined by the Sykes-Picot Agreement. After a struggle that persisted for fi ve decades or more, the era of direct colonization came to an end, and Arab nations achieved their independence, albeit superfi cially. Soon, the military seized power in most of these countries, marking the beginning of a challenging period in the lives of these people. A catastrophic reign ensued for decades, where intellectuals became either mouthpieces for authoritarian authorities, fl ed in exile, or remained silent under coercion. However, as globalization extended its reach and the soft power envoys were sent to replace military forces in the region, the concerns of Arab nations were no longer the primary focus of intellectuals. Most of the intellectuals began to hope for collaboration with any Western entity, especially after the decline of Arab nationalist parties and the fading of their infl uence. Some Arab dictators even turned conciliatory towards the West, seeking appeasement and attempting to present Arab nations as part of the Western project. The Clock revolves around the defeated Arab intellectual. Between a simple cobbler and the intellectual, the events unfold, portraying one who wants to make change in the world but doesn’t know how, and the intellectual who knows how but doesn’t want to, so they can stay in the same status. The issue of the intellectual, his role, struggles, and setbacks, holds great signifi cance in most of my writings, such as Shahriar’s Companion (Nad ī m Shahray ā r), ʾ Ishtib ā k (Clash), The Belly of the Whale (Jawf al- Ḥ ū t), and W.A.A.K., a novel which thoroughly explores several protagonists, each representing a type of intellectuals with diverse statuses and opinions.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq: Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq: Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>155</first-page>
+<last-page>182</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025" />
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">The Curse of Chopin</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Rashid</ce:surname>
+<ce:given-name>Atyaf</ce:given-name>
+</author>
+<affiliation>
+<organization>Institute of Fine Arts in Al-Kadhimiya</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ" />
+<ce:source-text>Atyaf Rashid is an Iraqi writer born in Baghdad in 1969. She holds a Bachelor’s degree in Theatre Arts from the College of Fine Arts. She is a lecturer of playwrighting at the Institute of Fine Arts in Al-Kadhimiya. Atyaf has published collections of plays such as Transparent Blue Curtain (Sit ā ra Zarq āʾ Shaf ā fa; 2015) and Beauty Salon (Ṣā lun Tajm ī l ; 2018)</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.</ce:initials>
+<ce:surname>Rashid</ce:surname>
+<ce:given-name>Atyaf</ce:given-name>
+</person>
+<affiliation>
+<organization>Institute of Fine Arts in Al-Kadhimiya</organization>
+<city>Baghdad</city>
+<country iso-code="IRQ" />
+<ce:source-text>Atyaf Rashid is an Iraqi writer born in Baghdad in 1969. She holds a Bachelor’s degree in Theatre Arts from the College of Fine Arts. She is a lecturer of playwrighting at the Institute of Fine Arts in Al-Kadhimiya. Atyaf has published collections of plays such as Transparent Blue Curtain (Sit ā ra Zarq āʾ Shaf ā fa; 2015) and Beauty Salon (Ṣā lun Tajm ī l ; 2018)</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Curse of Chopin © Atyaf Rashid, 2025</publishercopyright>
+<ce:para>Iraqi society is constrained by prohibitions that suppress emotions and restrict human freedom, particularly for women. Patriarchal authorities marginalize women, restricting their movement, freedoms, and intellectual and emotional choices. Additionally, the volatile politics in my country, along with pervasive and rampant corruption, make it possible for the few to control the resources of the community, and women specifi cally bear the brunt of this entrenched corruption throughout offi cial, public, and private life. Hence, the appearance of an individual in the life of an oppressed woman, bearing love and sincerity, becomes a kind of savior. This savior, or dream, has the potential to quench the thirst of the dry land, the human spirit, especially that of women, and the harsh conditions they face. This idea of a savior comes in a completely different form in The Curse of Chopin . The main character discards the infl uence of the ideal family, diverging from the sharp boundaries drawn for her future, and sees what others do not see, settling within the music school. In my opinion, the writer should fi nd a unique approach for their story drawn from everyday experiences, adding their own perspective and viewpoint to the subject or idea. The savior has a religious or transcendental purpose for peoples and societies, but I wanted to show that everyone has the right to dream of their own savior, whether intellectual or emotional, amidst various sufferings such as loneliness, neglect, a lack of care, and a yearning for love and emotional support. These are themes where human values manifest in their purest form, and this is the fundamental motivation for all my writings—humanity. However, as in many of my plays, I do not provide a traditional ending to the story; instead, I leave the ending open to the reader’s imagination, allowing them to fi ll in this space with their thoughts. In this way, real participation is achieved between the author/text and the reader</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq: Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq: Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>183</first-page>
+<last-page>198</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025" />
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Princes of Hell</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.R.</ce:initials>
+<ce:surname>Al-Rubai</ce:surname>
+<ce:given-name>Abdul Razaq</ce:given-name>
+</author>
+<affiliation>
+<organization>Omani Cultural Club</organization>
+<country iso-code="OMN" />
+<ce:source-text>Abdul Razaq Al-Rubai was born in Baghdad in 1961 and received his BA in Arabic Language from Baghdad University. He has served as an editor for many cultural and literary magazines, and he is a well-known poet whose verse has been anthologized in numerous volumes, including A Tribute to Her Laughter (Fil Than āʾ ʿ ala Ḍ i ḥ katih ā ; Muscat, 2015), Speicher’s Birds (Ṭ iy ū r Speicher ; Baghdad, 2014), and Nostalgia Diary (Yaum ī y ā t al- Ḥ an ī n ; Muscat, 2012). His plays include: A Strange Bird on Our Roof (ʿ Ala Sa ṭḥ in ā Ṭāʾ ir Ghar ī b), published in Muscat in 2013; Princes of Hell (ʾ Umr ā al Ja ḥī m), produced in Auckland in 2007; and Tramps Catching Stars (al- Ṣ a ʿā l ī k Ya ṣṭā d ū n al-Nij ū m) and Planets of the Personal System (Kaw ā kib al-Majm ūʿ a al-Shakh ṣī ya), both produced in Cairo in 2004. He currently resides in Muscat, Sultanate of Oman, and works as a cultural advisor at Athir Media Foundation and the Vice President of the Board of Directors of the Omani Cultural Club</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.R.</ce:initials>
+<ce:surname>Al-Rubai</ce:surname>
+<ce:given-name>Abdul Razaq</ce:given-name>
+</person>
+<affiliation>
+<organization>Omani Cultural Club</organization>
+<country iso-code="OMN" />
+<ce:source-text>Abdul Razaq Al-Rubai was born in Baghdad in 1961 and received his BA in Arabic Language from Baghdad University. He has served as an editor for many cultural and literary magazines, and he is a well-known poet whose verse has been anthologized in numerous volumes, including A Tribute to Her Laughter (Fil Than āʾ ʿ ala Ḍ i ḥ katih ā ; Muscat, 2015), Speicher’s Birds (Ṭ iy ū r Speicher ; Baghdad, 2014), and Nostalgia Diary (Yaum ī y ā t al- Ḥ an ī n ; Muscat, 2012). His plays include: A Strange Bird on Our Roof (ʿ Ala Sa ṭḥ in ā Ṭāʾ ir Ghar ī b), published in Muscat in 2013; Princes of Hell (ʾ Umr ā al Ja ḥī m), produced in Auckland in 2007; and Tramps Catching Stars (al- Ṣ a ʿā l ī k Ya ṣṭā d ū n al-Nij ū m) and Planets of the Personal System (Kaw ā kib al-Majm ūʿ a al-Shakh ṣī ya), both produced in Cairo in 2004. He currently resides in Muscat, Sultanate of Oman, and works as a cultural advisor at Athir Media Foundation and the Vice President of the Board of Directors of the Omani Cultural Club</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Princes of Hell © Abdul Razaq Al-Rubai, 2025</publishercopyright>
+<ce:para>When director Farouk Sabri presented the fi rst performance of Princes of Hell on Saturday, March 25, 2006, it was considered the fi rst theatrical production in Arabic in Auckland, New Zealand. After its performance in Copenhagen, the director indicates that the signifi cance of the play lies not only in being the fi rst play in Arabic but also in addressing the most dangerous ideological disease facing Islam, one that no theatrical production in the Third World or European countries had dared to tackle. Hence, the play raises a thunderous cry against terrorist operations targeting the innocent, life, art, and beauty. In those years, suicide bombings were consuming Iraq, and this deeply saddened me. I even wrote a short poem titled “Hell” in response: Recite the Shahada Wrap around the waist of the earth The black belt of death And ascend. The path is adorned with the feathers of God’s angels. He said to himself, While wrapping around his lifeless body The kingdom of the One, Then made a concise statement: “Our appointment is in Paradise, When my parts shatter To bid farewell to the night of the barren earth.” After seconds His parts exploded. In the street, A passing man, His parts also fl ew to paradise. When both arrived there, The killer and the killed, Fought at the gates of paradise: Who should enter before the other? Who has done better in deed? Who holds eternity in his hands? The killer and the killed fought, The killer and the killed fought, And the Lord observed this cosmic chaos in astonishment! I was deeply concerned about the terrorist attacks that my country, Iraq, was facing, and the operations that claimed the lives of civilians, the poor, laborers, and construction workers with the aim of disrupting the fl ow of life. At the peak of the terrorist attacks, I received an email from my friend, director Farouk Sabri, who wrote with a heart squeezed by the pain of what was happening in Iraq. He urged me to write a play that refl ects our stance as theatre artists. It was necessary for me as a poet as well, to have a word about what was happening, as the poet Pablo Neruda says, “The poet must be a historian of his time, not necessarily that history be a selection, representation, but it must be a rough, spoiled, and muddy terrain, containing the miserable traces of the days that pass, carrying hardships and the sorrows of humanity.” Sabri proposed the idea of writing a play about a group of terrorists planning to blow up a major Iraqi symbol, the Freedom Monument by sculptor Jawad Saleem, located in the heart of Baghdad’s Freedom Square (al-Tahrir Square). The operation would be carried out by fi ve terrorists from neighboring countries. I liked the idea, and when I started writing, he requested that the play be a monodrama to perform himself since he resides in Auckland, New Zealand, where there was no Arab/Muslim actor that fi ts the character’s description. Therefore, the play had to adapt to that atmosphere. Although the number of terrorists carrying out the operation was fi ve, this technical problem was resolved by using masks. We agreed on that, and I began writing, sharing with him every scene once fi nished. As the director and actor simultaneously, he would jot down his notes, and we would discuss and work on utilizing them. Sabri suggested reaching out to a famous musician Naseer Shamma to write music for the play. When I approached Shamma, he welcomed the collaboration but hesitated about the theme of the play, fearing that this might bring the terrorists’ attention to the Freedom Monument, and consequently, they might blow it up. However, we continued the work to the end without Shamma’s involvement. I fi nished writing the play, and director Sabri began working on it with individual efforts, being the director, actor, and producer. His family supported him in his work. After completing it, the play was presented in Auckland, Erbil, the Netherlands, and Copenhagen and received invitations to be performed in Brussels and Berlin. However, he declined due to other commitments in Auckland. After the security situation improved and terrorist attacks diminished, life returned to its natural course, and the play fell into a deep slumber. Nevertheless, it came back to life through the hands of the translator Professor Amir Al-Azraki. Creative and artistic experiences that speak to the painful circumstances that humanity has gone through should not be sidelined or forgotten. They carry lessons for future generations. Historical events tend to repeat themselves. Today, as I revisit the play, I recall those challenging moments that Iraq and the region endured, appreciating the blessing of security and peace.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq: Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq: Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>199</first-page>
+<last-page>214</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025" />
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">2025200008855X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Counterfeit</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Abdel-Nabi Al-Zaidi</ce:surname>
+<ce:given-name>Ali</ce:given-name>
+</author>
+<affiliation>
+<organization>Omani Cultural Club</organization>
+<country iso-code="OMN" />
+<ce:source-text>Ali Abdel-Nabi Al-Zaidi was born in Nasiriyah in 1965 and graduated from the Teachers’ Institute of that city in 1987. His plays have been performed on stages across Iraq and the Arab world and internationally, earning him numerous national and international awards. His play collections include The Eighth Day of the Week (Th ā min Ay ā m al- ʾ Usbu’ ; 2000), The Return of the Man Who Has Not Been Absent (ʿAwadat al-Rajul alladhi lam Yagh ī b ; 2005), A Show in Arabic (ʿAr ḍ bil ʿ Arabi ; 2011), The Divine Plays (Al- ʾ Il ā hiy ā t ; 2014), and Plays of the Corrupt City (Nu ṣū s al-Mad ī na al F ā sida ; 2021)</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.</ce:initials>
+<ce:surname>Abdel-Nabi Al-Zaidi</ce:surname>
+<ce:given-name>Ali</ce:given-name>
+</person>
+<affiliation>
+<organization>Omani Cultural Club</organization>
+<country iso-code="OMN" />
+<ce:source-text>Ali Abdel-Nabi Al-Zaidi was born in Nasiriyah in 1965 and graduated from the Teachers’ Institute of that city in 1987. His plays have been performed on stages across Iraq and the Arab world and internationally, earning him numerous national and international awards. His play collections include The Eighth Day of the Week (Th ā min Ay ā m al- ʾ Usbu’ ; 2000), The Return of the Man Who Has Not Been Absent (ʿAwadat al-Rajul alladhi lam Yagh ī b ; 2005), A Show in Arabic (ʿAr ḍ bil ʿ Arabi ; 2011), The Divine Plays (Al- ʾ Il ā hiy ā t ; 2014), and Plays of the Corrupt City (Nu ṣū s al-Mad ī na al F ā sida ; 2021)</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Counterfeit © Ali Abdel-Nabi Al-Zaidi, 2025</publishercopyright>
+<ce:para>The themes of the post-war periods have deeply preoccupied me as a playwright born and raised in Iraq, especially during the First and Second Gulf Wars, which signifi cantly impacted the structure of Iraqi society. Hundreds of thousands of soldiers and civilians fell victim to these wars, and the economy was devastated after the country endured a crippling economic blockade in the 1990s. I have written many plays rejecting war, death, and hunger and dramatizing the importance of peace and love. Following the political change in Iraq in 2003, new topics emerged that were entirely different from what came before. Iraqi writers became engrossed in writing about the issue of terrorism, which catastrophically ravaged the people of Iraq, transforming the external war front of the 1980s into an internal front in cities and the streets. The nightmare of terrorism haunted everyone without exception. While we had produced numerous plays addressing terrorism, I perceived most of them as straightforward, lacking a fresh and shocking perspective. We needed to write in a different and unprecedented direction. Therefore, Counterfeit was conceived to address the horror of terrorism and its profound impact on the structure of society and the family, but through comedy. This means ridiculing or mocking extremists and highlighting the alienation of a person’s body and soul from the family and society within which they live. I argue that this type of comedy speaks more clearly to the audience, as it addresses pain, injustice, terrorism, and torment but does so through laughter at what has transpired.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Contemporary Plays from Iraq: Volume II</sourcetitle>
+<sourcetitle-abbrev>Contemporary Plays from Iraq: Volume II</sourcetitle-abbrev>
+<isbn type="print" length="13">9781350465268</isbn>
+<isbn type="electronic" length="13">9781350465299</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>215</first-page>
+<last-page>236</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025" />
+<publicationdate>
+<year>2025</year>
+<month>06</month>
+<day>26</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.bloomsbury.com/us/9781350465299</ce:e-address>
+</website>
+<publisher>
+<publishername>Bloomsbury Publishing</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>
