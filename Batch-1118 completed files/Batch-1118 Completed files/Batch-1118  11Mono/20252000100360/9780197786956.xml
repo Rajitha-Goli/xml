@@ -1,0 +1,3184 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-15T16:31:58</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1093/9780197786956.001.0001</ce:doi>
+<itemid idtype="TPB-ID">20252000100360</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+<author-keywords>
+<author-keyword>Reasons</author-keyword>
+<author-keyword>Weighing reasons</author-keyword>
+<author-keyword>Weight pluralism</author-keyword>
+<author-keyword>Supererogation</author-keyword>
+<author-keyword>Moral options</author-keyword>
+<author-keyword>Incommensurability</author-keyword>
+<author-keyword>Dilemmas</author-keyword>
+<author-keyword>All or nothing problem</author-keyword>
+<author-keyword>Aggregation</author-keyword>
+<author-keyword>Holism</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">The weight of reasons: A framework for ethics get access arrow
+</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</person>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Oxford University Press 2025 All rights reserved.</publishercopyright>
+<ce:para>The book develops, defends, and applies a “Dual Scale” model of weighing reasons to resolve various issues in ethics. It tells you everything you ever wanted to know about weighing reasons and probably a lot of stuff you didn’t want to know too. It addresses, among other things, what the general issue of weighing reasons is; what it is to weigh reasons correctly; whether reasons have more than one weight value (e.g., justifying, requiring, and/or commending weight); whether weight values are context sensitive; how to tell what the weights of reasons are; how reasons for are related to reasons against; and how the weights of reasons aggregate. After addressing such issues, it explains a number of puzzling phenomena in ethics, such as the All or Nothing Problem, the normative significance of small improvements, and the intransitivity of the makes-it-permissible-to-act-against relation.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>The weight of reasons: a framework for ethics get access arrow</sourcetitle>
+<sourcetitle-abbrev>The weight. of reasons: a framew. for ethics get access n.a.</sourcetitle-abbrev>
+<isbn type="print" length="13">9780197786925</isbn>
+<isbn type="electronic" length="13">9780197786956</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>376</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>13</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://academic.oup.com/book/59456</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="117">
+<reference seq="1">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1017/S0953820816000091</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Archer</ce:surname>
+<ce:given-name>Alfred</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Moral Obligation, Self- Interest, and the Transitivity Problem</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>441</first-page>
+<last-page>464</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Utilitas</ref-text>
+</ref-info>
+<ref-fulltext>Archer, Alfred. 2016. “Moral Obligation, Self- Interest, and the Transitivity Problem.”Utilitas28: 441– 64.doi: doi.org/ 10.1017/ S0953820816000091</ref-fulltext>
+<ce:source-text>Archer, Alfred. 2016. “Moral Obligation, Self- Interest, and the Transitivity Problem.”Utilitas28: 441– 64.doi: doi.org/ 10.1017/ S0953820816000091</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Bader</ce:surname>
+<ce:given-name>Ralf</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Conditions, Modifiers, and Holism.</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>27</first-page>
+<last-page>55</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Errol Lord and Barry Maguire (eds</ref-text>
+</ref-info>
+<ref-fulltext>Bader, Ralf. 2016. “Conditions, Modifiers, and Holism.”In Errol Lord and Barry Maguire (eds.), 27–55.</ref-fulltext>
+<ce:source-text>Bader, Ralf. 2016. “Conditions, Modifiers, and Holism.”In Errol Lord and Barry Maguire (eds.), 27–55.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Supererogation, Optionality, and Cost</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Benn</ce:surname>
+<ce:given-name>Claire</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>175</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2399</first-page>
+<last-page>2417</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1007/s11098-017-0965-7</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Benn, Claire. 2018. “Supererogation, Optionality, and Cost.”Philosophical Studies175: 2399–417. doi: https://doi.org/10.1007/s11098-017-0965-7</ref-fulltext>
+<ce:source-text>Benn, Claire. 2018. “Supererogation, Optionality, and Cost.”Philosophical Studies175: 2399–417. doi: https://doi.org/10.1007/s11098-017-0965-7</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Combinatorial Argument Against Practical Reasons for Belief</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Berker</ce:surname>
+<ce:given-name>Selim</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Analytic Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>59</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>427</first-page>
+<last-page>470</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Berker, Selim. 2018. “A Combinatorial Argument Against Practical Reasons for Belief.”Analytic Philosophy 59: 427– 70.</ref-fulltext>
+<ce:source-text>Berker, Selim. 2018. “A Combinatorial Argument Against Practical Reasons for Belief.”Analytic Philosophy 59: 427– 70.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Particular Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Berker</ce:surname>
+<ce:given-name>Selim</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>118</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>109</first-page>
+<last-page>139</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Berker, Selim. 2007. “Particular Reasons.”Ethics 118: 109– 39.</ref-fulltext>
+<ce:source-text>Berker, Selim. 2007. “Particular Reasons.”Ethics 118: 109– 39.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Braddon-Mitchell</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Nola</ce:surname>
+<ce:given-name>Robert</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Conceptual Analysis and Philosophical Naturalism.</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>MIT Press</ref-text>
+</ref-info>
+<ref-fulltext>Braddon-Mitchell, David and RobertNola. 2008. Conceptual Analysis and Philosophical Naturalism.MIT Press.</ref-fulltext>
+<ce:source-text>Braddon-Mitchell, David and RobertNola. 2008. Conceptual Analysis and Philosophical Naturalism.MIT Press.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Broome</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Rationality through Reasoning</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Broome, John. 2013. Rationality Through Reasoning. Oxford University Press.</ref-fulltext>
+<ce:source-text>Broome, John. 2013. Rationality Through Reasoning. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1111/nous.12181</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Campbell</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Maximalism and the Structure of Acts</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>52</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>752</first-page>
+<last-page>771</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Nous</ref-text>
+</ref-info>
+<ref-fulltext>Brown, Campbell. 2018. “Maximalism and the Structure of Acts.”Nous52: 752– 71.doi: 10.1111/ nous.12181</ref-fulltext>
+<ce:source-text>Brown, Campbell. 2018. “Maximalism and the Structure of Acts.”Nous52: 752– 71.doi: 10.1111/ nous.12181</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Buchak</ce:surname>
+<ce:given-name>Lara</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Risk and Rationality</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Buchak, Lara. 2017. Risk and Rationality. Oxford University Press.</ref-fulltext>
+<ce:source-text>Buchak, Lara. 2017. Risk and Rationality. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Hard Choices</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Chang</ce:surname>
+<ce:given-name>Ruth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the American Philosophical Association</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>21</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1017/apa.2017.7</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Chang, Ruth. 2017. “Hard Choices.”Journal of the American Philosophical Association3: 1–21. doi: https://doi.org/10.1017/apa.2017.7</ref-fulltext>
+<ce:source-text>Chang, Ruth. 2017. “Hard Choices.”Journal of the American Philosophical Association3: 1–21. doi: https://doi.org/10.1017/apa.2017.7</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Chang</ce:surname>
+<ce:given-name>Ruth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Comparativism: The Grounds of Rational Choice.</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>213</first-page>
+<last-page>240</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Errol Lord and Barry Maguire (eds.)</ref-text>
+</ref-info>
+<ref-fulltext>Chang, Ruth. 2016. “Comparativism: The Grounds of Rational Choice.”In Errol Lord and Barry Maguire (eds.), 213– 40.</ref-fulltext>
+<ce:source-text>Chang, Ruth. 2016. “Comparativism: The Grounds of Rational Choice.”In Errol Lord and Barry Maguire (eds.), 213– 40.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Possibility of Parity</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Chang</ce:surname>
+<ce:given-name>Ruth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>112</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>659</first-page>
+<last-page>688</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Chang, Ruth. 2002. “The Possibility of Parity.”Ethics 112: 659– 88.</ref-fulltext>
+<ce:source-text>Chang, Ruth. 2002. “The Possibility of Parity.”Ethics 112: 659– 88.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Meritorious and the Mandatory</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Clark</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Proceedings of the Aristotelian Society</ref-sourcetitle>
+<ref-publicationyear first="1978"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>79</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>22</first-page>
+<last-page>33</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Clark, Michael. 1978. “The Meritorious and the Mandatory.”Proceedings of the Aristotelian Society 79: 22– 33.</ref-fulltext>
+<ce:source-text>Clark, Michael. 1978. “The Meritorious and the Mandatory.”Proceedings of the Aristotelian Society 79: 22– 33.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Cullity</ce:surname>
+<ce:given-name>Garrett</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Weighing Reasons.</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>423</first-page>
+<last-page>442</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In The Oxford Handbook of Reasons and Normativity. Daniel Star (ed.). Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Cullity, Garrett. 2018. “Weighing Reasons.”In The Oxford Handbook of Reasons and Normativity. Daniel Star (ed.). Oxford University Press, 423–42.</ref-fulltext>
+<ce:source-text>Cullity, Garrett. 2018. “Weighing Reasons.”In The Oxford Handbook of Reasons and Normativity. Daniel Star (ed.). Oxford University Press, 423–42.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Context Undermining of Practical Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Cullity</ce:surname>
+<ce:given-name>Garrett</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>124</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>8</first-page>
+<last-page>34</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cullity, Garrett. 2013. “The Context Undermining of Practical Reasons.”Ethics 124: 8– 34.</ref-fulltext>
+<ce:source-text>Cullity, Garrett. 2013. “The Context Undermining of Practical Reasons.”Ethics 124: 8– 34.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Particularism and Presumptive Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Cullity</ce:surname>
+<ce:given-name>Garrett</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Proceedings of the Aristotelian Society, Supplementary Volumes</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>76</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>169</first-page>
+<last-page>209</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cullity, Garrett. 2002. “Particularism and Presumptive Reasons.”Proceedings of the Aristotelian Society, Supplementary Volumes 76: 169– 209.</ref-fulltext>
+<ce:source-text>Cullity, Garrett. 2002. “Particularism and Presumptive Reasons.”Proceedings of the Aristotelian Society, Supplementary Volumes 76: 169– 209.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Supererogatory, the Foolish, and the Morally Required</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Curtis</ce:surname>
+<ce:given-name>Barry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Value Inquiry</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>311</first-page>
+<last-page>318</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Curtis, Barry. 1981. “The Supererogatory, the Foolish, and the Morally Required.”Journal of Value Inquiry 15: 311– 8.</ref-fulltext>
+<ce:source-text>Curtis, Barry. 1981. “The Supererogatory, the Foolish, and the Morally Required.”Journal of Value Inquiry 15: 311– 8.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Review of Thomas Hurka’s British Ethical Theorists from Sidgwick to Ewing.”</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Dancy</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Notre Dame Philosophical Reviews.</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<ref-website>
+<ce:e-address type="url">https://ndpr.nd.edu/news/british-ethical-theorists-from-sidgwick-to-ewing/</ce:e-address>
+</ref-website>
+<ref-text>Stable</ref-text>
+</ref-info>
+<ref-fulltext>Dancy, Jonathan. 2014. “Review of Thomas Hurka’s British Ethical Theorists from Sidgwick to Ewing.”Notre Dame Philosophical Reviews.Stable URL: https:// ndpr.nd.edu/news/british-ethical-theorists-from-sidgwick-to-ewing/.</ref-fulltext>
+<ce:source-text>Dancy, Jonathan. 2014. “Review of Thomas Hurka’s British Ethical Theorists from Sidgwick to Ewing.”Notre Dame Philosophical Reviews.Stable URL: https:// ndpr.nd.edu/news/british-ethical-theorists-from-sidgwick-to-ewing/.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Dancy</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics without Principles</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Dancy, Jonathan. 2004. Ethics Without Principles. Oxford University Press.</ref-fulltext>
+<ce:source-text>Dancy, Jonathan. 2004. Ethics Without Principles. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Dancy</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Moral Reasons</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<ref-text>Blackwell Publishers</ref-text>
+</ref-info>
+<ref-fulltext>Dancy, Jonathan. 1993. Moral Reasons. Blackwell Publishers.</ref-fulltext>
+<ce:source-text>Dancy, Jonathan. 1993. Moral Reasons. Blackwell Publishers.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Dietrich</ce:surname>
+<ce:given-name>Franz</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>List</ce:surname>
+<ce:given-name>Christian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reason-Based Theory of Rational Choice.</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>47</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>104</first-page>
+<last-page>134</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Nous</ref-text>
+</ref-info>
+<ref-fulltext>Dietrich, Franz and ChristianList. 2013. “A Reason-Based Theory of Rational Choice.”Nous47: 104–134.</ref-fulltext>
+<ce:source-text>Dietrich, Franz and ChristianList. 2013. “A Reason-Based Theory of Rational Choice.”Nous47: 104–134.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1111/nous.12407</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Dorr</ce:surname>
+<ce:given-name>Cian</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Nebel</ce:surname>
+<ce:given-name>Jacob M.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:surname>Zuehl</ce:surname>
+<ce:given-name>Jake</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Case for Comparability.</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>57</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>414</first-page>
+<last-page>453</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Nous</ref-text>
+</ref-info>
+<ref-fulltext>Dorr, Cian, Jacob M.Nebel, and JakeZuehl. 2023. “The Case for Comparability.”Nous57: 414– 53. doi: doi.org/ 10.1111/ nous.12407</ref-fulltext>
+<ce:source-text>Dorr, Cian, Jacob M.Nebel, and JakeZuehl. 2023. “The Case for Comparability.”Nous57: 414– 53. doi: doi.org/ 10.1111/ nous.12407</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Dorsey</ce:surname>
+<ce:given-name>Dale</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Limits of Moral Authority</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Dorsey, Dale. 2016. The Limits of Moral Authority. Oxford University Press.</ref-fulltext>
+<ce:source-text>Dorsey, Dale. 2016. The Limits of Moral Authority. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Reasons Have no Weight</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Drai</ce:surname>
+<ce:given-name>Dalia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>68</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>60</first-page>
+<last-page>76</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Drai, Dalia. 2018. “Reasons Have no Weight.”Philosophical Quarterly68: 60–76.</ref-fulltext>
+<ce:source-text>Drai, Dalia. 2018. “Reasons Have no Weight.”Philosophical Quarterly68: 60–76.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Betterness of Permissibility</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Ferguson</ce:surname>
+<ce:given-name>Benjamin</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Köhler</ce:surname>
+<ce:given-name>Sebastian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>177</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2451</first-page>
+<last-page>2469</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ferguson, Benjamin and SebastianKöhler. 2020. “Betterness of Permissibility.”Philosophical Studies 177: 2451– 69.</ref-fulltext>
+<ce:source-text>Ferguson, Benjamin and SebastianKöhler. 2020. “Betterness of Permissibility.”Philosophical Studies 177: 2451– 69.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1093/mind/fzz038</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Fogal</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Rational Requirements and the Primacy of Pressure.</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>129</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1033</first-page>
+<last-page>1070</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Mind</ref-text>
+</ref-info>
+<ref-fulltext>Fogal, Daniel. 2020. “Rational Requirements and the Primacy of Pressure.”Mind129: 1033–70. doi: doi.org/10.1093/mind/fzz038</ref-fulltext>
+<ce:source-text>Fogal, Daniel. 2020. “Rational Requirements and the Primacy of Pressure.”Mind129: 1033–70. doi: doi.org/10.1093/mind/fzz038</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Fogal</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons, Reason, and Context.</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>74</first-page>
+<last-page>103</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Errol Lord and Barry Maguire (eds.)</ref-text>
+</ref-info>
+<ref-fulltext>Fogal, Daniel. 2016. “Reasons, Reason, and Context.” In Errol Lord and Barry Maguire (eds.), 74– 103.</ref-fulltext>
+<ce:source-text>Fogal, Daniel. 2016. “Reasons, Reason, and Context.” In Errol Lord and Barry Maguire (eds.), 74– 103.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Fogal</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>O.</ce:initials>
+<ce:surname>Risberg</ce:surname>
+<ce:given-name>Olle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Explaining Normative Reasons.</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>57</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>51</first-page>
+<last-page>80</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/nous.12393</ce:e-address>
+</ref-website>
+<ref-text>Nous</ref-text>
+</ref-info>
+<ref-fulltext>Fogal, Daniel and OlleRisberg. 2023. “Explaining Normative Reasons.”Nous 57: 51–80. doi:https://doi.org/10.1111/nous.12393</ref-fulltext>
+<ce:source-text>Fogal, Daniel and OlleRisberg. 2023. “Explaining Normative Reasons.”Nous 57: 51–80. doi:https://doi.org/10.1111/nous.12393</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Limited Use View of the Duty to Save</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Frowe</ce:surname>
+<ce:given-name>Helen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Studies in Political Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>66</first-page>
+<last-page>99</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Frowe, Helen. 2021. “The Limited Use View of the Duty to Save.”Oxford Studies in Political Philosophy 7: 66– 99.</ref-fulltext>
+<ce:source-text>Frowe, Helen. 2021. “The Limited Use View of the Duty to Save.”Oxford Studies in Political Philosophy 7: 66– 99.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gert</ce:surname>
+<ce:given-name>Josh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Distinction between Justifying and Requiring: Nothing to Fear.</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>55</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Errol Lord and Barry Maguire (eds.)</ref-text>
+</ref-info>
+<ref-fulltext>Gert, Josh. 2016. “The Distinction Between Justifying and Requiring: Nothing to Fear.”In Errol Lord and Barry Maguire (eds.), 27–55.</ref-fulltext>
+<ce:source-text>Gert, Josh. 2016. “The Distinction Between Justifying and Requiring: Nothing to Fear.”In Errol Lord and Barry Maguire (eds.), 27–55.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1111/theo.12069</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gert</ce:surname>
+<ce:given-name>Josh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Parity, Preference, and Puzzlement.</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>81</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>249</first-page>
+<last-page>271</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Theoria</ref-text>
+</ref-info>
+<ref-fulltext>Gert, Josh. 2015. “Parity, Preference, and Puzzlement.”Theoria81: 249– 71. doi: doi.org/10.1111/theo.12069</ref-fulltext>
+<ce:source-text>Gert, Josh. 2015. “Parity, Preference, and Puzzlement.”Theoria81: 249– 71. doi: doi.org/10.1111/theo.12069</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Normative Strength and the Balance of Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gert</ce:surname>
+<ce:given-name>Josh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Review</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>116</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>533</first-page>
+<last-page>562</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gert, Josh. 2007. “Normative Strength and the Balance of Reasons.”Philosophical Review 116: 533–62.</ref-fulltext>
+<ce:source-text>Gert, Josh. 2007. “Normative Strength and the Balance of Reasons.”Philosophical Review 116: 533–62.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gert</ce:surname>
+<ce:given-name>Josh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Brute Rationality: Normativity and Human Action</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Gert, Josh. 2004a. Brute Rationality: Normativity and Human Action. Oxford University Press.</ref-fulltext>
+<ce:source-text>Gert, Josh. 2004a. Brute Rationality: Normativity and Human Action. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Value and Parity</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gert</ce:surname>
+<ce:given-name>Josh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>114</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>492</first-page>
+<last-page>510</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gert, Josh. 2004b. “Value and Parity.”Ethics 114: 492– 510.</ref-fulltext>
+<ce:source-text>Gert, Josh. 2004b. “Value and Parity.”Ethics 114: 492– 510.</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Requiring and Justifying: Two Dimensions of Normative Strength</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gert</ce:surname>
+<ce:given-name>Josh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Erkenntnis</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>59</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>5</first-page>
+<last-page>36</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gert, Josh. 2003. “Requiring and Justifying: Two Dimensions of Normative Strength.”Erkenntnis59: 5– 36.</ref-fulltext>
+<ce:source-text>Gert, Josh. 2003. “Requiring and Justifying: Two Dimensions of Normative Strength.”Erkenntnis59: 5– 36.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>GiveWell.</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Givewell Cost- Effectiveness Analysis, Version 1</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-website>
+<ce:e-address type="url">https://docs.google.com/spreadsheets/d/1BmFwVYeGMkpys6hG0tnfHyq__ZFZf-bmXYLSHODGpLY/edit#gid=1034883018</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>GiveWell.2020. GiveWell Cost- Effectiveness Analysis, version 1. https:// docs. goo gle.com/ spreadsheets/d/1BmFwVY eGMk pys6 hG0t nfHy q_ _ Z FZf- bmXYLSHODGpLY/edit#gid=1034883018</ref-fulltext>
+<ce:source-text>GiveWell.2020. GiveWell Cost- Effectiveness Analysis, version 1. https:// docs. goo gle.com/ spreadsheets/d/1BmFwVY eGMk pys6 hG0t nfHy q_ _ Z FZf- bmXYLSHODGpLY/edit#gid=1034883018</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Asymmetrical Practical Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Greenspan</ce:surname>
+<ce:given-name>Patricia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Experience and Analysis: Proceedings of the 27Th International Wittgenstein Symposium.</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>387</first-page>
+<last-page>394</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Maria Reicher and Johann Marek (eds.). Öbv&amp;hpt</ref-text>
+</ref-info>
+<ref-fulltext>Greenspan, Patricia. 2005. “Asymmetrical Practical Reasons.”Experience and Analysis: Proceedings of the 27th International Wittgenstein Symposium. Maria Reicher and Johann Marek (eds.). Öbv&amp;hpt, 387– 94.</ref-fulltext>
+<ce:source-text>Greenspan, Patricia. 2005. “Asymmetrical Practical Reasons.”Experience and Analysis: Proceedings of the 27th International Wittgenstein Symposium. Maria Reicher and Johann Marek (eds.). Öbv&amp;hpt, 387– 94.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Hawthorne</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>O.</ce:initials>
+<ce:surname>Magidor</ce:surname>
+<ce:given-name>Ofra</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reflections on the Ideology of Reasons.</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>113</first-page>
+<last-page>140</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In The Oxford Handbook of Reasons and Normativity. Daniel Star (ed.). Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hawthorne, John and OfraMagidor. 2018. “Reflections on the Ideology of Reasons.”In The Oxford Handbook of Reasons and Normativity. Daniel Star (ed.). Oxford University Press, 113– 40.</ref-fulltext>
+<ce:source-text>Hawthorne, John and OfraMagidor. 2018. “Reflections on the Ideology of Reasons.”In The Oxford Handbook of Reasons and Normativity. Daniel Star (ed.). Oxford University Press, 113– 40.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Untying a Knot from the Inside Out: Reflections on the ‘Paradox’ of Supererogation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Horgan</ce:surname>
+<ce:given-name>Terry</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Timmons</ce:surname>
+<ce:given-name>Mark</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Philosophy and Policy</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>27</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>29</first-page>
+<last-page>63</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1017/S026505250999015X</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Horgan, Terry and MarkTimmons. 2010. “Untying a Knot from the Inside Out: Reflections on the ‘Paradox’ of Supererogation.”Social Philosophy and Policy27: 29–63. doi: https://doi.org/10.1017/S026505250999015X</ref-fulltext>
+<ce:source-text>Horgan, Terry and MarkTimmons. 2010. “Untying a Knot from the Inside Out: Reflections on the ‘Paradox’ of Supererogation.”Social Philosophy and Policy27: 29–63. doi: https://doi.org/10.1017/S026505250999015X</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The All or Nothing Problem</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Horton</ce:surname>
+<ce:given-name>Joe</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>114</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>94</first-page>
+<last-page>104</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Horton, Joe. 2017. “The All or Nothing Problem.”Journal of Philosophy114: 94–104.</ref-fulltext>
+<ce:source-text>Horton, Joe. 2017. “The All or Nothing Problem.”Journal of Philosophy114: 94–104.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Horty</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons as Defaults</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Horty, John. 2012. Reasons as Defaults. Oxford University Press.</ref-fulltext>
+<ce:source-text>Horty, John. 2012. Reasons as Defaults. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Horty</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons as Defaults.” Philosophers</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>28</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Imprint</ref-text>
+</ref-info>
+<ref-fulltext>Horty, John. 2007. “Reasons as Defaults.” Philosophers’Imprint7: 1– 28.</ref-fulltext>
+<ce:source-text>Horty, John. 2007. “Reasons as Defaults.” Philosophers’Imprint7: 1– 28.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Permissions to Do Less than the Best: A Moving Band</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Hurka</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Shubert</ce:surname>
+<ce:given-name>Esther</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Studies in Normative Ethics</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>27</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hurka, Thomas and EstherShubert. 2012. “Permissions to Do Less than the Best: A Moving Band.”Oxford Studies in Normative Ethics 2: 1– 27.</ref-fulltext>
+<ce:source-text>Hurka, Thomas and EstherShubert. 2012. “Permissions to Do Less than the Best: A Moving Band.”Oxford Studies in Normative Ethics 2: 1– 27.</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.C.</ce:initials>
+<ce:surname>Jeffrey</ce:surname>
+<ce:given-name>Richard C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Logic of Decision</ref-sourcetitle>
+<ref-publicationyear first="1983"/>
+<ref-text>2nd edn). Chicago, IL: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Jeffrey, Richard C.1983. The Logic of Decision (2nd edn). Chicago, IL: University of Chicago Press.</ref-fulltext>
+<ce:source-text>Jeffrey, Richard C.1983. The Logic of Decision (2nd edn). Chicago, IL: University of Chicago Press.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Kagan</ce:surname>
+<ce:given-name>Shelly</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Limits of Morality</ref-sourcetitle>
+<ref-publicationyear first="1989"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Kagan, Shelly. 1989. The Limits of Morality. Oxford University Press.</ref-fulltext>
+<ce:source-text>Kagan, Shelly. 1989. The Limits of Morality. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Kahneman</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Thinking Fast and Slow</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Farrar, Straus, and Giroux</ref-text>
+</ref-info>
+<ref-fulltext>Kahneman, Daniel. 2011. Thinking Fast and Slow. Farrar, Straus, and Giroux.</ref-fulltext>
+<ce:source-text>Kahneman, Daniel. 2011. Thinking Fast and Slow. Farrar, Straus, and Giroux.</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Kamm</ce:surname>
+<ce:given-name>Frances</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Morality, Mortality, Volume II</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<ref-text>Rights, Duties, and Status. Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Kamm, Frances. 1996. Morality, Mortality, Volume II: Rights, Duties, and Status. Oxford University Press.</ref-fulltext>
+<ce:source-text>Kamm, Frances. 1996. Morality, Mortality, Volume II: Rights, Duties, and Status. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Supererogation and Obligation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Kamm</ce:surname>
+<ce:given-name>Frances</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="1985"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>82</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>112</first-page>
+<last-page>138</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kamm, Frances. 1985. “Supererogation and Obligation.”Journal of Philosophy82: 112–38.</ref-fulltext>
+<ce:source-text>Kamm, Frances. 1985. “Supererogation and Obligation.”Journal of Philosophy82: 112–38.</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Self- Regarding Supererogatory Actions</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Kawall</ce:surname>
+<ce:given-name>Jason</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Social Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>34</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>487</first-page>
+<last-page>498</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kawall, Jason. 2003. “Self- Regarding Supererogatory Actions.”Journal of Social Philosophy 34: 487– 98.</ref-fulltext>
+<ce:source-text>Kawall, Jason. 2003. “Self- Regarding Supererogatory Actions.”Journal of Social Philosophy 34: 487– 98.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Kearns</ce:surname>
+<ce:given-name>Stephen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bearing the Weight of Reasons.</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>90</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Errol Lord and Barry Maguire (eds.)</ref-text>
+</ref-info>
+<ref-fulltext>Kearns, Stephen. 2016. “Bearing the Weight of Reasons.”In Errol Lord and Barry Maguire (eds.), 173–90.</ref-fulltext>
+<ce:source-text>Kearns, Stephen. 2016. “Bearing the Weight of Reasons.”In Errol Lord and Barry Maguire (eds.), 173–90.</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Keller</ce:surname>
+<ce:given-name>Simon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Partiality</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Keller, Simon. 2013. Partiality. Princeton University Press.</ref-fulltext>
+<ce:source-text>Keller, Simon. 2013. Partiality. Princeton University Press.</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Contrary-to-Duty Scenarios, Deontic Dilemmas, and Transmission Principles</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Kiesewetter</ce:surname>
+<ce:given-name>Benjamin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>129</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>98</first-page>
+<last-page>115</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kiesewetter, Benjamin. 2018. “Contrary-to-Duty Scenarios, Deontic Dilemmas, and Transmission Principles.”Ethics 129: 98– 115.</ref-fulltext>
+<ce:source-text>Kiesewetter, Benjamin. 2018. “Contrary-to-Duty Scenarios, Deontic Dilemmas, and Transmission Principles.”Ethics 129: 98– 115.</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Instrumental Normativity: In Defense of the Transmission Principle</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Kiesewetter</ce:surname>
+<ce:given-name>Benjamin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>125</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>921</first-page>
+<last-page>946</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kiesewetter, Benjamin. 2015. “Instrumental Normativity: In Defense of the Transmission Principle.”Ethics 125: 921– 46.</ref-fulltext>
+<ce:source-text>Kiesewetter, Benjamin. 2015. “Instrumental Normativity: In Defense of the Transmission Principle.”Ethics 125: 921– 46.</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Lance</ce:surname>
+<ce:given-name>Mark</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Little</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Particularism and Antitheory.</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>567</first-page>
+<last-page>594</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In The Oxford Handbook of Ethical Theory. David Copp (ed.). Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Lance, Mark and MargaretLittle. 2007. “Particularism and Antitheory.”In The Oxford Handbook of Ethical Theory. David Copp (ed.). Oxford University Press, 567–94.</ref-fulltext>
+<ce:source-text>Lance, Mark and MargaretLittle. 2007. “Particularism and Antitheory.”In The Oxford Handbook of Ethical Theory. David Copp (ed.). Oxford University Press, 567–94.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Do Particularists Have a Coherent Notion of a Reason for Action?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Lechler</ce:surname>
+<ce:given-name>Andrea</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>122</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>763</first-page>
+<last-page>772</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lechler, Andrea. 2012. “Do Particularists Have a Coherent Notion of a Reason for Action?”Ethics 122: 763– 72.</ref-fulltext>
+<ce:source-text>Lechler, Andrea. 2012. “Do Particularists Have a Coherent Notion of a Reason for Action?”Ethics 122: 763– 72.</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How to Define Theoretical Terms</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="1970"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>67</vol-first>
+<iss-first>13</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>427</first-page>
+<last-page>446</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lewis, David. 1970. “How to Define Theoretical Terms.”Journal of Philosophy67(13): 427–46.</ref-fulltext>
+<ce:source-text>Lewis, David. 1970. “How to Define Theoretical Terms.”Journal of Philosophy67(13): 427–46.</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Little</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>“Moral Generalities Revisited</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>276</first-page>
+<last-page>304</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Moral Particularism. Brad Hooker and Margaret Little (eds.). Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Little, Margaret. 2000. “Moral Generalities Revisited.”In Moral Particularism. Brad Hooker and Margaret Little (eds.). Oxford University Press, 276– 304.</ref-fulltext>
+<ce:source-text>Little, Margaret. 2000. “Moral Generalities Revisited.”In Moral Particularism. Brad Hooker and Margaret Little (eds.). Oxford University Press, 276– 304.</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.O.</ce:initials>
+<ce:surname>Little</ce:surname>
+<ce:given-name>Margaret Olivia</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Macnamara</ce:surname>
+<ce:given-name>Coleen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>“Non-requirement Reasons</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>393</first-page>
+<last-page>404</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In The Routledge Handbook of Practical Reason. Ruth Chang and Kurt Sylvan (eds.). Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Little, Margaret Olivia and ColeenMacnamara. 2020. “Non-requirement Reasons.”In The Routledge Handbook of Practical Reason. Ruth Chang and Kurt Sylvan (eds.). Routledge, 393– 404.</ref-fulltext>
+<ce:source-text>Little, Margaret Olivia and ColeenMacnamara. 2020. “Non-requirement Reasons.”In The Routledge Handbook of Practical Reason. Ruth Chang and Kurt Sylvan (eds.). Routledge, 393– 404.</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-title>
+<ref-titletext-english>For Better or Worse: Commendatory Reasons and Latitude</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.O.</ce:initials>
+<ce:surname>Little</ce:surname>
+<ce:given-name>Margaret Olivia</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Macnamara</ce:surname>
+<ce:given-name>Coleen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Studies in Normative Ethics</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>138</first-page>
+<last-page>160</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Little, Margaret Olivia and ColeenMacnamara. 2017. “For Better or Worse: Commendatory Reasons and Latitude.”Oxford Studies in Normative Ethics 7: 138– 60.</ref-fulltext>
+<ce:source-text>Little, Margaret Olivia and ColeenMacnamara. 2017. “For Better or Worse: Commendatory Reasons and Latitude.”Oxford Studies in Normative Ethics 7: 138– 60.</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Justifying Partiality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Lord</ce:surname>
+<ce:given-name>Errol</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethical Theory and Moral Practice</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>19</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>569</first-page>
+<last-page>590</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lord, Errol. 2016. “Justifying Partiality.”Ethical Theory and Moral Practice19: 569–90.</ref-fulltext>
+<ce:source-text>Lord, Errol. 2016. “Justifying Partiality.”Ethical Theory and Moral Practice19: 569–90.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Lord</ce:surname>
+<ce:given-name>Errol</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Maguire</ce:surname>
+<ce:given-name>Barry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Weighing Reasons</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Lord, Errol and BarryMaguire (eds.). 2016. Weighing Reasons. Oxford University Press.</ref-fulltext>
+<ce:source-text>Lord, Errol and BarryMaguire (eds.). 2016. Weighing Reasons. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Value- Based Theory of Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Maguire</ce:surname>
+<ce:given-name>Barry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ergo</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>233</first-page>
+<last-page>262</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.3998/ergo.12405314.0003.009</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Maguire, Barry. 2016. “The Value- Based Theory of Reasons.”Ergo 3: 233– 62.https://doi.org/10.3998/ergo.12405314.0003.009</ref-fulltext>
+<ce:source-text>Maguire, Barry. 2016. “The Value- Based Theory of Reasons.”Ergo 3: 233– 62.https://doi.org/10.3998/ergo.12405314.0003.009</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Normative Metaphysics for Accountants</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Maguire</ce:surname>
+<ce:given-name>Barry</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Snedegar</ce:surname>
+<ce:given-name>Justin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>178</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>363</first-page>
+<last-page>384</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Maguire, Barry and JustinSnedegar. 2021. “Normative Metaphysics for Accountants.”Philosophical Studies 178: 363– 84.</ref-fulltext>
+<ce:source-text>Maguire, Barry and JustinSnedegar. 2021. “Normative Metaphysics for Accountants.”Philosophical Studies 178: 363– 84.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Moral Worth and Supererogation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Massoud</ce:surname>
+<ce:given-name>Amy</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>126</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>690</first-page>
+<last-page>710</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Massoud, Amy. 2016. “Moral Worth and Supererogation.”Ethics 126: 690– 710.</ref-fulltext>
+<ce:source-text>Massoud, Amy. 2016. “Moral Worth and Supererogation.”Ethics 126: 690– 710.</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fittingness First</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Mc Hugh</ce:surname>
+<ce:given-name>Conor</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Way</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>126</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>575</first-page>
+<last-page>606</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1086/684712</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>McHugh, Conor and JonathanWay. 2016. “Fittingness First.”Ethics 126: 575– 606. https://doi.org/10.1086/684712</ref-fulltext>
+<ce:source-text>McHugh, Conor and JonathanWay. 2016. “Fittingness First.”Ethics 126: 575– 606. https://doi.org/10.1086/684712</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Mc Mahan</ce:surname>
+<ce:given-name>Jeff</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>“Doing Good and Doing the Best.” in the Ethics of Giving: Philosophers</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>78</first-page>
+<last-page>102</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Perspectives on Philanthropy. Paul Woodruff (ed.). Oxford</ref-text>
+</ref-info>
+<ref-fulltext>McMahan, Jeff. 2018. “Doing Good and Doing the Best.” In The Ethics of Giving: Philosophers’Perspectives on Philanthropy. Paul Woodruff (ed.). Oxford, 78–102.</ref-fulltext>
+<ce:source-text>McMahan, Jeff. 2018. “Doing Good and Doing the Best.” In The Ethics of Giving: Philosophers’Perspectives on Philanthropy. Paul Woodruff (ed.). Oxford, 78–102.</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Muñoz</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Three Paradoxes of Supererogation.</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>55</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>699</first-page>
+<last-page>716</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/nous.12326</ce:e-address>
+</ref-website>
+<ref-text>Nous</ref-text>
+</ref-info>
+<ref-fulltext>Muñoz, Daniel. 2021. “Three Paradoxes of Supererogation.”Nous55: 699– 716.https://doi.org/10.1111/nous.12326</ref-fulltext>
+<ce:source-text>Muñoz, Daniel. 2021. “Three Paradoxes of Supererogation.”Nous55: 699– 716.https://doi.org/10.1111/nous.12326</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Supererogation and Conditional Obligation</ref-titletext-english>
+</ref-title>
+<itemidlist>
+<ce:doi>10.1007/s11098-021-01724-y</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Muñoz</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Pummer</ce:surname>
+<ce:given-name>Theron</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>179</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1429</first-page>
+<last-page>1443</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Muñoz, Daniel and TheronPummer. 2022. “Supererogation and Conditional Obligation.”Philosophical Studies179: 1429– 43. doi: doi.org/ 10.1007/ s11098-021-01724-y</ref-fulltext>
+<ce:source-text>Muñoz, Daniel and TheronPummer. 2022. “Supererogation and Conditional Obligation.”Philosophical Studies179: 1429– 43. doi: doi.org/ 10.1007/ s11098-021-01724-y</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Murphy</ce:surname>
+<ce:given-name>Mark</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>God’s Own Ethics: Norms of Divine Agency and the Argument from Evil</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Murphy, Mark. 2017. God’s Own Ethics: Norms of Divine Agency and the Argument from Evil. Oxford University Press.</ref-fulltext>
+<ce:source-text>Murphy, Mark. 2017. God’s Own Ethics: Norms of Divine Agency and the Argument from Evil. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Adding Up’ Reasons: Lessons for Reductive and Nonreductive Approaches</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Nair</ce:surname>
+<ce:given-name>Shyam</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>132</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>38</first-page>
+<last-page>88</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Nair, Shyam. 2021. “‘Adding Up’ Reasons: Lessons for Reductive and Nonreductive Approaches.”Ethics 132: 38– 88.</ref-fulltext>
+<ce:source-text>Nair, Shyam. 2021. “‘Adding Up’ Reasons: Lessons for Reductive and Nonreductive Approaches.”Ethics 132: 38– 88.</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Nair</ce:surname>
+<ce:given-name>Shyam</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>How Reasons Accrue.</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>56</first-page>
+<last-page>73</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Errol Lord and Barry Maguire (eds</ref-text>
+</ref-info>
+<ref-fulltext>Nair, Shyam. 2016. “How Reasons Accrue.”In Errol Lord and Barry Maguire (eds.), 56–73.</ref-fulltext>
+<ce:source-text>Nair, Shyam. 2016. “How Reasons Accrue.”In Errol Lord and Barry Maguire (eds.), 56–73.</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Future Generations: Further Problems</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Parfit</ce:surname>
+<ce:given-name>Derek</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophy &amp; Public Affairs</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>113</first-page>
+<last-page>172</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Parfit, Derek. 1982. “Future Generations: Further Problems.”Philosophy &amp; Public Affairs 11: 113– 72.</ref-fulltext>
+<ce:source-text>Parfit, Derek. 1982. “Future Generations: Further Problems.”Philosophy &amp; Public Affairs 11: 113– 72.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Portmore</ce:surname>
+<ce:given-name>Douglas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Opting for the Best: Ought and Options</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Portmore, Douglas. 2019. Opting for the Best: Ought and Options. Oxford University Press.</ref-fulltext>
+<ce:source-text>Portmore, Douglas. 2019. Opting for the Best: Ought and Options. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Portmore</ce:surname>
+<ce:given-name>Douglas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>“Transitivity, Moral Latitude, and Supererogation</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>286</first-page>
+<last-page>298</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Utilitas</ref-text>
+</ref-info>
+<ref-fulltext>Portmore, Douglas. 2017. “Transitivity, Moral Latitude, and Supererogation.”Utilitas29: 286– 98.</ref-fulltext>
+<ce:source-text>Portmore, Douglas. 2017. “Transitivity, Moral Latitude, and Supererogation.”Utilitas29: 286– 98.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Perform Your Best Option</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Portmore</ce:surname>
+<ce:given-name>Douglas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>110</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>436</first-page>
+<last-page>459</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Portmore, Douglas. 2013. “Perform Your Best Option.”Journal of Philosophy110: 436–59.</ref-fulltext>
+<ce:source-text>Portmore, Douglas. 2013. “Perform Your Best Option.”Journal of Philosophy110: 436–59.</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Portmore</ce:surname>
+<ce:given-name>Douglas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Commonsense Consequentialism: Wherein Morality Meets Rationality.</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Portmore, Douglas. 2011. Commonsense Consequentialism: Wherein Morality Meets Rationality.Oxford University Press.</ref-fulltext>
+<ce:source-text>Portmore, Douglas. 2011. Commonsense Consequentialism: Wherein Morality Meets Rationality.Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Are Moral Reasons Morally Overriding?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Portmore</ce:surname>
+<ce:given-name>Douglas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethical Theory and Moral Practice</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>369</first-page>
+<last-page>388</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Portmore, Douglas. 2008. “Are Moral Reasons Morally Overriding?”Ethical Theory and Moral Practice 11: 369– 88.</ref-fulltext>
+<ce:source-text>Portmore, Douglas. 2008. “Are Moral Reasons Morally Overriding?”Ethical Theory and Moral Practice 11: 369– 88.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Prakken</ce:surname>
+<ce:given-name>Henry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Study of Accrual of Arguments, with Applications to Evidential Reasoning.</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>85</first-page>
+<last-page>94</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Proceedings of the 10th International Conference on Artificial Intelligence and Law, Bologna 2005, ACM Press</ref-text>
+</ref-info>
+<ref-fulltext>Prakken, Henry. 2005. “A Study of Accrual of Arguments, with Applications to Evidential Reasoning.” Proceedings of the 10th International Conference on Artificial Intelligence and Law, Bologna 2005. ACM Press, 85– 94.</ref-fulltext>
+<ce:source-text>Prakken, Henry. 2005. “A Study of Accrual of Arguments, with Applications to Evidential Reasoning.” Proceedings of the 10th International Conference on Artificial Intelligence and Law, Bologna 2005. ACM Press, 85– 94.</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Impermissible Yet Praiseworthy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Pummer</ce:surname>
+<ce:given-name>Theron</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>131</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>697</first-page>
+<last-page>726</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pummer, Theron. 2021. “Impermissible Yet Praiseworthy.”Ethics131: 697–726.</ref-fulltext>
+<ce:source-text>Pummer, Theron. 2021. “Impermissible Yet Praiseworthy.”Ethics131: 697–726.</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-title>
+<ref-titletext-english>All or Nothing, but if Not All, Next Best or Nothing</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Pummer</ce:surname>
+<ce:given-name>Theron</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>116</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>278</first-page>
+<last-page>291</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pummer, Theron. 2019. “All or Nothing, but if Not All, Next Best or Nothing.”The Journal of Philosophy 116: 278– 91.</ref-fulltext>
+<ce:source-text>Pummer, Theron. 2019. “All or Nothing, but if Not All, Next Best or Nothing.”The Journal of Philosophy 116: 278– 91.</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Value Relations Revisited</ref-titletext-english>
+</ref-title>
+<itemidlist>
+<ce:doi>10.1017/S0266267112000144</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Rabinowicz</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Economics and Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>133</first-page>
+<last-page>164</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rabinowicz, W.2012. “Value Relations Revisited.”Economics and Philosophy28: 133–64. doi: doi.org/10.1017/S0266267112000144</ref-fulltext>
+<ce:source-text>Rabinowicz, W.2012. “Value Relations Revisited.”Economics and Philosophy28: 133–64. doi: doi.org/10.1017/S0266267112000144</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1111/j.1755-2567.2008.00008.x</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Rabinowicz</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Value Relations.</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>74</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>18</first-page>
+<last-page>49</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Theoria</ref-text>
+</ref-info>
+<ref-fulltext>Rabinowicz, W.2008. “Value Relations.”Theoria74: 18– 49. doi: doi.org/ 10.1111/j.1755-2567.2008.00008.x</ref-fulltext>
+<ce:source-text>Rabinowicz, W.2008. “Value Relations.”Theoria74: 18– 49. doi: doi.org/ 10.1111/j.1755-2567.2008.00008.x</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Rinard</ce:surname>
+<ce:given-name>Susanna</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasoning Ones Way out of Skepticism</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>240</first-page>
+<last-page>264</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Brill</ref-text>
+</ref-info>
+<ref-fulltext>Rinard, Susanna. 2018. “Reasoning One’s Way Out of Skepticism.”Brill, 240–64.</ref-fulltext>
+<ce:source-text>Rinard, Susanna. 2018. “Reasoning One’s Way Out of Skepticism.”Brill, 240–64.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.D.</ce:initials>
+<ce:surname>Ross</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Right and the Good. Philip Stratton- Lake</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Ross, W. D.2002. The Right and the Good. Philip Stratton- Lake (ed.). Oxford University Press.</ref-fulltext>
+<ce:source-text>Ross, W. D.2002. The Right and the Good. Philip Stratton- Lake (ed.). Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Conditional Obligations</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Rulli</ce:surname>
+<ce:given-name>Tina</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Theory and Practice</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>46</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>365</first-page>
+<last-page>390</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.5840/soctheorpract20204189</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Rulli, Tina. 2020. “Conditional Obligations.”Social Theory and Practice46: 365–90. DOI: https://doi.org/10.5840/soctheorpract20204189</ref-fulltext>
+<ce:source-text>Rulli, Tina. 2020. “Conditional Obligations.”Social Theory and Practice46: 365–90. DOI: https://doi.org/10.5840/soctheorpract20204189</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-title>
+<ref-titletext-english>IIA, Rationality, and the Individuation of Options</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Rulli</ce:surname>
+<ce:given-name>Tina</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Worsnip</ce:surname>
+<ce:given-name>Alex</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>173</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>205</first-page>
+<last-page>221</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rulli, Tina and AlexWorsnip. 2016. “IIA, Rationality, and the Individuation of Options.”Philosophical Studies 173: 205– 21.</ref-fulltext>
+<ce:source-text>Rulli, Tina and AlexWorsnip. 2016. “IIA, Rationality, and the Individuation of Options.”Philosophical Studies 173: 205– 21.</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Scheffler</ce:surname>
+<ce:given-name>Samuel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Scheffler, Samuel. 1982. The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions. Oxford University Press.</ref-fulltext>
+<ce:source-text>Scheffler, Samuel. 1982. The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How Reasons Determine Moral Requirements</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Schmidt</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Studies in Metaethics</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>97</first-page>
+<last-page>115</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Schmidt, Thomas. 2023. “How Reasons Determine Moral Requirements.”Oxford Studies in Metaethics 18: 97– 115.</ref-fulltext>
+<ce:source-text>Schmidt, Thomas. 2023. “How Reasons Determine Moral Requirements.”Oxford Studies in Metaethics 18: 97– 115.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Fundamental Reason for Reasons Fundamentalism.”</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Schroeder</ce:surname>
+<ce:given-name>Mark</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>178</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>3107</first-page>
+<last-page>3127</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1007/s11098-020-01572-2</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Schroeder, Mark. 2021. “The Fundamental Reason for Reasons Fundamentalism.”Philosophical Studies178: 3107– 27. https:// doi.org/ 10.1007/s11098-020-01572-2</ref-fulltext>
+<ce:source-text>Schroeder, Mark. 2021. “The Fundamental Reason for Reasons Fundamentalism.”Philosophical Studies178: 3107– 27. https:// doi.org/ 10.1007/s11098-020-01572-2</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Comparative Value and the Weight of Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Sher</ce:surname>
+<ce:given-name>Itai</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Economics and Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>35</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>103</first-page>
+<last-page>158</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sher, Itai. 2019. “Comparative Value and the Weight of Reasons.”Economics and Philosophy 35: 103– 58.</ref-fulltext>
+<ce:source-text>Sher, Itai. 2019. “Comparative Value and the Weight of Reasons.”Economics and Philosophy 35: 103– 58.</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Silver</ce:surname>
+<ce:given-name>Nate</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Signal and the Noise: Why So Many Predictions Fail— but Some Don’t</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>Penguin Books</ref-text>
+</ref-info>
+<ref-fulltext>Silver, Nate. 2015. The Signal and the Noise: Why so Many Predictions Fail— But Some Don’t. Penguin Books.</ref-fulltext>
+<ce:source-text>Silver, Nate. 2015. The Signal and the Noise: Why so Many Predictions Fail— But Some Don’t. Penguin Books.</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Slote</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Beyond Optimizing</ref-sourcetitle>
+<ref-publicationyear first="1989"/>
+<ref-text>Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Slote, Michael. 1989. Beyond Optimizing. Harvard University Press.</ref-fulltext>
+<ce:source-text>Slote, Michael. 1989. Beyond Optimizing. Harvard University Press.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1093/oxfordhb/9780190905323.013.2</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Holly</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Alternatives.</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>113</first-page>
+<last-page>138</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>The Oxford Handbook of Consequentialism. Douglas Portmore (ed.). Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Holly. 2020. “Alternatives.” In The Oxford Handbook of Consequentialism. Douglas Portmore (ed.). Oxford University Press, 113– 38.doi.org/10.1093/oxfordhb/9780190905323.013.2</ref-fulltext>
+<ce:source-text>Smith, Holly. 2020. “Alternatives.” In The Oxford Handbook of Consequentialism. Douglas Portmore (ed.). Oxford University Press, 113– 38.doi.org/10.1093/oxfordhb/9780190905323.013.2</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Reasons, Competition, and Latitude</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Snedegar</ce:surname>
+<ce:given-name>Justin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Studies in Metaethics</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>16</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>134</first-page>
+<last-page>156</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1093/oso/9780192897466.003.0006</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Snedegar, Justin.2021. “Reasons, Competition, and Latitude.”Oxford Studies in Metaethics16: 134–56. https://doi.org/10.1093/oso/9780192897 466.003.0006</ref-fulltext>
+<ce:source-text>Snedegar, Justin.2021. “Reasons, Competition, and Latitude.”Oxford Studies in Metaethics16: 134–56. https://doi.org/10.1093/oso/9780192897 466.003.0006</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Reasons for and Reasons Against</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Snedegar</ce:surname>
+<ce:given-name>Justin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>175</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>725</first-page>
+<last-page>743</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Snedegar, Justin. 2018. “Reasons for and Reasons Against.”Philosophical Studies 175:725– 43.</ref-fulltext>
+<ce:source-text>Snedegar, Justin. 2018. “Reasons for and Reasons Against.”Philosophical Studies 175:725– 43.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Snedegar</ce:surname>
+<ce:given-name>Justin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Contrastive Reasons.</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Snedegar, Justin. 2017. Contrastive Reasons. Oxford University Press.</ref-fulltext>
+<ce:source-text>Snedegar, Justin. 2017. Contrastive Reasons. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Snedegar</ce:surname>
+<ce:given-name>Justin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons, Oughts, and Requirements.</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>155</first-page>
+<last-page>181</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Oxford Studies in Metaethics, Russ Schafer- Landau (ed.), Volume 11. Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Snedegar, Justin. 2016. “Reasons, Oughts, and Requirements.”In Oxford Studies in Metaethics, Russ Schafer- Landau (ed.), Volume 11. Oxford University Press, 155– 81.</ref-fulltext>
+<ce:source-text>Snedegar, Justin. 2016. “Reasons, Oughts, and Requirements.”In Oxford Studies in Metaethics, Russ Schafer- Landau (ed.), Volume 11. Oxford University Press, 155– 81.</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Reason Claims and Contrastivism About Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Snedegar</ce:surname>
+<ce:given-name>Justin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Perspectives</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>166</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>231</first-page>
+<last-page>242</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Snedegar, Justin. 2013. “Reason Claims and Contrastivism About Reasons.” Philosophical Perspectives166: 231– 42.</ref-fulltext>
+<ce:source-text>Snedegar, Justin. 2013. “Reason Claims and Contrastivism About Reasons.” Philosophical Perspectives166: 231– 42.</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Satisficing and Virtue</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Swanton</ce:surname>
+<ce:given-name>Christine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>90</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>33</first-page>
+<last-page>48</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Swanton, Christine.1993. “Satisficing and Virtue.”Journal of Philosophy90: 33–48.</ref-fulltext>
+<ce:source-text>Swanton, Christine.1993. “Satisficing and Virtue.”Journal of Philosophy90: 33–48.</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Temkin</ce:surname>
+<ce:given-name>Larry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Rethinking the Good: Moral Ideals and the Nature of Practical Reasoning</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Temkin, Larry. 2012. Rethinking the Good: Moral Ideals and the Nature of Practical Reasoning. Oxford University Press.</ref-fulltext>
+<ce:source-text>Temkin, Larry. 2012. Rethinking the Good: Moral Ideals and the Nature of Practical Reasoning. Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Brute Requirements</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Tenenbaum</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Canadian Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>37</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>153</first-page>
+<last-page>171</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tenenbaum, S.2007. “Brute Requirements.”Canadian Journal of Philosophy37: 153–71.</ref-fulltext>
+<ce:source-text>Tenenbaum, S.2007. “Brute Requirements.”Canadian Journal of Philosophy37: 153–71.</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.E.</ce:initials>
+<ce:surname>Tetlock</ce:surname>
+<ce:given-name>Philip E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Expert Political Judgment: How Good is It? How Can We Know</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-text>Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Tetlock, Philip E.2006. Expert Political Judgment: How Good Is It? How Can We Know?Princeton University Press.</ref-fulltext>
+<ce:source-text>Tetlock, Philip E.2006. Expert Political Judgment: How Good Is It? How Can We Know?Princeton University Press.</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Reason Without Reasons For</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Titelbaum</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>In Oxford Studies in Metaethics</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>189</first-page>
+<last-page>215</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Titelbaum, Michael. 2019. “Reason Without Reasons For.”In Oxford Studies in Metaethics, Volume 14: 189– 215.Oxford University Press.</ref-fulltext>
+<ce:source-text>Titelbaum, Michael. 2019. “Reason Without Reasons For.”In Oxford Studies in Metaethics, Volume 14: 189– 215.Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Withhold By Default: A Difference Between Epistemic and Practical Rationality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1007/s11098-024-02233-4</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Tucker, Chris. 2024a. “Withhold By Default: A Difference Between Epistemic and Practical Rationality.” Philosophical Studies. https://doi.org/10.1007/ s11098-024-02233-4</ref-fulltext>
+<ce:source-text>Tucker, Chris. 2024a. “Withhold By Default: A Difference Between Epistemic and Practical Rationality.” Philosophical Studies. https://doi.org/10.1007/ s11098-024-02233-4</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Experience as Evidence.</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>19</first-page>
+<last-page>29</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In Routledge Handbook of Philosophy of Evidence. Maria Lasonen- Aarnio and Clayton Littlejohn (eds.). Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Tucker, Chris. 2024b. “Experience as Evidence.”In Routledge Handbook of Philosophy of Evidence. Maria Lasonen- Aarnio and Clayton Littlejohn (eds.). Routledge, 19– 29.</ref-fulltext>
+<ce:source-text>Tucker, Chris. 2024b. “Experience as Evidence.”In Routledge Handbook of Philosophy of Evidence. Maria Lasonen- Aarnio and Clayton Littlejohn (eds.). Routledge, 19– 29.</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1111/nous.12410</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Parity, Moral Options, and the Weights of Reasons.</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>57</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>454</first-page>
+<last-page>480</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Nous</ref-text>
+</ref-info>
+<ref-fulltext>Tucker, Chris. 2023a. “Parity, Moral Options, and the Weights of Reasons.”Nous57: 454– 80.doi: doi.org/ 10.1111/ nous.12410</ref-fulltext>
+<ce:source-text>Tucker, Chris. 2023a. “Parity, Moral Options, and the Weights of Reasons.”Nous57: 454– 80.doi: doi.org/ 10.1111/ nous.12410</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Holist Balance Scale</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the American Philosophical Association</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>533</first-page>
+<last-page>553</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1017/apa.2022.13</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Tucker, Chris. 2023b. “A Holist Balance Scale.”Journal of the American Philosophical Association9: 533–53. https://doi.org/10.1017/apa.2022.13</ref-fulltext>
+<ce:source-text>Tucker, Chris. 2023b. “A Holist Balance Scale.”Journal of the American Philosophical Association9: 533–53. https://doi.org/10.1017/apa.2022.13</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Dual Scale Model of Weighing Reasons.</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>56</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>366</first-page>
+<last-page>392</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/nous.12361</ce:e-address>
+</ref-website>
+<ref-text>Nous</ref-text>
+</ref-info>
+<ref-fulltext>Tucker, Chris. 2022a. “The Dual Scale Model of Weighing Reasons.”Nous56: 366–92.doi: https://doi.org/10.1111/nous.12361</ref-fulltext>
+<ce:source-text>Tucker, Chris. 2022a. “The Dual Scale Model of Weighing Reasons.”Nous56: 366–92.doi: https://doi.org/10.1111/nous.12361</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Weighing Reasons Against</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Studies in Metaethics</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>77</first-page>
+<last-page>107</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tucker, Chris. 2022b. “Weighing Reasons Against.”Oxford Studies in Metaethics 17: 77– 107.</ref-fulltext>
+<ce:source-text>Tucker, Chris. 2022b. “Weighing Reasons Against.”Oxford Studies in Metaethics 17: 77– 107.</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Too Far Beyond the Call of Duty: Moral Rationalism and Weighing Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>179</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2029</first-page>
+<last-page>2052</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1007/s11098-021-01747-5</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Tucker, Chris.2022c. “Too Far Beyond the Call of Duty: Moral Rationalism and Weighing Reasons.”Philosophical Studies179: 2029– 52. doi: https:// doi.org/10.1007/s11098-021-01747-5</ref-fulltext>
+<ce:source-text>Tucker, Chris.2022c. “Too Far Beyond the Call of Duty: Moral Rationalism and Weighing Reasons.”Philosophical Studies179: 2029– 52. doi: https:// doi.org/10.1007/s11098-021-01747-5</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Divine Satisficing and the Ethics of the Problem of Evil</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Faith and Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>37</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>32</first-page>
+<last-page>56</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tucker, Chris. 2020. “Divine Satisficing and the Ethics of the Problem of Evil.”Faith and Philosophy 37: 32– 56.</ref-fulltext>
+<ce:source-text>Tucker, Chris. 2020. “Divine Satisficing and the Ethics of the Problem of Evil.”Faith and Philosophy 37: 32– 56.</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How to Think About Satisficing</ref-titletext-english>
+</ref-title>
+<itemidlist>
+<ce:doi>10.1007/s11098-016-0763-7</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>174</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1365</first-page>
+<last-page>1384</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tucker, Chris. 2017. “How to Think About Satisficing.”Philosophical Studies174: 1365–84. doi: doi.org/10.1007/s11098-016-0763-7</ref-fulltext>
+<ce:source-text>Tucker, Chris. 2017. “How to Think About Satisficing.”Philosophical Studies174: 1365–84. doi: doi.org/10.1007/s11098-016-0763-7</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Moral Generalism: Enjoy in Moderation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Väyrynen</ce:surname>
+<ce:given-name>Pekka</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>116</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>707</first-page>
+<last-page>741</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Väyrynen, Pekka. 2006. “Moral Generalism: Enjoy in Moderation.”Ethics116: 707–41.</ref-fulltext>
+<ce:source-text>Väyrynen, Pekka. 2006. “Moral Generalism: Enjoy in Moderation.”Ethics116: 707–41.</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Reasons Aggregation Theorem</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wedgwood</ce:surname>
+<ce:given-name>Ralph</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Studies in Normative Ethics</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>12</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>127</first-page>
+<last-page>148</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wedgwood, Ralph. 2022. “The Reasons Aggregation Theorem.”Oxford Studies in Normative Ethics 12: 127– 48.</ref-fulltext>
+<ce:source-text>Wedgwood, Ralph. 2022. “The Reasons Aggregation Theorem.”Oxford Studies in Normative Ethics 12: 127– 48.</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Weight of Moral Reasons</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wedgwood</ce:surname>
+<ce:given-name>Ralph</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Studies in Normative Ethics</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>35</first-page>
+<last-page>58</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wedgwood, Ralph. 2013. “The Weight of Moral Reasons.”Oxford Studies in Normative Ethics 3: 35– 58.</ref-fulltext>
+<ce:source-text>Wedgwood, Ralph. 2013. “The Weight of Moral Reasons.”Oxford Studies in Normative Ethics 3: 35– 58.</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Transmission Failures</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>White</ce:surname>
+<ce:given-name>Stephen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>127</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>719</first-page>
+<last-page>732</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>White, Stephen. 2017. “Transmission Failures.”Ethics 127: 719– 32.</ref-fulltext>
+<ce:source-text>White, Stephen. 2017. “Transmission Failures.”Ethics 127: 719– 32.</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Whiting</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Range of Reasons in Ethics and Epistemology</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Whiting, Daniel. 2022. The Range of Reasons in Ethics and Epistemology. Oxford University Press.</ref-fulltext>
+<ce:source-text>Whiting, Daniel. 2022. The Range of Reasons in Ethics and Epistemology. Oxford University Press.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit>
+</units>

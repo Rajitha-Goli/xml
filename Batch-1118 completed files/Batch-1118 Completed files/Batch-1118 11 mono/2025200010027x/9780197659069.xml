@@ -1,0 +1,4776 @@
+<?xml version='1.0' encoding='UTF-8'?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-17T17:22:48</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1093/9780197659069.001.0001</ce:doi>
+<itemid idtype="TPB-ID">2025200010027X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+<author-keywords>
+<author-keyword>Margaret bonds</author-keyword>
+<author-keyword>Langston hughes</author-keyword>
+<author-keyword>Classical music</author-keyword>
+<author-keyword>African american music</author-keyword>
+<author-keyword>Civil rights movement</author-keyword>
+<author-keyword>Harlem renaissancet</author-keyword>
+<author-keyword>Black Chicago Renaissance</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Margaret Bonds</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:degrees>Prof.</ce:degrees>
+<ce:surname>Cooper</ce:surname>
+<ce:given-name>John Michael</ce:given-name>
+</author>
+<affiliation>
+<organization>Southwestern University</organization>
+<country iso-code="USA" />
+<ce:source-text>Professor of Music, Department of Music, Southwestern University, USA</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>J.M.</ce:initials>
+<ce:degrees>Prof.</ce:degrees>
+<ce:surname>Cooper</ce:surname>
+<ce:given-name>John Michael</ce:given-name>
+</person>
+<affiliation>
+<organization>Southwestern University</organization>
+<country iso-code="USA" />
+<ce:source-text>Professor of Music, Department of Music, Southwestern University, USA</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Oxford University Press 2025, All rights reserved</publishercopyright>
+<ce:para>Composer, pianist, teacher, and social-justice activist Margaret Bonds (1913–72) fought against racism, sexism, and economic injustice throughout her career, amassing a portfolio of social-justice compositions unrivaled in eloquence and originality and challenging long-standing barriers between Black and White, male and female, popular and classical. But most of her more than four hundred compositions have remained unknown and her life and work have been consistently viewed through the lens of specious racist and sexist biographical tropes that ultimately have little to do with Bonds as her own world knew her. This book draws on an unprecedented mass of biographical, musical, and other documentary archival evidence to offer a fresh portrait of Margaret Bonds that not only brings to light the numerous groundbreaking activities that led to her success in her lifetime but also reveals her to have been an activist and creative achiever whose work is as much of our time as it was of her own.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Margaret bonds</sourcetitle>
+<sourcetitle-abbrev>Margaret bonds</sourcetitle-abbrev>
+<isbn type="print" length="13">9780197659038</isbn>
+<isbn type="electronic" length="13">9780197659069</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>368</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025" />
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>28</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://academic.oup.com/book/59508</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="241">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Forgotten Voice Rises in Song at Georgetown</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Midgette</ce:surname>
+<ce:given-name>Anne</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>10 November</ref-text>
+</ref-info>
+<ref-fulltext>Anne Midgette, “A Forgotten Voice Rises in Song at Georgetown,” Washington Post (10 November 2017)</ref-fulltext>
+<ce:source-text>Anne Midgette, “A Forgotten Voice Rises in Song at Georgetown,” Washington Post (10 November 2017)</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.H.</ce:initials>
+<ce:surname>Celenza</ce:surname>
+<ce:given-name>Anna Harwell</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds and Langston Hughes: A Musical Friendship</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>3</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>[Washington, DC]: Georgetown University Library</ref-text>
+</ref-info>
+<ref-fulltext>Anna Harwell Celenza, Margaret Bonds and Langston Hughes: A Musical Friendship ([Washington, DC]: Georgetown University Library, 2016), 3.</ref-fulltext>
+<ce:source-text>Anna Harwell Celenza, Margaret Bonds and Langston Hughes: A Musical Friendship ([Washington, DC]: Georgetown University Library, 2016), 3.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Florence B. Price and Margaret Bonds: The Chicago Years</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.L.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Rae Linda</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Music Research Bulletin</ref-sourcetitle>
+<ref-publicationyear first="1990" />
+<volisspag>
+<volume-issue-number>
+<vol-first>12</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>11</first-page>
+<last-page>14</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rae Linda Brown, “Florence B. Price and Margaret Bonds: The Chicago Years,” Black Music Research Bulletin 12 (1990): 11–14</ref-fulltext>
+<ce:source-text>Rae Linda Brown, “Florence B. Price and Margaret Bonds: The Chicago Years,” Black Music Research Bulletin 12 (1990): 11–14</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Margaret Bonds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Walker-Hill</ce:surname>
+<ce:given-name>Helen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From Spirituals to Symphonies: African American Women Composers and Their Music</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>141</first-page>
+<last-page>188</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 141–88</ref-fulltext>
+<ce:source-text>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 141–88</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.N.</ce:initials>
+<ce:surname>Kilgore</ce:surname>
+<ce:given-name>Alethea N.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Life and Solo Vocal Works of Margaret Allison Bonds</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1913</first-page>
+<last-page>1972</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Alethea N. Kilgore, “The Life and Solo Vocal Works of Margaret Allison Bonds (1913–1972)</ref-fulltext>
+<ce:source-text>Alethea N. Kilgore, “The Life and Solo Vocal Works of Margaret Allison Bonds (1913–1972)</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.J.</ce:initials>
+<ce:surname>Jackson</ce:surname>
+<ce:given-name>Ashley Jennifer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds and the Ballad of the Brown King: An Historical Overview and Analysis</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>DMA diss., The Juilliard School</ref-text>
+</ref-info>
+<ref-fulltext>Ashley Jennifer Jackson, “Margaret Bonds and The Ballad of the Brown King: An Historical Overview and Analysis” (DMA diss., The Juilliard School, 2014)</ref-fulltext>
+<ce:source-text>Ashley Jennifer Jackson, “Margaret Bonds and The Ballad of the Brown King: An Historical Overview and Analysis” (DMA diss., The Juilliard School, 2014)</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Celenza</ce:surname>
+<ce:given-name>Harwell</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds and Langston Hughes: A Musical Friendship</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Harwell Celenza, Margaret Bonds and Langston Hughes: A Musical Friendship (see n.3)</ref-fulltext>
+<ce:source-text>Harwell Celenza, Margaret Bonds and Langston Hughes: A Musical Friendship (see n.3)</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Martin</ce:surname>
+<ce:given-name>Allegra</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Expressions of African American Identity in the Cantata Simon Bore the Cross by Margaret Bonds and Langston Hughes</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<ref-text>DMA diss., University of Illinois at Urbana-Champaign</ref-text>
+</ref-info>
+<ref-fulltext>Allegra Martin, “Expressions of African American Identity in the Cantata Simon Bore the Cross by Margaret Bonds and Langston Hughes” (DMA diss., University of Illinois at Urbana-Champaign, 2019)</ref-fulltext>
+<ce:source-text>Allegra Martin, “Expressions of African American Identity in the Cantata Simon Bore the Cross by Margaret Bonds and Langston Hughes” (DMA diss., University of Illinois at Urbana-Champaign, 2019)</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Composing a Symphonist: Florence Price and the Hand of Black Women’s Fellowship</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Ege</ce:surname>
+<ce:given-name>Samantha</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Women and Music: A Journal of Gender and Culture</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>7</first-page>
+<last-page>27</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Samantha Ege, “Composing a Symphonist: Florence Price and the Hand of Black Women’s Fellowship,” Women and Music: A Journal of Gender and Culture 24 (2020): 7–27</ref-fulltext>
+<ce:source-text>Samantha Ege, “Composing a Symphonist: Florence Price and the Hand of Black Women’s Fellowship,” Women and Music: A Journal of Gender and Culture 24 (2020): 7–27</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-title>
+<ref-titletext-english>An Introduction to the Non-Idiomatic Choral Music of Black Composers</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.L.A.</ce:initials>
+<ce:surname>Garrett</ce:surname>
+<ce:given-name>Marques L. A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Association of Anglican Musicians</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>4</first-page>
+<last-page>7</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Marques L. A. Garrett, “An Introduction to the Non-Idiomatic Choral Music of Black Composers,” Journal of the Association of Anglican Musicians 29 (2020): 4–7</ref-fulltext>
+<ce:source-text>Marques L. A. Garrett, “An Introduction to the Non-Idiomatic Choral Music of Black Composers,” Journal of the Association of Anglican Musicians 29 (2020): 4–7</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Visions of a Master: Unveiling the Choral Orchestral Works of Margaret Bonds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Merriweather</ce:surname>
+<ce:given-name>Malcolm J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Music Review</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>50</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>7</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Malcolm J. Merriweather, “Visions of a Master: Unveiling the Choral Orchestral Works of Margaret Bonds,” American Music Review 50 (2020): 1–7</ref-fulltext>
+<ce:source-text>Malcolm J. Merriweather, “Visions of a Master: Unveiling the Choral Orchestral Works of Margaret Bonds,” American Music Review 50 (2020): 1–7</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Cooper</ce:surname>
+<ce:given-name>John Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois "Credo"</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>John Michael Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo” (Cambridge: Cambridge University Press, 2023).</ref-fulltext>
+<ce:source-text>John Michael Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo” (Cambridge: Cambridge University Press, 2023).</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Dan Cupid Unites Two of Chicago’s Oldest Families</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1936" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>9</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>18 July</ref-text>
+</ref-info>
+<ref-fulltext>“Dan Cupid Unites Two of Chicago’s Oldest Families,” Pittsburgh Courier (18 July 1936): 9.</ref-fulltext>
+<ce:source-text>“Dan Cupid Unites Two of Chicago’s Oldest Families,” Pittsburgh Courier (18 July 1936): 9.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mrs. Bonds, Musician, Dies in New York City</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Chicago Defender</ref-sourcetitle>
+<ref-publicationyear first="1957" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>20</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>national edition9 March</ref-text>
+</ref-info>
+<ref-fulltext>“Mrs. Bonds, Musician, Dies in New York City,” Chicago Defender, national edition (9 March 1957): 20.</ref-fulltext>
+<ce:source-text>“Mrs. Bonds, Musician, Dies in New York City,” Chicago Defender, national edition (9 March 1957): 20.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Black Concert Music in Chicago, 1890 to the 1930s</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.P.</ce:initials>
+<ce:surname>Holly</ce:surname>
+<ce:given-name>Elliston Perkins</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Music Research Journal</ref-sourcetitle>
+<ref-publicationyear first="1990" />
+<volisspag>
+<volume-issue-number>
+<vol-first>10</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>141</first-page>
+<last-page>149</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Elliston Perkins Holly, “Black Concert Music in Chicago, 1890 to the 1930s,” Black Music Research Journal 10 (1990): 141–49</ref-fulltext>
+<ce:source-text>Elliston Perkins Holly, “Black Concert Music in Chicago, 1890 to the 1930s,” Black Music Research Journal 10 (1990): 141–49</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-sourcetitle>The Broad Ax</ref-sourcetitle>
+<ref-publicationyear first="1906" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago29 September</ref-text>
+</ref-info>
+<ref-fulltext>The Broad Ax, Chicago (29 September 1906): 2.</ref-fulltext>
+<ce:source-text>The Broad Ax, Chicago (29 September 1906): 2.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-sourcetitle>Troubled Water” (From the Spiritual Suite</ref-sourcetitle>
+<ref-text>Columbia College Library and Archives, Chicago, Cheryl A</ref-text>
+</ref-info>
+<ref-fulltext>“Troubled Water” (from the Spiritual Suite), Columbia College Library and Archives, Chicago, Cheryl A.</ref-fulltext>
+<ce:source-text>“Troubled Water” (from the Spiritual Suite), Columbia College Library and Archives, Chicago, Cheryl A.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Music</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Bontemps</ce:surname>
+<ce:given-name>Arna</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Negro in Illinois: The WPA Papers</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>225</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Brian Dolinar (Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Arna Bontemps, “Music,” in The Negro in Illinois: The WPA Papers, ed. Brian Dolinar (Urbana: University of Illinois Press, 2013), 225.</ref-fulltext>
+<ce:source-text>Arna Bontemps, “Music,” in The Negro in Illinois: The WPA Papers, ed. Brian Dolinar (Urbana: University of Illinois Press, 2013), 225.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-sourcetitle>The Broad Ax</ref-sourcetitle>
+<ref-publicationyear first="1916" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago29 April</ref-text>
+</ref-info>
+<ref-fulltext>The Broad Ax, Chicago (29 April 1916): 4.</ref-fulltext>
+<ce:source-text>The Broad Ax, Chicago (29 April 1916): 4.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-sourcetitle>Piano Recital by the Pupils of Mrs. Estella Bonds-Majors at St. Mark Church, 50 Street and Wabash Avenue</ref-sourcetitle>
+<ref-publicationyear first="1917" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>The Broad Ax, Chicago12 May</ref-text>
+</ref-info>
+<ref-fulltext>“Piano Recital by the Pupils of Mrs. Estella Bonds-Majors at St. Mark Church, 50 Street and Wabash Avenue,” The Broad Ax, Chicago (12 May 1917): 4.</ref-fulltext>
+<ce:source-text>“Piano Recital by the Pupils of Mrs. Estella Bonds-Majors at St. Mark Church, 50 Street and Wabash Avenue,” The Broad Ax, Chicago (12 May 1917): 4.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Paul</ce:surname>
+<ce:given-name>St.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Appeal</ref-sourcetitle>
+<ref-publicationyear first="1915" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>3</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>11 August</ref-text>
+</ref-info>
+<ref-fulltext>The Appeal, St. Paul and Minneapolis (11 August 1915): 3.</ref-fulltext>
+<ce:source-text>The Appeal, St. Paul and Minneapolis (11 August 1915): 3.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-sourcetitle>The Broad Ax</ref-sourcetitle>
+<ref-publicationyear first="1919" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago31 May</ref-text>
+</ref-info>
+<ref-fulltext>The Broad Ax, Chicago (31 May 1919): 4.</ref-fulltext>
+<ce:source-text>The Broad Ax, Chicago (31 May 1919): 4.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Margaret Bonds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Walker-Hill</ce:surname>
+<ce:given-name>Helen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From Spirituals to Symphonies: African-American Women Composers and Their Music</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>146</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 146.</ref-fulltext>
+<ce:source-text>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 146.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Walker-Hill</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>146</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Walker-Hill, “Margaret Bonds,” 146</ref-fulltext>
+<ce:source-text>Walker-Hill, “Margaret Bonds,” 146</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Composer-Housewife</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Fagans</ce:surname>
+<ce:given-name>Sandra</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Afro-American</ref-sourcetitle>
+<ref-publicationyear first="1964" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>21</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>15 August</ref-text>
+</ref-info>
+<ref-fulltext>Sandra Fagans, “Composer-Housewife,” Washington Afro-American (15 August 1964): 21.</ref-fulltext>
+<ce:source-text>Sandra Fagans, “Composer-Housewife,” Washington Afro-American (15 August 1964): 21.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-sourcetitle>The Broad Ax</ref-sourcetitle>
+<ref-publicationyear first="1919" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago14 June</ref-text>
+</ref-info>
+<ref-fulltext>The Broad Ax, Chicago (14 June 1919): 5.</ref-fulltext>
+<ce:source-text>The Broad Ax, Chicago (14 June 1919): 5.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mrs. Estella C. Bonds Majors Resumes Her Maiden Name</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Broad Ax</ref-sourcetitle>
+<ref-publicationyear first="1919" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago, 21 June</ref-text>
+</ref-info>
+<ref-fulltext>“Mrs. Estella C. Bonds Majors Resumes Her Maiden Name,” The Broad Ax, Chicago (21 June 1919): 4.</ref-fulltext>
+<ce:source-text>“Mrs. Estella C. Bonds Majors Resumes Her Maiden Name,” The Broad Ax, Chicago (21 June 1919): 4.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.E.</ce:initials>
+<ce:surname>McGinty</ce:surname>
+<ce:given-name>Doris Evans</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Documentary History of the National Association of Negro Musicians</ref-sourcetitle>
+<ref-publicationyear first="2004" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>19</first-page>
+<last-page>27</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago: Center for Black Music Research, Columbia College Chicago</ref-text>
+</ref-info>
+<ref-fulltext>Doris Evans McGinty, A Documentary History of the National Association of Negro Musicians (Chicago: Center for Black Music Research, Columbia College Chicago, 2004), 19–27.</ref-fulltext>
+<ce:source-text>Doris Evans McGinty, A Documentary History of the National Association of Negro Musicians (Chicago: Center for Black Music Research, Columbia College Chicago, 2004), 19–27.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-sourcetitle>The Black Dispatch</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>10 June</ref-text>
+</ref-info>
+<ref-fulltext>The Black Dispatch (10 June 1937): 8.</ref-fulltext>
+<ce:source-text>The Black Dispatch (10 June 1937): 8.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.J.</ce:initials>
+<ce:surname>Stephens</ce:surname>
+<ce:given-name>Ronald J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Idlewild: The Black Eden of Michigan</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<ref-text>Chicago: Arcadia</ref-text>
+</ref-info>
+<ref-fulltext>Ronald J. Stephens, Idlewild: The Black Eden of Michigan (Chicago: Arcadia, 2001)</ref-fulltext>
+<ce:source-text>Ronald J. Stephens, Idlewild: The Black Eden of Michigan (Chicago: Arcadia, 2001)</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.J.</ce:initials>
+<ce:surname>Stephens</ce:surname>
+<ce:given-name>Ronald J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Idlewild: The Rise, Decline, and Rebirth of a Unique African American Resort Town</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<ref-text>Ann Arbor: University of Michigan Press</ref-text>
+</ref-info>
+<ref-fulltext>Ronald J. Stephens, Idlewild: The Rise, Decline, and Rebirth of a Unique African American Resort Town (Ann Arbor: University of Michigan Press, 2013)</ref-fulltext>
+<ce:source-text>Ronald J. Stephens, Idlewild: The Rise, Decline, and Rebirth of a Unique African American Resort Town (Ann Arbor: University of Michigan Press, 2013)</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-title>
+<ref-titletext-english>News of the Music World</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.R.</ce:initials>
+<ce:surname>George</ce:surname>
+<ce:given-name>Maude Roberts</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chicago Defender</ref-sourcetitle>
+<ref-publicationyear first="1932" />
+<ref-text>15 November</ref-text>
+</ref-info>
+<ref-fulltext>Maude Roberts George, “News of the Music World,” Chicago Defender, national edition (15 November 1932)</ref-fulltext>
+<ce:source-text>Maude Roberts George, “News of the Music World,” Chicago Defender, national edition (15 November 1932)</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Reminiscence</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Negro in Music and Art</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>190</first-page>
+<last-page>192</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Lindsay Patterson (New York: International Library of Negro Life and History</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, “A Reminiscence,” in The Negro in Music and Art, ed. Lindsay Patterson (New York: International Library of Negro Life and History, 1967), 190–93 at 192.</ref-fulltext>
+<ce:source-text>Margaret Bonds, “A Reminiscence,” in The Negro in Music and Art, ed. Lindsay Patterson (New York: International Library of Negro Life and History, 1967), 190–93 at 192.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Bonds</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Reminiscence</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>192</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bonds, “A Reminiscence,” 192.</ref-fulltext>
+<ce:source-text>Bonds, “A Reminiscence,” 192.</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.W.</ce:initials>
+<ce:surname>Homel</ce:surname>
+<ce:given-name>Michael W.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Down from Equality: Black Chicagoans and the Public Schools, 1920–41</ref-sourcetitle>
+<ref-publicationyear first="1984" />
+<ref-text>Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Michael W. Homel, Down from Equality: Black Chicagoans and the Public Schools, 1920–41 (Urbana: University of Illinois Press, 1984)</ref-fulltext>
+<ce:source-text>Michael W. Homel, Down from Equality: Black Chicagoans and the Public Schools, 1920–41 (Urbana: University of Illinois Press, 1984)</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Majors</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Noted Negro Women: Their Triumphs and Activities</ref-sourcetitle>
+<ref-publicationyear first="1893" />
+<ref-text>Chicago: Donohue and Henneberry</ref-text>
+</ref-info>
+<ref-fulltext>M. A. Majors, Noted Negro Women: Their Triumphs and Activities (Chicago: Donohue and Henneberry, 1893);</ref-fulltext>
+<ce:source-text>M. A. Majors, Noted Negro Women: Their Triumphs and Activities (Chicago: Donohue and Henneberry, 1893);</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Majors</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>First Steps and Nursery Rhymes</ref-sourcetitle>
+<ref-publicationyear first="1920" />
+<ref-text>Chicago: McElray &amp; Clark</ref-text>
+</ref-info>
+<ref-fulltext>M. A. Majors, First Steps and Nursery Rhymes (Chicago: McElray &amp; Clark, 1920)</ref-fulltext>
+<ce:source-text>M. A. Majors, First Steps and Nursery Rhymes (Chicago: McElray &amp; Clark, 1920)</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Monroe Alpheus Majors, 1864</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Montague Cobb</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Medical History</ref-sourcetitle>
+<ref-publicationyear first="1955" />
+<volisspag>
+<volume-issue-number>
+<vol-first>47</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>139</first-page>
+<last-page>141</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>W. Montague Cobb, “Monroe Alpheus Majors, 1864–,” Medical History 47 (1955): 139–41.</ref-fulltext>
+<ce:source-text>W. Montague Cobb, “Monroe Alpheus Majors, 1864–,” Medical History 47 (1955): 139–41.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Society</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.G.</ce:initials>
+<ce:surname>Speedy</ce:surname>
+<ce:given-name>Nettie George</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chicago Defender</ref-sourcetitle>
+<ref-publicationyear first="1928" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>15 December</ref-text>
+</ref-info>
+<ref-fulltext>Nettie George Speedy, “Society,” Chicago Defender, national edition (15 December 1928): 5.</ref-fulltext>
+<ce:source-text>Nettie George Speedy, “Society,” Chicago Defender, national edition (15 December 1928): 5.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-title>
+<ref-titletext-english>African Americans in the Great Depression and New Deal</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.E.B.</ce:initials>
+<ce:surname>Murphy</ce:surname>
+<ce:given-name>Mary-Elizabeth B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Oxford Research Encyclopedia of American History</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<ref-website>
+<ce:e-address type="url">https://tinyurl.com/cw7btvxt</ce:e-address>
+</ref-website>
+<ref-text>19 November, accessed 17 July</ref-text>
+</ref-info>
+<ref-fulltext>Mary-Elizabeth B. Murphy, “African Americans in the Great Depression and New Deal,” Oxford Research Encyclopedia of American History, 19 November 2020, accessed 17 July 2023, https://tinyurl.com/cw7btvxt.</ref-fulltext>
+<ce:source-text>Mary-Elizabeth B. Murphy, “African Americans in the Great Depression and New Deal,” Oxford Research Encyclopedia of American History, 19 November 2020, accessed 17 July 2023, https://tinyurl.com/cw7btvxt.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-sourcetitle>Northwestern University Bulletin: University Register, 1929–30</ref-sourcetitle>
+<ref-publicationyear first="1929" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>490</first-page>
+<last-page>498</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago, Northwestern University</ref-text>
+</ref-info>
+<ref-fulltext>Northwestern University Bulletin: University Register, 1929–30 Chicago: [Northwestern University, 1929], 490–98.</ref-fulltext>
+<ce:source-text>Northwestern University Bulletin: University Register, 1929–30 Chicago: [Northwestern University, 1929], 490–98.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Chicago, the ‘City We Love to Call Home!’: Intersectionality, Narrativity, and Locale in the Music of Florence Beatrice Price and Theodora Sturkow Ryder</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Ege</ce:surname>
+<ce:given-name>Samantha</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Music</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<volisspag>
+<volume-issue-number>
+<vol-first>39</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>40</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Samantha Ege, “Chicago, the ‘City We Love to Call Home!’: Intersectionality, Narrativity, and Locale in the Music of Florence Beatrice Price and Theodora Sturkow Ryder,” American Music 39 (2021): 1–40 at 23–25.</ref-fulltext>
+<ce:source-text>Samantha Ege, “Chicago, the ‘City We Love to Call Home!’: Intersectionality, Narrativity, and Locale in the Music of Florence Beatrice Price and Theodora Sturkow Ryder,” American Music 39 (2021): 1–40 at 23–25.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Musicians Association to Organize Juniors: Hoosier Elected Head</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Diton</ce:surname>
+<ce:given-name>Carl</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1930" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>6 September</ref-text>
+</ref-info>
+<ref-fulltext>Carl Diton, “Musicians Association to Organize Juniors: Hoosier Elected Head,” Pittsburgh Courier (6 September 1930): 5.</ref-fulltext>
+<ce:source-text>Carl Diton, “Musicians Association to Organize Juniors: Hoosier Elected Head,” Pittsburgh Courier (6 September 1930): 5.</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-sourcetitle>Northwestern University Bulletin: University Register, 1929–1930</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>549</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Northwestern University Bulletin: University Register, 1929–1930, 549.</ref-fulltext>
+<ce:source-text>Northwestern University Bulletin: University Register, 1929–1930, 549.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Piano Student to Play</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Indianapolis News</ref-sourcetitle>
+<ref-publicationyear first="1930" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>39</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>19 April</ref-text>
+</ref-info>
+<ref-fulltext>“Piano Student to Play,” The Indianapolis News (19 April 1930): 39;</ref-fulltext>
+<ce:source-text>“Piano Student to Play,” The Indianapolis News (19 April 1930): 39;</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Lyceum Will Give Concert in Church</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Daily Illini</ref-sourcetitle>
+<ref-publicationyear first="1930" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Champaign-Urbana (12 December</ref-text>
+</ref-info>
+<ref-fulltext>“Lyceum Will Give Concert in Church,” The Daily Illini, Champaign-Urbana (12 December 1930): 7.</ref-fulltext>
+<ce:source-text>“Lyceum Will Give Concert in Church,” The Daily Illini, Champaign-Urbana (12 December 1930): 7.</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-title>
+<ref-titletext-english>News of the Music World</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.R.</ce:initials>
+<ce:surname>George</ce:surname>
+<ce:given-name>Maude Roberts</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chicago Defender</ref-sourcetitle>
+<ref-publicationyear first="1932" />
+<ref-text>15 November</ref-text>
+</ref-info>
+<ref-fulltext>Maude Roberts George, “News of the Music World,” Chicago Defender, national edition (15 November 1932).</ref-fulltext>
+<ce:source-text>Maude Roberts George, “News of the Music World,” Chicago Defender, national edition (15 November 1932).</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-title>
+<ref-titletext-english>1931 Prize Awards in Wanamaker Contest for Negro Composers</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1931" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>29 August</ref-text>
+</ref-info>
+<ref-fulltext>“1931 Prize Awards in Wanamaker Contest for Negro Composers,” New York Age (29 August 1931): 7.</ref-fulltext>
+<ce:source-text>“1931 Prize Awards in Wanamaker Contest for Negro Composers,” New York Age (29 August 1931): 7.</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-sourcetitle>Northwestern University Bulletin: University Register, 1929–1930</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>498</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Northwestern University Bulletin: University Register, 1929–1930, 498.</ref-fulltext>
+<ce:source-text>Northwestern University Bulletin: University Register, 1929–1930, 498.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Reinterpretation of Black Strategies for Change at the Chicago World’s Fair, 1933–1934</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.R.</ce:initials>
+<ce:surname>Reed</ce:surname>
+<ce:given-name>Christopher Robert</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Illinois Historical Journal</ref-sourcetitle>
+<ref-publicationyear first="1988" />
+<volisspag>
+<volume-issue-number>
+<vol-first>81</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2</first-page>
+<last-page>12</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Christopher Robert Reed, “A Reinterpretation of Black Strategies for Change at the Chicago World’s Fair, 1933–1934,” Illinois Historical Journal 81 (1988): 2–12;</ref-fulltext>
+<ce:source-text>Christopher Robert Reed, “A Reinterpretation of Black Strategies for Change at the Chicago World’s Fair, 1933–1934,” Illinois Historical Journal 81 (1988): 2–12;</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-title>
+<ref-titletext-english>African and African-American Musicians Seeking Progress at A Century of Progress</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.M.</ce:initials>
+<ce:surname>Ohman</ce:surname>
+<ce:given-name>Marian M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Illinois State Historical Society</ref-sourcetitle>
+<ref-publicationyear first="2009" />
+<volisspag>
+<volume-issue-number>
+<vol-first>102</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>368</first-page>
+<last-page>401</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Marian M. Ohman, “African and African-American Musicians Seeking Progress at A Century of Progress,” Journal of the Illinois State Historical Society 102 (2009): 368–401.</ref-fulltext>
+<ce:source-text>Marian M. Ohman, “African and African-American Musicians Seeking Progress at A Century of Progress,” Journal of the Illinois State Historical Society 102 (2009): 368–401.</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.R.</ce:initials>
+<ce:surname>Ganz</ce:surname>
+<ce:given-name>Cheryl R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The 1933 Chicago World’s Fair: A Century of Progress</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>110</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Cheryl R. Ganz, The 1933 Chicago World’s Fair: A Century of Progress (Urbana: University of Illinois Press, 2012), 110.</ref-fulltext>
+<ce:source-text>Cheryl R. Ganz, The 1933 Chicago World’s Fair: A Century of Progress (Urbana: University of Illinois Press, 2012), 110.</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.W.</ce:initials>
+<ce:surname>Pryor</ce:surname>
+<ce:given-name>Barbara Wright-</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Note</ce:surname>
+<ce:given-name>Program</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Florence B. Price: The Mississippi River</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>38</first-page>
+<last-page>45</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago Symphony Orchestra, 9, 11, and 14 May 2013</ref-text>
+</ref-info>
+<ref-fulltext>Barbara Wright-Pryor, Program note, “Florence B. Price: The Mississippi River” (Chicago Symphony Orchestra, 9, 11, and 14 May 2013), 38–45</ref-fulltext>
+<ce:source-text>Barbara Wright-Pryor, Program note, “Florence B. Price: The Mississippi River” (Chicago Symphony Orchestra, 9, 11, and 14 May 2013), 38–45</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Composing a Symphonist: Florence Price and the Hand of Black Women’s Fellowship</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Ege</ce:surname>
+<ce:given-name>Samantha</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Women and Music: A Journal of Gender and Culture</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>7</first-page>
+<last-page>27</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Samantha Ege, “Composing a Symphonist: Florence Price and the Hand of Black Women’s Fellowship,” Women and Music: A Journal of Gender and Culture 24 (2020): 7–27 at 25.</ref-fulltext>
+<ce:source-text>Samantha Ege, “Composing a Symphonist: Florence Price and the Hand of Black Women’s Fellowship,” Women and Music: A Journal of Gender and Culture 24 (2020): 7–27 at 25.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Pillar Number Four: Purity versus Pollution</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Caste: The Origins of Our Discontents</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>115</first-page>
+<last-page>130</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Isabel Wilkerson, New York: Random House,, esp. 121–25</ref-text>
+</ref-info>
+<ref-fulltext>“Pillar Number Four: Purity versus Pollution,” in Isabel Wilkerson, Caste: The Origins of Our Discontents (New York: Random House, 2020), 115–30, esp. 121–25.</ref-fulltext>
+<ce:source-text>“Pillar Number Four: Purity versus Pollution,” in Isabel Wilkerson, Caste: The Origins of Our Discontents (New York: Random House, 2020), 115–30, esp. 121–25.</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-sourcetitle>Chicago Tribune</ref-sourcetitle>
+<ref-publicationyear first="1926" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>98</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>10 October</ref-text>
+</ref-info>
+<ref-fulltext>Chicago Tribune [10 October 1926]: 98</ref-fulltext>
+<ce:source-text>Chicago Tribune [10 October 1926]: 98</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-sourcetitle>The Times</ref-sourcetitle>
+<ref-publicationyear first="1934" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>16</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Munster, Indiana16 March, 21 March 193438</ref-text>
+</ref-info>
+<ref-fulltext>The Times, Munster, Indiana (16 March 1934): 16, and (21 March 1934): 38.</ref-fulltext>
+<ce:source-text>The Times, Munster, Indiana (16 March 1934): 16, and (21 March 1934): 38.</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1934" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>18 August</ref-text>
+</ref-info>
+<ref-fulltext>Pittsburgh Courier (18 August 1934): 7.</ref-fulltext>
+<ce:source-text>Pittsburgh Courier (18 August 1934): 7.</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-sourcetitle>National Association of Negro Musicians, Inc., Official Souvenir Program</ref-sourcetitle>
+<ref-publicationyear first="1934" />
+<ref-text>Fifteenth Annual Convention, Pittsburgh, Pennsylvania, 26–30August</ref-text>
+</ref-info>
+<ref-fulltext>National Association of Negro Musicians, Inc., Official Souvenir Program. Fifteenth Annual Convention, Pittsburgh, Pennsylvania, 26–30 August 1934.</ref-fulltext>
+<ce:source-text>National Association of Negro Musicians, Inc., Official Souvenir Program. Fifteenth Annual Convention, Pittsburgh, Pennsylvania, 26–30 August 1934.</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-sourcetitle>Negroes Play Last Concert</ref-sourcetitle>
+<ref-publicationyear first="1934" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>25</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Pittsburgh Press31 August</ref-text>
+</ref-info>
+<ref-fulltext>“Negroes Play Last Concert,” Pittsburgh Press (31 August 1934): 25.</ref-fulltext>
+<ce:source-text>“Negroes Play Last Concert,” Pittsburgh Press (31 August 1934): 25.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-title>
+<ref-titletext-english>National Artists’ Concert Brilliant: Local Musician and Critic Praises Fitting Climax to Musicians’ Confab</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.R.</ce:initials>
+<ce:degrees>Dr.</ce:degrees>
+<ce:surname>Taylor</ce:surname>
+<ce:given-name>A.R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1934" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>8 September</ref-text>
+</ref-info>
+<ref-fulltext>Dr. A. R. Taylor, “National Artists’ Concert Brilliant: Local Musician and Critic Praises Fitting Climax to Musicians’ Confab,” Pittsburgh Courier (8 September 1934): 7.</ref-fulltext>
+<ce:source-text>Dr. A. R. Taylor, “National Artists’ Concert Brilliant: Local Musician and Critic Praises Fitting Climax to Musicians’ Confab,” Pittsburgh Courier (8 September 1934): 7.</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-sourcetitle>The Heart of a Woman: The Life and Music of Florence B. Price</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>246</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Guthrie P. RamseyUrbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>The Heart of a Woman: The Life and Music of Florence B. Price, ed. Guthrie P. Ramsey (Urbana: University of Illinois Press, 2020), 246.</ref-fulltext>
+<ce:source-text>The Heart of a Woman: The Life and Music of Florence B. Price, ed. Guthrie P. Ramsey (Urbana: University of Illinois Press, 2020), 246.</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Reminiscence</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Negro in Music and Art</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>191</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Lindsay PattersonNew York: InternationalLibrary of Negro Life and History</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, “A Reminiscence,” in The Negro in Music and Art, ed. Lindsay Patterson (New York: International Library of Negro Life and History, 1967), 191.</ref-fulltext>
+<ce:source-text>Margaret Bonds, “A Reminiscence,” in The Negro in Music and Art, ed. Lindsay Patterson (New York: International Library of Negro Life and History, 1967), 191.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Bonds</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Reminiscence</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>192</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bonds, “A Reminiscence,” 192.</ref-fulltext>
+<ce:source-text>Bonds, “A Reminiscence,” 192.</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Bonds</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Reminiscence</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>191</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bonds, “A Reminiscence,” 191.</ref-fulltext>
+<ce:source-text>Bonds, “A Reminiscence,” 191.</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Chicago Town Topics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.G.</ce:initials>
+<ce:surname>Speedy</ce:surname>
+<ce:given-name>Nettie George</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1934" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>1 December</ref-text>
+</ref-info>
+<ref-fulltext>Nettie George Speedy, “Chicago Town Topics,” Pittsburgh Courier (1 December 1934): 7.</ref-fulltext>
+<ce:source-text>Nettie George Speedy, “Chicago Town Topics,” Pittsburgh Courier (1 December 1934): 7.</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-sourcetitle>The Times</ref-sourcetitle>
+<ref-publicationyear first="1935" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>17</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Hammond, Indiana15 February</ref-text>
+</ref-info>
+<ref-fulltext>The Times, Hammond, Indiana (15 February 1935): 17.</ref-fulltext>
+<ce:source-text>The Times, Hammond, Indiana (15 February 1935): 17.</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Noted Negro Singer Here</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Times</ref-sourcetitle>
+<ref-publicationyear first="1935" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>9</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Hammond, Indiana20 February 19351324 January</ref-text>
+</ref-info>
+<ref-fulltext>“Noted Negro Singer Here,” The Times, Hammond, Indiana (20 February 1935): 13, and (24 January 1935): 9.</ref-fulltext>
+<ce:source-text>“Noted Negro Singer Here,” The Times, Hammond, Indiana (20 February 1935): 13, and (24 January 1935): 9.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-title>
+<ref-titletext-english>South Chicago, May 30, 1937</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Davis</ce:surname>
+<ce:given-name>Robert</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The New Challenge</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+</ref-info>
+<ref-fulltext>Robert Davis, “South Chicago, May 30, 1937,” The New Challenge 1937.</ref-fulltext>
+<ce:source-text>Robert Davis, “South Chicago, May 30, 1937,” The New Challenge 1937.</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-sourcetitle>The Times</ref-sourcetitle>
+<ref-publicationyear first="1935" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>13</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Hammond, Indiana21 February</ref-text>
+</ref-info>
+<ref-fulltext>The Times, Hammond, Indiana (21 February 1935): 13.</ref-fulltext>
+<ce:source-text>The Times, Hammond, Indiana (21 February 1935): 13.</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-title>
+<ref-titletext-english>History Association in Celebration of the 25 [recte 20] Anniversary of Founding</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>St. Louis Argus</ref-sourcetitle>
+<ref-publicationyear first="1935" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>13 September</ref-text>
+</ref-info>
+<ref-fulltext>“History Association in Celebration of the 25 [recte 20] Anniversary of Founding,” St. Louis Argus (13 September 1935): 7.</ref-fulltext>
+<ce:source-text>“History Association in Celebration of the 25 [recte 20] Anniversary of Founding,” St. Louis Argus (13 September 1935): 7.</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Rorem</ce:surname>
+<ce:given-name>Ned</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Setting the Tone: Essays and a Diary</ref-sourcetitle>
+<ref-publicationyear first="1983" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>20</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Limelight</ref-text>
+</ref-info>
+<ref-fulltext>Ned Rorem, Setting the Tone: Essays and a Diary (New York: Limelight, 1983), 20.</ref-fulltext>
+<ce:source-text>Ned Rorem, Setting the Tone: Essays and a Diary (New York: Limelight, 1983), 20.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Margaret Bonds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.W.</ce:initials>
+<ce:surname>Hill</ce:surname>
+<ce:given-name>Helen Walker-</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From Spirituals to Symphonies: African-American Women Composers and Their Music</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>149</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 149.</ref-fulltext>
+<ce:source-text>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 149.</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1936" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>9</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>18 July</ref-text>
+</ref-info>
+<ref-fulltext>Pittsburgh Courier (18 July 1936): 9.</ref-fulltext>
+<ce:source-text>Pittsburgh Courier (18 July 1936): 9.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-title>
+<ref-titletext-english>African American slang after about 1898, a derogatory term for a White person</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Oxford English Dictionary</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1093/OED/4280929183</ce:e-address>
+</ref-website>
+<ref-text>December</ref-text>
+</ref-info>
+<ref-fulltext>African American slang after about 1898, a derogatory term for a White person. Oxford English Dictionary, s.v. “ofay (adj.),” December 2023, https://doi.org/10.1093/OED/4280929183.</ref-fulltext>
+<ce:source-text>African American slang after about 1898, a derogatory term for a White person. Oxford English Dictionary, s.v. “ofay (adj.),” December 2023, https://doi.org/10.1093/OED/4280929183.</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-sourcetitle>The Black Dispatch</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>10 June</ref-text>
+</ref-info>
+<ref-fulltext>The Black Dispatch [10 June 1937]: 8</ref-fulltext>
+<ce:source-text>The Black Dispatch [10 June 1937]: 8</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Playwright Asks Public to Back Young Artists: Roxane Players to Present New Play— Talented Author Tells How ‘Father, Forgive Them’ Was Written</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Detroit Tribune</ref-sourcetitle>
+<ref-publicationyear first="1936" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>6</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>24 October</ref-text>
+</ref-info>
+<ref-fulltext>“Playwright Asks Public to Back Young Artists: Roxane Players to Present New Play— Talented Author Tells How ‘Father, Forgive Them’ Was Written” in the Detroit Tribune (24 October 1936): 6.</ref-fulltext>
+<ce:source-text>“Playwright Asks Public to Back Young Artists: Roxane Players to Present New Play— Talented Author Tells How ‘Father, Forgive Them’ Was Written” in the Detroit Tribune (24 October 1936): 6.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1936" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>17</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>7 November</ref-text>
+</ref-info>
+<ref-fulltext>Pittsburgh Courier (7 November 1936): 17</ref-fulltext>
+<ce:source-text>Pittsburgh Courier (7 November 1936): 17</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-sourcetitle>Detroit Tribune</ref-sourcetitle>
+<ref-publicationyear first="1936" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>3</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>7 November</ref-text>
+</ref-info>
+<ref-fulltext>Detroit Tribune (7 November 1936): 3.</ref-fulltext>
+<ce:source-text>Detroit Tribune (7 November 1936): 3.</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-sourcetitle>St. Louis Argus</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>15 January</ref-text>
+</ref-info>
+<ref-fulltext>St. Louis Argus (15 January 1937): 2.</ref-fulltext>
+<ce:source-text>St. Louis Argus (15 January 1937): 2.</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-sourcetitle>The Daily Northwestern</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>2</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>5 May</ref-text>
+</ref-info>
+<ref-fulltext>The Daily Northwestern (5 May 1937): 1–2.</ref-fulltext>
+<ce:source-text>The Daily Northwestern (5 May 1937): 1–2.</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Negro Poet to Turn His Racial Gifts into Opera: Sees Production of His New Play about Haiti by Detroit Y.W.C.A. Cast</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Detroit Free Press</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>19</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>17 April</ref-text>
+</ref-info>
+<ref-fulltext>“Negro Poet to Turn His Racial Gifts into Opera: Sees Production of His New Play about Haiti by Detroit Y.W.C.A. Cast,” Detroit Free Press (17 April 1937): 19.</ref-fulltext>
+<ce:source-text>“Negro Poet to Turn His Racial Gifts into Opera: Sees Production of His New Play about Haiti by Detroit Y.W.C.A. Cast,” Detroit Free Press (17 April 1937): 19.</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>10 June</ref-text>
+</ref-info>
+<ref-fulltext>Pittsburgh Courier (10 June 1937): 8.</ref-fulltext>
+<ce:source-text>Pittsburgh Courier (10 June 1937): 8.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>19 June</ref-text>
+</ref-info>
+<ref-fulltext>Pittsburgh Courier (19 June 1937): 8.</ref-fulltext>
+<ce:source-text>Pittsburgh Courier (19 June 1937): 8.</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>12 June</ref-text>
+</ref-info>
+<ref-fulltext>Pittsburgh Courier (12 June 1937): 8.</ref-fulltext>
+<ce:source-text>Pittsburgh Courier (12 June 1937): 8.</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-sourcetitle>Chicago Tribune</ref-sourcetitle>
+<ref-publicationyear first="1937" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>17</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>27 June</ref-text>
+</ref-info>
+<ref-fulltext>Chicago Tribune (27 June 1937): 17.</ref-fulltext>
+<ce:source-text>Chicago Tribune (27 June 1937): 17.</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-sourcetitle>Detroit Tribune</ref-sourcetitle>
+<ref-publicationyear first="1938" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>6</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>29 January</ref-text>
+</ref-info>
+<ref-fulltext>Detroit Tribune (29 January 1938): 6.</ref-fulltext>
+<ce:source-text>Detroit Tribune (29 January 1938): 6.</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Rampersad</ce:surname>
+<ce:given-name>Arnold</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Life of Langston Hughes</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1902</first-page>
+<last-page>1941</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Arnold Rampersad, The Life of Langston Hughes: Volume 1: 1902–1941.</ref-fulltext>
+<ce:source-text>Arnold Rampersad, The Life of Langston Hughes: Volume 1: 1902–1941.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-sourcetitle>I, Too, Sing America</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>614</first-page>
+<last-page>615</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>“I, Too, Sing America,” 2nd ed. (Oxford: Oxford University Press, 2002), 614–15.</ref-fulltext>
+<ce:source-text>“I, Too, Sing America,” 2nd ed. (Oxford: Oxford University Press, 2002), 614–15.</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-sourcetitle>Brooklyn Daily Eagle</ref-sourcetitle>
+<ref-publicationyear first="1938" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>12</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>11 June</ref-text>
+</ref-info>
+<ref-fulltext>Brooklyn Daily Eagle (11 June 1938): 12.</ref-fulltext>
+<ce:source-text>Brooklyn Daily Eagle (11 June 1938): 12.</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Speaking a Mutual Language’: The Negro People’s Theatre in Chicago</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>TDR: The Drama Review</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+<volisspag>
+<volume-issue-number>
+<vol-first>54</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>54</first-page>
+<last-page>70</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>“‘Speaking a Mutual Language’: The Negro People’s Theatre in Chicago,” TDR: The Drama Review 54 (2010): 54–70.</ref-fulltext>
+<ce:source-text>“‘Speaking a Mutual Language’: The Negro People’s Theatre in Chicago,” TDR: The Drama Review 54 (2010): 54–70.</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Rorem</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Setting the Tone</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>22</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rorem, Setting the Tone, 22.</ref-fulltext>
+<ce:source-text>Rorem, Setting the Tone, 22.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Modern Idiom Well Liked in Porter Quartet</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Barry</ce:surname>
+<ce:given-name>Edward</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chicago Tribune</ref-sourcetitle>
+<ref-publicationyear first="1938" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>13</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>29 March</ref-text>
+</ref-info>
+<ref-fulltext>Edward Barry, “Modern Idiom Well Liked in Porter Quartet,” Chicago Tribune (29 March 1938): 13.</ref-fulltext>
+<ce:source-text>Edward Barry, “Modern Idiom Well Liked in Porter Quartet,” Chicago Tribune (29 March 1938): 13.</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Dean Lewis Speaks on Negro Business</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.O.</ce:initials>
+<ce:surname>Abbott</ce:surname>
+<ce:given-name>Harry O.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Sunday Chicago Bee</ref-sourcetitle>
+<ref-publicationyear first="1938" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>2</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>1 May</ref-text>
+</ref-info>
+<ref-fulltext>Harry O. Abbott, “Dean Lewis Speaks on Negro Business,” The Sunday Chicago Bee (1 May 1938): 1–2.</ref-fulltext>
+<ce:source-text>Harry O. Abbott, “Dean Lewis Speaks on Negro Business,” The Sunday Chicago Bee (1 May 1938): 1–2.</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-sourcetitle>The Black Dispatch</ref-sourcetitle>
+<ref-publicationyear first="1939" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>21 January</ref-text>
+</ref-info>
+<ref-fulltext>The Black Dispatch (21 January 1939): 4.</ref-fulltext>
+<ce:source-text>The Black Dispatch (21 January 1939): 4.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Brisk Demand for Brotherhood Week Banquet Tickets</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Herald-Press</ref-sourcetitle>
+<ref-publicationyear first="1939" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>St. Joseph, Michigan16 February</ref-text>
+</ref-info>
+<ref-fulltext>“Brisk Demand for Brotherhood Week Banquet Tickets,” The Herald-Press, St. Joseph, Michigan (16 February 1939): 2.</ref-fulltext>
+<ce:source-text>“Brisk Demand for Brotherhood Week Banquet Tickets,” The Herald-Press, St. Joseph, Michigan (16 February 1939): 2.</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-sourcetitle>Chicago Tribune</ref-sourcetitle>
+<ref-publicationyear first="1939" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>15</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>24 April</ref-text>
+</ref-info>
+<ref-fulltext>Chicago Tribune [24 April 1939]: 15</ref-fulltext>
+<ce:source-text>Chicago Tribune [24 April 1939]: 15</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Margaret Bond [sic] and Theo Stone to Be Heard at the Bahai Center</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>4 May</ref-text>
+</ref-info>
+<ref-fulltext>“Margaret Bond [sic] and Theo Stone to Be Heard at the Bahai Center,” New York Age [4 May 1940]: 4</ref-fulltext>
+<ce:source-text>“Margaret Bond [sic] and Theo Stone to Be Heard at the Bahai Center,” New York Age [4 May 1940]: 4</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Margaret Bonds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Walker-Hill</ce:surname>
+<ce:given-name>Helen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From Spirituals to Symphonies: African-American Women Composers and Their Music</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>150</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 150.</ref-fulltext>
+<ce:source-text>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 150.</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-title>
+<ref-titletext-english>She Has a Musical Mission: Developing Racial Harmony; Heritage Motivates Composing Career</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Demaitre</ce:surname>
+<ce:given-name>Christina</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="1964" />
+<ref-text>14 August</ref-text>
+</ref-info>
+<ref-fulltext>Christina Demaitre, “She Has a Musical Mission: Developing Racial Harmony; Heritage Motivates Composing Career,” Washington Post (14 August 1964).</ref-fulltext>
+<ce:source-text>Christina Demaitre, “She Has a Musical Mission: Developing Racial Harmony; Heritage Motivates Composing Career,” Washington Post (14 August 1964).</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-sourcetitle>Birmingham News</ref-sourcetitle>
+<ref-publicationyear first="1939" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>24</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Alabama5 November</ref-text>
+</ref-info>
+<ref-fulltext>Birmingham News, Alabama (5 November 1939): 24.</ref-fulltext>
+<ce:source-text>Birmingham News, Alabama (5 November 1939): 24.</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Theo. Charles Stone Pleases in Initial Harlem Recital</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.E.</ce:initials>
+<ce:surname>Finger</ce:surname>
+<ce:given-name>Mary E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>27 April</ref-text>
+</ref-info>
+<ref-fulltext>Mary E. Finger, “Theo. Charles Stone Pleases in Initial Harlem Recital,” New York Age (27 April 1940): 4.</ref-fulltext>
+<ce:source-text>Mary E. Finger, “Theo. Charles Stone Pleases in Initial Harlem Recital,” New York Age (27 April 1940): 4.</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Theodore Stone in 3 Recital[s] Here with Margaret Bonds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.E.</ce:initials>
+<ce:surname>Finger</ce:surname>
+<ce:given-name>Mary E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>18 May</ref-text>
+</ref-info>
+<ref-fulltext>Mary E. Finger, “Theodore Stone in 3 Recital[s] Here with Margaret Bonds,” New York Age (18 May 1940): 4.</ref-fulltext>
+<ce:source-text>Mary E. Finger, “Theodore Stone in 3 Recital[s] Here with Margaret Bonds,” New York Age (18 May 1940): 4.</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-title>
+<ref-titletext-english>115 Street Library to Present Evening of Music</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>12</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>11 May</ref-text>
+</ref-info>
+<ref-fulltext>“115 Street Library to Present Evening of Music,” New York Age (11 May 1940): 12;</ref-fulltext>
+<ce:source-text>“115 Street Library to Present Evening of Music,” New York Age (11 May 1940): 12;</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-title>
+<ref-titletext-english>News about Folks</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>3</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>25 May</ref-text>
+</ref-info>
+<ref-fulltext>“News about Folks,” New York Age (25 May 1940): 3.</ref-fulltext>
+<ce:source-text>“News about Folks,” New York Age (25 May 1940): 3.</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Elizabeth Loguen’s Pupils Heard in Annual Recital</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>1 June</ref-text>
+</ref-info>
+<ref-fulltext>“Elizabeth Loguen’s Pupils Heard in Annual Recital,” New York Age (1 June 1940): 4.</ref-fulltext>
+<ce:source-text>“Elizabeth Loguen’s Pupils Heard in Annual Recital,” New York Age (1 June 1940): 4.</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-title>
+<ref-titletext-english>‘Tropics after Dark’ to Be Major Expo Entertainment</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>California Eagle</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>10</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>6 June</ref-text>
+</ref-info>
+<ref-fulltext>“‘Tropics after Dark’ to Be Major Expo Entertainment,” California Eagle (6 June 1940): 10.</ref-fulltext>
+<ce:source-text>“‘Tropics after Dark’ to Be Major Expo Entertainment,” California Eagle (6 June 1940): 10.</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-sourcetitle>The Life of Langston Hughes: Volume 1: 1902–1941: “I, Too, Sing America”</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>725</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>2nd ed.Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>The Life of Langston Hughes: Volume 1: 1902–1941: “I, Too, Sing America,” 2nd ed. (Oxford: Oxford University Press, 2002), 725.</ref-fulltext>
+<ce:source-text>The Life of Langston Hughes: Volume 1: 1902–1941: “I, Too, Sing America,” 2nd ed. (Oxford: Oxford University Press, 2002), 725.</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Negroes Take over American Commons at Fair This Week</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>6</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>27 July</ref-text>
+</ref-info>
+<ref-fulltext>“Negroes Take over American Commons at Fair This Week,” New York Age (27 July 1940): 6;</ref-fulltext>
+<ce:source-text>“Negroes Take over American Commons at Fair This Week,” New York Age (27 July 1940): 6;</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Pennsylvania Building, New York World’s Fair</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Snyder County Tribune</ref-sourcetitle>
+<ref-publicationyear first="1940" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>8 August</ref-text>
+</ref-info>
+<ref-fulltext>“Pennsylvania Building, New York World’s Fair,” Snyder County Tribune (8 August 1940): 5.</ref-fulltext>
+<ce:source-text>“Pennsylvania Building, New York World’s Fair,” Snyder County Tribune (8 August 1940): 5.</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Jo Ranson’s Radio Dial Log</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Brooklyn Eagle</ref-sourcetitle>
+<ref-publicationyear first="1941" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>14</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>11 January</ref-text>
+</ref-info>
+<ref-fulltext>“Jo Ranson’s Radio Dial Log,” Brooklyn Eagle (11 January 1941): 14.</ref-fulltext>
+<ce:source-text>“Jo Ranson’s Radio Dial Log,” Brooklyn Eagle (11 January 1941): 14.</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Margaret Bonds on the Air Friday Night</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1941" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>24 May</ref-text>
+</ref-info>
+<ref-fulltext>“Margaret Bonds on the Air Friday Night,” Pittsburgh Courier (24 May 1941): 8.</ref-fulltext>
+<ce:source-text>“Margaret Bonds on the Air Friday Night,” Pittsburgh Courier (24 May 1941): 8.</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Windy City Sophisticates</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Chicago Sunday Bee</ref-sourcetitle>
+<ref-publicationyear first="1941" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>29 June</ref-text>
+</ref-info>
+<ref-fulltext>“Windy City Sophisticates,” Chicago Sunday Bee (29 June 1941): 4.</ref-fulltext>
+<ce:source-text>“Windy City Sophisticates,” Chicago Sunday Bee (29 June 1941): 4.</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Recital by Hortense Love</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="1941" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>14</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>21 April</ref-text>
+</ref-info>
+<ref-fulltext>“Recital by Hortense Love,” New York Times, [21 April 1941]: 14</ref-fulltext>
+<ce:source-text>“Recital by Hortense Love,” New York Times, [21 April 1941]: 14</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-title>
+<ref-titletext-english>In the Realm of Music</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Boatner</ce:surname>
+<ce:given-name>Edward</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1941" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>10</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>26 April</ref-text>
+</ref-info>
+<ref-fulltext>Edward Boatner, “In the Realm of Music,” New York Age (26 April 1941): 10</ref-fulltext>
+<ce:source-text>Edward Boatner, “In the Realm of Music,” New York Age (26 April 1941): 10</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Delightful Side</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Smallwood</ce:surname>
+<ce:given-name>Bill</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>California Eagle</ref-sourcetitle>
+<ref-publicationyear first="1942" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Los Angeles19 March</ref-text>
+</ref-info>
+<ref-fulltext>Bill Smallwood, “The Delightful Side,” California Eagle, Los Angeles (19 March 1942): 5.</ref-fulltext>
+<ce:source-text>Bill Smallwood, “The Delightful Side,” California Eagle, Los Angeles (19 March 1942): 5.</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Negro Sings of Rivers’: Handy Publishes ‘The Negro Sings of Rivers</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Weekly Review</ref-sourcetitle>
+<ref-publicationyear first="1942" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Birmingham, Alabama24 October</ref-text>
+</ref-info>
+<ref-fulltext>“‘Negro Sings of Rivers’: Handy Publishes ‘The Negro Sings of Rivers,’” Weekly Review, Birmingham, Alabama (24 October 1942): 2.</ref-fulltext>
+<ce:source-text>“‘Negro Sings of Rivers’: Handy Publishes ‘The Negro Sings of Rivers,’” Weekly Review, Birmingham, Alabama (24 October 1942): 2.</ce:source-text>
+</reference>
+<reference seq="118">
+<ref-info>
+<ref-sourcetitle>Daily News</ref-sourcetitle>
+<ref-publicationyear first="1942" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>20</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Los Angeles2 December</ref-text>
+</ref-info>
+<ref-fulltext>Daily News, Los Angeles (2 December 1942): 20.</ref-fulltext>
+<ce:source-text>Daily News, Los Angeles (2 December 1942): 20.</ce:source-text>
+</reference>
+<reference seq="119">
+<ref-info>
+<ref-sourcetitle>Daily News</ref-sourcetitle>
+<ref-publicationyear first="1943" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>23</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Los Angeles4 March</ref-text>
+</ref-info>
+<ref-fulltext>Daily News, Los Angeles (4 March 1943): 23</ref-fulltext>
+<ce:source-text>Daily News, Los Angeles (4 March 1943): 23</ce:source-text>
+</reference>
+<reference seq="120">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Assistance League Members Visit OLAHA Sanatorium</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>California Eagle</ref-sourcetitle>
+<ref-publicationyear first="1943" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Los Angeles17 March</ref-text>
+</ref-info>
+<ref-fulltext>“Assistance League Members Visit OLAHA Sanatorium,” California Eagle, Los Angeles (17 March 1943): 5.</ref-fulltext>
+<ce:source-text>“Assistance League Members Visit OLAHA Sanatorium,” California Eagle, Los Angeles (17 March 1943): 5.</ce:source-text>
+</reference>
+<reference seq="121">
+<ref-info>
+<ref-sourcetitle>The Black Dispatch</ref-sourcetitle>
+<ref-publicationyear first="1943" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>19</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>20 March</ref-text>
+</ref-info>
+<ref-fulltext>The Black Dispatch (20 March 1943): 19.</ref-fulltext>
+<ce:source-text>The Black Dispatch (20 March 1943): 19.</ce:source-text>
+</reference>
+<reference seq="122">
+<ref-info>
+<ref-sourcetitle>Daily News</ref-sourcetitle>
+<ref-publicationyear first="1944" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>21</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York7 June</ref-text>
+</ref-info>
+<ref-fulltext>Daily News, New York (7 June 1944): 21.</ref-fulltext>
+<ce:source-text>Daily News, New York (7 June 1944): 21.</ce:source-text>
+</reference>
+<reference seq="123">
+<ref-info>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1943" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>15 May</ref-text>
+</ref-info>
+<ref-fulltext>New York Age (15 May 1943): 5</ref-fulltext>
+<ce:source-text>New York Age (15 May 1943): 5</ce:source-text>
+</reference>
+<reference seq="124">
+<ref-info>
+<ref-sourcetitle>Chicago Tribune</ref-sourcetitle>
+<ref-publicationyear first="1947" />
+<volisspag>
+<volume-issue-number>
+<part>Part 6</part>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>21 September</ref-text>
+</ref-info>
+<ref-fulltext>Chicago Tribune (21 September 1947): Part 6, p. 2</ref-fulltext>
+<ce:source-text>Chicago Tribune (21 September 1947): Part 6, p. 2</ce:source-text>
+</reference>
+<reference seq="125">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Pianist Set for Philruth</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Chicago Star</ref-sourcetitle>
+<ref-publicationyear first="1947" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>13</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>20 September</ref-text>
+</ref-info>
+<ref-fulltext>“Pianist Set for Philruth,” Chicago Star (20 September 1947): 13.</ref-fulltext>
+<ce:source-text>“Pianist Set for Philruth,” Chicago Star (20 September 1947): 13.</ce:source-text>
+</reference>
+<reference seq="126">
+<ref-info>
+<ref-sourcetitle>St. Louis Argus</ref-sourcetitle>
+<ref-publicationyear first="1948" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>20</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>3 September</ref-text>
+</ref-info>
+<ref-fulltext>St. Louis Argus (3 September 1948): 20.</ref-fulltext>
+<ce:source-text>St. Louis Argus (3 September 1948): 20.</ce:source-text>
+</reference>
+<reference seq="127">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Bill Chase around the Town</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1948" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>9</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>9 October</ref-text>
+</ref-info>
+<ref-fulltext>“Bill Chase around the Town,” New York Age (9 October 1948): 9.</ref-fulltext>
+<ce:source-text>“Bill Chase around the Town,” New York Age (9 October 1948): 9.</ce:source-text>
+</reference>
+<reference seq="128">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Philharmonic's Birthday Party Program Draws 3000 Music Lovers to Temple</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Times-Tribune</ref-sourcetitle>
+<ref-publicationyear first="1950" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Scranton, Pennsylvania, 1 February</ref-text>
+</ref-info>
+<ref-fulltext>“Philharmonic’s Birthday Party Program Draws 3,000 Music Lovers to Temple,” Times-Tribune, Scranton, Pennsylvania (1 February 1950): 1.</ref-fulltext>
+<ce:source-text>“Philharmonic’s Birthday Party Program Draws 3,000 Music Lovers to Temple,” Times-Tribune, Scranton, Pennsylvania (1 February 1950): 1.</ce:source-text>
+</reference>
+<reference seq="129">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Debut Piano Recital Given by Miss Bonds</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="1952" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>18</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>8 February</ref-text>
+</ref-info>
+<ref-fulltext>“Debut Piano Recital Given by Miss Bonds,” New York Times (8 February 1952): 18.</ref-fulltext>
+<ce:source-text>“Debut Piano Recital Given by Miss Bonds,” New York Times (8 February 1952): 18.</ce:source-text>
+</reference>
+<reference seq="130">
+<ref-info>
+<ref-sourcetitle>Pittsburgh Courier</ref-sourcetitle>
+<ref-publicationyear first="1952" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>17</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>2 February</ref-text>
+</ref-info>
+<ref-fulltext>Pittsburgh Courier [2 February 1952]: 17</ref-fulltext>
+<ce:source-text>Pittsburgh Courier [2 February 1952]: 17</ce:source-text>
+</reference>
+<reference seq="131">
+<ref-info>
+<ref-sourcetitle>Northwest Enterprise</ref-sourcetitle>
+<ref-publicationyear first="1952" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Seattle, Washington25 January</ref-text>
+</ref-info>
+<ref-fulltext>Northwest Enterprise, Seattle, Washington (25 January 1952): 4.</ref-fulltext>
+<ce:source-text>Northwest Enterprise, Seattle, Washington (25 January 1952): 4.</ce:source-text>
+</reference>
+<reference seq="132">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.J.</ce:initials>
+<ce:surname>Jackson</ce:surname>
+<ce:given-name>Ashley Jennifer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds and the Ballad of the Brown King: An Historical Overview and Introduction</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>45</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>DMA diss., The Juilliard School</ref-text>
+</ref-info>
+<ref-fulltext>Ashley Jennifer Jackson, “Margaret Bonds and The Ballad of the Brown King: An Historical Overview and Introduction” (DMA diss., The Juilliard School, 2014), 45.</ref-fulltext>
+<ce:source-text>Ashley Jennifer Jackson, “Margaret Bonds and The Ballad of the Brown King: An Historical Overview and Introduction” (DMA diss., The Juilliard School, 2014), 45.</ce:source-text>
+</reference>
+<reference seq="133">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Woman Composer-Pianist Depicts Xmas with L. Hughes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Diton</ce:surname>
+<ce:given-name>Carl</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Alabama Tribune</ref-sourcetitle>
+<ref-publicationyear first="1954" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>24 December</ref-text>
+</ref-info>
+<ref-fulltext>Carl Diton, “Woman Composer-Pianist Depicts Xmas with L. Hughes,” Alabama Tribune (24 December 1954): 2.</ref-fulltext>
+<ce:source-text>Carl Diton, “Woman Composer-Pianist Depicts Xmas with L. Hughes,” Alabama Tribune (24 December 1954): 2.</ce:source-text>
+</reference>
+<reference seq="134">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Monroe Alpheus Majors, 1864</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Montague Cobb</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Medical History</ref-sourcetitle>
+<ref-publicationyear first="1955" />
+<volisspag>
+<volume-issue-number>
+<vol-first>47</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>139</first-page>
+<last-page>141</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>W. Montague Cobb, “Monroe Alpheus Majors, 1864–,” Medical History 47 (1955): 139–41.</ref-fulltext>
+<ce:source-text>W. Montague Cobb, “Monroe Alpheus Majors, 1864–,” Medical History 47 (1955): 139–41.</ce:source-text>
+</reference>
+<reference seq="135">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>California Department of Health and Welfare</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>California Vital Records–Vitalsearch</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-website>
+<ce:e-address type="url">www.vita lsea rch-worldwide.com</ce:e-address>
+</ref-website>
+<ref-text>16 August</ref-text>
+</ref-info>
+<ref-fulltext>California Department of Health and Welfare. California Vital Records–Vitalsearch, accessed 16 August 2023, www.vitalsearch-worldwide.com.</ref-fulltext>
+<ce:source-text>California Department of Health and Welfare. California Vital Records–Vitalsearch, accessed 16 August 2023, www.vitalsearch-worldwide.com.</ce:source-text>
+</reference>
+<reference seq="136">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Book McClain Chorale at Westport Theatre</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1955" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>6 August</ref-text>
+</ref-info>
+<ref-fulltext>“Book McClain Chorale at Westport Theatre,” New York Age (6 August 1955): 8.</ref-fulltext>
+<ce:source-text>“Book McClain Chorale at Westport Theatre,” New York Age (6 August 1955): 8.</ce:source-text>
+</reference>
+<reference seq="137">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Front and Center</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Murrain</ce:surname>
+<ce:given-name>Sonny</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Age</ref-sourcetitle>
+<ref-publicationyear first="1956" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>15</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>28 January</ref-text>
+</ref-info>
+<ref-fulltext>Sonny Murrain, “Front and Center,” New York Age (28 January 1956): 15.</ref-fulltext>
+<ce:source-text>Sonny Murrain, “Front and Center,” New York Age (28 January 1956): 15.</ce:source-text>
+</reference>
+<reference seq="138">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mrs. Bonds, Musician, Dies in New York City</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Chicago Defender</ref-sourcetitle>
+<ref-publicationyear first="1957" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>20</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>national edition9 March</ref-text>
+</ref-info>
+<ref-fulltext>“Mrs. Bonds, Musician, Dies in New York City,” Chicago Defender, national edition (9 March 1957): 20.</ref-fulltext>
+<ce:source-text>“Mrs. Bonds, Musician, Dies in New York City,” Chicago Defender, national edition (9 March 1957): 20.</ce:source-text>
+</reference>
+<reference seq="139">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Price</ce:surname>
+<ce:given-name>Leontyne</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Swing Low, Sweet Chariot</ref-sourcetitle>
+<ref-publicationyear first="1962" />
+</ref-info>
+<ref-fulltext>Leontyne Price, Swing Low, Sweet Chariot (RCA LSC-2600, 1962).</ref-fulltext>
+<ce:source-text>Leontyne Price, Swing Low, Sweet Chariot (RCA LSC-2600, 1962).</ce:source-text>
+</reference>
+<reference seq="140">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Morningside Site Is Set for Co-Op</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.H.</ce:initials>
+<ce:surname>Freeman</ce:surname>
+<ce:given-name>Ira Henry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="1955" />
+<volisspag>
+<page-information>
+<pages-text>25, 47</pages-text>
+</page-information>
+</volisspag>
+<ref-text>16 September</ref-text>
+</ref-info>
+<ref-fulltext>Ira Henry Freeman, “Morningside Site Is Set for Co-Op,” New York Times (16 September 1955): 25, 47.</ref-fulltext>
+<ce:source-text>Ira Henry Freeman, “Morningside Site Is Set for Co-Op,” New York Times (16 September 1955): 25, 47.</ce:source-text>
+</reference>
+<reference seq="141">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Commissioned Music for Churches</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Hughes</ce:surname>
+<ce:given-name>Langston</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chicago Defender</ref-sourcetitle>
+<ref-publicationyear first="1959" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>10</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>national edition18 April</ref-text>
+</ref-info>
+<ref-fulltext>Langston Hughes, “Commissioned Music for Churches,” Chicago Defender, national edition (18 April 1959): 10.</ref-fulltext>
+<ce:source-text>Langston Hughes, “Commissioned Music for Churches,” Chicago Defender, national edition (18 April 1959): 10.</ce:source-text>
+</reference>
+<reference seq="142">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Hughes</ce:surname>
+<ce:given-name>Langston</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Shakespeare in Harlem</ref-sourcetitle>
+<ref-publicationyear first="1942" />
+<ref-text>New York: Alfred A. Knopf</ref-text>
+</ref-info>
+<ref-fulltext>Langston Hughes, Shakespeare in Harlem (New York: Alfred A. Knopf, 1942)</ref-fulltext>
+<ce:source-text>Langston Hughes, Shakespeare in Harlem (New York: Alfred A. Knopf, 1942)</ce:source-text>
+</reference>
+<reference seq="143">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Vernacular Sonnet and the Afro-Modernist Project</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Müller</ce:surname>
+<ce:given-name>Timo</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The African American Sonnet: A Literary History</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>75</first-page>
+<last-page>90</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Jackson: University Press of Mississippi</ref-text>
+</ref-info>
+<ref-fulltext>Timo Müller, “The Vernacular Sonnet and the Afro-Modernist Project,” in his The African American Sonnet: A Literary History (Jackson: University Press of Mississippi, 2018), 75–90 at 77.</ref-fulltext>
+<ce:source-text>Timo Müller, “The Vernacular Sonnet and the Afro-Modernist Project,” in his The African American Sonnet: A Literary History (Jackson: University Press of Mississippi, 2018), 75–90 at 77.</ce:source-text>
+</reference>
+<reference seq="144">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Rampersad</ce:surname>
+<ce:given-name>Arnold</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Life of Langston Hughes: Volume II: 1941–1967: I Dream a World</ref-sourcetitle>
+<ref-publicationyear first="1988" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>302</first-page>
+<last-page>303</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Arnold Rampersad, The Life of Langston Hughes: Volume II: 1941–1967: I Dream a World (New York: Oxford University Press, 1988), 302–3;</ref-fulltext>
+<ce:source-text>Arnold Rampersad, The Life of Langston Hughes: Volume II: 1941–1967: I Dream a World (New York: Oxford University Press, 1988), 302–3;</ce:source-text>
+</reference>
+<reference seq="145">
+<ref-info>
+<ref-sourcetitle>Margaret Bonds: The “Montgomery Variations” and Du Bois “Credo</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>29</first-page>
+<last-page>30</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds: The “Montgomery Variations” and Du Bois “Credo” (Cambridge: Cambridge University Press, 2023), 29–30.</ref-fulltext>
+<ce:source-text>Margaret Bonds: The “Montgomery Variations” and Du Bois “Credo” (Cambridge: Cambridge University Press, 2023), 29–30.</ce:source-text>
+</reference>
+<reference seq="146">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Theatre: ‘Shakespeare in Harlem’: Langston Hughes Show Opens at 41st Street, ‘God’s Trombones’ Seen on Same Program</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Atkinson</ce:surname>
+<ce:given-name>Brooks</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="1960" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>43</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>10 February</ref-text>
+</ref-info>
+<ref-fulltext>Brooks Atkinson, “Theatre: ‘Shakespeare in Harlem’: Langston Hughes Show Opens at 41st Street, ‘God’s Trombones’ Seen on Same Program,” New York Times (10 February 1960): 43.</ref-fulltext>
+<ce:source-text>Brooks Atkinson, “Theatre: ‘Shakespeare in Harlem’: Langston Hughes Show Opens at 41st Street, ‘God’s Trombones’ Seen on Same Program,” New York Times (10 February 1960): 43.</ce:source-text>
+</reference>
+<reference seq="147">
+<ref-info>
+<ref-sourcetitle>The Echo</ref-sourcetitle>
+<ref-publicationyear first="1959" />
+<ref-text>Maywood, Illinois1 October</ref-text>
+</ref-info>
+<ref-fulltext>The Echo, Maywood, Illinois (1 October 1959)</ref-fulltext>
+<ce:source-text>The Echo, Maywood, Illinois (1 October 1959)</ce:source-text>
+</reference>
+<reference seq="148">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Jackson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds and the Ballad of the Brown King</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>46</first-page>
+<last-page>51</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Jackson, “Margaret Bonds and The Ballad of the Brown King,” 46–51.</ref-fulltext>
+<ce:source-text>Jackson, “Margaret Bonds and The Ballad of the Brown King,” 46–51.</ce:source-text>
+</reference>
+<reference seq="149">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Jackson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds and the Ballad of the Brown King</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>47</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Jackson, “Margaret Bonds and The Ballad of the Brown King,” 47</ref-fulltext>
+<ce:source-text>Jackson, “Margaret Bonds and The Ballad of the Brown King,” 47</ce:source-text>
+</reference>
+<reference seq="150">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Pioneer Doctor Is Buried Here</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>California Eagle</ref-sourcetitle>
+<ref-publicationyear first="1960" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>22 December</ref-text>
+</ref-info>
+<ref-fulltext>“Pioneer Doctor Is Buried Here,” California Eagle (22 December 1960): 7.</ref-fulltext>
+<ce:source-text>“Pioneer Doctor Is Buried Here,” California Eagle (22 December 1960): 7.</ce:source-text>
+</reference>
+<reference seq="151">
+<ref-info>
+<ref-sourcetitle>Park City Daily News</ref-sourcetitle>
+<ref-publicationyear first="1961" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>23 July</ref-text>
+</ref-info>
+<ref-fulltext>Park City Daily News (23 July 1961): 2</ref-fulltext>
+<ce:source-text>Park City Daily News (23 July 1961): 2</ce:source-text>
+</reference>
+<reference seq="152">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Margaret Bonds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.W.</ce:initials>
+<ce:surname>Hill</ce:surname>
+<ce:given-name>Helen Walker-</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From Spirituals to Symphonies: African-American Women Composers and Their Music</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>163</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 163.</ref-fulltext>
+<ce:source-text>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 163.</ce:source-text>
+</reference>
+<reference seq="153">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Martin</ce:surname>
+<ce:given-name>Allegra</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Expressions of African American Identity in the Cantata Simon Bore the Cross by Margaret Bonds and Langston Hughes</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<ref-text>DMA diss., University of Illinois at Urbana-Champaign</ref-text>
+</ref-info>
+<ref-fulltext>Allegra Martin, “Expressions of African American Identity in the Cantata Simon Bore the Cross by Margaret Bonds and Langston Hughes” (DMA diss., University of Illinois at Urbana-Champaign, 2019)</ref-fulltext>
+<ce:source-text>Allegra Martin, “Expressions of African American Identity in the Cantata Simon Bore the Cross by Margaret Bonds and Langston Hughes” (DMA diss., University of Illinois at Urbana-Champaign, 2019)</ce:source-text>
+</reference>
+<reference seq="154">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Simon Bore the Cross</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<ref-text>words by Langston HughesFrederick BinkholderChicago: GIA Publications</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Simon Bore the Cross, words by Langston Hughes, ed. Frederick Binkholder (Chicago: GIA Publications, 2020)</ref-fulltext>
+<ce:source-text>Margaret Bonds, Simon Bore the Cross, words by Langston Hughes, ed. Frederick Binkholder (Chicago: GIA Publications, 2020)</ce:source-text>
+</reference>
+<reference seq="155">
+<ref-info>
+<ref-sourcetitle>Miami Herald</ref-sourcetitle>
+<ref-publicationyear first="1962" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>14</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>10 February</ref-text>
+</ref-info>
+<ref-fulltext>Miami Herald (10 February 1962): 14</ref-fulltext>
+<ce:source-text>Miami Herald (10 February 1962): 14</ce:source-text>
+</reference>
+<reference seq="156">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Joan Holley Plays Works by Dohnanyi [sic]</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="1962" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>37</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>19 March</ref-text>
+</ref-info>
+<ref-fulltext>“Joan Holley Plays Works by Dohnanyi [sic],” New York Times (19 March 1962): 37.</ref-fulltext>
+<ce:source-text>“Joan Holley Plays Works by Dohnanyi [sic],” New York Times (19 March 1962): 37.</ce:source-text>
+</reference>
+<reference seq="157">
+<ref-info>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<volisspag>
+<page-information>
+<pages-text>34–35, 46–53</pages-text>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo” (Cambridge: Cambridge University Press, 2023), 34–35, 46–53.</ref-fulltext>
+<ce:source-text>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo” (Cambridge: Cambridge University Press, 2023), 34–35, 46–53.</ce:source-text>
+</reference>
+<reference seq="158">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Dance: Beatty Company</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Hughes</ce:surname>
+<ce:given-name>Allen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="1964" />
+<ref-text>9 March</ref-text>
+</ref-info>
+<ref-fulltext>Allen Hughes, “Dance: Beatty Company,” New York Times (9 March 1964).</ref-fulltext>
+<ce:source-text>Allen Hughes, “Dance: Beatty Company,” New York Times (9 March 1964).</ce:source-text>
+</reference>
+<reference seq="159">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Cooper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>51</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”, 51.</ref-fulltext>
+<ce:source-text>Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”, 51.</ce:source-text>
+</reference>
+<reference seq="160">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Composer-Housewife</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Washington Afro-American</ref-sourcetitle>
+<ref-publicationyear first="1964" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>21</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>15 August</ref-text>
+</ref-info>
+<ref-fulltext>“Composer-Housewife” Washington Afro-American (15 August 1964): 21.</ref-fulltext>
+<ce:source-text>“Composer-Housewife” Washington Afro-American (15 August 1964): 21.</ce:source-text>
+</reference>
+<reference seq="161">
+<ref-info>
+<ref-sourcetitle>Washington Post 87</ref-sourcetitle>
+<ref-publicationyear first="1964" />
+<volisspag>
+<volume-issue-number>
+<vol-first>253</vol-first>
+</volume-issue-number>
+<page-information>
+<pages-text>C2</pages-text>
+</page-information>
+</volisspag>
+<ref-text>14 August</ref-text>
+</ref-info>
+<ref-fulltext>Washington Post 87, no. 253 (14 August 1964): C2.</ref-fulltext>
+<ce:source-text>Washington Post 87, no. 253 (14 August 1964): C2.</ce:source-text>
+</reference>
+<reference seq="162">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Cooper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>133</first-page>
+<last-page>137</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,” 133–37.</ref-fulltext>
+<ce:source-text>Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,” 133–37.</ce:source-text>
+</reference>
+<reference seq="163">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Music Reviews</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Calloway</ce:surname>
+<ce:given-name>Earl</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chicago Daily Defender</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<ref-text>4–10 February</ref-text>
+</ref-info>
+<ref-fulltext>Earl Calloway, “Music Reviews,” Chicago Daily Defender (4–10 February 1967).</ref-fulltext>
+<ce:source-text>Earl Calloway, “Music Reviews,” Chicago Daily Defender (4–10 February 1967).</ce:source-text>
+</reference>
+<reference seq="164">
+<ref-info>
+<ref-sourcetitle>Founders Day and Alumni Honors Convocation</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<ref-text>Northwestern UniversityChicago Northwestern University Alumni Association</ref-text>
+</ref-info>
+<ref-fulltext>Founders Day and Alumni Honors Convocation, Northwestern University ([Chicago]: Northwestern University Alumni Association, 1967), 8.</ref-fulltext>
+<ce:source-text>Founders Day and Alumni Honors Convocation, Northwestern University ([Chicago]: Northwestern University Alumni Association, 1967), 8.</ce:source-text>
+</reference>
+<reference seq="165">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mayor Proclaims Margaret Bonds Day as Musicians Salute Her</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.C.</ce:initials>
+<ce:surname>Stone</ce:surname>
+<ce:given-name>Theodore Charles</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Crusader</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>10</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>11 February</ref-text>
+</ref-info>
+<ref-fulltext>Theodore Charles Stone, “Mayor Proclaims Margaret Bonds Day as Musicians Salute Her,” New Crusader (11 February 1967): 10.</ref-fulltext>
+<ce:source-text>Theodore Charles Stone, “Mayor Proclaims Margaret Bonds Day as Musicians Salute Her,” New Crusader (11 February 1967): 10.</ce:source-text>
+</reference>
+<reference seq="166">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Stone</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mayor Proclaims Margaret Bonds Day</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>10</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Stone, “Mayor Proclaims Margaret Bonds Day,” 10.</ref-fulltext>
+<ce:source-text>Stone, “Mayor Proclaims Margaret Bonds Day,” 10.</ce:source-text>
+</reference>
+<reference seq="167">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Rampersad</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Life of Langston Hughes: Volume II</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>421</first-page>
+<last-page>425</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rampersad, The Life of Langston Hughes: Volume II, 421–25.</ref-fulltext>
+<ce:source-text>Rampersad, The Life of Langston Hughes: Volume II, 421–25.</ce:source-text>
+</reference>
+<reference seq="168">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Gregory Peck Will Donate Fee to Watts Center</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Times Record</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>37</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Troy, New York25 February</ref-text>
+</ref-info>
+<ref-fulltext>“Gregory Peck Will Donate Fee to Watts Center,” The Times Record, Troy, New York (25 February 1967): 37.</ref-fulltext>
+<ce:source-text>“Gregory Peck Will Donate Fee to Watts Center,” The Times Record, Troy, New York (25 February 1967): 37.</ce:source-text>
+</reference>
+<reference seq="169">
+<ref-info>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>38</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo” (Cambridge: Cambridge University Press, 2023), 38.</ref-fulltext>
+<ce:source-text>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo” (Cambridge: Cambridge University Press, 2023), 38.</ce:source-text>
+</reference>
+<reference seq="170">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Hunter</ce:surname>
+<ce:given-name>Marcus Anthony</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>Z.F.</ce:initials>
+<ce:surname>Robinson</ce:surname>
+<ce:given-name>Zandria F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chocolate Cities: The Black Map of American Life</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>44</first-page>
+<last-page>54</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oakland: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>Marcus Anthony Hunter and Zandria F. Robinson, Chocolate Cities: The Black Map of American Life (Oakland: University of California Press, 2018), 44–54 at 51–54.</ref-fulltext>
+<ce:source-text>Marcus Anthony Hunter and Zandria F. Robinson, Chocolate Cities: The Black Map of American Life (Oakland: University of California Press, 2018), 44–54 at 51–54.</ce:source-text>
+</reference>
+<reference seq="171">
+<ref-info>
+<ref-sourcetitle>Los Angeles Inner City Cultural Center</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-website>
+<ce:e-address type="url">https://www.innercityculturalcenter.org/</ce:e-address>
+</ref-website>
+<ref-text>1 September</ref-text>
+</ref-info>
+<ref-fulltext>Los Angeles Inner City Cultural Center; accessed 1 September 2023, https://www.innercityculturalcenter.org/.</ref-fulltext>
+<ce:source-text>Los Angeles Inner City Cultural Center; accessed 1 September 2023, https://www.innercityculturalcenter.org/.</ce:source-text>
+</reference>
+<reference seq="172">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gomer</ce:surname>
+<ce:given-name>Justin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>White Balance: How Hollywood Shaped Colorblind Ideology and Undermined Civil Rights</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>13</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Justin Gomer, White Balance: How Hollywood Shaped Colorblind Ideology and Undermined Civil Rights (Chapel Hill: University of North Carolina Press, 2020), esp. 1–13;</ref-fulltext>
+<ce:source-text>Justin Gomer, White Balance: How Hollywood Shaped Colorblind Ideology and Undermined Civil Rights (Chapel Hill: University of North Carolina Press, 2020), esp. 1–13;</ce:source-text>
+</reference>
+<reference seq="173">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Closing Doors: Hollywood, Affirmative Action, and the Revitalization of Conservative Racial Politics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Quinn</ce:surname>
+<ce:given-name>Eithne</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of American History</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<volisspag>
+<volume-issue-number>
+<vol-first>99</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>466</first-page>
+<last-page>491</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Eithne Quinn, “Closing Doors: Hollywood, Affirmative Action, and the Revitalization of Conservative Racial Politics,” Journal of American History 99 (2012): 466–91.</ref-fulltext>
+<ce:source-text>Eithne Quinn, “Closing Doors: Hollywood, Affirmative Action, and the Revitalization of Conservative Racial Politics,” Journal of American History 99 (2012): 466–91.</ce:source-text>
+</reference>
+<reference seq="174">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.E.</ce:initials>
+<ce:surname>McGinty</ce:surname>
+<ce:given-name>Doris Evans</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Documentary History of the National Association of Negro Musicians</ref-sourcetitle>
+<ref-publicationyear first="2004" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>232</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago: Center for Black Music Research, Columbia College</ref-text>
+</ref-info>
+<ref-fulltext>Doris Evans McGinty, A Documentary History of the National Association of Negro Musicians (Chicago: Center for Black Music Research, Columbia College, 2004), 232.</ref-fulltext>
+<ce:source-text>Doris Evans McGinty, A Documentary History of the National Association of Negro Musicians (Chicago: Center for Black Music Research, Columbia College, 2004), 232.</ce:source-text>
+</reference>
+<reference seq="175">
+<ref-info>
+<ref-sourcetitle>Valley Times</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>San Fernando Valley, California19 August</ref-text>
+</ref-info>
+<ref-fulltext>Valley Times, San Fernando Valley, California (19 August 1967): 8.</ref-fulltext>
+<ce:source-text>Valley Times, San Fernando Valley, California (19 August 1967): 8.</ce:source-text>
+</reference>
+<reference seq="176">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The African Roots of the War</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>W.E.B. Du Bois: A Reader</ref-sourcetitle>
+<ref-publicationyear first="1995" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>642</first-page>
+<last-page>651</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>David Levering Lewis, New York: Henry Holt</ref-text>
+</ref-info>
+<ref-fulltext>“The African Roots of the War,” in David Levering Lewis, W.E.B. Du Bois: A Reader (New York: Henry Holt, 1995), 642–51.</ref-fulltext>
+<ce:source-text>“The African Roots of the War,” in David Levering Lewis, W.E.B. Du Bois: A Reader (New York: Henry Holt, 1995), 642–51.</ce:source-text>
+</reference>
+<reference seq="177">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Cooper</ce:surname>
+</author>
+<author seq="2">
+<ce:surname>Toppin</ce:surname>
+</author>
+</ref-authors>
+<ref-publicationyear first="2024" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>15</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cooper / Toppin 2024, 1–15.</ref-fulltext>
+<ce:source-text>Cooper / Toppin 2024, 1–15.</ce:source-text>
+</reference>
+<reference seq="178">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>We Shall Overcome</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, We Shall Overcome, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2023);</ref-fulltext>
+<ce:source-text>Margaret Bonds, We Shall Overcome, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2023);</ce:source-text>
+</reference>
+<reference seq="179">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>I Wish I Knew How It Would Feel to Be Free</ref-sourcetitle>
+<ref-publicationyear first="2024" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, I Wish I Knew How It Would Feel to Be Free, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2024);</ref-fulltext>
+<ce:source-text>Margaret Bonds, I Wish I Knew How It Would Feel to Be Free, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2024);</ce:source-text>
+</reference>
+<reference seq="180">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sinner, Please Don’t Let This Harvest Pass</ref-sourcetitle>
+<ref-publicationyear first="2025" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing, forthcoming</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Sinner, Please Don’t Let This Harvest Pass, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, forthcoming 2025).</ref-fulltext>
+<ce:source-text>Margaret Bonds, Sinner, Please Don’t Let This Harvest Pass, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, forthcoming 2025).</ce:source-text>
+</reference>
+<reference seq="181">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Gnadiges Fraulein, Burlesque Is Alive and Living</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Wood</ce:surname>
+<ce:given-name>Collette</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Hollywood Reporter</ref-sourcetitle>
+<ref-publicationyear first="1970" />
+<ref-text>27 January</ref-text>
+</ref-info>
+<ref-fulltext>Collette Wood, “Gnadiges Fraulein, Burlesque Is Alive and Living,” The Hollywood Reporter (27 January 1970);</ref-fulltext>
+<ce:source-text>Collette Wood, “Gnadiges Fraulein, Burlesque Is Alive and Living,” The Hollywood Reporter (27 January 1970);</ce:source-text>
+</reference>
+<reference seq="182">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Edwa, The Gnadiges Fraulein</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Variety</ref-sourcetitle>
+<ref-publicationyear first="1970" />
+<ref-text>26 January</ref-text>
+</ref-info>
+<ref-fulltext>“Edwa,” “The Gnadiges Fraulein,” Variety (26 January 1970).</ref-fulltext>
+<ce:source-text>“Edwa,” “The Gnadiges Fraulein,” Variety (26 January 1970).</ce:source-text>
+</reference>
+<reference seq="183">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Leontyne Price Sings at UCLA</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Los Angeles Times</ref-sourcetitle>
+<ref-publicationyear first="1970" />
+<volisspag>
+<volume-issue-number>
+<vol-first>4</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>21</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>16 February</ref-text>
+</ref-info>
+<ref-fulltext>“Leontyne Price Sings at UCLA,” Los Angeles Times [16 February 1970]: IV: 21</ref-fulltext>
+<ce:source-text>“Leontyne Price Sings at UCLA,” Los Angeles Times [16 February 1970]: IV: 21</ce:source-text>
+</reference>
+<reference seq="184">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Black Woman’s View of Mary Todd Lincoln: Friend and Seamstress of President’s Wife Wrote ‘Scandalous’ Book</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Ebony</ref-sourcetitle>
+<ref-publicationyear first="1970" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>98</first-page>
+<last-page>107</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>March</ref-text>
+</ref-info>
+<ref-fulltext>“A Black Woman’s View of Mary Todd Lincoln: Friend and Seamstress of President’s Wife Wrote ‘Scandalous’ Book,” Ebony (March 1970): 98–107.</ref-fulltext>
+<ce:source-text>“A Black Woman’s View of Mary Todd Lincoln: Friend and Seamstress of President’s Wife Wrote ‘Scandalous’ Book,” Ebony (March 1970): 98–107.</ce:source-text>
+</reference>
+<reference seq="185">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.G.</ce:initials>
+<ce:surname>Homann</ce:surname>
+<ce:given-name>Leonard G.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bonds’ Hour is Entertaining</ref-sourcetitle>
+<ref-publicationyear first="1970" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Daily Democrat, 23 April</ref-text>
+</ref-info>
+<ref-fulltext>Leonard G. Homann, “Bonds’ Hour Is Entertaining,” Daily Democrat (23 April 1970): 2.</ref-fulltext>
+<ce:source-text>Leonard G. Homann, “Bonds’ Hour Is Entertaining,” Daily Democrat (23 April 1970): 2.</ce:source-text>
+</reference>
+<reference seq="186">
+<ref-info>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>88</first-page>
+<last-page>89</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,” 88–89</ref-fulltext>
+<ce:source-text>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,” 88–89</ce:source-text>
+</reference>
+<reference seq="187">
+<ref-info>
+<ref-sourcetitle>Oakland Tribune</ref-sourcetitle>
+<ref-publicationyear first="1971" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>113</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>17 January</ref-text>
+</ref-info>
+<ref-fulltext>Oakland Tribune (17 January 1971): 113.</ref-fulltext>
+<ce:source-text>Oakland Tribune (17 January 1971): 113.</ce:source-text>
+</reference>
+<reference seq="188">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Hats Off! A Magician!</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.C.</ce:initials>
+<ce:surname>Glackin</ce:surname>
+<ce:given-name>William C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sacramento Bee</ref-sourcetitle>
+<ref-publicationyear first="1971" />
+<volisspag>
+<page-information>
+<pages-text>C8</pages-text>
+</page-information>
+</volisspag>
+<ref-text>12 March</ref-text>
+</ref-info>
+<ref-fulltext>William C. Glackin, “Hats Off! A Magician!” Sacramento Bee (12 March 1971): C8.</ref-fulltext>
+<ce:source-text>William C. Glackin, “Hats Off! A Magician!” Sacramento Bee (12 March 1971): C8.</ce:source-text>
+</reference>
+<reference seq="189">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Inner City Dancers in Spectacular Debut</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cariaga</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Press-Telegram</ref-sourcetitle>
+<ref-publicationyear first="1971" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>13</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Long Beach17 May</ref-text>
+</ref-info>
+<ref-fulltext>Daniel Cariaga, “Inner City Dancers in Spectacular Debut,” Press-Telegram, Long Beach (17 May 1971): 13.</ref-fulltext>
+<ce:source-text>Daniel Cariaga, “Inner City Dancers in Spectacular Debut,” Press-Telegram, Long Beach (17 May 1971): 13.</ce:source-text>
+</reference>
+<reference seq="190">
+<ref-info>
+<ref-sourcetitle>Margaret Bonds: The Montgomery Variations and Du Bois “Credo”</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>133</first-page>
+<last-page>137</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Margaret Bonds: The Montgomery Variations and Du Bois “Credo,” 133–37.</ref-fulltext>
+<ce:source-text>Margaret Bonds: The Montgomery Variations and Du Bois “Credo,” 133–37.</ce:source-text>
+</reference>
+<reference seq="191">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Musical Events in the Bay Area</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Times</ref-sourcetitle>
+<ref-publicationyear first="1971" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>29</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>San Mateo, California18 October</ref-text>
+</ref-info>
+<ref-fulltext>“Musical Events in the Bay Area,” The Times, San Mateo, California (18 October 1971): 29.</ref-fulltext>
+<ce:source-text>“Musical Events in the Bay Area,” The Times, San Mateo, California (18 October 1971): 29.</ce:source-text>
+</reference>
+<reference seq="192">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Jackson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds and the Ballad of the Brown King</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>21</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Jackson, “Margaret Bonds and The Ballad of the Brown King,” 21.</ref-fulltext>
+<ce:source-text>Jackson, “Margaret Bonds and The Ballad of the Brown King,” 21.</ce:source-text>
+</reference>
+<reference seq="193">
+<ref-info>
+<ref-sourcetitle>Los Angeles Times</ref-sourcetitle>
+<ref-publicationyear first="1972" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>15</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>3 May</ref-text>
+</ref-info>
+<ref-fulltext>Los Angeles Times (3 May 1972), Section IV, p. 15.</ref-fulltext>
+<ce:source-text>Los Angeles Times (3 May 1972), Section IV, p. 15.</ce:source-text>
+</reference>
+<reference seq="194">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Last Message of Dr. W. E. B. DuBois [sic] to the World</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Journal of Negro History</ref-sourcetitle>
+<ref-publicationyear first="1964" />
+<volisspag>
+<volume-issue-number>
+<vol-first>49</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>145</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>“The Last Message of Dr. W. E. B. DuBois [sic] to the World,” Journal of Negro History 49 (1964): 145.</ref-fulltext>
+<ce:source-text>“The Last Message of Dr. W. E. B. DuBois [sic] to the World,” Journal of Negro History 49 (1964): 145.</ce:source-text>
+</reference>
+<reference seq="195">
+<ref-info>
+<ref-sourcetitle>Elvira: Behind the Curtain. Autobiography of Elvira Green as Told to Barbara Baillet Moran</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+</ref-info>
+<ref-fulltext>Elvira: Behind the Curtain. Autobiography of Elvira Green as told to Barbara Baillet Moran (n.p.: n.p., 2023).</ref-fulltext>
+<ce:source-text>Elvira: Behind the Curtain. Autobiography of Elvira Green as told to Barbara Baillet Moran (n.p.: n.p., 2023).</ce:source-text>
+</reference>
+<reference seq="196">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Unaccompanied Non-Idiomatic Choral Music of Black Composers</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Choral Journal</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>61</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>16</first-page>
+<last-page>33</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>“Unaccompanied Non-Idiomatic Choral Music of Black Composers,” Choral Journal 61 [2020]: 16–33</ref-fulltext>
+<ce:source-text>“Unaccompanied Non-Idiomatic Choral Music of Black Composers,” Choral Journal 61 [2020]: 16–33</ce:source-text>
+</reference>
+<reference seq="197">
+<ref-info>
+<ref-title>
+<ref-titletext-english>An Introduction to the Non-Idiomatic Choral Music of Black Composers</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Garrett</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Association of Anglican Musicians</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>4</first-page>
+<last-page>7</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Garrett, “An Introduction to the Non-Idiomatic Choral Music of Black Composers,” Journal of the Association of Anglican Musicians 29 (2020): 4–7.</ref-fulltext>
+<ce:source-text>Garrett, “An Introduction to the Non-Idiomatic Choral Music of Black Composers,” Journal of the Association of Anglican Musicians 29 (2020): 4–7.</ce:source-text>
+</reference>
+<reference seq="198">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Toppin</ce:surname>
+</author>
+</ref-authors>
+<ref-publicationyear first="2021" />
+<volisspag>
+<page-information>
+<pages-text>200–205, 212–19</pages-text>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Toppin 2021, 200–205, 212–19.</ref-fulltext>
+<ce:source-text>Toppin 2021, 200–205, 212–19.</ce:source-text>
+</reference>
+<reference seq="199">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Toppin</ce:surname>
+</author>
+</ref-authors>
+<ref-publicationyear first="2021" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>14</first-page>
+<last-page>17</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Toppin 2021, 14–17.</ref-fulltext>
+<ce:source-text>Toppin 2021, 14–17.</ce:source-text>
+</reference>
+<reference seq="200">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Coopertoppin</ce:surname>
+</author>
+</ref-authors>
+<ref-publicationyear first="2024" />
+</ref-info>
+<ref-fulltext>Cooper/Toppin 2024, 1–15.</ref-fulltext>
+<ce:source-text>Cooper/Toppin 2024, 1–15.</ce:source-text>
+</reference>
+<reference seq="201">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Toppin</ce:surname>
+</author>
+</ref-authors>
+<ref-publicationyear first="2021" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>172</first-page>
+<last-page>175</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Toppin 2021, 172–75.</ref-fulltext>
+<ce:source-text>Toppin 2021, 172–75.</ce:source-text>
+</reference>
+<reference seq="202">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Kilgore</ce:surname>
+<ce:given-name>Alethea</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Life and Solo Vocal Works of Margaret Allison Bonds (1913–1972)</ref-sourcetitle>
+<ref-text>DM diss., Florida State University, 2013</ref-text>
+</ref-info>
+<ref-fulltext>Alethea Kilgore, “The Life and Solo Vocal Works of Margaret Allison Bonds (1913–1972)” (DM diss., Florida State University, 2013)</ref-fulltext>
+<ce:source-text>Alethea Kilgore, “The Life and Solo Vocal Works of Margaret Allison Bonds (1913–1972)” (DM diss., Florida State University, 2013)</ce:source-text>
+</reference>
+<reference seq="203">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Three Early Songs: Sleep Song, the Sea Ghost, [And] Sunset, Ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2024)</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>4</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Three Early Songs: Sleep Song, The Sea Ghost, [and] Sunset, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2024), 1-4.</ref-fulltext>
+<ce:source-text>Margaret Bonds, Three Early Songs: Sleep Song, The Sea Ghost, [and] Sunset, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2024), 1-4.</ce:source-text>
+</reference>
+<reference seq="204">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Music Student Wins Negro Song Prize</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Daily Northwestern</ref-sourcetitle>
+<ref-publicationyear first="1932" />
+<volisspag>
+<volume-issue-number>
+<vol-first>53</vol-first>
+<iss-first>9</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>29 September</ref-text>
+</ref-info>
+<ref-fulltext>“Music Student Wins Negro Song Prize,” The Daily Northwestern 53, no. 9 (29 September 1932): 1.</ref-fulltext>
+<ce:source-text>“Music Student Wins Negro Song Prize,” The Daily Northwestern 53, no. 9 (29 September 1932): 1.</ce:source-text>
+</reference>
+<reference seq="205">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Reminiscence</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Negro in Music and Art</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>191</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Lindsay PattersonNew York: International Library of Negro Life and History</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, “A Reminiscence,” in The Negro in Music and Art, ed. Lindsay Patterson (New York: International Library of Negro Life and History, 1967), 191.</ref-fulltext>
+<ce:source-text>Margaret Bonds, “A Reminiscence,” in The Negro in Music and Art, ed. Lindsay Patterson (New York: International Library of Negro Life and History, 1967), 191.</ce:source-text>
+</reference>
+<reference seq="206">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Three Early Songs</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+<last-page>11</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Three Early Songs, 8–11.</ref-fulltext>
+<ce:source-text>Margaret Bonds, Three Early Songs, 8–11.</ce:source-text>
+</reference>
+<reference seq="207">
+<ref-info>
+<ref-sourcetitle>Margaret Bonds: Six Songs on Poems by Edna St. Vincent Millay</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds: Six Songs on Poems by Edna St. Vincent Millay, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021).</ref-fulltext>
+<ce:source-text>Margaret Bonds: Six Songs on Poems by Edna St. Vincent Millay, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021).</ce:source-text>
+</reference>
+<reference seq="208">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Kindred Spirits, Part 2: A Bonds-Millay Song Cycle</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Women’s Song Forum</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-website>
+<ce:e-address type="url">https://tinyurl.com/5h4cru59</ce:e-address>
+</ref-website>
+<ref-text>28 May 202114 July</ref-text>
+</ref-info>
+<ref-fulltext>“Kindred Spirits, Part 2: A Bonds-Millay Song Cycle,” Women’s Song Forum (blog), 28 May 2021, accessed 14 July 2023, https://tinyurl.com/5h4cru59.</ref-fulltext>
+<ce:source-text>“Kindred Spirits, Part 2: A Bonds-Millay Song Cycle,” Women’s Song Forum (blog), 28 May 2021, accessed 14 July 2023, https://tinyurl.com/5h4cru59.</ce:source-text>
+</reference>
+<reference seq="209">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.K.</ce:initials>
+<ce:surname>Maultsby</ce:surname>
+<ce:given-name>Portia K.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Afro-American Religious Music: A Study in Musical Diversity</ref-sourcetitle>
+<ref-publicationyear first="1981" />
+<ref-text>Springfield, OH: The Hymn Society of America</ref-text>
+</ref-info>
+<ref-fulltext>Portia K. Maultsby, Afro-American Religious Music: A Study in Musical Diversity (Springfield, OH: The Hymn Society of America, 1981).</ref-fulltext>
+<ce:source-text>Portia K. Maultsby, Afro-American Religious Music: A Study in Musical Diversity (Springfield, OH: The Hymn Society of America, 1981).</ce:source-text>
+</reference>
+<reference seq="210">
+<ref-info>
+<ref-title>
+<ref-titletext-english>She Has a Musical Mission: Developing Racial Harmony</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Demaitre</ce:surname>
+<ce:given-name>Christina</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="1964" />
+<volisspag>
+<volume-issue-number>
+<vol-first>87</vol-first>
+<iss-first>253</iss-first>
+</volume-issue-number>
+<page-information>
+<pages-text>C2</pages-text>
+</page-information>
+</volisspag>
+<ref-text>14 August</ref-text>
+</ref-info>
+<ref-fulltext>Christina Demaitre, “She Has a Musical Mission: Developing Racial Harmony,” Washington Post 87, no. 253 (14 August 1964): C2.</ref-fulltext>
+<ce:source-text>Christina Demaitre, “She Has a Musical Mission: Developing Racial Harmony,” Washington Post 87, no. 253 (14 August 1964): C2.</ce:source-text>
+</reference>
+<reference seq="211">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Bonds</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Reminiscence</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>191</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bonds, “A Reminiscence,” 191.</ref-fulltext>
+<ce:source-text>Bonds, “A Reminiscence,” 191.</ce:source-text>
+</reference>
+<reference seq="212">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Margaret Bonds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Walker-Hill</ce:surname>
+<ce:given-name>Helen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From Spirituals to Symphonies: African-American Women Composers and Their Music</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>161</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Urbana: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 161.</ref-fulltext>
+<ce:source-text>Helen Walker-Hill, “Margaret Bonds,” in her From Spirituals to Symphonies: African-American Women Composers and Their Music (Urbana: University of Illinois Press, 2002), 161.</ce:source-text>
+</reference>
+<reference seq="213">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Bonds</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Reminiscence</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>192</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bonds, “A Reminiscence,” 192.</ref-fulltext>
+<ce:source-text>Bonds, “A Reminiscence,” 192.</ce:source-text>
+</reference>
+<reference seq="214">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Danse africaine</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Hughes</ce:surname>
+<ce:given-name>Langston</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Crisis</ref-sourcetitle>
+<ref-publicationyear first="1922" />
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>167</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Langston Hughes, “Danse africaine,” The Crisis 24 (1922): 167.</ref-fulltext>
+<ce:source-text>Langston Hughes, “Danse africaine,” The Crisis 24 (1922): 167.</ce:source-text>
+</reference>
+<reference seq="215">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>African Dance</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing Company</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, African Dance, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing Company, 2021).</ref-fulltext>
+<ce:source-text>Margaret Bonds, African Dance, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing Company, 2021).</ce:source-text>
+</reference>
+<reference seq="216">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>We Shall Overcome</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, We Shall Overcome, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2023);</ref-fulltext>
+<ce:source-text>Margaret Bonds, We Shall Overcome, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2023);</ce:source-text>
+</reference>
+<reference seq="217">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>I Wish I Knew How It Would Feel to Be Free</ref-sourcetitle>
+<ref-publicationyear first="2024" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, I Wish I Knew How It Would Feel to Be Free, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2024);</ref-fulltext>
+<ce:source-text>Margaret Bonds, I Wish I Knew How It Would Feel to Be Free, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2024);</ce:source-text>
+</reference>
+<reference seq="218">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sinner, Please Don’t Let This Harvest Pass</ref-sourcetitle>
+<ref-publicationyear first="2025" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing, forthcoming</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Sinner, Please Don’t Let This Harvest Pass, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, forthcoming, 2025);</ref-fulltext>
+<ce:source-text>Margaret Bonds, Sinner, Please Don’t Let This Harvest Pass, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, forthcoming, 2025);</ce:source-text>
+</reference>
+<reference seq="219">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Standin’ in the Need of Prayer</ref-sourcetitle>
+<ref-publicationyear first="2025" />
+<ref-text>John Michael CooperWorcester, MA]: Hildegard Publishingforthcoming</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Standin’ in the Need of Prayer, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, [forthcoming, 2025]).</ref-fulltext>
+<ce:source-text>Margaret Bonds, Standin’ in the Need of Prayer, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, [forthcoming, 2025]).</ce:source-text>
+</reference>
+<reference seq="220">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.J.</ce:initials>
+<ce:surname>Jackson</ce:surname>
+<ce:given-name>Ashley Jennifer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds and the Ballad of the Brown King: An Historical Overview and Analysis</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>DMA dissertation, The Juilliard School</ref-text>
+</ref-info>
+<ref-fulltext>Ashley Jennifer Jackson, “Margaret Bonds and The Ballad of the Brown King: An Historical Overview and Analysis” (DMA dissertation, The Juilliard School, 2014).</ref-fulltext>
+<ce:source-text>Ashley Jennifer Jackson, “Margaret Bonds and The Ballad of the Brown King: An Historical Overview and Analysis” (DMA dissertation, The Juilliard School, 2014).</ce:source-text>
+</reference>
+<reference seq="221">
+<ref-info>
+<ref-sourcetitle>Margaret Bonds: The Montgomery Variations and Du Bois “Credo”</ref-sourcetitle>
+<ref-publicationyear first="2024" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>32</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds: The Montgomery Variations and Du Bois “Credo” (Cambridge: Cambridge University Press, 2024), 32.</ref-fulltext>
+<ce:source-text>Margaret Bonds: The Montgomery Variations and Du Bois “Credo” (Cambridge: Cambridge University Press, 2024), 32.</ce:source-text>
+</reference>
+<reference seq="222">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Cooper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>117</vol-first>
+<iss-first>11</iss-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,” 117, n. 11.</ref-fulltext>
+<ce:source-text>Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,” 117, n. 11.</ce:source-text>
+</reference>
+<reference seq="223">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Piano-vocal score</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Credo</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>John Michael Cooper, Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Credo, piano-vocal score, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021);</ref-fulltext>
+<ce:source-text>Margaret Bonds, Credo, piano-vocal score, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021);</ce:source-text>
+</reference>
+<reference seq="224">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Choral-orchestral study score</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Credo</ref-sourcetitle>
+<ref-publicationyear first="2025" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing, forthcoming</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Credo, choral-orchestral study score, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, forthcoming, 2025).</ref-fulltext>
+<ce:source-text>Margaret Bonds, Credo, choral-orchestral study score, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, forthcoming, 2025).</ce:source-text>
+</reference>
+<reference seq="225">
+<ref-info>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo.”</ref-fulltext>
+<ce:source-text>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo.”</ce:source-text>
+</reference>
+<reference seq="226">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.A.</ce:initials>
+<ce:surname>Dilworth</ce:surname>
+<ce:given-name>Rollo Augustus</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Credo of Margaret Bonds: An Historical Commentary, Modern Performing Edition, and Conductor’s Study</ref-sourcetitle>
+<ref-publicationyear first="2003" />
+<ref-text>DM diss., Northwestern University</ref-text>
+</ref-info>
+<ref-fulltext>Rollo Augustus Dilworth, “The Credo of Margaret Bonds: An Historical Commentary, Modern Performing Edition, and Conductor’s Study” (DM diss., Northwestern University, 2003)</ref-fulltext>
+<ce:source-text>Rollo Augustus Dilworth, “The Credo of Margaret Bonds: An Historical Commentary, Modern Performing Edition, and Conductor’s Study” (DM diss., Northwestern University, 2003)</ce:source-text>
+</reference>
+<reference seq="227">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sleep Song</ref-sourcetitle>
+<ref-publicationyear first="2022" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Sleep Song, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2022).</ref-fulltext>
+<ce:source-text>Margaret Bonds, Sleep Song, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2022).</ce:source-text>
+</reference>
+<reference seq="228">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bright Star</ref-sourcetitle>
+<ref-publicationyear first="1968" />
+<ref-text>Beverly Hills: Solo Music</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Bright Star (Beverly Hills: Solo Music, 1968);</ref-fulltext>
+<ce:source-text>Margaret Bonds, Bright Star (Beverly Hills: Solo Music, 1968);</ce:source-text>
+</reference>
+<reference seq="229">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>No Man has Seen His Face</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, No Man Has Seen His Face, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021);</ref-fulltext>
+<ce:source-text>Margaret Bonds, No Man Has Seen His Face, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021);</ce:source-text>
+</reference>
+<reference seq="230">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Touch the Hem of His Garment</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Touch the Hem of His Garment, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021).</ref-fulltext>
+<ce:source-text>Margaret Bonds, Touch the Hem of His Garment, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021).</ce:source-text>
+</reference>
+<reference seq="231">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Once a Teacher Always a Teacher Says Teacher</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Harston</ce:surname>
+<ce:given-name>Charlece</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Alabama Tribune</ref-sourcetitle>
+<ref-publicationyear first="1950" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Montgomery, Alabama24 February</ref-text>
+</ref-info>
+<ref-fulltext>Charlece Harston, “Once a Teacher Always a Teacher Says Teacher,” Alabama Tribune, Montgomery, Alabama (24 February 1950): 4.</ref-fulltext>
+<ce:source-text>Charlece Harston, “Once a Teacher Always a Teacher Says Teacher,” Alabama Tribune, Montgomery, Alabama (24 February 1950): 4.</ce:source-text>
+</reference>
+<reference seq="232">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>St. Francis’ Prayer</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>Louise Toppin[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, St. Francis’ Prayer, ed. Louise Toppin ([Worcester, MA]: Hildegard Publishing, 2021).</ref-fulltext>
+<ce:source-text>Margaret Bonds, St. Francis’ Prayer, ed. Louise Toppin ([Worcester, MA]: Hildegard Publishing, 2021).</ce:source-text>
+</reference>
+<reference seq="233">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Two Works for Solo Piano</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>John Michael Cooper[Worcester, MA]: Hildegard Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Two Works for Solo Piano, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021).</ref-fulltext>
+<ce:source-text>Margaret Bonds, Two Works for Solo Piano, ed. John Michael Cooper ([Worcester, MA]: Hildegard Publishing, 2021).</ce:source-text>
+</reference>
+<reference seq="234">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fugal Dance</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Althea Waites: Reflections in Time</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-text>Mango Eater Music</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, “Fugal Dance,” track 3 on Althea Waites: Reflections in Time (Mango Eater Music, 2023).</ref-fulltext>
+<ce:source-text>Margaret Bonds, “Fugal Dance,” track 3 on Althea Waites: Reflections in Time (Mango Eater Music, 2023).</ce:source-text>
+</reference>
+<reference seq="235">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Troubled Water</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<ref-text>New York: Sam Fox Music</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Troubled Water (New York: Sam Fox Music, 1967);</ref-fulltext>
+<ce:source-text>Margaret Bonds, Troubled Water (New York: Sam Fox Music, 1967);</ce:source-text>
+</reference>
+<reference seq="236">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Spiritual Suite</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<ref-text>Louise Toppin[Ann Arbor, MI]: Videmus</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Spiritual Suite, ed. Louise Toppin ([Ann Arbor, MI]: Videmus, 2020).</ref-fulltext>
+<ce:source-text>Margaret Bonds, Spiritual Suite, ed. Louise Toppin ([Ann Arbor, MI]: Videmus, 2020).</ce:source-text>
+</reference>
+<reference seq="237">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Wilkerson</ce:surname>
+<ce:given-name>Isabel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Warmth of Other Suns: The Epic Story of America’s Great Migration</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+<ref-text>New York: Vintage Books</ref-text>
+</ref-info>
+<ref-fulltext>Isabel Wilkerson, The Warmth of Other Suns: The Epic Story of America’s Great Migration (New York: Vintage Books, 2010).</ref-fulltext>
+<ce:source-text>Isabel Wilkerson, The Warmth of Other Suns: The Epic Story of America’s Great Migration (New York: Vintage Books, 2010).</ce:source-text>
+</reference>
+<reference seq="238">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bonds</ce:surname>
+<ce:given-name>Margaret</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Troubled Water for Cello and Piano</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-text>Timothy Holley and Louise Toppin[Ann Arbor:] Videmus</ref-text>
+</ref-info>
+<ref-fulltext>Margaret Bonds, Troubled Water for Cello and Piano, ed. Timothy Holley and Louise Toppin ([Ann Arbor:] Videmus, 2023).</ref-fulltext>
+<ce:source-text>Margaret Bonds, Troubled Water for Cello and Piano, ed. Timothy Holley and Louise Toppin ([Ann Arbor:] Videmus, 2023).</ce:source-text>
+</reference>
+<reference seq="239">
+<ref-info>
+<ref-sourcetitle>The Montgomery Variations, See My Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>18</first-page>
+<last-page>76</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>The Montgomery Variations, see my Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,”18–76.</ref-fulltext>
+<ce:source-text>The Montgomery Variations, see my Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,”18–76.</ce:source-text>
+</reference>
+<reference seq="240">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Cooper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo”</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>51</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,” 51.</ref-fulltext>
+<ce:source-text>Cooper, Margaret Bonds: “The Montgomery Variations” and Du Bois “Credo,” 51.</ce:source-text>
+</reference>
+<reference seq="241">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Bonds</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Reminiscence</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>192</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bonds, “A Reminiscence,” 192.</ref-fulltext>
+<ce:source-text>Bonds, “A Reminiscence,” 192.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit>
+</units>

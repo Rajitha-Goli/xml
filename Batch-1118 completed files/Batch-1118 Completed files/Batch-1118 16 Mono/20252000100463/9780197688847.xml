@@ -1,0 +1,2971 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-13T10:14:22</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1093/9780197688847.001.0001</ce:doi>
+<itemid idtype="TPB-ID">20252000100463</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+<author-keywords>
+<author-keyword>Hector berlioz</author-keyword>
+<author-keyword>James cleveland</author-keyword>
+<author-keyword>Sacred music</author-keyword>
+<author-keyword>Sublime</author-keyword>
+<author-keyword>Aural architecture</author-keyword>
+<author-keyword>French music</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Berlioz's Requiem
+</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Walker</ce:surname>
+<ce:given-name>Jennifer</ce:given-name>
+</author>
+<affiliation>
+<organization>West Virginia University</organization>
+<country iso-code="USA"/>
+<ce:source-text>Jennifer Walker Assistant Professor of Musicology West Virginia University, USA</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>J.</ce:initials>
+<ce:surname>Walker</ce:surname>
+<ce:given-name>Jennifer</ce:given-name>
+</person>
+<affiliation>
+<organization>West Virginia University</organization>
+<country iso-code="USA"/>
+<ce:source-text>Jennifer Walker Assistant Professor of Musicology West Virginia University, USA</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Oxford University Press 2025 All rights reserved.</publishercopyright>
+<ce:para>Hector Berlioz’s Requiem (Grande Messe des morts, 1837) remains a fixture in the repertoire of choirs and orchestras today. Since 2003, it has been performed in its entirety over one hundred times and has appeared on concert programs spanning the globe: from Russia to the United Kingdom, Finland to the United States, and many locations in between. These performances have, for the most part, been received positively—but critics have not always been this kind to Berlioz and his Requiem. Romantic grandiosity, empty dramatic effect, religious insincerity: such are the descriptors that undergird modern understandings of Berlioz’s canonic work. Nineteenth-century critics and audiences, however, heard the Requiem in different and compelling ways. This book allows for a new hearing of the Requiem by presenting a broad new musical and social context for understanding the work as Berlioz conceived it and his contemporaries heard it. I ask what, if anything, did nineteenth-century listeners find to be notable, and why? The answers to these questions lie in detailed explorations of Berlioz’s relationship to the aesthetics of French sacred music, the theological sublime, and aural architecture. Theatrical as they may have appeared, Berlioz’s innovative orchestrations and colossal choral configurations in the Requiem might now be heard as an embrace of the aural possibilities offered by the sounding of the sacred sublime, the physical architecture of French churches, and the interplay between the sacred and the secular.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Berlioz's requiem</sourcetitle>
+<sourcetitle-abbrev>Berlioz's requiem</sourcetitle-abbrev>
+<isbn type="print" length="13">9780197688809</isbn>
+<isbn type="electronic" length="13">9780197688847</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>144</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>21</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://academic.oup.com/book/59482</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="166">
+<reference seq="1">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Dawg</ce:surname>
+<ce:given-name>Fighterz</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reddit Post</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">https://www.reddit.com/r/RighteousGemstones/comments/t6y6ss/when_the_neon_title_comes_up_what_is_the_choir/</ce:e-address>
+</ref-website>
+<ref-text>accessed September 21</ref-text>
+</ref-info>
+<ref-fulltext>Dawg, Fighterz, Reddit post, accessed September 21, 2023, https://www.red dit.com/r/Rig hteousGemstones/comments/t6y 6ss/when_the_neon_title _comes_up_what_is_the_choir/.</ref-fulltext>
+<ce:source-text>Dawg, Fighterz, Reddit post, accessed September 21, 2023, https://www.red dit.com/r/Rig hteousGemstones/comments/t6y 6ss/when_the_neon_title _comes_up_what_is_the_choir/.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Barzun</ce:surname>
+<ce:given-name>Jacques</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Fourteen Points about Berlioz and the Public, Or Why T Here is Still a Berlioz Problem</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>193</first-page>
+<last-page>201</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berlioz: Past, Present, Future, ed. Peter Bloom (Rochester, NY: University of Rochester Press</ref-text>
+</ref-info>
+<ref-fulltext>JacquesBarzun, “Fourteen Points about Berlioz and the Public, or Why T here Is Still a Berlioz Problem, ” in Berlioz: Past, Present, Future, ed. Peter Bloom (Rochester, NY: University of Rochester Press, 2003), 193–201.</ref-fulltext>
+<ce:source-text>JacquesBarzun, “Fourteen Points about Berlioz and the Public, or Why T here Is Still a Berlioz Problem, ” in Berlioz: Past, Present, Future, ed. Peter Bloom (Rochester, NY: University of Rochester Press, 2003), 193–201.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Taylor</ce:surname>
+<ce:given-name>Benedict</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Defining the Indefinable: Romanticism and Music</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>3</first-page>
+<last-page>16</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>in The Cambridge Companion to Music and Romanticism, ed. Benedict Taylor (Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>BenedictTaylor, “Defining the Indefinable: Romanticism and Music, ”in The Cambridge Companion to Music and Romanticism, ed. Benedict Taylor (Cambridge: Cambridge University Press, 2021), 3–16.</ref-fulltext>
+<ce:source-text>BenedictTaylor, “Defining the Indefinable: Romanticism and Music, ”in The Cambridge Companion to Music and Romanticism, ed. Benedict Taylor (Cambridge: Cambridge University Press, 2021), 3–16.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Barzun</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Fourteen Points</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://www.npr.org/sections/deceptivecadence/2019/03/08/691932489/at-92-theman-who-wrote-the-book-on-berlioz-resumes-his-case</ce:e-address>
+</ref-website>
+<ref-text>Tom Huizenga, “At 92, The Man Who Wrote the Book on Berlioz Resumes His Case, ”</ref-text>
+</ref-info>
+<ref-fulltext>Barzun, “Fourteen Points”; Tom Huizenga, “At 92, The Man Who Wrote the Book on Berlioz Resumes His Case, ”www.npr.org, March 8, 2019, https:// www.npr.org/secti ons/deceptive cade nce/2019/03/08/691932 489/at-92-the man-who-wrote-the-book-on-berlioz-resumes-his-case.</ref-fulltext>
+<ce:source-text>Barzun, “Fourteen Points”; Tom Huizenga, “At 92, The Man Who Wrote the Book on Berlioz Resumes His Case, ”www.npr.org, March 8, 2019, https:// www.npr.org/secti ons/deceptive cade nce/2019/03/08/691932 489/at-92-the man-who-wrote-the-book-on-berlioz-resumes-his-case.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Ellis</ce:surname>
+<ce:given-name>Katharine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Music Criticism in Nineteenth-Century France: La Revue Et Gazette Musicale De Paris, 1834–1880</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>219</first-page>
+<last-page>231</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>KatharineEllis, Music Criticism in Nineteenth-Century France: La Revue et Gazette musicale de Paris, 1834–1880 (Cambridge: Cambridge University Press, 1995), 219–31.</ref-fulltext>
+<ce:source-text>KatharineEllis, Music Criticism in Nineteenth-Century France: La Revue et Gazette musicale de Paris, 1834–1880 (Cambridge: Cambridge University Press, 1995), 219–31.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Comettant</ce:surname>
+<ce:given-name>Oscar</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Échos, Le Siècle</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>85</first-page>
+<last-page>86</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>March 11, 1869; Peter Bloom, The Life of Berlioz (Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>OscarComettant, “Échos, ” Le Siècle, March 11, 1869; Peter Bloom, The Life of Berlioz (Cambridge: Cambridge University Press, 1998), 85–86.</ref-fulltext>
+<ce:source-text>OscarComettant, “Échos, ” Le Siècle, March 11, 1869; Peter Bloom, The Life of Berlioz (Cambridge: Cambridge University Press, 1998), 85–86.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Lang</ce:surname>
+<ce:given-name>Paul Henry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Music in Western Civilization</ref-sourcetitle>
+<ref-publicationyear first="1941"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>856</first-page>
+<last-page>857</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: W. W. Norton</ref-text>
+</ref-info>
+<ref-fulltext>Paul HenryLang, Music in Western Civilization (New York: W. W. Norton, 1941), 856–57.</ref-fulltext>
+<ce:source-text>Paul HenryLang, Music in Western Civilization (New York: W. W. Norton, 1941), 856–57.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Heidlberger</ce:surname>
+<ce:given-name>Frank</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Artistic Religiosity: Berlioz between the Te Deum and L’Enfance Du Christ</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>26</first-page>
+<last-page>41</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>in Berlioz: Scenes from the Life and Work, ed. Peter Bloom (Rochester, NY: University of Rochester Press</ref-text>
+</ref-info>
+<ref-fulltext>FrankHeidlberger, “‘Artistic Religiosity’: Berlioz between the Te Deum and L’Enfance du Christ, ” in Berlioz: Scenes from the Life and Work, ed. Peter Bloom (Rochester, NY: University of Rochester Press, 2008), 26–41.</ref-fulltext>
+<ce:source-text>FrankHeidlberger, “‘Artistic Religiosity’: Berlioz between the Te Deum and L’Enfance du Christ, ” in Berlioz: Scenes from the Life and Work, ed. Peter Bloom (Rochester, NY: University of Rochester Press, 2008), 26–41.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Hausfater</ce:surname>
+<ce:given-name>Dominique</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Berlioz Et lesthétique De La Musique sacréeen France Au Xixe siècle</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>181</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berlioz: textes et contextes, ed. Joël-Marie Fauquet, Catherine Massip, and Cécile Reynaud (Paris: Société française de musicologie</ref-text>
+</ref-info>
+<ref-fulltext>DominiqueHausfater, “Berlioz et l’esthétique de la musique sacréeen France au XIXe siècle, ” in Berlioz: textes et contextes, ed. Joël-Marie Fauquet, Catherine Massip, and Cécile Reynaud (Paris: Société française de musicologie, 2011), 181.</ref-fulltext>
+<ce:source-text>DominiqueHausfater, “Berlioz et l’esthétique de la musique sacréeen France au XIXe siècle, ” in Berlioz: textes et contextes, ed. Joël-Marie Fauquet, Catherine Massip, and Cécile Reynaud (Paris: Société française de musicologie, 2011), 181.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-text>Letter from Berlioz to Adèle Berlioz, dated April 17, 1837; printed in Hector Berlioz, Les Annéesromantiques 1819–1842 (Paris: Calmann-Lévy, 1904), 339. Emphasis original. All English translations are my own unless otherwise noted. Any that are not my own of Berlioz’s correspondence and criticism have been verified against the original texts in either the CG or CM; any modifications are noted</ref-text>
+</ref-info>
+<ref-fulltext>Letter from Berlioz to Adèle Berlioz, dated April 17, 1837; printed in Hector Berlioz, Les Annéesromantiques 1819–1842 (Paris: Calmann-Lévy, 1904), 339. Emphasis original. All English translations are my own unless otherwise noted. Any that are not my own of Berlioz’s correspondence and criticism have been verified against the original texts in either the CG or CM; any modifications are noted.</ref-fulltext>
+<ce:source-text>Letter from Berlioz to Adèle Berlioz, dated April 17, 1837; printed in Hector Berlioz, Les Annéesromantiques 1819–1842 (Paris: Calmann-Lévy, 1904), 339. Emphasis original. All English translations are my own unless otherwise noted. Any that are not my own of Berlioz’s correspondence and criticism have been verified against the original texts in either the CG or CM; any modifications are noted.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-sourcetitle>Memoirs</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>131</first-page>
+<last-page>132</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>MémoiresB, 282</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 131–32 [MémoiresB, 282].</ref-fulltext>
+<ce:source-text>Memoirs, 131–32 [MémoiresB, 282].</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-sourcetitle>Quoted in Bloom, the Life of Berlioz</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>85</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Quoted in Bloom, The Life of Berlioz, 85.</ref-fulltext>
+<ce:source-text>Quoted in Bloom, The Life of Berlioz, 85.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-sourcetitle>Memoirs</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>227</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>MémoiresB, 428Bloom claims that Berlioz’s suggested chronology regarding the exact date of receipt is inaccurate</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 227 [MémoiresB, 428]. Bloom claims that Berlioz’s suggested chronology regarding the exact date of receipt is inaccurate.</ref-fulltext>
+<ce:source-text>Memoirs, 227 [MémoiresB, 428]. Bloom claims that Berlioz’s suggested chronology regarding the exact date of receipt is inaccurate.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cairns</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Berlioz: Servitude and Greatness 1832–1869</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>140</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>DavidCairns, Berlioz: Servitude and Greatness 1832–1869 (Berkeley: University of California Press, 2000), 140.</ref-fulltext>
+<ce:source-text>DavidCairns, Berlioz: Servitude and Greatness 1832–1869 (Berkeley: University of California Press, 2000), 140.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-sourcetitle>Memoirs</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>344</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>228 [MémoiresB, 429]. Berlioz requested five hundred performers; Gasparin agreed to 430. Letter from Berlioz to his sister Adèle Suat, dated April 17</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 228 [MémoiresB, 429]. Berlioz requested five hundred performers; Gasparin agreed to 430. Letter from Berlioz to his sister Adèle Suat, dated April 17, 1837. CGII:344.</ref-fulltext>
+<ce:source-text>Memoirs, 228 [MémoiresB, 429]. Berlioz requested five hundred performers; Gasparin agreed to 430. Letter from Berlioz to his sister Adèle Suat, dated April 17, 1837. CGII:344.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>360</first-page>
+<last-page>361</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Letter from Berlioz to his father, Louis-Joseph Berlioz, dated July 29, . CG II</ref-text>
+</ref-info>
+<ref-fulltext>Letter from Berlioz to his father, Louis-Joseph Berlioz, dated July 29, 1837. CG II:360–61.</ref-fulltext>
+<ce:source-text>Letter from Berlioz to his father, Louis-Joseph Berlioz, dated July 29, 1837. CG II:360–61.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>356</first-page>
+<last-page>357</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berlioz to Franz Liszt, dated July 20, CG II</ref-text>
+</ref-info>
+<ref-fulltext>Berlioz to Franz Liszt, dated July 20, 1837. CG II:356–57.</ref-fulltext>
+<ce:source-text>Berlioz to Franz Liszt, dated July 20, 1837. CG II:356–57.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>376</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berlioz to his mother, Marie-Antoinette-Joséphine Berlioz, dated November 14, . CG II</ref-text>
+</ref-info>
+<ref-fulltext>Berlioz to his mother, Marie-Antoinette-Joséphine Berlioz, dated November 14, 1837. CG II:376.</ref-fulltext>
+<ce:source-text>Berlioz to his mother, Marie-Antoinette-Joséphine Berlioz, dated November 14, 1837. CG II:376.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-sourcetitle>Nouvelle lettres</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>Letter from Berlioz to Simon Bernard, the minister of war, dated October 30</ref-text>
+</ref-info>
+<ref-fulltext>Letter from Berlioz to Simon Bernard, the minister of war, dated October 30, 1837. Nouvelle lettres, 142–43.</ref-fulltext>
+<ce:source-text>Letter from Berlioz to Simon Bernard, the minister of war, dated October 30, 1837. Nouvelle lettres, 142–43.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Ministère de la Guerre: Service solenneld’inhumation de M. Le lieutenant-généralcomte de Damrémont</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>See Unsigned</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Journal De Paris</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>December 4</ref-text>
+</ref-info>
+<ref-fulltext>See Unsigned, “Ministère de la Guerre: Service solenneld’inhumation de M. le lieutenant-généralcomte de Damrémont, ” Le Journal de Paris, December 4, 1837;</ref-fulltext>
+<ce:source-text>See Unsigned, “Ministère de la Guerre: Service solenneld’inhumation de M. le lieutenant-généralcomte de Damrémont, ” Le Journal de Paris, December 4, 1837;</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>Unsigned, “France. Paris, 5 décembre, ”, December 6</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “France. Paris, 5 décembre, ” Journal des débats, December 6, 1837;</ref-fulltext>
+<ce:source-text>Unsigned, “France. Paris, 5 décembre, ” Journal des débats, December 6, 1837;</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-publicationyear first="1837"/>
+<ref-text>X. Y. Z., “Cérémonie des Invalides—Le Requiem de Berlioz, ” Le Constitutionnel, December 6</ref-text>
+</ref-info>
+<ref-fulltext>X. Y. Z., “Cérémonie des Invalides—Le Requiem de Berlioz, ” Le Constitutionnel, December 6, 1837.</ref-fulltext>
+<ce:source-text>X. Y. Z., “Cérémonie des Invalides—Le Requiem de Berlioz, ” Le Constitutionnel, December 6, 1837.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-text>Unsigned, “France. Paris, 5 décembre.”</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “France. Paris, 5 décembre.”</ref-fulltext>
+<ce:source-text>Unsigned, “France. Paris, 5 décembre.”</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<volisspag>
+<page-information>
+<pages>
+<first-page>383</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berlioz to his father, Louis-Joseph Berlioz, dated December 7, 1837. CG II</ref-text>
+</ref-info>
+<ref-fulltext>Berlioz to his father, Louis-Joseph Berlioz, dated December 7, 1837. CG II:383.</ref-fulltext>
+<ce:source-text>Berlioz to his father, Louis-Joseph Berlioz, dated December 7, 1837. CG II:383.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-publicationyear first="1837"/>
+<ref-text>X. Y. Z., “Cérémonie des Invalides—Le Requiem de Berlioz, ” Le Constitutionnel, December 6</ref-text>
+</ref-info>
+<ref-fulltext>X. Y. Z., “Cérémonie des Invalides—Le Requiem de Berlioz, ” Le Constitutionnel, December 6, 1837.</ref-fulltext>
+<ce:source-text>X. Y. Z., “Cérémonie des Invalides—Le Requiem de Berlioz, ” Le Constitutionnel, December 6, 1837.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-publicationyear first="1837"/>
+<ref-text>Unsigned, “France. Paris, 6 décembre, ” La France, December 7, The writer here refers to the grand-croix of the Légion d’honneur</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “France. Paris, 6 décembre, ” La France, December 7, 1837. The writer here refers to the grand-croix of the Légion d’honneur.</ref-fulltext>
+<ce:source-text>Unsigned, “France. Paris, 6 décembre, ” La France, December 7, 1837. The writer here refers to the grand-croix of the Légion d’honneur.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>391</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>See also Berlioz to Humbert Ferrand, dated December 17, CG 2</ref-text>
+</ref-info>
+<ref-fulltext>See also Berlioz to Humbert Ferrand, dated December 17, 1837. CG 2:391.</ref-fulltext>
+<ce:source-text>See also Berlioz to Humbert Ferrand, dated December 17, 1837. CG 2:391.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-sourcetitle>See Journal de Paris</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>9</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>The Journal de Paris reprinted the letter sent from Bernard to Berlioz</ref-text>
+</ref-info>
+<ref-fulltext>The Journal de Paris reprinted the letter sent from Bernard to Berlioz. See Journal de Paris, December9, 1837.</ref-fulltext>
+<ce:source-text>The Journal de Paris reprinted the letter sent from Bernard to Berlioz. See Journal de Paris, December9, 1837.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-sourcetitle>Messe De Requiem Par Hector Berlioz</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>Unsigned, Le Charivari, December 6</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “Messe de Requiem par Hector Berlioz, ”Le Charivari, December 6, 1837;</ref-fulltext>
+<ce:source-text>Unsigned, “Messe de Requiem par Hector Berlioz, ”Le Charivari, December 6, 1837;</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>381</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Unsigned, “France. Paris, 5 décembre”; Th. V., “Revue musicale, ” Le Monde dramatique, December</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “France. Paris, 5 décembre”; Th. V., “Revue musicale, ” Le Monde dramatique, December 1837, 381.</ref-fulltext>
+<ce:source-text>Unsigned, “France. Paris, 5 décembre”; Th. V., “Revue musicale, ” Le Monde dramatique, December 1837, 381.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-title>
+<ref-titletext-english>D’un arrêtéministérielrelatif à unemesseen musique</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>D'Ortigue</ce:surname>
+<ce:given-name>Joseph</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal De Paris</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>August 8</ref-text>
+</ref-info>
+<ref-fulltext>Josephd’Ortigue, “D’un arrêtéministérielrelatif à unemesseen musique, ”Journal de Paris, August 8, 1837.</ref-fulltext>
+<ce:source-text>Josephd’Ortigue, “D’un arrêtéministérielrelatif à unemesseen musique, ”Journal de Paris, August 8, 1837.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Ellis</ce:surname>
+<ce:given-name>Katharine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Interpreting the Musical Past: Early Music in Nineteenth Century France</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>193</first-page>
+<last-page>197</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Oxford University Press2005, at 196</ref-text>
+</ref-info>
+<ref-fulltext>KatharineEllis, Interpreting the Musical Past: Early Music in Nineteenth Century France (Oxford: Oxford University Press, 2005), 193–97at 196.</ref-fulltext>
+<ce:source-text>KatharineEllis, Interpreting the Musical Past: Early Music in Nineteenth Century France (Oxford: Oxford University Press, 2005), 193–97at 196.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bloom</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>The Life of Berlioz</ref-sourcetitle>
+<ref-text>83</ref-text>
+</ref-info>
+<ref-fulltext>Bloom, The Life of Berlioz, 83.</ref-fulltext>
+<ce:source-text>Bloom, The Life of Berlioz, 83.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Musique—Le Conservatoire—M. Berlioz—Ste. Cécile</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Le Corsaire</ref-sourcetitle>
+<ref-publicationyear first="1827"/>
+<ref-text>Unsigned, November 24</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “Musique—Le Conservatoire—M. Berlioz—Ste. Cécile, ”Le Corsaire, November 24, 1827.</ref-fulltext>
+<ce:source-text>Unsigned, “Musique—Le Conservatoire—M. Berlioz—Ste. Cécile, ”Le Corsaire, November 24, 1827.</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“La Messe de M. Berlioz, ” Le Figaro, December 5, 1837. See also</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>J. M… Er [Joseph Mainzer], “Feuilleton Du 12 Octobre, ” Le National</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>Unsigned, December 12</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “La Messe de M. Berlioz, ” Le Figaro, December 5, 1837. See alsoJ. M… er [Joseph Mainzer], “Feuilleton du 12 Octobre, ” Le National, December 12, 1837.</ref-fulltext>
+<ce:source-text>Unsigned, “La Messe de M. Berlioz, ” Le Figaro, December 5, 1837. See alsoJ. M… er [Joseph Mainzer], “Feuilleton du 12 Octobre, ” Le National, December 12, 1837.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Musique religieuse: Messe de Requiem de M. H. Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>D'Ortigue</ce:surname>
+<ce:given-name>Joseph</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>La Quotidienne</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>December 6</ref-text>
+</ref-info>
+<ref-fulltext>Josephd’Ortigue, “Musique religieuse: Messe de Requiem de M. H. Berlioz, ”La Quotidienne, December 6, 1837.</ref-fulltext>
+<ce:source-text>Josephd’Ortigue, “Musique religieuse: Messe de Requiem de M. H. Berlioz, ”La Quotidienne, December 6, 1837.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Ellis</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Interpreting the Musical Past</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>195</first-page>
+<last-page>196</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ellis, Interpreting the Musical Past, 195–96.</ref-fulltext>
+<ce:source-text>Ellis, Interpreting the Musical Past, 195–96.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>L'Écuyer</ce:surname>
+<ce:given-name>Sylvia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Joseph d’Ortigue: écrits Sur La Musique</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>543</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Paris: Société française de musicologie</ref-text>
+</ref-info>
+<ref-fulltext>SylviaL’Écuyer, ed.Joseph d’Ortigue: écrits sur la musique (Paris: Société française de musicologie, 2003), 543.</ref-fulltext>
+<ce:source-text>SylviaL’Écuyer, ed.Joseph d’Ortigue: écrits sur la musique (Paris: Société française de musicologie, 2003), 543.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Du Requiem de M. Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Du Toulmon</ce:surname>
+<ce:given-name>Bottée</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue Et Gazette Musicale</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>531</first-page>
+<last-page>535</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>December 10</ref-text>
+</ref-info>
+<ref-fulltext>Bottée duToulmon, “Du Requiem de M. Berlioz, ”Revue et Gazette musicale, December 10, 1837, 531–35.</ref-fulltext>
+<ce:source-text>Bottée duToulmon, “Du Requiem de M. Berlioz, ”Revue et Gazette musicale, December 10, 1837, 531–35.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>December 6</ref-text>
+</ref-info>
+<ref-fulltext>Journal des débats, December 6, 1837.</ref-fulltext>
+<ce:source-text>Journal des débats, December 6, 1837.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Boschot</ce:surname>
+<ce:given-name>Adolphe</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Un Romantique Sous Louis-Philippe</ref-sourcetitle>
+<ref-publicationyear first="1908"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>357</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Paris: Plon</ref-text>
+</ref-info>
+<ref-fulltext>AdolpheBoschot, Un romantique sous Louis-Philippe (Paris: Plon, 1908), 357.</ref-fulltext>
+<ce:source-text>AdolpheBoschot, Un romantique sous Louis-Philippe (Paris: Plon, 1908), 357.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-sourcetitle>Bernard’s Letter to Berlioz was Reprinted in the Journal De Paris</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>December 9</ref-text>
+</ref-info>
+<ref-fulltext>Bernard’s letter to Berlioz was reprinted in the Journal de Paris, December 9, 1837.</ref-fulltext>
+<ce:source-text>Bernard’s letter to Berlioz was reprinted in the Journal de Paris, December 9, 1837.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-text>J. M… er [Joseph Mainzer], “Feuilleton du 12 Octobre.”</ref-text>
+</ref-info>
+<ref-fulltext>J. M… er [Joseph Mainzer], “Feuilleton du 12 Octobre.”</ref-fulltext>
+<ce:source-text>J. M… er [Joseph Mainzer], “Feuilleton du 12 Octobre.”</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Du Requiem de M. Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Du Toulmon</ce:surname>
+<ce:given-name>Bottée</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue Et Gazette Musicale De Paris</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>534</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bottée du Toulmon, “Du Requiem de M. Berlioz, ”Revue et Gazette musicale de Paris, December 10, 1837, 534.</ref-fulltext>
+<ce:source-text>Bottée du Toulmon, “Du Requiem de M. Berlioz, ”Revue et Gazette musicale de Paris, December 10, 1837, 534.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-publicationyear first="1829"/>
+<ref-text>BoM (companion website), 1 [Le Correspondant, April 21</ref-text>
+</ref-info>
+<ref-fulltext>BoM (companion website), 1 [Le Correspondant, April 21, 1829].</ref-fulltext>
+<ce:source-text>BoM (companion website), 1 [Le Correspondant, April 21, 1829].</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-text>Memoirs, 31–32 [MémoiresB, 127]</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 31–32 [MémoiresB, 127].</ref-fulltext>
+<ce:source-text>Memoirs, 31–32 [MémoiresB, 127].</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-text>Memoirs, 181 [MémoiresB, 356]</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 181 [MémoiresB, 356].</ref-fulltext>
+<ce:source-text>Memoirs, 181 [MémoiresB, 356].</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-text>Memoirs, 182 [MémoiresB, 357]</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 182 [MémoiresB, 357].</ref-fulltext>
+<ce:source-text>Memoirs, 182 [MémoiresB, 357].</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cairns</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Religion</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>275</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>in The Cambridge Berlioz Encyclopedia, ed. Julian Rushton, Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>DavidCairns, “Religion, ”in The Cambridge Berlioz Encyclopedia, ed. Julian Rushton (Cambridge: Cambridge University Press, 2018), 275.</ref-fulltext>
+<ce:source-text>DavidCairns, “Religion, ”in The Cambridge Berlioz Encyclopedia, ed. Julian Rushton (Cambridge: Cambridge University Press, 2018), 275.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-text>Memoirs, 227 [MémoiresB, 429 n. 2]</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 227 [MémoiresB, 429 n. 2].</ref-fulltext>
+<ce:source-text>Memoirs, 227 [MémoiresB, 429 n. 2].</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>McClellan</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Trezise</ce:surname>
+<ce:given-name>Simon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Revolution and Romanticism to 1848</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>114</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>in The Cambridge Companion to French Music, ed. Simon Trezise (Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>MichaelMcClellan and SimonTrezise, “The Revolution and Romanticism to 1848, ”in The Cambridge Companion to French Music, ed. Simon Trezise (Cambridge: Cambridge University Press, 2015), 114.</ref-fulltext>
+<ce:source-text>MichaelMcClellan and SimonTrezise, “The Revolution and Romanticism to 1848, ”in The Cambridge Companion to French Music, ed. Simon Trezise (Cambridge: Cambridge University Press, 2015), 114.</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Price</ce:surname>
+<ce:given-name>Roger</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Church and the State in France, 1789–1870</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Aberystwyth: Palgrave Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>RogerPrice, The Church and the State in France, 1789–1870 (Aberystwyth: Palgrave Macmillan, 2017).</ref-fulltext>
+<ce:source-text>RogerPrice, The Church and the State in France, 1789–1870 (Aberystwyth: Palgrave Macmillan, 2017).</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Mongrédien</ce:surname>
+<ce:given-name>Jean</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>French Music from the Enlightenment to Romanticism, 1789–1830, Trans. Sylvain Frémaux</ref-sourcetitle>
+<ref-publicationyear first="1986" last="1996"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>159</first-page>
+<last-page>165</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Portland, OR: Amadeus Press</ref-text>
+</ref-info>
+<ref-fulltext>JeanMongrédien, French Music from the Enlightenment to Romanticism, 1789–1830, trans. Sylvain Frémaux (Portland, OR: Amadeus Press, 1996 [1986]), 159–65.</ref-fulltext>
+<ce:source-text>JeanMongrédien, French Music from the Enlightenment to Romanticism, 1789–1830, trans. Sylvain Frémaux (Portland, OR: Amadeus Press, 1996 [1986]), 159–65.</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>See also Ellis, Interpreting the Musical Past</ref-sourcetitle>
+<ref-publicationyear first="1834"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>86</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>9</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Revue et Gazette musicale de Paris, September 7</ref-text>
+</ref-info>
+<ref-fulltext>BoM, 86 [Revue et Gazette musicale de Paris, September 7, 1834]. See also Ellis, Interpreting the Musical Past, 9.</ref-fulltext>
+<ce:source-text>BoM, 86 [Revue et Gazette musicale de Paris, September 7, 1834]. See also Ellis, Interpreting the Musical Past, 9.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mémoire sur la situation actuelle de la Musique Religieuse et sur les moyensd’enopères la restauration</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.-É.</ce:initials>
+<ce:surname>Choron</ce:surname>
+<ce:given-name>Alexandre-Étienne</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bnf-Musique Res. F</ref-sourcetitle>
+<ref-publicationyear first="1665"/>
+<volisspag>
+<volume-issue-number>
+<iss-first>12</iss-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Alexandre-ÉtienneChoron, “Mémoire sur la situation actuelle de la Musique Religieuse et sur les moyensd’enopères la restauration.”BnF-Musique Res. F 1665 (12).</ref-fulltext>
+<ce:source-text>Alexandre-ÉtienneChoron, “Mémoire sur la situation actuelle de la Musique Religieuse et sur les moyensd’enopères la restauration.”BnF-Musique Res. F 1665 (12).</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Concert de Mlle Mazel à l’Hôtel-de-Ville</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Revue Et Gazette Musical De Paris</ref-sourcetitle>
+<ref-publicationyear first="1836"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>243</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berlioz, July 10</ref-text>
+</ref-info>
+<ref-fulltext>Berlioz, “Concert de Mlle Mazel à l’Hôtel-de-Ville, ”Revue et Gazette musical de Paris, July 10, 1836, 243;</ref-fulltext>
+<ce:source-text>Berlioz, “Concert de Mlle Mazel à l’Hôtel-de-Ville, ”Revue et Gazette musical de Paris, July 10, 1836, 243;</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Vocal Training at the Paris Conservatoire and the Choir</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Ellis</ce:surname>
+<ce:given-name>Katharine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Schools of Alexandre-Étienne Choron: Debates, Rivalries, and Consequences, ” in Musical Education in Europe (1770–1914): Compositional, Institutional, and Political Changes, Ed. Michael Fend and Michel Noiray</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>125</first-page>
+<last-page>144</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berlin: Berliner Wissenschafts-Verlag</ref-text>
+</ref-info>
+<ref-fulltext>KatharineEllis, “Vocal Training at the Paris Conservatoire and the Choir Schools of Alexandre-Étienne Choron: Debates, Rivalries, and Consequences, ” in Musical Education in Europe (1770–1914): Compositional, Institutional, and Political Changes, ed. Michael Fend and Michel Noiray, Vol. 1 (Berlin: Berliner Wissenschafts-Verlag, 2005), 125–44.</ref-fulltext>
+<ce:source-text>KatharineEllis, “Vocal Training at the Paris Conservatoire and the Choir Schools of Alexandre-Étienne Choron: Debates, Rivalries, and Consequences, ” in Musical Education in Europe (1770–1914): Compositional, Institutional, and Political Changes, ed. Michael Fend and Michel Noiray, Vol. 1 (Berlin: Berliner Wissenschafts-Verlag, 2005), 125–44.</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Les Concerts d’Alexandre Choron</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>É.</ce:initials>
+<ce:surname>Jardin</ce:surname>
+<ce:given-name>Étienne</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Fanny Gribenski and Amélie Porret Dubreuil</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>229</first-page>
+<last-page>247</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>in Musiques et pratiques religieuses en France au XIXe siècle, ed., Paris: Classiques Garnier</ref-text>
+</ref-info>
+<ref-fulltext>ÉtienneJardin, “Les Concerts d’Alexandre Choron, ”in Musiques et pratiques religieuses en France au XIXe siècle, ed.Fanny Gribenski and Amélie Porret Dubreuil (Paris: Classiques Garnier, 2022), 229–47.</ref-fulltext>
+<ce:source-text>ÉtienneJardin, “Les Concerts d’Alexandre Choron, ”in Musiques et pratiques religieuses en France au XIXe siècle, ed.Fanny Gribenski and Amélie Porret Dubreuil (Paris: Classiques Garnier, 2022), 229–47.</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Rénovateur</ref-sourcetitle>
+<ref-publicationyear first="1834"/>
+<ref-text>83 [, August 11, Translation modified from Rosenberg’s. 16</ref-text>
+</ref-info>
+<ref-fulltext>BoM, 83 [Le Rénovateur, August 11, 1834]. Translation modified from Rosenberg’s. 16.</ref-fulltext>
+<ce:source-text>BoM, 83 [Le Rénovateur, August 11, 1834]. Translation modified from Rosenberg’s. 16.</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Revue Et Gazette Musicale De Paris</ref-sourcetitle>
+<ref-publicationyear first="1834"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>86</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>September 7</ref-text>
+</ref-info>
+<ref-fulltext>BoM, 86[Revue et Gazette musicale de Paris, September 7, 1834].</ref-fulltext>
+<ce:source-text>BoM, 86[Revue et Gazette musicale de Paris, September 7, 1834].</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Correspondant</ref-sourcetitle>
+<ref-publicationyear first="1829"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>companion website, April 21</ref-text>
+</ref-info>
+<ref-fulltext>BoM (companion website), 2 [Le Correspondant, April 21, 1829].</ref-fulltext>
+<ce:source-text>BoM (companion website), 2 [Le Correspondant, April 21, 1829].</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Religious Works</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.P.</ce:initials>
+<ce:surname>Locke</ce:surname>
+<ce:given-name>Ralph P.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>In the Cambridge Companion to Berlioz, Ed. Peter Bloom</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>99</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Ralph P.Locke, “The Religious Works, ”in The Cambridge Companion to Berlioz, ed. Peter Bloom (Cambridge: Cambridge University Press, 2000), 99.</ref-fulltext>
+<ce:source-text>Ralph P.Locke, “The Religious Works, ”in The Cambridge Companion to Berlioz, ed. Peter Bloom (Cambridge: Cambridge University Press, 2000), 99.</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.F.B.T.</ce:initials>
+<ce:surname>Lesueur</ce:surname>
+<ce:given-name>Letter From Berlioz To</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1824"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>60</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>dated July, CG I</ref-text>
+</ref-info>
+<ref-fulltext>Letter from Berlioz toLesueur, dated July 1824. CG I:60.</ref-fulltext>
+<ce:source-text>Letter from Berlioz toLesueur, dated July 1824. CG I:60.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Correspondant</ref-sourcetitle>
+<ref-publicationyear first="1829"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>companion website, April 21</ref-text>
+</ref-info>
+<ref-fulltext>BoM (companion website), 3 [Le Correspondant, April 21, 1829].</ref-fulltext>
+<ce:source-text>BoM (companion website), 3 [Le Correspondant, April 21, 1829].</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Ellis</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Interpreting the Musical Past, 193–97.</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>143</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>CM III</ref-text>
+</ref-info>
+<ref-fulltext>Ellis, Interpreting the Musical Past, 193–97.22. CM III:143.</ref-fulltext>
+<ce:source-text>Ellis, Interpreting the Musical Past, 193–97.22. CM III:143.</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Berlioz</ce:surname>
+<ce:given-name>Hector</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Evenings with the Orchestra, Trans. Jacques Barzun</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>190</first-page>
+<last-page>192</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>HectorBerlioz, Evenings with the Orchestra, trans. Jacques Barzun (Chicago: University of Chicago Press, 1999), 190–92.</ref-fulltext>
+<ce:source-text>HectorBerlioz, Evenings with the Orchestra, trans. Jacques Barzun (Chicago: University of Chicago Press, 1999), 190–92.</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-title>
+<ref-titletext-english>On Church Music</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.A.H.</ce:initials>
+<ce:surname>Berlioz</ce:surname>
+<ce:given-name>See Also Hector</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Art of Music and Other Essays (A Travers Chants</ref-sourcetitle>
+<ref-publicationyear first="1994"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>172</first-page>
+<last-page>175</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>and ed. Elizabeth Csicsery-Rónay (Bloomington: Indiana University Press</ref-text>
+</ref-info>
+<ref-fulltext>See also HectorBerlioz, “On Church Music, ” in The Art of Music and Other Essays (A travers chants), trans. and ed. Elizabeth Csicsery-Rónay (Bloomington: Indiana University Press, 1994), 172–75.</ref-fulltext>
+<ce:source-text>See also HectorBerlioz, “On Church Music, ” in The Art of Music and Other Essays (A travers chants), trans. and ed. Elizabeth Csicsery-Rónay (Bloomington: Indiana University Press, 1994), 172–75.</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ramaut</ce:surname>
+<ce:given-name>Alban</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Aesthetics</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>2</first-page>
+<last-page>3</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>in The Cambridge Berlioz Encyclopedia, ed. Julian Rushton (Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>AlbanRamaut, “Aesthetics (1), ”in The Cambridge Berlioz Encyclopedia, ed. Julian Rushton (Cambridge: Cambridge University Press, 2017), 2–3.</ref-fulltext>
+<ce:source-text>AlbanRamaut, “Aesthetics (1), ”in The Cambridge Berlioz Encyclopedia, ed. Julian Rushton (Cambridge: Cambridge University Press, 2017), 2–3.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Charlton</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Learning the Past</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>34</first-page>
+<last-page>56</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>in Berlioz; Past, Present, Future, ed. Peter Bloom, Rochester, NY: University of Rochester Press</ref-text>
+</ref-info>
+<ref-fulltext>DavidCharlton, “Learning the Past, ”in Berlioz; Past, Present, Future, ed. Peter Bloom (Rochester, NY: University of Rochester Press, 2003), 34–56;</ref-fulltext>
+<ce:source-text>DavidCharlton, “Learning the Past, ”in Berlioz; Past, Present, Future, ed. Peter Bloom (Rochester, NY: University of Rochester Press, 2003), 34–56;</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Rushton</ce:surname>
+<ce:given-name>Julian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Berliozs Messe Solennelle and His Debt to Lesueur: Ecstasy of Emulation</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>11</first-page>
+<last-page>18</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Musical Times 140, no. 1868 (Autumn</ref-text>
+</ref-info>
+<ref-fulltext>JulianRushton, “Berlioz’s Messe solennelle and His Debt to Lesueur: Ecstasy of Emulation, ”Musical Times 140, no. 1868 (Autumn1999): 11–18.</ref-fulltext>
+<ce:source-text>JulianRushton, “Berlioz’s Messe solennelle and His Debt to Lesueur: Ecstasy of Emulation, ”Musical Times 140, no. 1868 (Autumn1999): 11–18.</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-title>
+<ref-titletext-english>De-Christianization</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Ozouf</ce:surname>
+<ce:given-name>Mona</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>In a Critical Dictionary of the French Revolution, Ed. François Furet and Mona Ozouf</ref-sourcetitle>
+<ref-publicationyear first="1989"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>20</first-page>
+<last-page>32</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge, MA: Belknap Press of Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>MonaOzouf, “De-Christianization, ”in A Critical Dictionary of the French Revolution, ed. François Furet and Mona Ozouf(Cambridge, MA: Belknap Press of Harvard University Press, 1989), 20–32.</ref-fulltext>
+<ce:source-text>MonaOzouf, “De-Christianization, ”in A Critical Dictionary of the French Revolution, ed. François Furet and Mona Ozouf(Cambridge, MA: Belknap Press of Harvard University Press, 1989), 20–32.</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Paris</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Dubreuil</ce:surname>
+<ce:given-name>Ernest</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Messager Des Théatres Et Des Arts</ref-sourcetitle>
+<ref-publicationyear first="1852"/>
+<ref-text>October 24</ref-text>
+</ref-info>
+<ref-fulltext>ErnestDubreuil, “Paris, ”Messager des Théatres et des Arts, October 24, 1852.</ref-fulltext>
+<ce:source-text>ErnestDubreuil, “Paris, ”Messager des Théatres et des Arts, October 24, 1852.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Doran</ce:surname>
+<ce:given-name>Robert</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Theory of the Sublime from Longinus to Kant</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>110</first-page>
+<last-page>114</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>RobertDoran, The Theory of the Sublime from Longinus to Kant (Cambridge: Cambridge University Press, 2015), 110–14.</ref-fulltext>
+<ce:source-text>RobertDoran, The Theory of the Sublime from Longinus to Kant (Cambridge: Cambridge University Press, 2015), 110–14.</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Hibberd</ce:surname>
+<ce:given-name>Sarah</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Stanyon</ce:surname>
+<ce:given-name>Miranda</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sonorous Sublimes: An Introduction, in Music and the Sonorous Sublime in European Culture, 1680–1880, Ed. Sarah Hibberd and Miranda Stanyon</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>25</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>SarahHibberd and MirandaStanyon, “Sonorous Sublimes: An Introduction, ” in Music and the Sonorous Sublime in European Culture, 1680–1880, ed. Sarah Hibberd and Miranda Stanyon (Cambridge: Cambridge University Press, 2020), 1–25.</ref-fulltext>
+<ce:source-text>SarahHibberd and MirandaStanyon, “Sonorous Sublimes: An Introduction, ” in Music and the Sonorous Sublime in European Culture, 1680–1880, ed. Sarah Hibberd and Miranda Stanyon (Cambridge: Cambridge University Press, 2020), 1–25.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.-L.</ce:initials>
+<ce:surname>Millin</ce:surname>
+<ce:given-name>Aubin-Louis</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dictionnaire Des Beaux-Arts</ref-sourcetitle>
+<ref-publicationyear first="1806"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>603</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Vol, Paris: Desray</ref-text>
+</ref-info>
+<ref-fulltext>Aubin-LouisMillin, Dictionnaire des beaux-arts, Vol. 3 (Paris: Desray, 1806), 603.</ref-fulltext>
+<ce:source-text>Aubin-LouisMillin, Dictionnaire des beaux-arts, Vol. 3 (Paris: Desray, 1806), 603.</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.K.</ce:initials>
+<ce:surname>Reeve</ce:surname>
+<ce:given-name>Katherine Kolb</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Primal Scenes: Smithson, Pleyel, and Liszt in the Eyes of Berlioz</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>211</first-page>
+<last-page>235</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>19th-Century Music 18, no, Spring</ref-text>
+</ref-info>
+<ref-fulltext>Katherine KolbReeve, “Primal Scenes: Smithson, Pleyel, and Liszt in the Eyes of Berlioz, ”19th-Century Music 18, no. 3 (Spring 1995): 211–35;</ref-fulltext>
+<ce:source-text>Katherine KolbReeve, “Primal Scenes: Smithson, Pleyel, and Liszt in the Eyes of Berlioz, ”19th-Century Music 18, no. 3 (Spring 1995): 211–35;</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Ellis</ce:surname>
+<ce:given-name>Katharine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Berlioz, the Sublime, and the Broderie Problem, in Hector Berlioz: Miscellaneous Studies, Ed. Fulvia Morabito and Michela Niccolai</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>29</first-page>
+<last-page>59</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>(Bologna: Ut Orpheus Edizioni</ref-text>
+</ref-info>
+<ref-fulltext>KatharineEllis, “Berlioz, the Sublime, and the Broderie Problem, ” in Hector Berlioz: Miscellaneous Studies, ed. Fulvia Morabito and Michela Niccolai (Bologna: Ut Orpheus Edizioni, 2005), 29–59.</ref-fulltext>
+<ce:source-text>KatharineEllis, “Berlioz, the Sublime, and the Broderie Problem, ” in Hector Berlioz: Miscellaneous Studies, ed. Fulvia Morabito and Michela Niccolai (Bologna: Ut Orpheus Edizioni, 2005), 29–59.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Cairns</ce:surname>
+<ce:given-name>Berlioz</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1835"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>96, 171, 457. See also BoM, 136 [March 1</ref-text>
+</ref-info>
+<ref-fulltext>Cairns, Berlioz, Vol. 1, 96, 171, 457. See also BoM, 136 [March 1, 1835];</ref-fulltext>
+<ce:source-text>Cairns, Berlioz, Vol. 1, 96, 171, 457. See also BoM, 136 [March 1, 1835];</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Reeve</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Primal Scenes. 7. Treatise, 201 [NBE 24, 302]. All English Translations from the Treatise are Bor Rowed from Hugh Macdonald, Berlioz’s Orchestration Treatise: A Translation and Commentary</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Reeve, “Primal Scenes.” 7. Treatise, 201 [NBE 24, 302]. All English translations from the Treatise are bor rowed from Hugh Macdonald, Berlioz’s Orchestration Treatise: A Translation and Commentary (Cambridge: Cambridge University Press, 2002).</ref-fulltext>
+<ce:source-text>Reeve, “Primal Scenes.” 7. Treatise, 201 [NBE 24, 302]. All English translations from the Treatise are bor rowed from Hugh Macdonald, Berlioz’s Orchestration Treatise: A Translation and Commentary (Cambridge: Cambridge University Press, 2002).</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Treatise</ce:text>
+</collaboration>
+</ref-authors>
+<volisspag>
+<volume-issue-number>
+<vol-first>289</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>NBE 24, 488</ref-text>
+</ref-info>
+<ref-fulltext>Treatise, 289 [NBE 24, 488].</ref-fulltext>
+<ce:source-text>Treatise, 289 [NBE 24, 488].</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Ellis</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Berlioz, the Sublime, and the Broderie Problem.</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Ellis, “Berlioz, the Sublime, and the Broderie Problem.”</ref-fulltext>
+<ce:source-text>Ellis, “Berlioz, the Sublime, and the Broderie Problem.”</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-publicationyear first="1825"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>95</first-page>
+<last-page>96</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Letter from Berlioz to Albert Du Boys dated July 20, CG I</ref-text>
+</ref-info>
+<ref-fulltext>Letter from Berlioz to Albert Du Boys dated July 20, 1825, CG I:95–96.</ref-fulltext>
+<ce:source-text>Letter from Berlioz to Albert Du Boys dated July 20, 1825, CG I:95–96.</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-publicationyear first="1827"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>159</first-page>
+<last-page>160</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Letter from Berlioz to Humbert Ferrand dated November 29, CG I</ref-text>
+</ref-info>
+<ref-fulltext>Letter from Berlioz to Humbert Ferrand dated November 29, 1827, CG I:159–60.</ref-fulltext>
+<ce:source-text>Letter from Berlioz to Humbert Ferrand dated November 29, 1827, CG I:159–60.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-text>Memoirs, 479 [MémoiresB, 798]</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 479 [MémoiresB, 798].</ref-fulltext>
+<ce:source-text>Memoirs, 479 [MémoiresB, 798].</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-text>CM III: 360–61</ref-text>
+</ref-info>
+<ref-fulltext>CM III: 360–61.</ref-fulltext>
+<ce:source-text>CM III: 360–61.</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-text>Memoirs, 479 [MémoiresB, 798]</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 479 [MémoiresB, 798].</ref-fulltext>
+<ce:source-text>Memoirs, 479 [MémoiresB, 798].</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-text>Hibberd and Stanyon, “Sonorous Sublimes: An Introduction, ” 22</ref-text>
+</ref-info>
+<ref-fulltext>Hibberd and Stanyon, “Sonorous Sublimes: An Introduction, ” 22.</ref-fulltext>
+<ce:source-text>Hibberd and Stanyon, “Sonorous Sublimes: An Introduction, ” 22.</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-text>MémoiresB, 430 n.12</ref-text>
+</ref-info>
+<ref-fulltext>MémoiresB, 430 n.12.</ref-fulltext>
+<ce:source-text>MémoiresB, 430 n.12.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Kerslake</ce:surname>
+<ce:given-name>Lawrence</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Essays on the Sublime: Analyses of French Writings on the Sublime from Boileau to La Harpe</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<ref-text>Bern: Peter Lang</ref-text>
+</ref-info>
+<ref-fulltext>LawrenceKerslake, Essays on the Sublime: Analyses of French Writings on the Sublime from Boileau to La Harpe (Bern: Peter Lang: 2000).</ref-fulltext>
+<ce:source-text>LawrenceKerslake, Essays on the Sublime: Analyses of French Writings on the Sublime from Boileau to La Harpe (Bern: Peter Lang: 2000).</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.-B.</ce:initials>
+<ce:surname>Bossuet</ce:surname>
+<ce:given-name>Jacques-Bénigne</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1867"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>10</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>120</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Œuvrescomplètes, Vol</ref-text>
+</ref-info>
+<ref-fulltext>Jacques-BénigneBossuet, Œuvrescomplètes, Vol. 10(1867), 120.</ref-fulltext>
+<ce:source-text>Jacques-BénigneBossuet, Œuvrescomplètes, Vol. 10(1867), 120.</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>See BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Rénovateur</ref-sourcetitle>
+<ref-publicationyear first="1834"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>107</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>November 16, for Berlioz’s citation of Bossuet’s grand style</ref-text>
+</ref-info>
+<ref-fulltext>See BoM, 107 [Le Rénovateur, November 16, 1834] for Berlioz’s citation of Bossuet’s grand style.</ref-fulltext>
+<ce:source-text>See BoM, 107 [Le Rénovateur, November 16, 1834] for Berlioz’s citation of Bossuet’s grand style.</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Hache</ce:surname>
+<ce:given-name>Sophie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Thunder Or Celestial Harmony: French Theological Debates on the Sonorous Sublime</ref-sourcetitle>
+<ref-text>in Music and the Sonorous Sublime, 26–43, at 31</ref-text>
+</ref-info>
+<ref-fulltext>SophieHache, “Thunder or Celestial Harmony: French Theological Debates on the Sonorous Sublime, ” in Music and the Sonorous Sublime, 26–43, at 31.</ref-fulltext>
+<ce:source-text>SophieHache, “Thunder or Celestial Harmony: French Theological Debates on the Sonorous Sublime, ” in Music and the Sonorous Sublime, 26–43, at 31.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Correspondant</ref-sourcetitle>
+<ref-publicationyear first="1829"/>
+<ref-text>companion website), 1, April 21</ref-text>
+</ref-info>
+<ref-fulltext>BoM (companion website), 1 [Le Correspondant, April 21, 1829];</ref-fulltext>
+<ce:source-text>BoM (companion website), 1 [Le Correspondant, April 21, 1829];</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-publicationyear first="1836"/>
+<ref-text>253, September 18</ref-text>
+</ref-info>
+<ref-fulltext>BoM, 253 [Journal des débats, September 18, 1836].</ref-fulltext>
+<ce:source-text>BoM, 253 [Journal des débats, September 18, 1836].</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Correspondant</ref-sourcetitle>
+<ref-publicationyear first="1829"/>
+<ref-text>(companion website), 2 [, April 21, ]. Translation adapted from Rosenberg’s</ref-text>
+</ref-info>
+<ref-fulltext>BoM(companion website), 2 [Le Correspondant, April 21, 1829]. Translation adapted from Rosenberg’s.</ref-fulltext>
+<ce:source-text>BoM(companion website), 2 [Le Correspondant, April 21, 1829]. Translation adapted from Rosenberg’s.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-title>
+<ref-titletext-english>France. Paris, 5 décembre</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>Unsigned, 6 December</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “France. Paris, 5 décembre, ”Journal des débats, 6 December 1837.</ref-fulltext>
+<ce:source-text>Unsigned, “France. Paris, 5 décembre, ”Journal des débats, 6 December 1837.</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Requiem de M. Berlioz, exécutéeenl’honneur de M. Le Baron de Trémont</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Duchesne</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-text>[likely Joseph-Esprit Duchesne], November 23</ref-text>
+</ref-info>
+<ref-fulltext>E.Duchesne[likely Joseph-Esprit Duchesne], “Requiem de M. Berlioz, exécutéeenl’honneur de M. le Baron de Trémont, ”Journal des débats, November 23, 1852.</ref-fulltext>
+<ce:source-text>E.Duchesne[likely Joseph-Esprit Duchesne], “Requiem de M. Berlioz, exécutéeenl’honneur de M. le Baron de Trémont, ”Journal des débats, November 23, 1852.</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Revue musicale</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Le Dix décembre</ref-sourcetitle>
+<ref-publicationyear first="1850"/>
+<ref-text>See also Alphonse de Calonne, May 14</ref-text>
+</ref-info>
+<ref-fulltext>See also Alphonse de Calonne, “Revue musicale, ” Le Dix décembre, May 14, 1850.</ref-fulltext>
+<ce:source-text>See also Alphonse de Calonne, “Revue musicale, ” Le Dix décembre, May 14, 1850.</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-publicationyear first="1852"/>
+<ref-text>Unsigned, “Cérémonie funèbre enl’honneur de la mémoire de M. le Baron de Trémont, ” L’Éclaireur de l’arrondissement de coulommiers, November 14, Dubreuil, “Paris.”</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “Cérémonie funèbre enl’honneur de la mémoire de M. le Baron de Trémont, ” L’Éclaireur de l’arrondissement de coulommiers, November 14, 1852; Dubreuil, “Paris.”</ref-fulltext>
+<ce:source-text>Unsigned, “Cérémonie funèbre enl’honneur de la mémoire de M. le Baron de Trémont, ” L’Éclaireur de l’arrondissement de coulommiers, November 14, 1852; Dubreuil, “Paris.”</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Messe de Requiem par Hector Berlioz</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Le Charivari</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>Unsigned, December 6</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “Messe de Requiem par Hector Berlioz, ”Le Charivari, December 6, 1837.</ref-fulltext>
+<ce:source-text>Unsigned, “Messe de Requiem par Hector Berlioz, ”Le Charivari, December 6, 1837.</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Duchesne</ce:text>
+</collaboration>
+</ref-authors>
+</ref-info>
+<ref-fulltext>Duchesne, “Requiem de M. Berlioz.”</ref-fulltext>
+<ce:source-text>Duchesne, “Requiem de M. Berlioz.”</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Revue musicale</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Kreutzer</ce:surname>
+<ce:given-name>Léon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>La Quotidienne</ref-sourcetitle>
+<ref-publicationyear first="1846"/>
+<ref-text>August 28</ref-text>
+</ref-info>
+<ref-fulltext>LéonKreutzer, “Revue musicale, ”La Quotidienne, August 28, 1846;</ref-fulltext>
+<ce:source-text>LéonKreutzer, “Revue musicale, ”La Quotidienne, August 28, 1846;</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Le Requiem de Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Kreutzer</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Revue Et Gazette Musicale De Paris</ref-sourcetitle>
+<ref-publicationyear first="1852"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>370</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>October 31</ref-text>
+</ref-info>
+<ref-fulltext>Kreutzer, “Le Requiem de Berlioz, ”Revue et Gazette musicale de Paris, October 31, 1852, 370.</ref-fulltext>
+<ce:source-text>Kreutzer, “Le Requiem de Berlioz, ”Revue et Gazette musicale de Paris, October 31, 1852, 370.</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Er</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Mainzer</ce:surname>
+<ce:given-name>Joseph</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Feuilleton Du 12 Octobre</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>Le National, December 12</ref-text>
+</ref-info>
+<ref-fulltext>J. M…er, [JosephMainzer] “Feuilleton du 12 octobre, ” Le National, December 12, 1837.</ref-fulltext>
+<ce:source-text>J. M…er, [JosephMainzer] “Feuilleton du 12 octobre, ” Le National, December 12, 1837.</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>De Calonne</ce:surname>
+<ce:given-name>Alphonse</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue Musicale</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Alphonse de Calonne, “Revue musicale.”</ref-fulltext>
+<ce:source-text>Alphonse de Calonne, “Revue musicale.”</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<ref-sourcetitle>Messe De Requiem Par Hector Berlioz</ref-sourcetitle>
+<ref-text>See, e.g., Unsigned</ref-text>
+</ref-info>
+<ref-fulltext>See, e.g., Unsigned, “Messe de Requiem par Hector Berlioz.”</ref-fulltext>
+<ce:source-text>See, e.g., Unsigned, “Messe de Requiem par Hector Berlioz.”</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Un concert Berlioz à Lyon en 1845</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Revue Musicale De Lyon</ref-sourcetitle>
+<ref-publicationyear first="1906"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>206</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Quoted in Léon Vallas, November 25</ref-text>
+</ref-info>
+<ref-fulltext>Quoted in Léon Vallas, “Un concert Berlioz à Lyon en 1845, ”Revue musicale de Lyon, November 25, 1906, 206.</ref-fulltext>
+<ce:source-text>Quoted in Léon Vallas, “Un concert Berlioz à Lyon en 1845, ”Revue musicale de Lyon, November 25, 1906, 206.</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Saint-Saëns</ce:surname>
+<ce:given-name>Camille</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Discours De M. Saint-Saëns Lu Par M. Le Maire De La Côte-Saint</ref-sourcetitle>
+<ref-publicationyear first="1903"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>627</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>reflected upon his hearing of the Requiem in 1852 in Unsigned, Le Guide musical, 6 and 13 September 6 and 13</ref-text>
+</ref-info>
+<ref-fulltext>CamilleSaint-Saëns reflected upon his hearing of the Requiem in 1852 in Unsigned, “Discours de M. Saint-Saëns lu par M. le Maire de la Côte-Saint André, ”Le Guide musical, 6 and 13 September 6 and 13, 1903, 627.</ref-fulltext>
+<ce:source-text>CamilleSaint-Saëns reflected upon his hearing of the Requiem in 1852 in Unsigned, “Discours de M. Saint-Saëns lu par M. le Maire de la Côte-Saint André, ”Le Guide musical, 6 and 13 September 6 and 13, 1903, 627.</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-text>Memoirs, 181–82 [MémoiresB, 356]</ref-text>
+</ref-info>
+<ref-fulltext>Memoirs, 181–82 [MémoiresB, 356].</ref-fulltext>
+<ce:source-text>Memoirs, 181–82 [MémoiresB, 356].</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Correspondant</ref-sourcetitle>
+<ref-publicationyear first="1829"/>
+<ref-text>companion website), 4, April 21</ref-text>
+</ref-info>
+<ref-fulltext>BoM (companion website), 4 [Le Correspondant, April 21, 1829].</ref-fulltext>
+<ce:source-text>BoM (companion website), 4 [Le Correspondant, April 21, 1829].</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>[Revue Et Gazette Musicale De Paris</ref-sourcetitle>
+<ref-publicationyear first="1834"/>
+<ref-text>88, September 7</ref-text>
+</ref-info>
+<ref-fulltext>BoM, 88 [Revue et Gazette musicale de Paris, September 7, 1834].</ref-fulltext>
+<ce:source-text>BoM, 88 [Revue et Gazette musicale de Paris, September 7, 1834].</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="1829"/>
+<ref-text>companion website), 4 [Le Correspondant, April 21, The translation here is adapted from Rosenberg’s</ref-text>
+</ref-info>
+<ref-fulltext>BoM (companion website), 4 [Le Correspondant, April 21, 1829]. The translation here is adapted from Rosenberg’s.</ref-fulltext>
+<ce:source-text>BoM (companion website), 4 [Le Correspondant, April 21, 1829]. The translation here is adapted from Rosenberg’s.</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-publicationyear first="1825"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>329</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Anton Reicha, Traité de haute composition musicale, Vol, Paris: Zetter</ref-text>
+</ref-info>
+<ref-fulltext>Anton Reicha, Traité de haute composition musicale, Vol. 2 (Paris: Zetter, 1825), 329</ref-fulltext>
+<ce:source-text>Anton Reicha, Traité de haute composition musicale, Vol. 2 (Paris: Zetter, 1825), 329</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.E.</ce:initials>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>Rosa E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Hector Berliozs Religious Ambivalence and Its Impact on His Music</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<ref-text>MA thesis, University of Hawai’i</ref-text>
+</ref-info>
+<ref-fulltext>Rosa E.Lewis, “Hector Berlioz’s Religious Ambivalence and Its Impact on His Music” (MA thesis, University of Hawai’i, 2000);</ref-fulltext>
+<ce:source-text>Rosa E.Lewis, “Hector Berlioz’s Religious Ambivalence and Its Impact on His Music” (MA thesis, University of Hawai’i, 2000);</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cairns</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Berlioz</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>137</ref-text>
+</ref-info>
+<ref-fulltext>DavidCairns, Berlioz, Vol. 2, 137;</ref-fulltext>
+<ce:source-text>DavidCairns, Berlioz, Vol. 2, 137;</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Cone</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Berliozs Divine Comedy</ref-sourcetitle>
+<ref-text>7</ref-text>
+</ref-info>
+<ref-fulltext>Cone, “Berlioz’s Divine Comedy, ”7.</ref-fulltext>
+<ce:source-text>Cone, “Berlioz’s Divine Comedy, ”7.</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Hearing the Hostias, Rehearing the Requiem</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Walker</ce:surname>
+<ce:given-name>Jennifer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>In Berlioz and His World, Ed. Francesca Brittan and Sarah Hibberd</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>115</first-page>
+<last-page>125</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Chicago: Chicago University Press</ref-text>
+</ref-info>
+<ref-fulltext>JenniferWalker, “Hearing the Hostias, Rehearing the Requiem, ”in Berlioz and His World, ed. Francesca Brittan and Sarah Hibberd (Chicago: Chicago University Press, 2024), 115–25.</ref-fulltext>
+<ce:source-text>JenniferWalker, “Hearing the Hostias, Rehearing the Requiem, ”in Berlioz and His World, ed. Francesca Brittan and Sarah Hibberd (Chicago: Chicago University Press, 2024), 115–25.</ce:source-text>
+</reference>
+<reference seq="118">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-publicationyear first="1835"/>
+<ref-text>173–74, August 9</ref-text>
+</ref-info>
+<ref-fulltext>BoM, 173–74 [Journal des débats, August 9, 1835].</ref-fulltext>
+<ce:source-text>BoM, 173–74 [Journal des débats, August 9, 1835].</ce:source-text>
+</reference>
+<reference seq="119">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Berlioz</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>The Art of Music and Other Essays</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>60</first-page>
+<last-page>61</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>ed. and trans. Elizabeth Csicsery Ronay</ref-text>
+</ref-info>
+<ref-fulltext>Berlioz, The Art of Music and Other Essays, ed. and trans. Elizabeth Csicsery Ronay, 60–61.</ref-fulltext>
+<ce:source-text>Berlioz, The Art of Music and Other Essays, ed. and trans. Elizabeth Csicsery Ronay, 60–61.</ce:source-text>
+</reference>
+<reference seq="120">
+<ref-info>
+<ref-text>CM I: 239–40</ref-text>
+</ref-info>
+<ref-fulltext>CM I: 239–40.</ref-fulltext>
+<ce:source-text>CM I: 239–40.</ce:source-text>
+</reference>
+<reference seq="121">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Berlioz</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Evenings with the Orchestra</ref-sourcetitle>
+<ref-text>trans. Barzun, 233</ref-text>
+</ref-info>
+<ref-fulltext>Berlioz, Evenings with the Orchestra, trans. Barzun, 233.</ref-fulltext>
+<ce:source-text>Berlioz, Evenings with the Orchestra, trans. Barzun, 233.</ce:source-text>
+</reference>
+<reference seq="122">
+<ref-info>
+<ref-title>
+<ref-titletext-english>(</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Blesser</ce:surname>
+<ce:given-name>Barry</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>L.-R.</ce:initials>
+<ce:surname>Salter</ce:surname>
+<ce:given-name>Linda-Ruth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Spaces Speak: Experiencing Aural Architecture</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge, MA: MIT Press</ref-text>
+</ref-info>
+<ref-fulltext>BarryBlesser and Linda-RuthSalter, Spaces Speak: Experiencing Aural Architecture (Cambridge, MA: MIT Press, 2007), 5, 2.</ref-fulltext>
+<ce:source-text>BarryBlesser and Linda-RuthSalter, Spaces Speak: Experiencing Aural Architecture (Cambridge, MA: MIT Press, 2007), 5, 2.</ce:source-text>
+</reference>
+<reference seq="123">
+<ref-info>
+<ref-publicationyear first="1842"/>
+<ref-text>Letter from Berlioz to Louis Berlioz, dated September 8, Nouvelles lettres, 201</ref-text>
+</ref-info>
+<ref-fulltext>Letter from Berlioz to Louis Berlioz, dated September 8, 1842, Nouvelles lettres, 201.</ref-fulltext>
+<ce:source-text>Letter from Berlioz to Louis Berlioz, dated September 8, 1842, Nouvelles lettres, 201.</ce:source-text>
+</reference>
+<reference seq="124">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Revue musicale: Fêtes musical de Toulouse</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Berlioz</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Rénovateur</ref-sourcetitle>
+<ref-publicationyear first="1835"/>
+<ref-text>July 19</ref-text>
+</ref-info>
+<ref-fulltext>Berlioz, “Revue musicale: fêtes musical de Toulouse, ”Le Rénovateur, July 19, 1835.</ref-fulltext>
+<ce:source-text>Berlioz, “Revue musicale: fêtes musical de Toulouse, ”Le Rénovateur, July 19, 1835.</ce:source-text>
+</reference>
+<reference seq="125">
+<ref-info>
+<ref-text>Treatise, 2 [NBE 24, 5]</ref-text>
+</ref-info>
+<ref-fulltext>Treatise, 2 [NBE 24, 5].</ref-fulltext>
+<ce:source-text>Treatise, 2 [NBE 24, 5].</ce:source-text>
+</reference>
+<reference seq="126">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Rénovateur</ref-sourcetitle>
+<ref-publicationyear first="1834"/>
+<ref-text>83–84, August 11</ref-text>
+</ref-info>
+<ref-fulltext>BoM, 83–84 [Le Rénovateur, August 11, 1834].</ref-fulltext>
+<ce:source-text>BoM, 83–84 [Le Rénovateur, August 11, 1834].</ce:source-text>
+</reference>
+<reference seq="127">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>BoM</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Revue Et Gazette Musicale De Paris</ref-sourcetitle>
+<ref-publicationyear first="1834"/>
+<ref-text>88–89, September 7</ref-text>
+</ref-info>
+<ref-fulltext>BoM, 88–89 [Revue et Gazette musicale de Paris, September 7, 1834.</ref-fulltext>
+<ce:source-text>BoM, 88–89 [Revue et Gazette musicale de Paris, September 7, 1834.</ce:source-text>
+</reference>
+<reference seq="128">
+<ref-info>
+<ref-title>
+<ref-titletext-english>CG II: 373</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Emphasis Original</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>Letter from Berlioz to Jean Vatout dated October 30</ref-text>
+</ref-info>
+<ref-fulltext>Letter from Berlioz to Jean Vatout dated October 30, 1837, CG II: 373. Emphasis original.</ref-fulltext>
+<ce:source-text>Letter from Berlioz to Jean Vatout dated October 30, 1837, CG II: 373. Emphasis original.</ce:source-text>
+</reference>
+<reference seq="129">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Cérémonie des Invalides—Le Requiem de M. Berlioz</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Le Constitutionnel</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>X.Y.Z., December 6</ref-text>
+</ref-info>
+<ref-fulltext>X.Y.Z., “Cérémonie des Invalides—Le Requiem de M. Berlioz, ”Le Constitutionnel, December 6, 1837;</ref-fulltext>
+<ce:source-text>X.Y.Z., “Cérémonie des Invalides—Le Requiem de M. Berlioz, ”Le Constitutionnel, December 6, 1837;</ce:source-text>
+</reference>
+<reference seq="130">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Requiem de M. Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Viardot</ce:surname>
+<ce:given-name>Louis</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Siècle</ref-sourcetitle>
+<ref-publicationyear first="1837"/>
+<ref-text>L.V. [, December 6</ref-text>
+</ref-info>
+<ref-fulltext>L.V. [LouisViardot], “Requiem de M. Berlioz, ”Le Siècle, December 6, 1837.</ref-fulltext>
+<ce:source-text>L.V. [LouisViardot], “Requiem de M. Berlioz, ”Le Siècle, December 6, 1837.</ce:source-text>
+</reference>
+<reference seq="131">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Requiem enl’honneur de Gluck</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bourges</ce:surname>
+<ce:given-name>Maurice</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue Et Gazette Musi Cale</ref-sourcetitle>
+<ref-publicationyear first="1846"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>270</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>August 23</ref-text>
+</ref-info>
+<ref-fulltext>MauriceBourges, “Requiem enl’honneur de Gluck, ”Revue et gazette musi cale, August 23, 1846, 270.</ref-fulltext>
+<ce:source-text>MauriceBourges, “Requiem enl’honneur de Gluck, ”Revue et gazette musi cale, August 23, 1846, 270.</ce:source-text>
+</reference>
+<reference seq="132">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Revue musicale</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Kreutzer</ce:surname>
+<ce:given-name>Léon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>La Quotidienne</ref-sourcetitle>
+<ref-publicationyear first="1846"/>
+<ref-text>August 28</ref-text>
+</ref-info>
+<ref-fulltext>LéonKreutzer, “Revue musicale, ”La Quotidienne, August 28, 1846.</ref-fulltext>
+<ce:source-text>LéonKreutzer, “Revue musicale, ”La Quotidienne, August 28, 1846.</ce:source-text>
+</reference>
+<reference seq="133">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Messe de Requiem enl’honneur de Gluck</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-publicationyear first="1846"/>
+<ref-text>Unsigned, September 11</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned, “Messe de Requiem enl’honneur de Gluck, ”Journal des débats, September 11, 1846.</ref-fulltext>
+<ce:source-text>Unsigned, “Messe de Requiem enl’honneur de Gluck, ”Journal des débats, September 11, 1846.</ce:source-text>
+</reference>
+<reference seq="134">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Grande Société philharmonique de Paris: Requiem de M. Berlioz</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Messager Des théâtres Et Des Arts</ref-sourcetitle>
+<ref-publicationyear first="1850"/>
+<ref-text>F.B., May 14</ref-text>
+</ref-info>
+<ref-fulltext>F.B., “Grande Société philharmonique de Paris: Requiem de M. Berlioz, ”Messager des théâtres et des arts, May 14, 1850.</ref-fulltext>
+<ce:source-text>F.B., “Grande Société philharmonique de Paris: Requiem de M. Berlioz, ”Messager des théâtres et des arts, May 14, 1850.</ce:source-text>
+</reference>
+<reference seq="135">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Hector Berlioz et l’Association des Artistes Musiciens: Lettres et documents inédits</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.-M.</ce:initials>
+<ce:surname>Fauquet</ce:surname>
+<ce:given-name>Joël-Marie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue De Musicologie</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>67</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>224</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Joël-MarieFauquet, “Hector Berlioz et l’Association des Artistes Musiciens: lettres et documents inédits, ”Revue de musicologie67, no. 2(1981): 224.</ref-fulltext>
+<ce:source-text>Joël-MarieFauquet, “Hector Berlioz et l’Association des Artistes Musiciens: lettres et documents inédits, ”Revue de musicologie67, no. 2(1981): 224.</ce:source-text>
+</reference>
+<reference seq="136">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Le Requiem de Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Kreutzer</ce:surname>
+<ce:given-name>Léon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue Et Gazette Musicale</ref-sourcetitle>
+<ref-publicationyear first="1852"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>370</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>October 31</ref-text>
+</ref-info>
+<ref-fulltext>LéonKreutzer, “Le Requiem de Berlioz, ”Revue et gazette musicale, October 31, 1852, 370.</ref-fulltext>
+<ce:source-text>LéonKreutzer, “Le Requiem de Berlioz, ”Revue et gazette musicale, October 31, 1852, 370.</ce:source-text>
+</reference>
+<reference seq="137">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Requiem de M. Berlioz, exécutéeenl’honneur de M. Le Baron de Trémont</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Duchesne</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-publicationyear first="1852"/>
+<ref-text>[Joseph-Esprit], November 23</ref-text>
+</ref-info>
+<ref-fulltext>E.Duchesne, [Joseph-Esprit], “Requiem de M. Berlioz, exécutéeenl’honneur de M. le Baron de Trémont, ” Journal des débats, November 23, 1852.</ref-fulltext>
+<ce:source-text>E.Duchesne, [Joseph-Esprit], “Requiem de M. Berlioz, exécutéeenl’honneur de M. le Baron de Trémont, ” Journal des débats, November 23, 1852.</ce:source-text>
+</reference>
+<reference seq="138">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Courrier des théâtres</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>T. M</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>La Petite République</ref-sourcetitle>
+<ref-publicationyear first="1900"/>
+<ref-text>February 18</ref-text>
+</ref-info>
+<ref-fulltext>T. M., “Courrier des théâtres, ”La Petite République, February 18, 1900.</ref-fulltext>
+<ce:source-text>T. M., “Courrier des théâtres, ”La Petite République, February 18, 1900.</ce:source-text>
+</reference>
+<reference seq="139">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Grands concerts</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Boyer</ce:surname>
+<ce:given-name>Henry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Courrier Du Soir</ref-sourcetitle>
+<ref-publicationyear first="1900"/>
+<ref-text>February 20</ref-text>
+</ref-info>
+<ref-fulltext>HenryBoyer, “Grands concerts, ”Le Courrier du soir, February 20, 1900.</ref-fulltext>
+<ce:source-text>HenryBoyer, “Grands concerts, ”Le Courrier du soir, February 20, 1900.</ce:source-text>
+</reference>
+<reference seq="140">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Le Requiem de Berlioz à Saint-Eustache</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>D'Aral</ce:surname>
+<ce:given-name>René</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Gaulois</ref-sourcetitle>
+<ref-publicationyear first="1900"/>
+<ref-text>February 16</ref-text>
+</ref-info>
+<ref-fulltext>Renéd’Aral, “Le Requiem de Berlioz à Saint-Eustache, ”Le Gaulois, February 16, 1900.</ref-fulltext>
+<ce:source-text>Renéd’Aral, “Le Requiem de Berlioz à Saint-Eustache, ”Le Gaulois, February 16, 1900.</ce:source-text>
+</reference>
+<reference seq="141">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Les Grands Oratorios à l’Église Saint Eustache</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Benoist</ce:surname>
+<ce:given-name>René</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Des</ce:surname>
+<ce:given-name>Tournelles</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Moniteuruniversel</ref-sourcetitle>
+<ref-publicationyear first="1900"/>
+<ref-text>February 16</ref-text>
+</ref-info>
+<ref-fulltext>RenéBenoist[DesTournelles], “Les Grands Oratorios à l’Église Saint Eustache, ”Le Moniteuruniversel, February 16, 1900.</ref-fulltext>
+<ce:source-text>RenéBenoist[DesTournelles], “Les Grands Oratorios à l’Église Saint Eustache, ”Le Moniteuruniversel, February 16, 1900.</ce:source-text>
+</reference>
+<reference seq="142">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Revue musicale: Hændel à Saint-Eustache</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Jullien</ce:surname>
+<ce:given-name>Adolphe</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Moniteuruniversel</ref-sourcetitle>
+<ref-publicationyear first="1900"/>
+<ref-text>January 29</ref-text>
+</ref-info>
+<ref-fulltext>AdolpheJullien, “Revue musicale: Hændel à Saint-Eustache, ”Le Moniteuruniversel, January 29, 1900;’</ref-fulltext>
+<ce:source-text>AdolpheJullien, “Revue musicale: Hændel à Saint-Eustache, ”Le Moniteuruniversel, January 29, 1900;’</ce:source-text>
+</reference>
+<reference seq="143">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Jullien</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="1888"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>105</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Paris: Librairie de l’art</ref-text>
+</ref-info>
+<ref-fulltext>Jullien, Hector Berlioz, sa vie et sesœuvres (Paris: Librairie de l’art, 1888), 105.</ref-fulltext>
+<ce:source-text>Jullien, Hector Berlioz, sa vie et sesœuvres (Paris: Librairie de l’art, 1888), 105.</ce:source-text>
+</reference>
+<reference seq="144">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Revue musicale</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Jullien</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Le Moniteuruniversel</ref-sourcetitle>
+<ref-publicationyear first="1900"/>
+<ref-text>February 26</ref-text>
+</ref-info>
+<ref-fulltext>Jullien, “Revue musicale, ”Le Moniteuruniversel, February 26, 1900.</ref-fulltext>
+<ce:source-text>Jullien, “Revue musicale, ”Le Moniteuruniversel, February 26, 1900.</ce:source-text>
+</reference>
+<reference seq="145">
+<ref-info>
+<ref-title>
+<ref-titletext-english>L’Année 1855 au point de vue de la musique religieuse</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>D'Ortigue</ce:surname>
+<ce:given-name>Joseph</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue De Musique Ancienne Et Moderne</ref-sourcetitle>
+<ref-publicationyear first="1856"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>67</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Josephd’Ortigue, “L’Année 1855 au point de vue de la musique religieuse, ”Revue de musique ancienne et moderne(1856): 67.</ref-fulltext>
+<ce:source-text>Josephd’Ortigue, “L’Année 1855 au point de vue de la musique religieuse, ”Revue de musique ancienne et moderne(1856): 67.</ce:source-text>
+</reference>
+<reference seq="146">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Soubies</ce:surname>
+<ce:given-name>Albert</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>De Lomagne</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Requiem De Berlioz à Saint-Eustache</ref-sourcetitle>
+<ref-publicationyear first="1900"/>
+<ref-text>Le Soir, February 17</ref-text>
+</ref-info>
+<ref-fulltext>AlbertSoubies[B.de Lomagne], “Le Requiem de Berlioz à Saint-Eustache, ”Le Soir, February 17, 1900;</ref-fulltext>
+<ce:source-text>AlbertSoubies[B.de Lomagne], “Le Requiem de Berlioz à Saint-Eustache, ”Le Soir, February 17, 1900;</ce:source-text>
+</reference>
+<reference seq="147">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Malherbe</ce:surname>
+<ce:given-name>Charles</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Program Booklet</ref-sourcetitle>
+<ref-text>February 15, 1900, AHAP, Musique sacrée (concerts au Saint-Eustache), Series 2 G 2 1</ref-text>
+</ref-info>
+<ref-fulltext>CharlesMalherbe, Program Booklet, February 15, 1900, AHAP, Musique sacrée (concerts au Saint-Eustache), Series 2 G 2 1.</ref-fulltext>
+<ce:source-text>CharlesMalherbe, Program Booklet, February 15, 1900, AHAP, Musique sacrée (concerts au Saint-Eustache), Series 2 G 2 1.</ce:source-text>
+</reference>
+<reference seq="148">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Saint-Saëns</ce:surname>
+<ce:given-name>Camille</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Requiem De Berlioz, École</ref-sourcetitle>
+<ref-publicationyear first="1913"/>
+<ref-text>buissonnière (Paris: Pierre Lafitte, 209, 213</ref-text>
+</ref-info>
+<ref-fulltext>CamilleSaint-Saëns, “Le Requiem de Berlioz, ” Écolebuissonnière (Paris: Pierre Lafitte, 1913), 209, 213.</ref-fulltext>
+<ce:source-text>CamilleSaint-Saëns, “Le Requiem de Berlioz, ” Écolebuissonnière (Paris: Pierre Lafitte, 1913), 209, 213.</ce:source-text>
+</reference>
+<reference seq="149">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.J.</ce:initials>
+<ce:surname>Kursell</ce:surname>
+<ce:given-name>See Julia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Hearing in the Music of Hector Berlioz</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>109</first-page>
+<last-page>133</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>in Nineteenth Century Opera and the Scientific Imagination, ed. David Tippett and Benjamin Walton (Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>See JuliaKursell, “Hearing in the Music of Hector Berlioz, ” in Nineteenth Century Opera and the Scientific Imagination, ed. David Tippett and Benjamin Walton (Cambridge: Cambridge University Press, 2019), 109–33.</ref-fulltext>
+<ce:source-text>See JuliaKursell, “Hearing in the Music of Hector Berlioz, ” in Nineteenth Century Opera and the Scientific Imagination, ed. David Tippett and Benjamin Walton (Cambridge: Cambridge University Press, 2019), 109–33.</ce:source-text>
+</reference>
+<reference seq="150">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Greenway</ce:surname>
+<ce:given-name>Haydn</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Berlioz Requiem at the Cheltenham Music Festival</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">www.hberlioz.com/others/reviews2018.htm</ce:e-address>
+</ref-website>
+<ref-text>The Hector Berlioz Website, accessed September 20</ref-text>
+</ref-info>
+<ref-fulltext>HaydnGreenway, “Berlioz Requiem at the Cheltenham Music Festival, ”The Hector Berlioz Website, accessed September 20, 2023, www.hberl ioz.com/ others/reviews2018.htm.</ref-fulltext>
+<ce:source-text>HaydnGreenway, “Berlioz Requiem at the Cheltenham Music Festival, ”The Hector Berlioz Website, accessed September 20, 2023, www.hberl ioz.com/ others/reviews2018.htm.</ce:source-text>
+</reference>
+<reference seq="151">
+<ref-info>
+<ref-text>Unsigned and undated press clipping, Berlioz (Hector): Requiem, divers auditions, BnF-Arts du spectacle, 8-RO-2465</ref-text>
+</ref-info>
+<ref-fulltext>Unsigned and undated press clipping, Berlioz (Hector): Requiem, divers auditions, BnF-Arts du spectacle, 8-RO-2465.</ref-fulltext>
+<ce:source-text>Unsigned and undated press clipping, Berlioz (Hector): Requiem, divers auditions, BnF-Arts du spectacle, 8-RO-2465.</ce:source-text>
+</reference>
+<reference seq="152">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Les Concerts</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Fauré</ce:surname>
+<ce:given-name>Gabriel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Figaro</ref-sourcetitle>
+<ref-publicationyear first="1904"/>
+<ref-text>January 25</ref-text>
+</ref-info>
+<ref-fulltext>GabrielFauré, “Les Concerts, ”Le Figaro, January 25, 1904.</ref-fulltext>
+<ce:source-text>GabrielFauré, “Les Concerts, ”Le Figaro, January 25, 1904.</ce:source-text>
+</reference>
+<reference seq="153">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Les Grands concerts</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Suarès</ce:surname>
+<ce:given-name>André</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>La Republique française</ref-sourcetitle>
+<ref-publicationyear first="1900"/>
+<ref-text>Litte [, ], February 18</ref-text>
+</ref-info>
+<ref-fulltext>Litte [AndréSuarès], “Les Grands concerts, ”La Republique française, February 18, 1900.</ref-fulltext>
+<ce:source-text>Litte [AndréSuarès], “Les Grands concerts, ”La Republique française, February 18, 1900.</ce:source-text>
+</reference>
+<reference seq="154">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Jullien</ce:text>
+</collaboration>
+</ref-authors>
+<ref-text>Hector Berlioz, sa vie et sesœuvres, 104</ref-text>
+</ref-info>
+<ref-fulltext>Jullien, Hector Berlioz, sa vie et sesœuvres, 104.</ref-fulltext>
+<ce:source-text>Jullien, Hector Berlioz, sa vie et sesœuvres, 104.</ce:source-text>
+</reference>
+<reference seq="155">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Saint-Saëns</ce:surname>
+<ce:given-name>Camille</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Requiem De Berlioz</ref-sourcetitle>
+<ref-text>and an unsigned and undated press clipping, both found in Berlioz (Hector): Requiem, divers auditions, BnF-Arts du spectacle, 8-RO-2465</ref-text>
+</ref-info>
+<ref-fulltext>CamilleSaint-Saëns, “Le Requiem de Berlioz”and an unsigned and undated press clipping, both found in Berlioz (Hector): Requiem, divers auditions, BnF-Arts du spectacle, 8-RO-2465.</ref-fulltext>
+<ce:source-text>CamilleSaint-Saëns, “Le Requiem de Berlioz”and an unsigned and undated press clipping, both found in Berlioz (Hector): Requiem, divers auditions, BnF-Arts du spectacle, 8-RO-2465.</ce:source-text>
+</reference>
+<reference seq="156">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.B.</ce:initials>
+<ce:surname>Shaw</ce:surname>
+<ce:given-name>George Bernard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Great Composers: Reviews and Bombardments</ref-sourcetitle>
+<ref-publicationyear first="1978"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>26</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>George BernardShaw, The Great Composers: Reviews and Bombardments (Berkeley: University of California Press, 1978), 26.</ref-fulltext>
+<ce:source-text>George BernardShaw, The Great Composers: Reviews and Bombardments (Berkeley: University of California Press, 1978), 26.</ce:source-text>
+</reference>
+<reference seq="157">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Hector Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.H.</ce:initials>
+<ce:surname>Hadow</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Grove’s Dictionary of Music and Musicians, Ed. J. A. Fuller Maitland</ref-sourcetitle>
+<ref-publicationyear first="1904"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>315</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>W. H.Hadow, “Hector Berlioz, ” in Grove’s Dictionary of Music and Musicians, ed. J. A. Fuller Maitland, Vol. 1 (London: Macmillan, 1904), 315.</ref-fulltext>
+<ce:source-text>W. H.Hadow, “Hector Berlioz, ” in Grove’s Dictionary of Music and Musicians, ed. J. A. Fuller Maitland, Vol. 1 (London: Macmillan, 1904), 315.</ce:source-text>
+</reference>
+<reference seq="158">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Tommasini</ce:surname>
+<ce:given-name>Anthony</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Soaring Requiem to Fill St. Pauls</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>New York Times, June 27</ref-text>
+</ref-info>
+<ref-fulltext>AnthonyTommasini, “A Soaring Requiem to Fill St. Paul’s, ”New York Times, June 27, 2012.</ref-fulltext>
+<ce:source-text>AnthonyTommasini, “A Soaring Requiem to Fill St. Paul’s, ”New York Times, June 27, 2012.</ce:source-text>
+</reference>
+<reference seq="159">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Rushton</ce:surname>
+<ce:given-name>Julian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Music of Berlioz</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>40</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>JulianRushton, The Music of Berlioz (Oxford: Oxford University Press, 2001), 40;</ref-fulltext>
+<ce:source-text>JulianRushton, The Music of Berlioz (Oxford: Oxford University Press, 2001), 40;</ce:source-text>
+</reference>
+<reference seq="160">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bloom</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>The Life of Berlioz</ref-sourcetitle>
+<ref-text>83, 192</ref-text>
+</ref-info>
+<ref-fulltext>Bloom, The Life of Berlioz, 83, 192.</ref-fulltext>
+<ce:source-text>Bloom, The Life of Berlioz, 83, 192.</ce:source-text>
+</reference>
+<reference seq="161">
+<ref-info>
+<ref-title>
+<ref-titletext-english>La Musique religieuse de Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Boschot</ce:surname>
+<ce:given-name>Adolphe</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bnf-Arts Du Spectacle, 8-RO-2528</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>AdolpheBoschot, “La Musique religieuse de Berlioz, ”BnF-Arts du Spectacle, 8-RO-2528, 1173</ref-fulltext>
+<ce:source-text>AdolpheBoschot, “La Musique religieuse de Berlioz, ”BnF-Arts du Spectacle, 8-RO-2528, 1173</ce:source-text>
+</reference>
+<reference seq="162">
+<ref-info>
+<ref-title>
+<ref-titletext-english>L’année 1855 au point de vue de la musique religieuse</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>D'Ortigue</ce:surname>
+<ce:given-name>Joseph</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue De Musique Ancienne Et Moderne</ref-sourcetitle>
+<ref-publicationyear first="1856"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>65</first-page>
+<last-page>79</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Josephd’Ortigue, “L’année 1855 au point de vue de la musique religieuse, ”Revue de musique ancienne et moderne(1856): 65–79;</ref-fulltext>
+<ce:source-text>Josephd’Ortigue, “L’année 1855 au point de vue de la musique religieuse, ”Revue de musique ancienne et moderne(1856): 65–79;</ce:source-text>
+</reference>
+<reference seq="163">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Le Te Deum de M. Hector Berlioz</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>d'Ortigue</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Journal Des débats</ref-sourcetitle>
+<ref-publicationyear first="1855"/>
+<ref-text>May 26</ref-text>
+</ref-info>
+<ref-fulltext>d’Ortigue, “Le Te Deum de M. Hector Berlioz, ”Journal des débats, May 26, 1855.</ref-fulltext>
+<ce:source-text>d’Ortigue, “Le Te Deum de M. Hector Berlioz, ”Journal des débats, May 26, 1855.</ce:source-text>
+</reference>
+<reference seq="164">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Berlioz, compositeur de musique religieuse: Le Requiem et le Te Deum</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Tiersot</ce:surname>
+<ce:given-name>Julien</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Le Revue Bleue</ref-sourcetitle>
+<ref-publicationyear first="1895"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>500</first-page>
+<last-page>503</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>April 20</ref-text>
+</ref-info>
+<ref-fulltext>JulienTiersot, “Berlioz, compositeur de musique religieuse: le Requiem et le Te Deum, ”Le revue bleue, April 20, 1895, 500–3.</ref-fulltext>
+<ce:source-text>JulienTiersot, “Berlioz, compositeur de musique religieuse: le Requiem et le Te Deum, ”Le revue bleue, April 20, 1895, 500–3.</ce:source-text>
+</reference>
+<reference seq="165">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Ellis</ce:text>
+</collaboration>
+</ref-authors>
+<ref-text>Music Criticism in Nineteenth-Century France, 161–62 and 222–23</ref-text>
+</ref-info>
+<ref-fulltext>Ellis, Music Criticism in Nineteenth-Century France, 161–62 and 222–23.</ref-fulltext>
+<ce:source-text>Ellis, Music Criticism in Nineteenth-Century France, 161–62 and 222–23.</ce:source-text>
+</reference>
+<reference seq="166">
+<ref-info>
+<ref-text>Selected Letters of Berlioz, 142. See also Memoirs, 228 [MémoiresB, 430]</ref-text>
+</ref-info>
+<ref-fulltext>Selected Letters of Berlioz, 142. See also Memoirs, 228 [MémoiresB, 430].</ref-fulltext>
+<ce:source-text>Selected Letters of Berlioz, 142. See also Memoirs, 228 [MémoiresB, 430].</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

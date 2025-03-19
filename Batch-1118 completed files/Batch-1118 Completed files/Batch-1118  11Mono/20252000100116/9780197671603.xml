@@ -1,0 +1,4314 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-15T14:00:28</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.1093/9780197671603.001.0001</ce:doi>
+<itemid idtype="TPB-ID">20252000100116</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+<author-keywords>
+<author-keyword>Washington</author-keyword>
+<author-keyword>DC</author-keyword>
+<author-keyword>African american</author-keyword>
+<author-keyword>Sound</author-keyword>
+<author-keyword>Sound studies</author-keyword>
+<author-keyword>Music</author-keyword>
+<author-keyword>Gentrification</author-keyword>
+<author-keyword>Intersectionality</author-keyword>
+<author-keyword>Ethnomusicology</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Intersectional Listening: Gentrification and Black Sonic Life in Washington, DC</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Martin</ce:surname>
+<ce:given-name>Allie</ce:given-name>
+</author>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.</ce:initials>
+<ce:surname>Martin</ce:surname>
+<ce:given-name>Allie</ce:given-name>
+</person>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Oxford University Press 2025 All rights reserved</publishercopyright>
+<ce:para>This book explores the sonic elements of gentrification in Washington, DC, with particular attention to the racialized elements of sound. Intersectional Listening engages the sonorities of gentrification, drawing from ethnomusicology, Black Studies, geography, and digital humanities. At its heart, the book is an ethnography about what gentrification sounds like in Washington, DC, specifically how Black people throughout the city are experiencing gentrification as a sonic, racialized process. In telling these stories of music and sound in the nation’s capital, the book attempts to shift conversations about how Black life is listened to: by centering Black feminist listening practices, by thinking through digital modes of listening, and by imagining emancipatory soundscapes. This work prioritizes the significance of sound to Black life and Black knowing and challenges the reader to refute the consistent mishearing of Black people. Taking these provocations as a starting point, Intersectional Listening offers both methodological and theoretical interventions, forming a praxis that is committed to amplifying Black life in DC and beyond. Case studies in the book include the attempted passing of the Amplified Noise Act, a law that threatened to put street musicians in jail for busking in Chinatown; the displacement and institutionalization of go-go music, DC’s local subgenre of funk music; and a soundscape analysis of 7th Street and Florida Avenue, an iconic intersection in DC known for playing go-go music and the home of the 2019 #DontMuteDC movement.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Intersectional listening: gentrification and black sonic life in washington, dc</sourcetitle>
+<sourcetitle-abbrev>Intersectional listening: gentrification and n.a. n.a. life in wash., dc</sourcetitle-abbrev>
+<isbn type="print" length="13">9780197671566</isbn>
+<isbn type="electronic" length="13">9780197671603</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>248</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>20</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://academic.oup.com/book/59473</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="201">
+<reference seq="1">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.B.</ce:initials>
+<ce:surname>Aalbers</ce:surname>
+<ce:given-name>Manuel B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Introduction to the Forum: From Third to Fifth-Wave Gentrification</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>11</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Aalbers, Manuel B. “Introduction to the Forum: From Third to Fifth-Wave Gentrification.” Journal of Economic and Human Geography 110, no. 1 (2019): 1–11.</ref-fulltext>
+<ce:source-text>Aalbers, Manuel B. “Introduction to the Forum: From Third to Fifth-Wave Gentrification.” Journal of Economic and Human Geography 110, no. 1 (2019): 1–11.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Writing Against Culture</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Abu-Lughod</ce:surname>
+<ce:given-name>Lila</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Cultural Geography Reader</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>edited by Timothy Oakes and Patricia L. Price. New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Abu-Lughod, Lila. “Writing Against Culture.” In The Cultural Geography Reader, edited by Timothy Oakes and Patricia L. Price. New York: Routledge, 2008.</ref-fulltext>
+<ce:source-text>Abu-Lughod, Lila. “Writing Against Culture.” In The Cultural Geography Reader, edited by Timothy Oakes and Patricia L. Price. New York: Routledge, 2008.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Adeyemi</ce:surname>
+<ce:given-name>Kemi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Feels Right: Black Queer Women and the Politics of Partying in Chicago</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Adeyemi, Kemi. Feels Right: Black Queer Women and the Politics of Partying in Chicago. Durham, NC: Duke University Press, 2022.</ref-fulltext>
+<ce:source-text>Adeyemi, Kemi. Feels Right: Black Queer Women and the Politics of Partying in Chicago. Durham, NC: Duke University Press, 2022.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What the Sands Remember</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Agard-Jones</ce:surname>
+<ce:given-name>Vanessa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>GLQ: A Journal of Lesbian and Gay Studies</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<iss-first>2</iss-first>
+<iss-last>3</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>325</first-page>
+<last-page>346</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Agard-Jones, Vanessa. “What the Sands Remember.” GLQ: A Journal of Lesbian and Gay Studies 18, no. 2–3 (2012): 325–46.</ref-fulltext>
+<ce:source-text>Agard-Jones, Vanessa. “What the Sands Remember.” GLQ: A Journal of Lesbian and Gay Studies 18, no. 2–3 (2012): 325–46.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Alexander</ce:surname>
+<ce:given-name>Michelle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The New Jim Crow: Mass Incarceration in the Age of Colorblindness</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>New York: The New Press</ref-text>
+</ref-info>
+<ref-fulltext>Alexander, Michelle. The New Jim Crow: Mass Incarceration in the Age of Colorblindness. New York: The New Press, 2020.</ref-fulltext>
+<ce:source-text>Alexander, Michelle. The New Jim Crow: Mass Incarceration in the Age of Colorblindness. New York: The New Press, 2020.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How Washington, D.C., Turned Its Back on Go-Go, the Music It Invented</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ali</ce:surname>
+<ce:given-name>Abdul</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Atlantic</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-website>
+<ce:e-address type="url">https://www.theatlantic.com/entertainment/archive/2012/07/how-washington-dc-turned-its-back-on-go-go-the-music-it-invented/259147/</ce:e-address>
+</ref-website>
+<ref-text>July 2</ref-text>
+</ref-info>
+<ref-fulltext>Ali, Abdul. “How Washington, D.C., Turned Its Back on Go-Go, the Music It Invented.” The Atlantic, July 2, 2012. https://www.theatlantic.com/entertainment/archive/2012/07/how-washington-dc-turned-its-back-on-go-go-the-music-it-invented/259147/.</ref-fulltext>
+<ce:source-text>Ali, Abdul. “How Washington, D.C., Turned Its Back on Go-Go, the Music It Invented.” The Atlantic, July 2, 2012. https://www.theatlantic.com/entertainment/archive/2012/07/how-washington-dc-turned-its-back-on-go-go-the-music-it-invented/259147/.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Who’s Afraid of the Transracial Subject? Raciolinguistics and the Political Project of Transracialization</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.S.</ce:initials>
+<ce:surname>Alim</ce:surname>
+<ce:given-name>H. Samy</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Raciolinguistics: How Language Shapes Our Ideas about Race</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>edited by H. Samy Alim, John R. Rickford, and Arnetha F. Ball. New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Alim, H. Samy. “Who’s Afraid of the Transracial Subject? Raciolinguistics and the Political Project of Transracialization.” In Raciolinguistics: How Language Shapes Our Ideas About Race, edited by H. Samy Alim, John R. Rickford, and Arnetha F. Ball. New York: Oxford University Press, 2016.</ref-fulltext>
+<ce:source-text>Alim, H. Samy. “Who’s Afraid of the Transracial Subject? Raciolinguistics and the Political Project of Transracialization.” In Raciolinguistics: How Language Shapes Our Ideas About Race, edited by H. Samy Alim, John R. Rickford, and Arnetha F. Ball. New York: Oxford University Press, 2016.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Anderson</ce:surname>
+<ce:given-name>Elijah</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Streetwise: Race, Class, and Change in an Urban Community</ref-sourcetitle>
+<ref-publicationyear first="1990"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Anderson, Elijah. Streetwise: Race, Class, and Change in an Urban Community. Chicago: University of Chicago Press, 1990.</ref-fulltext>
+<ce:source-text>Anderson, Elijah. Streetwise: Race, Class, and Change in an Urban Community. Chicago: University of Chicago Press, 1990.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.M.</ce:initials>
+<ce:surname>Asch</ce:surname>
+<ce:given-name>Chris Myers</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>G.D.</ce:initials>
+<ce:surname>Musgrove</ce:surname>
+<ce:given-name>George Derek</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chocolate City: A History of Race and Democracy in the Nation’s Capital</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Asch, Chris Myers, and George Derek Musgrove. Chocolate City: A History of Race and Democracy in the Nation’s Capital. Chapel Hill: University of North Carolina Press, 2017.</ref-fulltext>
+<ce:source-text>Asch, Chris Myers, and George Derek Musgrove. Chocolate City: A History of Race and Democracy in the Nation’s Capital. Chapel Hill: University of North Carolina Press, 2017.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bailey</ce:surname>
+<ce:given-name>Moya</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Misogynoir Transformed: Black Women’s Digital Resistance. Misogynoir Transformed</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>New York: NYU Press</ref-text>
+</ref-info>
+<ref-fulltext>Bailey, Moya. Misogynoir Transformed: Black Women’s Digital Resistance. Misogynoir Transformed. New York: NYU Press, 2021.</ref-fulltext>
+<ce:source-text>Bailey, Moya. Misogynoir Transformed: Black Women’s Digital Resistance. Misogynoir Transformed. New York: NYU Press, 2021.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Breonna Taylor Warrant Connected to Louisville Gentrification Plan, Lawyers Say</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.M.</ce:initials>
+<ce:surname>Bailey</ce:surname>
+<ce:given-name>Phillip M.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Duvall</ce:surname>
+<ce:given-name>Tessa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Courier-Journal</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-website>
+<ce:e-address type="url">https://www.courier-journal.com/story/news/crime/2020/07/05/lawyers-breonna-taylor-case-connected-gentrification-plan/5381352002/</ce:e-address>
+</ref-website>
+<ref-text>July 5</ref-text>
+</ref-info>
+<ref-fulltext>Bailey, Phillip M., and Tessa Duvall, “Breonna Taylor Warrant Connected to Louisville Gentrification Plan, Lawyers Say.” Courier-Journal, July 5, 2020. https://www.courier-jour nal.com/story/news/crime/2020/07/05/lawyers-breonna-taylor-case-connected-gentrificat ion-plan/5381352002/.</ref-fulltext>
+<ce:source-text>Bailey, Phillip M., and Tessa Duvall, “Breonna Taylor Warrant Connected to Louisville Gentrification Plan, Lawyers Say.” Courier-Journal, July 5, 2020. https://www.courier-jour nal.com/story/news/crime/2020/07/05/lawyers-breonna-taylor-case-connected-gentrificat ion-plan/5381352002/.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.F.</ce:initials>
+<ce:surname>Barz</ce:surname>
+<ce:given-name>Gregory F.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.J.</ce:initials>
+<ce:surname>Cooley</ce:surname>
+<ce:given-name>Timothy J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Barz, Gregory F., and Timothy J. Cooley. Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology. New York: Oxford University Press, 2008.</ref-fulltext>
+<ce:source-text>Barz, Gregory F., and Timothy J. Cooley. Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology. New York: Oxford University Press, 2008.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-title>
+<ref-titletext-english>White People Are Noticing Something New: Their Own Whiteness</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Bazelon</ce:surname>
+<ce:given-name>Emily</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-website>
+<ce:e-address type="url">https://www.nytimes.com/2018/06/13/magazine/white-people-are-noticing-something-new-their-own-whiteness.html</ce:e-address>
+</ref-website>
+<ref-text>June 13</ref-text>
+</ref-info>
+<ref-fulltext>Bazelon, Emily. “White People Are Noticing Something New: Their Own Whiteness.” New York Times, June 13, 2018. https://www.nytimes.com/2018/06/13/magazine/white-people-are-noticing-something-new-their-own-whiteness.html.</ref-fulltext>
+<ce:source-text>Bazelon, Emily. “White People Are Noticing Something New: Their Own Whiteness.” New York Times, June 13, 2018. https://www.nytimes.com/2018/06/13/magazine/white-people-are-noticing-something-new-their-own-whiteness.html.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Bolash-Goza</ce:surname>
+<ce:given-name>Tanya</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Before Gentrification: The Creation of DC’s Racial Wealth Gap</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>Bolash-Goza, Tanya. Before Gentrification: The Creation of DC’s Racial Wealth Gap. Berkeley: University of California Press, 2023.</ref-fulltext>
+<ce:source-text>Bolash-Goza, Tanya. Before Gentrification: The Creation of DC’s Racial Wealth Gap. Berkeley: University of California Press, 2023.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Defensive Development: The Role of Racial Conflict in Gentrification</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Boyd</ce:surname>
+<ce:given-name>Michelle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Urban Affairs Review</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>43</vol-first>
+<iss-first>6</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>751</first-page>
+<last-page>776</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Boyd, Michelle. “Defensive Development: The Role of Racial Conflict in Gentrification.” Urban Affairs Review 43, no. 6 (2008): 751–76.</ref-fulltext>
+<ce:source-text>Boyd, Michelle. “Defensive Development: The Role of Racial Conflict in Gentrification.” Urban Affairs Review 43, no. 6 (2008): 751–76.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Exclusive: New Report Shows Gentrifiers Use Police to Terrorize Communities of Color—Without Even Calling 911</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Branigin</ce:surname>
+<ce:given-name>Anne</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Root</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://www.theroot.com/exclusive-new-report-shows-gentrifiers-use-police-to-t-1831576262</ce:e-address>
+</ref-website>
+<ref-text>January 8</ref-text>
+</ref-info>
+<ref-fulltext>Branigin, Anne. “Exclusive: New Report Shows Gentrifiers Use Police to Terrorize Communities of Color—Without Even Calling 911.” The Root, January 8, 2019. https://www.theroot.com/exclusive-new-report-shows-gentrifiers-use-police-to-t-1831576262.</ref-fulltext>
+<ce:source-text>Branigin, Anne. “Exclusive: New Report Shows Gentrifiers Use Police to Terrorize Communities of Color—Without Even Calling 911.” The Root, January 8, 2019. https://www.theroot.com/exclusive-new-report-shows-gentrifiers-use-police-to-t-1831576262.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.M.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Adrienne Maree.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pleasure Activism: The Politics of Feeling Good</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Stirling, UK: AK Press</ref-text>
+</ref-info>
+<ref-fulltext>brown, adrienne maree. Pleasure Activism: The Politics of Feeling Good. Stirling, UK: AK Press, 2019.</ref-fulltext>
+<ce:source-text>brown, adrienne maree. Pleasure Activism: The Politics of Feeling Good. Stirling, UK: AK Press, 2019.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Jayna</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Utopias: Speculative Life and the Music of Other Worlds</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Brown, Jayna. Black Utopias: Speculative Life and the Music of Other Worlds. Durham, NC: Duke University Press, 2021.</ref-fulltext>
+<ce:source-text>Brown, Jayna. Black Utopias: Speculative Life and the Music of Other Worlds. Durham, NC: Duke University Press, 2021.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Browne</ce:surname>
+<ce:given-name>Simone</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dark Matters: On the Surveillance of Blackness</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Browne, Simone. Dark Matters: On the Surveillance of Blackness. Durham, NC: Duke University Press, 2015.</ref-fulltext>
+<ce:source-text>Browne, Simone. Dark Matters: On the Surveillance of Blackness. Durham, NC: Duke University Press, 2015.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Black Gospel Music Tradition: A Complex of Ideology, Aesthetic, and Behavior</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Burnim</ce:surname>
+<ce:given-name>Mellonee</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>More than Dancing: Essays on Afro-American Music and Musicians</ref-sourcetitle>
+<ref-publicationyear first="1985"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>147</first-page>
+<last-page>167</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>edited by Irene Jackson, Westport, CT: Greenwood Press</ref-text>
+</ref-info>
+<ref-fulltext>Burnim, Mellonee. “The Black Gospel Music Tradition: A Complex of Ideology, Aesthetic, and Behavior.” In More than Dancing: Essays on Afro-American Music and Musicians edited by Irene Jackson, 147–67. Westport, CT: Greenwood Press, 1985.</ref-fulltext>
+<ce:source-text>Burnim, Mellonee. “The Black Gospel Music Tradition: A Complex of Ideology, Aesthetic, and Behavior.” In More than Dancing: Essays on Afro-American Music and Musicians edited by Irene Jackson, 147–67. Westport, CT: Greenwood Press, 1985.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Culture Bearer and Tradition Bearer: An Ethnomusicologist’s Research on Gospel Music</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Burnim</ce:surname>
+<ce:given-name>Mellonee</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethnomusicology</ref-sourcetitle>
+<ref-publicationyear first="1985"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>432</first-page>
+<last-page>447</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Burnim, Mellonee. “Culture Bearer and Tradition Bearer: An Ethnomusicologist’s Research on Gospel Music.” Ethnomusicology 29, no. 3 (1985): 432–47.</ref-fulltext>
+<ce:source-text>Burnim, Mellonee. “Culture Bearer and Tradition Bearer: An Ethnomusicologist’s Research on Gospel Music.” Ethnomusicology 29, no. 3 (1985): 432–47.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.V.</ce:initials>
+<ce:surname>Burnim</ce:surname>
+<ce:given-name>Mellonee V.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.K.</ce:initials>
+<ce:surname>Maultsby</ce:surname>
+<ce:given-name>Portia K.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>African American Music: An Introduction</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<ref-text>New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Burnim, Mellonee V., and Portia K. Maultsby. African American Music: An Introduction. New York: Routledge, 2014.</ref-fulltext>
+<ce:source-text>Burnim, Mellonee V., and Portia K. Maultsby. African American Music: An Introduction. New York: Routledge, 2014.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Black Visuality and the Practice of Refusal</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.M.</ce:initials>
+<ce:surname>Campt</ce:surname>
+<ce:given-name>Tina Marie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Women &amp; Performance: A Journal of Feminist Theory</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>79</first-page>
+<last-page>87</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Campt, Tina Marie. “Black Visuality and the Practice of Refusal.” Women &amp; Performance: A Journal of Feminist Theory29, no. 1 (2019): 79–87.</ref-fulltext>
+<ce:source-text>Campt, Tina Marie. “Black Visuality and the Practice of Refusal.” Women &amp; Performance: A Journal of Feminist Theory29, no. 1 (2019): 79–87.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What’s the Plan</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Casteneda</ce:surname>
+<ce:given-name>Ruben</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington City Paper</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-website>
+<ce:e-address type="url">http://washingtoncitypaper.com/article/176104/whats-the-plan/</ce:e-address>
+</ref-website>
+<ref-text>March 5</ref-text>
+</ref-info>
+<ref-fulltext>Casteneda, Ruben. “What’s the Plan?” Washington City Paper, March 5, 2020. http://washingt oncitypaper.com/article/176104/whats-the-plan/.</ref-fulltext>
+<ce:source-text>Casteneda, Ruben. “What’s the Plan?” Washington City Paper, March 5, 2020. http://washingt oncitypaper.com/article/176104/whats-the-plan/.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Tearing Down Black America</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Cebul</ce:surname>
+<ce:given-name>Brent</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Boston Review</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>July 22</ref-text>
+</ref-info>
+<ref-fulltext>Cebul, Brent. “Tearing Down Black America.” Boston Review, July 22, 2020.</ref-fulltext>
+<ce:source-text>Cebul, Brent. “Tearing Down Black America.” Boston Review, July 22, 2020.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Black Church in Gentrifying Oakland Faces a $3529 Fine for Being Too Loud</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Cheney-Rice</ce:surname>
+<ce:given-name>Zak</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mic</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-website>
+<ce:e-address type="url">https://www.mic.com/articles/126871/a-Black-church-in-gentrifying-oakland-faces-a-3-529-fine-for-being-too-loud</ce:e-address>
+</ref-website>
+<ref-text>October 16</ref-text>
+</ref-info>
+<ref-fulltext>Cheney-Rice, Zak. “A Black Church in Gentrifying Oakland Faces a $3529 Fine for Being Too Loud.” 2015. Mic, October 16, 2015. https://www.mic.com/articles/126871/a-Black-church-in-gentrifying-oakland-faces-a-3-529-fine-for-being-too-loud.</ref-fulltext>
+<ce:source-text>Cheney-Rice, Zak. “A Black Church in Gentrifying Oakland Faces a $3529 Fine for Being Too Loud.” 2015. Mic, October 16, 2015. https://www.mic.com/articles/126871/a-Black-church-in-gentrifying-oakland-faces-a-3-529-fine-for-being-too-loud.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Cheng</ce:surname>
+<ce:given-name>William</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Noise, White Ears: Resilience, Rap, and the Killing of Jordan Davis</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>102</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>115</first-page>
+<last-page>189</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cheng, William. “Black Noise, White Ears: Resilience, Rap, and the Killing of Jordan Davis.” Current Musicology, no. 102 (2018): 115–89.</ref-fulltext>
+<ce:source-text>Cheng, William. “Black Noise, White Ears: Resilience, Rap, and the Killing of Jordan Davis.” Current Musicology, no. 102 (2018): 115–89.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Toward a Field of Intersectionality Studies: Theory, Applications, and Praxis</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Cho</ce:surname>
+<ce:given-name>Sumi</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.W.</ce:initials>
+<ce:surname>Crenshaw</ce:surname>
+<ce:given-name>Kimberlé Williams</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>L.</ce:initials>
+<ce:surname>McCall</ce:surname>
+<ce:given-name>Leslie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Signs: Journal of Women in Culture and Society</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>38</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>785</first-page>
+<last-page>810</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cho, Sumi, Kimberlé Williams Crenshaw, and Leslie McCall. “Toward a Field of Intersectionality Studies: Theory, Applications, and Praxis.” Signs: Journal of Women in Culture and Society 38, no. 4 (2013): 785–810.</ref-fulltext>
+<ce:source-text>Cho, Sumi, Kimberlé Williams Crenshaw, and Leslie McCall. “Toward a Field of Intersectionality Studies: Theory, Applications, and Praxis.” Signs: Journal of Women in Culture and Society 38, no. 4 (2013): 785–810.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Challenging the Contours: Critical Cartography, Local Knowledge, and the Public</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Cidell</ce:surname>
+<ce:given-name>Julie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Environment and Planning A: Economy and Space</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>40</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1202</first-page>
+<last-page>1218</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cidell, Julie. “Challenging the Contours: Critical Cartography, Local Knowledge, and the Public.” Environment and Planning A: Economy and Space 40, no. 5 (2008): 1202–18.</ref-fulltext>
+<ce:source-text>Cidell, Julie. “Challenging the Contours: Critical Cartography, Local Knowledge, and the Public.” Environment and Planning A: Economy and Space 40, no. 5 (2008): 1202–18.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Clabaugh</ce:surname>
+<ce:given-name>Jeff</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dc-Area Rents Still Rising despite National Trend Lower</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">https://wtop.com/business-finance/2023/04/dc-area-rents-still-rising-despite-national-trend-lower/</ce:e-address>
+</ref-website>
+<ref-text>WTOP News, April 19</ref-text>
+</ref-info>
+<ref-fulltext>Clabaugh, Jeff. “DC-Area Rents Still Rising despite National Trend Lower.” WTOP News, April 19, 2023. https://wtop.com/business-finance/2023/04/dc-area-rents-still-rising-despite-national-trend-lower/.</ref-fulltext>
+<ce:source-text>Clabaugh, Jeff. “DC-Area Rents Still Rising despite National Trend Lower.” WTOP News, April 19, 2023. https://wtop.com/business-finance/2023/04/dc-area-rents-still-rising-despite-national-trend-lower/.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Word. Spoken. Articulating the Voice for High-Performance Sound Technologies for Access and Scholarship (HiPSTAS)</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.E.</ce:initials>
+<ce:surname>Clement</ce:surname>
+<ce:given-name>Tanya E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Digital Sound Studies</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>edited by Mary Caton Lingold, Darren Mueller, and Whitney Trettien. Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Clement, Tanya E. “Word. Spoken. Articulating the Voice for High-Performance Sound Technologies for Access and Scholarship (HiPSTAS).” In Digital Sound Studies, edited by Mary Caton Lingold, Darren Mueller, and Whitney Trettien. Durham, NC: Duke University Press, 2018.</ref-fulltext>
+<ce:source-text>Clement, Tanya E. “Word. Spoken. Articulating the Voice for High-Performance Sound Technologies for Access and Scholarship (HiPSTAS).” In Digital Sound Studies, edited by Mary Caton Lingold, Darren Mueller, and Whitney Trettien. Durham, NC: Duke University Press, 2018.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Won’t You Celebrate with Me</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Clifton</ce:surname>
+<ce:given-name>Lucille</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>How to Carry Water: Selected Poems of Lucille Clifton</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>Rochester, NY: BOA Editions</ref-text>
+</ref-info>
+<ref-fulltext>Clifton, Lucille. “Won’t You Celebrate with Me.” In How to Carry Water: Selected Poems of Lucille Clifton. Rochester, NY: BOA Editions, 2020.</ref-fulltext>
+<ce:source-text>Clifton, Lucille. “Won’t You Celebrate with Me.” In How to Carry Water: Selected Poems of Lucille Clifton. Rochester, NY: BOA Editions, 2020.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.-N.</ce:initials>
+<ce:surname>Coates</ce:surname>
+<ce:given-name>Ta-Nehisi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Between the World and Me</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>New York: Random House</ref-text>
+</ref-info>
+<ref-fulltext>Coates, Ta-Nehisi. Between the World and Me. New York: Random House, 2015.</ref-fulltext>
+<ce:source-text>Coates, Ta-Nehisi. Between the World and Me. New York: Random House, 2015.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Launch Go-Go Museum and Café</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.-N.</ce:initials>
+<ce:surname>Coates</ce:surname>
+<ce:given-name>Ta-Nehisi</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Hopkinson</ce:surname>
+<ce:given-name>Natalie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Facebook Live</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-website>
+<ce:e-address type="url">https://www.facebook.com/watch/live/?ref=external&amp;v=255939005653474</ce:e-address>
+</ref-website>
+<ref-text>June 3</ref-text>
+</ref-info>
+<ref-fulltext>Coates, Ta-Nehisi, and Natalie Hopkinson. “Launch Go-Go Museum and Café.” Facebook Live, June 3, 2020. https://www.facebook.com/watch/live/?ref = external&amp;v = 255939005653474</ref-fulltext>
+<ce:source-text>Coates, Ta-Nehisi, and Natalie Hopkinson. “Launch Go-Go Museum and Café.” Facebook Live, June 3, 2020. https://www.facebook.com/watch/live/?ref = external&amp;v = 255939005653474</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-title>
+<ref-titletext-english>For D.C. Statehood Advocates, a Hearing Marks Another Step Forward</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Cochrane</ce:surname>
+<ce:given-name>Emily</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://www.nytimes.com/2019/09/19/us/politics/dc-statehood-hearing.html</ce:e-address>
+</ref-website>
+<ref-text>September 19</ref-text>
+</ref-info>
+<ref-fulltext>Cochrane, Emily. “For D.C. Statehood Advocates, a Hearing Marks Another Step Forward.” New York Times, September 19, 2019. https://www.nytimes.com/2019/09/19/us/politics/dc-statehood-hearing.html.</ref-fulltext>
+<ce:source-text>Cochrane, Emily. “For D.C. Statehood Advocates, a Hearing Marks Another Step Forward.” New York Times, September 19, 2019. https://www.nytimes.com/2019/09/19/us/politics/dc-statehood-hearing.html.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Cole</ce:surname>
+<ce:given-name>Teju</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Paper: Writing in a Dark Time</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Cole, Teju. Black Paper: Writing in a Dark Time. Chicago: University of Chicago Press, 2021.</ref-fulltext>
+<ce:source-text>Cole, Teju. Black Paper: Writing in a Dark Time. Chicago: University of Chicago Press, 2021.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Collins</ce:surname>
+<ce:given-name>Patricia Hill</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Feminist Thought: Knowledge, Consciousness, and the Politics Of</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-text>New York: Routledge1990</ref-text>
+</ref-info>
+<ref-fulltext>Collins, Patricia Hill. Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment. New York: Routledge, [1990] 2002.</ref-fulltext>
+<ce:source-text>Collins, Patricia Hill. Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment. New York: Routledge, [1990] 2002.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Combahee River Collective Statement</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Combahee River Collective</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Home Girls: A Black Feminist Anthology</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<ref-text>edited by Barbara Smith. New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Combahee River Collective. “The Combahee River Collective Statement.” In Home Girls: A Black Feminist Anthology, edited by Barbara Smith. New York: Routledge, 2000.</ref-fulltext>
+<ce:source-text>Combahee River Collective. “The Combahee River Collective Statement.” In Home Girls: A Black Feminist Anthology, edited by Barbara Smith. New York: Routledge, 2000.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.J.</ce:initials>
+<ce:surname>Cooper</ce:surname>
+<ce:given-name>Anna Julia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Voice from the South</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<ref-text>Oxford: Oxford University Press1892</ref-text>
+</ref-info>
+<ref-fulltext>Cooper, Anna Julia. A Voice from the South. Oxford: Oxford University Press, [1892] 1988.</ref-fulltext>
+<ce:source-text>Cooper, Anna Julia. A Voice from the South. Oxford: Oxford University Press, [1892] 1988.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Corrine</ce:surname>
+<ce:given-name>Amber</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Walmart Apologizes for Juneteenth-Themed Ice Cream, Pulls Pints From</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Corrine, Amber. “Walmart Apologizes For Juneteenth-Themed Ice Cream, Pulls Pints From</ref-fulltext>
+<ce:source-text>Corrine, Amber. “Walmart Apologizes For Juneteenth-Themed Ice Cream, Pulls Pints From</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Shelves</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>VIBE</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://www.vibe.com/news/national/walmart-juneteenth-ice-cream-apology-1234664549</ce:e-address>
+</ref-website>
+<ref-text>May 27</ref-text>
+</ref-info>
+<ref-fulltext>Shelves.” VIBE, May 27, 2022. https://www.vibe.com/news/national/walmart-juneteenth-ice-cream-apology-1234664549</ref-fulltext>
+<ce:source-text>Shelves.” VIBE, May 27, 2022. https://www.vibe.com/news/national/walmart-juneteenth-ice-cream-apology-1234664549</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.M.</ce:initials>
+<ce:surname>Cottom</ce:surname>
+<ce:given-name>Tressie Mcmillan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Thick: And Other Essays</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>New York: The New Press</ref-text>
+</ref-info>
+<ref-fulltext>Cottom, Tressie McMillan. Thick: And Other Essays. New York: The New Press, 2018.</ref-fulltext>
+<ce:source-text>Cottom, Tressie McMillan. Thick: And Other Essays. New York: The New Press, 2018.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Council Office of Racial Equity</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>DC Racial Equity Profile</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-website>
+<ce:e-address type="url">https://www.dcracialequity.org/dc-racial-equity-profile</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Council Office of Racial Equity. “DC Racial Equity Profile.” 2021. https://www.dcracialequity.org/dc-racial-equity-profile.</ref-fulltext>
+<ce:source-text>Council Office of Racial Equity. “DC Racial Equity Profile.” 2021. https://www.dcracialequity.org/dc-racial-equity-profile.</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.T.</ce:initials>
+<ce:surname>Crawley</ce:surname>
+<ce:given-name>Ashon T.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Blackpentecostal Breath: The Aesthetics of Possibility</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>New York: Fordham University Press</ref-text>
+</ref-info>
+<ref-fulltext>Crawley, Ashon T. Blackpentecostal Breath: The Aesthetics of Possibility. New York: Fordham University Press, 2016.</ref-fulltext>
+<ce:source-text>Crawley, Ashon T. Blackpentecostal Breath: The Aesthetics of Possibility. New York: Fordham University Press, 2016.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Say Her Name: Resisting Police Brutality Against Black Women</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Crenshaw</ce:surname>
+<ce:given-name>Kimberlé</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ritchie</ce:surname>
+<ce:given-name>Andrea</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>R.</ce:initials>
+<ce:surname>Anspach</ce:surname>
+<ce:given-name>Rachel</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>R.</ce:initials>
+<ce:surname>Gilmer</ce:surname>
+<ce:given-name>Rachel</ce:given-name>
+</author>
+<author seq="5">
+<ce:initials>L.</ce:initials>
+<ce:surname>Harris</ce:surname>
+<ce:given-name>Luke</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>African American Policy Forum</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-website>
+<ce:e-address type="url">https://scholarship.law.columbia.edu/faculty_scholarship/3226</ce:e-address>
+</ref-website>
+<ref-text>January 1</ref-text>
+</ref-info>
+<ref-fulltext>Crenshaw, Kimberlé, Andrea Ritchie, Rachel Anspach, Rachel Gilmer, and Luke Harris. “Say Her Name: Resisting Police Brutality Against Black Women.” African American Policy Forum, January 1, 2015. https://scholarship.law.columbia.edu/faculty_scholarship/3226.</ref-fulltext>
+<ce:source-text>Crenshaw, Kimberlé, Andrea Ritchie, Rachel Anspach, Rachel Gilmer, and Luke Harris. “Say Her Name: Resisting Police Brutality Against Black Women.” African American Policy Forum, January 1, 2015. https://scholarship.law.columbia.edu/faculty_scholarship/3226.</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Towards a Practice of Palimpsestic Listening</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Cross</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Organised Sound</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>145</first-page>
+<last-page>153</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cross, Richard. “Towards a Practice of Palimpsestic Listening.” Organised Sound 26, no. 1 (2021): 145–53.</ref-fulltext>
+<ce:source-text>Cross, Richard. “Towards a Practice of Palimpsestic Listening.” Organised Sound 26, no. 1 (2021): 145–53.</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Curtin</ce:surname>
+<ce:given-name>Kevin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Don Pitts Calls It Quits: City Music Manager Resigns Citing Bureaucracy</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>February 14</ref-text>
+</ref-info>
+<ref-fulltext>Curtin, Kevin. “Don Pitts Calls It Quits: City Music Manager Resigns Citing Bureaucracy.” Austin Chronicle, February 14, 2017.</ref-fulltext>
+<ce:source-text>Curtin, Kevin. “Don Pitts Calls It Quits: City Music Manager Resigns Citing Bureaucracy.” Austin Chronicle, February 14, 2017.</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Automatic Preference for White Americans: Eliminating the Familiarity Explanation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Dasgupta</ce:surname>
+<ce:given-name>Nilanjana</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.E.</ce:initials>
+<ce:surname>McGhee</ce:surname>
+<ce:given-name>Debbie E.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.G.</ce:initials>
+<ce:surname>Greenwald</ce:surname>
+<ce:given-name>Anthony G.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>M.R.</ce:initials>
+<ce:surname>Banaji</ce:surname>
+<ce:given-name>Mahzarin R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Experimental Social Psychology</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>36</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>316</first-page>
+<last-page>328</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dasgupta, Nilanjana, Debbie E. McGhee, Anthony G. Greenwald, and Mahzarin R. Banaji. “Automatic Preference for White Americans: Eliminating the Familiarity Explanation.” Journal of Experimental Social Psychology 36, no. 3 (2000): 316–28.</ref-fulltext>
+<ce:source-text>Dasgupta, Nilanjana, Debbie E. McGhee, Anthony G. Greenwald, and Mahzarin R. Banaji. “Automatic Preference for White Americans: Eliminating the Familiarity Explanation.” Journal of Experimental Social Psychology 36, no. 3 (2000): 316–28.</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-title>
+<ref-titletext-english>No Amphitheater for Chuck Brown Park</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Debonis</ce:surname>
+<ce:given-name>Mike</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/blogs/mike-debonis/wp/2013/08/07/no-amphitheater-for-chuck-brown-park/</ce:e-address>
+</ref-website>
+<ref-text>December 1</ref-text>
+</ref-info>
+<ref-fulltext>DeBonis, Mike. “No Amphitheater for Chuck Brown Park.” Washington Post, December 1, 2021. https://www.washingtonpost.com/blogs/mike-debonis/wp/2013/08/07/no-amphitheater-for-chuck-brown-park/.</ref-fulltext>
+<ce:source-text>DeBonis, Mike. “No Amphitheater for Chuck Brown Park.” Washington Post, December 1, 2021. https://www.washingtonpost.com/blogs/mike-debonis/wp/2013/08/07/no-amphitheater-for-chuck-brown-park/.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>de Certeau</ce:surname>
+<ce:given-name>Michel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Practice of Everyday Life</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<ref-text>Berkeley, CA: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>de Certeau, Michel. The Practice of Everyday Life. Berkeley, CA: University of California Press, 1984.</ref-fulltext>
+<ce:source-text>de Certeau, Michel. The Practice of Everyday Life. Berkeley, CA: University of California Press, 1984.</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Deng</ce:surname>
+<ce:given-name>Cathy</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Are Men Talking Too Much</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">http://arementalkingtoomuch.com/</ce:e-address>
+</ref-website>
+<ref-text>August 26</ref-text>
+</ref-info>
+<ref-fulltext>Deng, Cathy. “Are Men Talking Too Much?” http://arementalkingtoomuch.com/ (accessed August 26, 2024).</ref-fulltext>
+<ce:source-text>Deng, Cathy. “Are Men Talking Too Much?” http://arementalkingtoomuch.com/ (accessed August 26, 2024).</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Heritage of Slavery</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Diamond</ce:surname>
+<ce:given-name>Vern</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Of Black America</ref-sourcetitle>
+<ref-publicationyear first="1968"/>
+<ref-text>Episode 5, Aired August 13, on CBS News</ref-text>
+</ref-info>
+<ref-fulltext>Diamond, Vern. Of Black America. Episode 5, “The Heritage of Slavery.” Aired August 13, 1968, on CBS News.</ref-fulltext>
+<ce:source-text>Diamond, Vern. Of Black America. Episode 5, “The Heritage of Slavery.” Aired August 13, 1968, on CBS News.</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>D’Ignazio</ce:surname>
+<ce:given-name>Catherine</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>L.F.</ce:initials>
+<ce:surname>Klein</ce:surname>
+<ce:given-name>Lauren F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Data Feminism</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>Cambridge, MA: The MIT Press</ref-text>
+</ref-info>
+<ref-fulltext>D’Ignazio, Catherine, and Lauren F. Klein. Data Feminism. Cambridge, MA: The MIT Press, 2020.</ref-fulltext>
+<ce:source-text>D’Ignazio, Catherine, and Lauren F. Klein. Data Feminism. Cambridge, MA: The MIT Press, 2020.</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>D’Ignazio</ce:surname>
+<ce:given-name>Catherine</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>L.F.</ce:initials>
+<ce:surname>Klein</ce:surname>
+<ce:given-name>Lauren F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Feminist Data Visualization</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-website>
+<ce:e-address type="url">https://dspace.ceid.org.tr/xmlui/handle/1/955</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>D’Ignazio, Catherine, and Lauren F. Klein. 2016. “Feminist Data Visualization.” https://dspace.ceid.org.tr/xmlui/handle/1/955.</ref-fulltext>
+<ce:source-text>D’Ignazio, Catherine, and Lauren F. Klein. 2016. “Feminist Data Visualization.” https://dspace.ceid.org.tr/xmlui/handle/1/955.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Haiti’s Drums and Trees: Facing Loss of the Sacred</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Dirksen</ce:surname>
+<ce:given-name>Rebecca</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethnomusicology</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>63</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>43</first-page>
+<last-page>77</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dirksen, Rebecca. “Haiti’s Drums and Trees: Facing Loss of the Sacred.” Ethnomusicology 63, no. 1 (2019): 43–77.</ref-fulltext>
+<ce:source-text>Dirksen, Rebecca. “Haiti’s Drums and Trees: Facing Loss of the Sacred.” Ethnomusicology 63, no. 1 (2019): 43–77.</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>District of Columbia B159: Harmonious Living Amendment Act of 2021</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Harmonious Living Amendment Act of 2021</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">https://trackbill.com/bill/district-of-columbia-bill-159-harmonious-living-amendment-act-of-2021/2089794/</ce:e-address>
+</ref-website>
+<ref-text>January 29</ref-text>
+</ref-info>
+<ref-fulltext>District of Columbia B159: Harmonious Living Amendment Act of 2021. TrackBill. https:// trackbill.com/bill/district-of-columbia-bill-159-harmonious-living-amendment-act-of-2021/2089794/ (accessed January 29, 2023).</ref-fulltext>
+<ce:source-text>District of Columbia B159: Harmonious Living Amendment Act of 2021. TrackBill. https://trackbill.com/bill/district-of-columbia-bill-159-harmonious-living-amendment-act-of-2021/2089794/ (accessed January 29, 2023).</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.C.</ce:initials>
+<ce:surname>Drake</ce:surname>
+<ce:given-name>St. Clair</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.R.</ce:initials>
+<ce:surname>Cayton</ce:surname>
+<ce:given-name>Horace R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Metropolis: A Study of Negro Life in A Northern City</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>Chicago: University of Chicago Press1945</ref-text>
+</ref-info>
+<ref-fulltext>Drake, St. Clair, and Horace R. Cayton. 2015. Black Metropolis: A Study of Negro Life in a Northern City. Chicago: University of Chicago Press, [1945] 2015.</ref-fulltext>
+<ce:source-text>Drake, St. Clair, and Horace R. Cayton. 2015. Black Metropolis: A Study of Negro Life in a Northern City. Chicago: University of Chicago Press, [1945] 2015.</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Du Bois</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>W.E.</ce:initials>
+<ce:surname>Burghardt</ce:surname>
+<ce:given-name>William Edward</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>I.</ce:initials>
+<ce:surname>Eaton</ce:surname>
+<ce:given-name>Isabel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Philadelphia Negro: A Social Study</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<ref-text>Philadelphia: University of Pennsylvania Press1899</ref-text>
+</ref-info>
+<ref-fulltext>Du Bois, William Edward Burghardt, and Isabel Eaton. The Philadelphia Negro: A Social Study. Philadelphia: University of Pennsylvania Press, [1899] 1996.</ref-fulltext>
+<ce:source-text>Du Bois, William Edward Burghardt, and Isabel Eaton. The Philadelphia Negro: A Social Study. Philadelphia: University of Pennsylvania Press, [1899] 1996.</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.S.</ce:initials>
+<ce:surname>Eidsheim</ce:surname>
+<ce:given-name>Nina Sun</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Race of Sound: Listening, Timbre, and Vocality in African American Music</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Eidsheim, Nina Sun. 2019. The Race of Sound: Listening, Timbre, and Vocality in African American Music. Durham, NC: Duke University Press.</ref-fulltext>
+<ce:source-text>Eidsheim, Nina Sun. 2019. The Race of Sound: Listening, Timbre, and Vocality in African American Music. Durham, NC: Duke University Press.</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Need an Art Studio? New Spaces Are Coming to Brookland and the Former Warehouse Loft</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.L.</ce:initials>
+<ce:surname>Fischer</ce:surname>
+<ce:given-name>Jonathan L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington City Paper</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>November 16</ref-text>
+</ref-info>
+<ref-fulltext>Fischer, Jonathan L. “Need an Art Studio? New Spaces Are Coming to Brookland and the Former Warehouse Loft.” Washington City Paper, November 16, 2012.</ref-fulltext>
+<ce:source-text>Fischer, Jonathan L. “Need an Art Studio? New Spaces Are Coming to Brookland and the Former Warehouse Loft.” Washington City Paper, November 16, 2012.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.A.J.</ce:initials>
+<ce:surname>Floyd</ce:surname>
+<ce:given-name>Samuel A. Jr</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Power of Black Music: Interpreting Its History from Africa to the United States</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Floyd, Samuel A. Jr. The Power of Black Music: Interpreting Its History from Africa to the United States. New York: Oxford University Press, 1996.</ref-fulltext>
+<ce:source-text>Floyd, Samuel A. Jr. The Power of Black Music: Interpreting Its History from Africa to the United States. New York: Oxford University Press, 1996.</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Forman</ce:surname>
+<ce:given-name>Murray</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The’Hood Comes First: Race, Space, and Place in Rap and Hip-Hop</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-text>Middletown, CT: Wesleyan University Press</ref-text>
+</ref-info>
+<ref-fulltext>Forman, Murray. The’Hood Comes First: Race, Space, and Place in Rap and Hip-Hop. Middletown, CT: Wesleyan University Press, 2002.</ref-fulltext>
+<ce:source-text>Forman, Murray. The’Hood Comes First: Race, Space, and Place in Rap and Hip-Hop. Middletown, CT: Wesleyan University Press, 2002.</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Freeman</ce:surname>
+<ce:given-name>Lance</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>There Goes the Hood: Views of Gentrification from the Ground Up</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Philadelphia: Temple University Press</ref-text>
+</ref-info>
+<ref-fulltext>Freeman, Lance. There Goes the Hood: Views of Gentrification from the Ground Up. Philadelphia: Temple University Press, 2011.</ref-fulltext>
+<ce:source-text>Freeman, Lance. There Goes the Hood: Views of Gentrification from the Ground Up. Philadelphia: Temple University Press, 2011.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The US Will Become ‘Minority White’ in 2045, Census Projects</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.H.</ce:initials>
+<ce:surname>Frey</ce:surname>
+<ce:given-name>William H.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Brookings</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-website>
+<ce:e-address type="url">https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects</ce:e-address>
+</ref-website>
+<ref-text>March 14</ref-text>
+</ref-info>
+<ref-fulltext>Frey, William H. “The US Will Become ‘Minority White’ in 2045, Census Projects.” Brookings (blog), March 14, 2018. https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects.</ref-fulltext>
+<ce:source-text>Frey, William H. “The US Will Become ‘Minority White’ in 2045, Census Projects.” Brookings (blog), March 14, 2018. https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects.</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Fujikane</ce:surname>
+<ce:given-name>Candace</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mapping Abundance for a Planetary Future: Kanaka Maoli and Critical Settler Cartographies in Hawai’i</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Fujikane, Candace. Mapping Abundance for a Planetary Future: Kanaka Maoli and Critical Settler Cartographies in Hawai’i. Durham, NC: Duke University Press, 2021.</ref-fulltext>
+<ce:source-text>Fujikane, Candace. Mapping Abundance for a Planetary Future: Kanaka Maoli and Critical Settler Cartographies in Hawai’i. Durham, NC: Duke University Press, 2021.</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Gastman</ce:surname>
+<ce:given-name>Roger</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pump Me Up: DC Subculture of the 1980S</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>Bethesda, MD: R. Rock Enterprises</ref-text>
+</ref-info>
+<ref-fulltext>Gastman, Roger. Pump Me Up: DC Subculture of the 1980s. Bethesda, MD: R. Rock Enterprises, 2013</ref-fulltext>
+<ce:source-text>Gastman, Roger. Pump Me Up: DC Subculture of the 1980s. Bethesda, MD: R. Rock Enterprises, 2013</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.M.O.</ce:initials>
+<ce:surname>Gautier</ce:surname>
+<ce:given-name>Ana María Ochoa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Aurality: Listening and Knowledge in Nineteenth-Century Colombia</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Gautier, Ana María Ochoa. Aurality: Listening and Knowledge in Nineteenth-Century Colombia. Durham, NC: Duke University Press, 2015.</ref-fulltext>
+<ce:source-text>Gautier, Ana María Ochoa. Aurality: Listening and Knowledge in Nineteenth-Century Colombia. Durham, NC: Duke University Press, 2015.</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Glass</ce:surname>
+<ce:given-name>Ruth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>London: Aspects of Change.</ref-sourcetitle>
+<ref-publicationyear first="1964"/>
+<ref-text>London: MacGibbon &amp; Kee</ref-text>
+</ref-info>
+<ref-fulltext>Glass, Ruth. London: Aspects of Change. London: MacGibbon &amp; Kee, 1964.</ref-fulltext>
+<ce:source-text>Glass, Ruth. London: Aspects of Change. London: MacGibbon &amp; Kee, 1964.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.M.</ce:initials>
+<ce:surname>Golash-Boza</ce:surname>
+<ce:given-name>Tanya Maria</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Before Gentrification: The Creation of DC’s Racial Wealth Gap</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>Golash-Boza, Tanya Maria. Before Gentrification: The Creation of DC’s Racial Wealth Gap. Berkeley: University of California Press, 2023.</ref-fulltext>
+<ce:source-text>Golash-Boza, Tanya Maria. Before Gentrification: The Creation of DC’s Racial Wealth Gap. Berkeley: University of California Press, 2023.</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Ward 7 Lacks Maternity Care Services. Mamatoto Village Wants to Change That</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.M.</ce:initials>
+<ce:surname>Gomez</ce:surname>
+<ce:given-name>Amanda Michelle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dcist</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://dcist.com/story/22/06/07/dc-ward-7-mamatoto-village-new-location/</ce:e-address>
+</ref-website>
+<ref-text>June 7</ref-text>
+</ref-info>
+<ref-fulltext>Gomez, Amanda Michelle. “Ward 7 Lacks Maternity Care Services. Mamatoto Village Wants to Change That.” DCist (blog), June 7, 2022. https://dcist.com/story/22/06/07/dc-ward-7-mamatoto-village-new-location/.</ref-fulltext>
+<ce:source-text>Gomez, Amanda Michelle. “Ward 7 Lacks Maternity Care Services. Mamatoto Village Wants to Change That.” DCist (blog), June 7, 2022. https://dcist.com/story/22/06/07/dc-ward-7-mamatoto-village-new-location/.</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.L.</ce:initials>
+<ce:surname>Green</ce:surname>
+<ce:given-name>Anthony Lorenzo</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mayor Bowser Painted over DC BLM Mural</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://www.dcblm.org/in-the-media/official-statement-of-black-lives-matter-dc-on-removal-of-the-mural-from-black-lives-matter-plaza-and-plan-for-permanent-art-installation</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Green, Anthony Lorenzo. “Mayor Bowser Painted Over DC BLM Mural.” https://www.dcblm.org/in-the-media/official-statement-of-black-lives-matter-dc-on-removal-of-the-mural-from-black-lives-matter-plaza-and-plan-for-permanent-art-installation.</ref-fulltext>
+<ce:source-text>Green, Anthony Lorenzo. “Mayor Bowser Painted Over DC BLM Mural.” https://www.dcblm.org/in-the-media/official-statement-of-black-lives-matter-dc-on-removal-of-the-mural-from-black-lives-matter-plaza-and-plan-for-permanent-art-installation.</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.P.</ce:initials>
+<ce:surname>Gumbs</ce:surname>
+<ce:given-name>Alexis Pauline</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dub: Finding Ceremony</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Gumbs, Alexis Pauline. Dub: Finding Ceremony. Durham, NC: Duke University Press, 2020.</ref-fulltext>
+<ce:source-text>Gumbs, Alexis Pauline. Dub: Finding Ceremony. Durham, NC: Duke University Press, 2020.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Changing State of Gentrification</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Hackworth</ce:surname>
+<ce:given-name>Jason</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Neil</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Human and Economic Geography</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>92</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>464</first-page>
+<last-page>477</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hackworth, Jason, and Neil Smith. “The Changing State of Gentrification.” Journal of Human and Economic Geography 92, no. 4 (2001): 464–77.</ref-fulltext>
+<ce:source-text>Hackworth, Jason, and Neil Smith. “The Changing State of Gentrification.” Journal of Human and Economic Geography 92, no. 4 (2001): 464–77.</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-title>
+<ref-titletext-english>In Defense of Loud, Black Summers</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.M.</ce:initials>
+<ce:surname>Hadley</ce:surname>
+<ce:given-name>Fredara Mareva</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>REVOLT</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-website>
+<ce:e-address type="url">https://www.revolt.tv/article/2016-07-30/18627/in-defense-of-loud-black-summers</ce:e-address>
+</ref-website>
+<ref-text>July 30</ref-text>
+</ref-info>
+<ref-fulltext>Hadley, Fredara Mareva. “In Defense of Loud, Black Summers.” REVOLT, July 30, 2016. https:// www.revolt.tv/article/2016-07-30/18627/in-defense-of-loud-black-summers.</ref-fulltext>
+<ce:source-text>Hadley, Fredara Mareva. “In Defense of Loud, Black Summers.” REVOLT, July 30, 2016. https:// www.revolt.tv/article/2016-07-30/18627/in-defense-of-loud-black-summers.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What Is This ‘Black’ in Black Popular Culture</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Hall</ce:surname>
+<ce:given-name>Stuart</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Justice</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+<iss-first>1</iss-first>
+<iss-last>2</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>104</first-page>
+<last-page>114</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hall, Stuart. “What Is This ‘Black’ in Black Popular Culture?” Social Justice 20, no. 1/2 (1993): 104–14.</ref-fulltext>
+<ce:source-text>Hall, Stuart. “What Is This ‘Black’ in Black Popular Culture?” Social Justice 20, no. 1/2 (1993): 104–14.</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Hammond</ce:surname>
+<ce:given-name>Kato</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Take Me out to The Go-Go: The True Story of a Music Culture and The Impact It Made on The Life of One Man</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>Scotts Valley, CA: CreateSpace</ref-text>
+</ref-info>
+<ref-fulltext>Hammond, Kato. Take Me Out to the Go-Go: The True Story of a Music Culture and the Impact It Made on the Life of One Man. Scotts Valley, CA: CreateSpace, 2015.</ref-fulltext>
+<ce:source-text>Hammond, Kato. Take Me Out to the Go-Go: The True Story of a Music Culture and the Impact It Made on the Life of One Man. Scotts Valley, CA: CreateSpace, 2015.</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>U.</ce:initials>
+<ce:surname>Hannerz</ce:surname>
+<ce:given-name>Ulf</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Soulside: Inquiries into Ghetto Culture and Community</ref-sourcetitle>
+<ref-publicationyear first="1969"/>
+<ref-text>New York: Columbia University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hannerz, Ulf. Soulside: Inquiries Into Ghetto Culture and Community. New York: Columbia University Press, 1969.</ref-fulltext>
+<ce:source-text>Hannerz, Ulf. Soulside: Inquiries Into Ghetto Culture and Community. New York: Columbia University Press, 1969.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Haraway</ce:surname>
+<ce:given-name>Donna</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Feminist Studies</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>575</first-page>
+<last-page>599</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575–99.</ref-fulltext>
+<ce:source-text>Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575–99.</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Harvey</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Right to the Citynew Left Review</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>53</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>23</first-page>
+<last-page>40</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Harvey, David. “The Right to the City.” New Left Review no. 53 (2008): 23–40.</ref-fulltext>
+<ce:source-text>Harvey, David. “The Right to the City.” New Left Review no. 53 (2008): 23–40.</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Haynesworth</ce:surname>
+<ce:given-name>Shellée</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Broadway on U: A Transmedia Project</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<ref-website>
+<ce:e-address type="url">https://Blackbroadwayonu.com/</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Haynesworth, Shellée. “Black Broadway on U: A Transmedia Project.” 2014. https://Blackbroa dwayonu.com/.</ref-fulltext>
+<ce:source-text>Haynesworth, Shellée. “Black Broadway on U: A Transmedia Project.” 2014. https://Blackbroa dwayonu.com/.</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Headlee</ce:surname>
+<ce:given-name>Celeste</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>We Need to Talk: How to have Conversations that Matter</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>New York: HarperCollins</ref-text>
+</ref-info>
+<ref-fulltext>Headlee, Celeste. We Need to Talk: How to Have Conversations That Matter. New York: HarperCollins, 2017.</ref-fulltext>
+<ce:source-text>Headlee, Celeste. We Need to Talk: How to Have Conversations That Matter. New York: HarperCollins, 2017.</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Hooks</ce:surname>
+<ce:given-name>Bell.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Teaching to Transgress</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<ref-text>Routledge1994</ref-text>
+</ref-info>
+<ref-fulltext>hooks, bell. 2014. Teaching To Transgress. Routledge, [1994], 2014.</ref-fulltext>
+<ce:source-text>hooks, bell. 2014. Teaching To Transgress. Routledge, [1994], 2014.</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Hopkinson</ce:surname>
+<ce:given-name>Natalie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Go-Go Live: The Musical Life and Death of a Chocolate City</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hopkinson, Natalie. Go-Go Live: The Musical Life and Death of a Chocolate City. Durham, NC: Duke University Press, 2012.</ref-fulltext>
+<ce:source-text>Hopkinson, Natalie. Go-Go Live: The Musical Life and Death of a Chocolate City. Durham, NC: Duke University Press, 2012.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How Often Are Women Interrupted by Men? Here’s What the Research Says</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Advisory</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-website>
+<ce:e-address type="url">https://www.advisory.com/daily-briefing/2017/07/07/men-interrupting-women</ce:e-address>
+</ref-website>
+<ref-text>July 7</ref-text>
+</ref-info>
+<ref-fulltext>“How Often Are Women Interrupted by Men? Here’s What the Research Says.” Advisory, July 7, 2017. https://www.advisory.com/daily-briefing/2017/07/07/men-interrupting-women.</ref-fulltext>
+<ce:source-text>“How Often Are Women Interrupted by Men? Here’s What the Research Says.” Advisory, July 7, 2017. https://www.advisory.com/daily-briefing/2017/07/07/men-interrupting-women.</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Digital Ethnography Toward Augmented Empiricism: A New Methodological Framework</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.F.U.</ce:initials>
+<ce:surname>Hsu</ce:surname>
+<ce:given-name>W.F.Umi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Digital Humanities</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>43</first-page>
+<last-page>61</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hsu, W. F. Umi. “Digital Ethnography Toward Augmented Empiricism: A New Methodological Framework.” Journal of Digital Humanities 3, no. 1 (2014): 43–61.</ref-fulltext>
+<ce:source-text>Hsu, W. F. Umi. “Digital Ethnography Toward Augmented Empiricism: A New Methodological Framework.” Journal of Digital Humanities 3, no. 1 (2014): 43–61.</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Right to Community</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Hubbard</ce:surname>
+<ce:given-name>Phil</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:surname>Lees</ce:surname>
+<ce:given-name>Loretta</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>City</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>8</first-page>
+<last-page>25</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hubbard, Phil, and Loretta Lees. “The Right to Community?” City 22, no. 1 (2018): 8–25.</ref-fulltext>
+<ce:source-text>Hubbard, Phil, and Loretta Lees. “The Right to Community?” City 22, no. 1 (2018): 8–25.</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Hughes</ce:surname>
+<ce:given-name>Langston</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Big Sea: An Autobiography</ref-sourcetitle>
+<ref-publicationyear first="1945"/>
+<ref-text>New York: Knopf</ref-text>
+</ref-info>
+<ref-fulltext>Hughes, Langston. The Big Sea: An Autobiography. New York: Knopf, 1945.</ref-fulltext>
+<ce:source-text>Hughes, Langston. The Big Sea: An Autobiography. New York: Knopf, 1945.</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Black Placemaking: Celebration, Play, and Poetry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Hunter</ce:surname>
+<ce:given-name>Marcus Anthony</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Pattillo</ce:surname>
+<ce:given-name>Mary</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>Z.F.</ce:initials>
+<ce:surname>Robinson</ce:surname>
+<ce:given-name>Zandria F.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>K.-Y.</ce:initials>
+<ce:surname>Taylor</ce:surname>
+<ce:given-name>Keeanga-Yamahtta</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Theory, Culture &amp; Society</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>33</vol-first>
+<iss-first>7</iss-first>
+<iss-last>8</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>31</first-page>
+<last-page>56</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hunter, Marcus Anthony, Mary Pattillo, Zandria F. Robinson, and Keeanga-Yamahtta Taylor. “Black Placemaking: Celebration, Play, and Poetry.” Theory, Culture &amp; Society 33, no. 7–8 (2016): 31–56.</ref-fulltext>
+<ce:source-text>Hunter, Marcus Anthony, Mary Pattillo, Zandria F. Robinson, and Keeanga-Yamahtta Taylor. “Black Placemaking: Celebration, Play, and Poetry.” Theory, Culture &amp; Society 33, no. 7–8 (2016): 31–56.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>Z.N.</ce:initials>
+<ce:surname>Hurston</ce:surname>
+<ce:given-name>Zora Neale</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mules and Men</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>New York: Amistad1935</ref-text>
+</ref-info>
+<ref-fulltext>Hurston, Zora Neale. Mules and Men. New York: Amistad, [1935] 2008.</ref-fulltext>
+<ce:source-text>Hurston, Zora Neale. Mules and Men. New York: Amistad, [1935] 2008.</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.S.</ce:initials>
+<ce:surname>Hyra</ce:surname>
+<ce:given-name>Derek S.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Race, Class, and Politics in the Cappuccino City</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Hyra, Derek S. Race, Class, and Politics in the Cappuccino City. Chicago: University of Chicago Press, 2017.</ref-fulltext>
+<ce:source-text>Hyra, Derek S. Race, Class, and Politics in the Cappuccino City. Chicago: University of Chicago Press, 2017.</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.L.J.</ce:initials>
+<ce:surname>Jackson</ce:surname>
+<ce:given-name>John L. Jr</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Thin Description: Ethnography and the African Hebrew Israelites of Jerusalem</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Jackson, John L. Jr. Thin Description: Ethnography and the African Hebrew Israelites of Jerusalem. Cambridge, MA: Harvard University Press, 2013.</ref-fulltext>
+<ce:source-text>Jackson, John L. Jr. Thin Description: Ethnography and the African Hebrew Israelites of Jerusalem. Cambridge, MA: Harvard University Press, 2013.</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.A.</ce:initials>
+<ce:surname>Jackson</ce:surname>
+<ce:given-name>Travis A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Blowin’ the Blues Away: Performance and Meaning on the New York Jazz Scene.</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>Jackson, Travis A. Blowin’ the Blues Away: Performance and Meaning on the New York Jazz Scene. Berkeley: University of California Press, 2012.</ref-fulltext>
+<ce:source-text>Jackson, Travis A. Blowin’ the Blues Away: Performance and Meaning on the New York Jazz Scene. Berkeley: University of California Press, 2012.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Jaji</ce:surname>
+<ce:given-name>Tsitsi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Africa in Stereo: Modernism, Music, and Pan-African Solidarity</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Jaji, Tsitsi. 2014. Africa in Stereo: Modernism, Music, and Pan-African Solidarity. New York: Oxford University Press.</ref-fulltext>
+<ce:source-text>Jaji, Tsitsi. 2014. Africa in Stereo: Modernism, Music, and Pan-African Solidarity. New York: Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-title>
+<ref-titletext-english>D.C. Has Had the Most Gentrifying Neighborhoods in the Country, Study Finds</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>James</ce:surname>
+<ce:given-name>Cordilia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dcist</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://dcist.com/story/19/03/19/d-c-has-had-the-most-gentrifying-neighborhoods-in-the-country-study-finds/</ce:e-address>
+</ref-website>
+<ref-text>March 19</ref-text>
+</ref-info>
+<ref-fulltext>James, Cordilia. “D.C. Has Had the Most Gentrifying Neighborhoods in the Country, Study Finds.” DCist (blog), March 19, 2019. https://dcist.com/story/19/03/19/d-c-has-had-the-most-gentrifying-neighborhoods-in-the-country-study-finds/.</ref-fulltext>
+<ce:source-text>James, Cordilia. “D.C. Has Had the Most Gentrifying Neighborhoods in the Country, Study Finds.” DCist (blog), March 19, 2019. https://dcist.com/story/19/03/19/d-c-has-had-the-most-gentrifying-neighborhoods-in-the-country-study-finds/.</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.K.</ce:initials>
+<ce:surname>Jemisin</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The City We Became</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>Boston: Orbit Books</ref-text>
+</ref-info>
+<ref-fulltext>Jemisin, N. K. The City We Became. Boston: Orbit Books, 2020.</ref-fulltext>
+<ce:source-text>Jemisin, N. K. The City We Became. Boston: Orbit Books, 2020.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Johnson</ce:surname>
+<ce:given-name>Azeezat</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Joseph-Salisbury</ce:surname>
+<ce:given-name>Remi</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>B.</ce:initials>
+<ce:surname>Kamunge</ce:surname>
+<ce:given-name>Beth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Fire Now: Anti-Racist Scholarship in Times of Explicit Racial Violence</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>London: Bloomsbury Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Johnson, Azeezat, Remi Joseph-Salisbury, and Beth Kamunge. The Fire Now: Anti-Racist Scholarship in Times of Explicit Racial Violence. London: Bloomsbury Publishing, 2018.</ref-fulltext>
+<ce:source-text>Johnson, Azeezat, Remi Joseph-Salisbury, and Beth Kamunge. The Fire Now: Anti-Racist Scholarship in Times of Explicit Racial Violence. London: Bloomsbury Publishing, 2018.</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.T.</ce:initials>
+<ce:surname>Johnson</ce:surname>
+<ce:given-name>Gaye Theresa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Spaces of Conflict, Sounds of Solidarity: Music, Race, and Spatial Entitlement in Los Angeles</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>Johnson, Gaye Theresa. Spaces of Conflict, Sounds of Solidarity: Music, Race, and Spatial Entitlement in Los Angeles. Berkeley: University of California Press, 2013.</ref-fulltext>
+<ce:source-text>Johnson, Gaye Theresa. Spaces of Conflict, Sounds of Solidarity: Music, Race, and Spatial Entitlement in Los Angeles. Berkeley: University of California Press, 2013.</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-title>
+<ref-titletext-english>When Bodies Do Not Fit: An Analysis of Postgraduate Fieldwork</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Jokinen</ce:surname>
+<ce:given-name>Johanna Carolina</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Caretta</ce:surname>
+<ce:given-name>Martina Angela</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Gender, Place &amp; Culture</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>23</vol-first>
+<iss-first>12</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1665</first-page>
+<last-page>1676</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Jokinen, Johanna Carolina, and Martina Angela Caretta. “When Bodies Do Not Fit: An Analysis of Postgraduate Fieldwork.” Gender, Place &amp; Culture 23, no. 12 (2016): 1665–76.</ref-fulltext>
+<ce:source-text>Jokinen, Johanna Carolina, and Martina Angela Caretta. “When Bodies Do Not Fit: An Analysis of Postgraduate Fieldwork.” Gender, Place &amp; Culture 23, no. 12 (2016): 1665–76.</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.L.</ce:initials>
+<ce:surname>Jones</ce:surname>
+<ce:given-name>Alisha Lola</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Flaming? The Peculiar Theopolitics of Fire and Desire in Black Male Gospel Performance</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Jones, Alisha Lola. Flaming? The Peculiar Theopolitics of Fire and Desire in Black Male Gospel Performance. New York: Oxford University Press, 2020.</ref-fulltext>
+<ce:source-text>Jones, Alisha Lola. Flaming? The Peculiar Theopolitics of Fire and Desire in Black Male Gospel Performance. New York: Oxford University Press, 2020.</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Jones</ce:surname>
+<ce:given-name>Leroi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Blues People: Negro Music in White America</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>New York: Harper Perennial</ref-text>
+</ref-info>
+<ref-fulltext>Jones, Leroi. Blues People: Negro Music in White America. New York: Harper Perennial, 1999.</ref-fulltext>
+<ce:source-text>Jones, Leroi. Blues People: Negro Music in White America. New York: Harper Perennial, 1999.</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Jordan</ce:surname>
+<ce:given-name>Meagan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>How a Celebration of Go-Go Music Became a Scapegoat for Violence in D.C.</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://www.rollingstone.com/music/music-features/how-a-celebration-of-go-go-music-became-a-scapegoat-for-violence-in-d-c-1372069/</ce:e-address>
+</ref-website>
+<ref-text>July 2</ref-text>
+</ref-info>
+<ref-fulltext>Jordan, Meagan. “How a Celebration of Go-Go Music Became a Scapegoat for Violence in D.C.” Rolling Stone, July 2, 2022. https://www.rollingstone.com/music/music-features/how-a-cele bration-of-go-go-music-became-a-scapegoat-for-violence-in-d-c-1372069/.</ref-fulltext>
+<ce:source-text>Jordan, Meagan. “How a Celebration of Go-Go Music Became a Scapegoat for Violence in D.C.” Rolling Stone, July 2, 2022. https://www.rollingstone.com/music/music-features/how-a-cele bration-of-go-go-music-became-a-scapegoat-for-violence-in-d-c-1372069/.</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Kapchan</ce:surname>
+<ce:given-name>Deborah</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Theorizing Sound Writing</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Middletown, CT: Wesleyan University Press</ref-text>
+</ref-info>
+<ref-fulltext>Kapchan, Deborah. Theorizing Sound Writing. Middletown, CT: Wesleyan University Press, 2017.</ref-fulltext>
+<ce:source-text>Kapchan, Deborah. Theorizing Sound Writing. Middletown, CT: Wesleyan University Press, 2017.</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Keeling</ce:surname>
+<ce:given-name>Kara</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Queer Times, Black Futures</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>New York: NYU Press</ref-text>
+</ref-info>
+<ref-fulltext>Keeling, Kara. Queer Times, Black Futures. New York: NYU Press. 2019.</ref-fulltext>
+<ce:source-text>Keeling, Kara. Queer Times, Black Futures. New York: NYU Press. 2019.</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Multiple Jeopardy, Multiple Consciousness: The Context of a Black Feminist Ideology</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.K.</ce:initials>
+<ce:surname>King</ce:surname>
+<ce:given-name>Deborah K.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Signs</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>42</first-page>
+<last-page>72</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>King, Deborah K. “Multiple Jeopardy, Multiple Consciousness: The Context of a Black Feminist Ideology.” Signs 14, no. 1 (1988): 42–72.</ref-fulltext>
+<ce:source-text>King, Deborah K. “Multiple Jeopardy, Multiple Consciousness: The Context of a Black Feminist Ideology.” Signs 14, no. 1 (1988): 42–72.</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-title>
+<ref-titletext-english>DC ‘Most Dangerous Place to Give Birth in the US’ for Black Women</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Kubota</ce:surname>
+<ce:given-name>Samantha</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Burkett-Hall</ce:surname>
+<ce:given-name>Jesse</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:surname>Bernstein</ce:surname>
+<ce:given-name>Josh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>WUSA 9</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>October 17</ref-text>
+</ref-info>
+<ref-fulltext>Kubota, Samantha, Jesse Burkett-Hall, and Josh Bernstein. “DC ‘Most Dangerous Place to Give Birth in the US’ for Black Women,” WUSA 9, October 17, 2018.</ref-fulltext>
+<ce:source-text>Kubota, Samantha, Jesse Burkett-Hall, and Josh Bernstein. “DC ‘Most Dangerous Place to Give Birth in the US’ for Black Women,” WUSA 9, October 17, 2018.</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Different Kind of Cellphone Store’: Business Was a D.C. Staple Long before Go-Go’s Brief Silence</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Lang</ce:surname>
+<ce:given-name>Marissa J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/local/a-different-kind-of-cellphone-store-business-was-a-dc-staple-long-before-go-gos-brief-silence/2019/04/12/735a7498-5d23-11e9-a00e-050dc7b82693_story.html</ce:e-address>
+</ref-website>
+<ref-text>April 12</ref-text>
+</ref-info>
+<ref-fulltext>Lang, Marissa J. “‘A Different Kind of Cellphone Store’: Business Was a D.C. Staple Long before Go-Go’s Brief Silence.” Washington Post, April 12, 2019. https://www.washingtonpost.com/ local/a-different-kind-of-cellphone-store-business-was-a-dc-staple-long-before-go-gos-brief-silence/2019/04/12/735a7498-5d23-11e9-a00e-050dc7b82693_story.html.</ref-fulltext>
+<ce:source-text>Lang, Marissa J. “‘A Different Kind of Cellphone Store’: Business Was a D.C. Staple Long before Go-Go’s Brief Silence.” Washington Post, April 12, 2019. https://www.washingtonpost.com/ local/a-different-kind-of-cellphone-store-business-was-a-dc-staple-long-before-go-gos-brief-silence/2019/04/12/735a7498-5d23-11e9-a00e-050dc7b82693_story.html.</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Violating D.C. Traffic Laws Could Soon Cost You More</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Lazo</ce:surname>
+<ce:given-name>Luz</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/transportation/2018/09/26/violating-dc-traffic-laws-could-soon-cost-you-more/</ce:e-address>
+</ref-website>
+<ref-text>September 26</ref-text>
+</ref-info>
+<ref-fulltext>Lazo, Luz. “Violating D.C. Traffic Laws Could Soon Cost You More.” Washington Post, September 26, 2018. https://www.washingtonpost.com/transportation/2018/09/26/violating-dc-traffic-laws-could-soon-cost-you-more/.</ref-fulltext>
+<ce:source-text>Lazo, Luz. “Violating D.C. Traffic Laws Could Soon Cost You More.” Washington Post, September 26, 2018. https://www.washingtonpost.com/transportation/2018/09/26/violating-dc-traffic-laws-could-soon-cost-you-more/.</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-title>
+<ref-titletext-english>District Police Lead Nation in Shootings</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Leen</ce:surname>
+<ce:given-name>Jeff</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Jo</ce:surname>
+<ce:given-name>Craven</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>D.</ce:initials>
+<ce:surname>Jackson</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:surname>Horwitz</ce:surname>
+<ce:given-name>Sari</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<ref-text>November 15</ref-text>
+</ref-info>
+<ref-fulltext>Leen, Jeff, Jo Craven, David Jackson, and Sari Horwitz. “District Police Lead Nation in Shootings.” Washington Post, November 15, 1998.</ref-fulltext>
+<ce:source-text>Leen, Jeff, Jo Craven, David Jackson, and Sari Horwitz. “District Police Lead Nation in Shootings.” Washington Post, November 15, 1998.</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Lees</ce:surname>
+<ce:given-name>Loretta</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.B.</ce:initials>
+<ce:surname>Shin</ce:surname>
+<ce:given-name>Hyun Bang</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>E.</ce:initials>
+<ce:surname>López-Morales</ce:surname>
+<ce:given-name>Ernesto</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Planetary Gentrification</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>New York: Wiley</ref-text>
+</ref-info>
+<ref-fulltext>Lees, Loretta, Hyun Bang Shin, and Ernesto López-Morales. Planetary Gentrification. New York: Wiley, 2016.</ref-fulltext>
+<ce:source-text>Lees, Loretta, Hyun Bang Shin, and Ernesto López-Morales. Planetary Gentrification. New York: Wiley, 2016.</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Guards for North Dakota Pipeline Could Be Charged for Using Dogs on Activists</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Levin</ce:surname>
+<ce:given-name>Sam</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Guardian</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-website>
+<ce:e-address type="url">https://www.theguardian.com/us-news/2016/oct/26/north-dakota-pipeline-protest-guard-dogs-charges</ce:e-address>
+</ref-website>
+<ref-text>October 26</ref-text>
+</ref-info>
+<ref-fulltext>Levin, Sam. “Guards for North Dakota Pipeline Could Be Charged for Using Dogs on Activists.” The Guardian, October 26, 2016. https://www.theguardian.com/us-news/2016/oct/26/north-dakota-pipeline-protest-guard-dogs-charges.</ref-fulltext>
+<ce:source-text>Levin, Sam. “Guards for North Dakota Pipeline Could Be Charged for Using Dogs on Activists.” The Guardian, October 26, 2016. https://www.theguardian.com/us-news/2016/oct/26/north-dakota-pipeline-protest-guard-dogs-charges.</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Liebow</ce:surname>
+<ce:given-name>Elliot</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tally’s Corner; a Study of Negro Streetcorner Men. With a Foreword by Hylan Lewis</ref-sourcetitle>
+<ref-publicationyear first="1967"/>
+<ref-text>Boston: Little, Brown</ref-text>
+</ref-info>
+<ref-fulltext>Liebow, Elliot. Tally’s Corner; A Study of Negro Streetcorner Men. With a Foreword by Hylan Lewis. Boston: Little, Brown, 1967.</ref-fulltext>
+<ce:source-text>Liebow, Elliot. Tally’s Corner; A Study of Negro Streetcorner Men. With a Foreword by Hylan Lewis. Boston: Little, Brown, 1967.</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.B.</ce:initials>
+<ce:surname>Lindsey</ce:surname>
+<ce:given-name>Treva B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Colored No More: Reinventing Black Womanhood in Washington, D.C</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Champaign: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Lindsey, Treva B. Colored No More: Reinventing Black Womanhood in Washington, D.C. Champaign: University of Illinois Press, 2017.</ref-fulltext>
+<ce:source-text>Lindsey, Treva B. Colored No More: Reinventing Black Womanhood in Washington, D.C. Champaign: University of Illinois Press, 2017.</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.C.</ce:initials>
+<ce:surname>Lingold</ce:surname>
+<ce:given-name>Mary Caton</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Mueller</ce:surname>
+<ce:given-name>Darren</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>W.</ce:initials>
+<ce:surname>Trettien</ce:surname>
+<ce:given-name>Whitney</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Digital Sound Studies</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Lingold, Mary Caton, Darren Mueller, and Whitney Trettien. Digital Sound Studies. Durham, NC: Duke University Press, 2018.</ref-fulltext>
+<ce:source-text>Lingold, Mary Caton, Darren Mueller, and Whitney Trettien. Digital Sound Studies. Durham, NC: Duke University Press, 2018.</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Lipsitz</ce:surname>
+<ce:given-name>George</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>How Racism Takes Place</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Philadelphia: Temple University Press</ref-text>
+</ref-info>
+<ref-fulltext>Lipsitz, George. How Racism Takes Place. Philadelphia: Temple University Press, 2011.</ref-fulltext>
+<ce:source-text>Lipsitz, George. How Racism Takes Place. Philadelphia: Temple University Press, 2011.</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.M.</ce:initials>
+<ce:surname>Lock</ce:surname>
+<ce:given-name>Margaret M.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Farquhar</ce:surname>
+<ce:given-name>Judith</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Beyond the Body Proper: Reading the Anthropology of Material Life</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Lock, Margaret M., and Judith Farquhar. Beyond the Body Proper: Reading the Anthropology of Material Life. Durham, NC: Duke University Press, 2007.</ref-fulltext>
+<ce:source-text>Lock, Margaret M., and Judith Farquhar. Beyond the Body Proper: Reading the Anthropology of Material Life. Durham, NC: Duke University Press, 2007.</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Multibillion-Dollar Toll’: How Cash Bail Hits Poor People of Color the Hardest</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.R.</ce:initials>
+<ce:surname>Lockhart</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Vox</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-website>
+<ce:e-address type="url">https://www.vox.com/identities/2017/12/6/16739622/ucla-report-bail-low-income-race</ce:e-address>
+</ref-website>
+<ref-text>December 6</ref-text>
+</ref-info>
+<ref-fulltext>Lockhart, P. R. “‘A Multibillion-Dollar Toll’: How Cash Bail Hits Poor People of Color the Hardest.” Vox, December 6, 2017. https://www.vox.com/identities/2017/12/6/16739622/ucla-report-bail-low-income-race.</ref-fulltext>
+<ce:source-text>Lockhart, P. R. “‘A Multibillion-Dollar Toll’: How Cash Bail Hits Poor People of Color the Hardest.” Vox, December 6, 2017. https://www.vox.com/identities/2017/12/6/16739622/ucla-report-bail-low-income-race.</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Lomax</ce:surname>
+<ce:given-name>Tamura</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Jezebel Unhinged: Loosing the Black Female Body in Religion and Culture</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Lomax, Tamura. Jezebel Unhinged: Loosing the Black Female Body in Religion and Culture. Durham, NC: Duke University Press, 2018.</ref-fulltext>
+<ce:source-text>Lomax, Tamura. Jezebel Unhinged: Loosing the Black Female Body in Religion and Culture. Durham, NC: Duke University Press, 2018.</ce:source-text>
+</reference>
+<reference seq="118">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Lornell</ce:surname>
+<ce:given-name>Kip</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.C.</ce:initials>
+<ce:surname>Stephenson</ce:surname>
+<ce:given-name>Charles C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Beat! Go-Go Music from Washington, D.C</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Lornell, Kip, and Charles C. Stephenson. The Beat! Go-Go Music from Washington, D.C. Jackson: University Press of Mississippi, 2009.</ref-fulltext>
+<ce:source-text>Lornell, Kip, and Charles C. Stephenson. The Beat! Go-Go Music from Washington, D.C. Jackson: University Press of Mississippi, 2009.</ce:source-text>
+</reference>
+<reference seq="119">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Lowery</ce:surname>
+<ce:given-name>Wesley</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>They Can’t Kill Us All: Ferguson, Baltimore, and a New Era in America’s Racial Justice Movement</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>Boston: Little, Brown</ref-text>
+</ref-info>
+<ref-fulltext>Lowery, Wesley. They Can’t Kill Us All: Ferguson, Baltimore, and a New Era in America’s Racial Justice Movement. Boston: Little, Brown, 2016.</ref-fulltext>
+<ce:source-text>Lowery, Wesley. They Can’t Kill Us All: Ferguson, Baltimore, and a New Era in America’s Racial Justice Movement. Boston: Little, Brown, 2016.</ce:source-text>
+</reference>
+<reference seq="120">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Why There Was No Racial Reckoning</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Lowery</ce:surname>
+<ce:given-name>Wesley</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Atlantic</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">https://www.theatlantic.com/ideas/archive/2023/02/tyre-nichols-death-memphis-george-floyd-police-reform/672986/</ce:e-address>
+</ref-website>
+<ref-text>February 8</ref-text>
+</ref-info>
+<ref-fulltext>Lowery, Wesley. “Why There Was No Racial Reckoning.” The Atlantic, February 8, 2023. https://www.theatlantic.com/ideas/archive/2023/02/tyre-nichols-death-memphis-george-floyd-police-reform/672986/.</ref-fulltext>
+<ce:source-text>Lowery, Wesley. “Why There Was No Racial Reckoning.” The Atlantic, February 8, 2023. https://www.theatlantic.com/ideas/archive/2023/02/tyre-nichols-death-memphis-george-floyd-police-reform/672986/.</ce:source-text>
+</reference>
+<reference seq="121">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Deep Dive Into the ‘Gentrification Font</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Makalintal</ce:surname>
+<ce:given-name>Bettina</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Vice</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-website>
+<ce:e-address type="url">https://www.vice.com/en/article/ep499w/gentrification-font-meme-neutraface</ce:e-address>
+</ref-website>
+<ref-text>September 9</ref-text>
+</ref-info>
+<ref-fulltext>Makalintal, Bettina. “A Deep Dive Into the ‘Gentrification Font.’” Vice, September 9, 2020. https://www.vice.com/en/article/ep499w/gentrification-font-meme-neutraface.</ref-fulltext>
+<ce:source-text>Makalintal, Bettina. “A Deep Dive Into the ‘Gentrification Font.’” Vice, September 9, 2020. https://www.vice.com/en/article/ep499w/gentrification-font-meme-neutraface.</ce:source-text>
+</reference>
+<reference seq="122">
+<ref-info>
+<ref-title>
+<ref-titletext-english>City Buys Home Rented by Breonna Taylor’s Ex-Boyfriend for $1 as New Allegations Arise</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Martinez</ce:surname>
+<ce:given-name>Natalia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>WAVE</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-website>
+<ce:e-address type="url">https://www.wave3.com/2020/07/06/city-buys-home-rented-by-breonna-taylors-ex-boyfriend-new-allegations-arise/</ce:e-address>
+</ref-website>
+<ref-text>July 6</ref-text>
+</ref-info>
+<ref-fulltext>Martinez, Natalia. “City Buys Home Rented by Breonna Taylor’s Ex-Boyfriend for $1 as New Allegations Arise.” WAVE, July 6, 2020. https://www.wave3.com/2020/07/06/city-buys-home-rented-by-breonna-taylors-ex-boyfriend-new-allegations-arise/</ref-fulltext>
+<ce:source-text>Martinez, Natalia. “City Buys Home Rented by Breonna Taylor’s Ex-Boyfriend for $1 as New Allegations Arise.” WAVE, July 6, 2020. https://www.wave3.com/2020/07/06/city-buys-home-rented-by-breonna-taylors-ex-boyfriend-new-allegations-arise/</ce:source-text>
+</reference>
+<reference seq="123">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.M.</ce:initials>
+<ce:surname>May</ce:surname>
+<ce:given-name>Vivian M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pursuing Intersectionality, Unsettling Dominant Imaginaries</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>May, Vivian M. Pursuing Intersectionality, Unsettling Dominant Imaginaries. New York: Routledge, 2015.</ref-fulltext>
+<ce:source-text>May, Vivian M. Pursuing Intersectionality, Unsettling Dominant Imaginaries. New York: Routledge, 2015.</ce:source-text>
+</reference>
+<reference seq="124">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>McKittrick</ce:surname>
+<ce:given-name>Katherine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dear Science and Other Stories</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>McKittrick, Katherine. Dear Science and Other Stories. Durham, NC: Duke University Press, 2021.</ref-fulltext>
+<ce:source-text>McKittrick, Katherine. Dear Science and Other Stories. Durham, NC: Duke University Press, 2021.</ce:source-text>
+</reference>
+<reference seq="125">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Mission. Harriet’s Wildest Dreams</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https://www.harrietsdreams.org/mission</ce:e-address>
+</ref-website>
+<ref-text>January 9</ref-text>
+</ref-info>
+<ref-fulltext>“Mission.” Harriet’s Wildest Dreams. https://www.harrietsdreams.org/mission (accessed January 9, 2024).</ref-fulltext>
+<ce:source-text>“Mission.” Harriet’s Wildest Dreams. https://www.harrietsdreams.org/mission (accessed January 9, 2024).</ce:source-text>
+</reference>
+<reference seq="126">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.G.</ce:initials>
+<ce:surname>Modan</ce:surname>
+<ce:given-name>Gabriella Gahlia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Turf Wars: Discourse, Diversity, and the Politics of Place</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>Wiley</ref-text>
+</ref-info>
+<ref-fulltext>Modan, Gabriella Gahlia. Turf Wars: Discourse, Diversity, and the Politics of Place. Wiley, 2008.</ref-fulltext>
+<ce:source-text>Modan, Gabriella Gahlia. Turf Wars: Discourse, Diversity, and the Politics of Place. Wiley, 2008.</ce:source-text>
+</reference>
+<reference seq="127">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.D.</ce:initials>
+<ce:surname>Morrison</ce:surname>
+<ce:given-name>Matthew D.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Race, Blacksound, and the (Re)Making of Musicological Discourse</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>72</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>781</first-page>
+<last-page>823</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Morrison, Matthew D. “Race, Blacksound, and the (Re)Making of Musicological Discourse.” Journal of the American Musicological Society 72 no. 3 (2019): 781– 823.</ref-fulltext>
+<ce:source-text>Morrison, Matthew D. “Race, Blacksound, and the (Re)Making of Musicological Discourse.” Journal of the American Musicological Society 72 no. 3 (2019): 781– 823.</ce:source-text>
+</reference>
+<reference seq="128">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.E.</ce:initials>
+<ce:surname>Moskowitz</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>New York: Bold Type Books</ref-text>
+</ref-info>
+<ref-fulltext>Moskowitz, P. E. 2017. How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood. New York: Bold Type Books.</ref-fulltext>
+<ce:source-text>Moskowitz, P. E. 2017. How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood. New York: Bold Type Books.</ce:source-text>
+</reference>
+<reference seq="129">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.G.</ce:initials>
+<ce:surname>Muhammad</ce:surname>
+<ce:given-name>Khalil Gibran</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Condemnation of Blackness: Race, Crime, and the Making of Modern Urban America, with a New Preface</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Muhammad, Khalil Gibran. The Condemnation of Blackness: Race, Crime, and the Making of Modern Urban America, With a New Preface. Cambridge, MA: Harvard University Press, 2019.</ref-fulltext>
+<ce:source-text>Muhammad, Khalil Gibran. The Condemnation of Blackness: Race, Crime, and the Making of Modern Urban America, With a New Preface. Cambridge, MA: Harvard University Press, 2019.</ce:source-text>
+</reference>
+<reference seq="130">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.E.</ce:initials>
+<ce:surname>Muñoz</ce:surname>
+<ce:given-name>José Esteban</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cruising Utopia: The then and There of Queer Futurity</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>New York: NYU Press</ref-text>
+</ref-info>
+<ref-fulltext>Muñoz, José Esteban. Cruising Utopia: The Then and There of Queer Futurity. New York: NYU Press, 2009.</ref-fulltext>
+<ce:source-text>Muñoz, José Esteban. Cruising Utopia: The Then and There of Queer Futurity. New York: NYU Press, 2009.</ce:source-text>
+</reference>
+<reference seq="131">
+<ref-info>
+<ref-title>
+<ref-titletext-english>One Year After #BlackoutTuesday, What Have Companies Really Done for Racial Justice</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Murphy</ce:surname>
+<ce:given-name>Yume</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Vox</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-website>
+<ce:e-address type="url">https://www.vox.com/the-goods/22463723/Blackout-tuesday-blm-sephora-starbucks-nike-glossier</ce:e-address>
+</ref-website>
+<ref-text>June 2</ref-text>
+</ref-info>
+<ref-fulltext>Murphy, Yume. “One Year After #BlackoutTuesday, What Have Companies Really Done for Racial Justice?” Vox, June 2, 2021. https://www.vox.com/the-goods/22463723/Blackout-tuesday-blm-sephora-starbucks-nike-glossier.</ref-fulltext>
+<ce:source-text>Murphy, Yume. “One Year After #BlackoutTuesday, What Have Companies Really Done for Racial Justice?” Vox, June 2, 2021. https://www.vox.com/the-goods/22463723/Blackout-tuesday-blm-sephora-starbucks-nike-glossier.</ce:source-text>
+</reference>
+<reference seq="132">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Nash</ce:surname>
+<ce:given-name>Jennifer C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Feminism Reimagined: After Intersectionality</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Nash, Jennifer C. Black Feminism Reimagined: After Intersectionality. Durham, NC: Duke University Press, 2019.</ref-fulltext>
+<ce:source-text>Nash, Jennifer C. Black Feminism Reimagined: After Intersectionality. Durham, NC: Duke University Press, 2019.</ce:source-text>
+</reference>
+<reference seq="133">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Income Inequality in DC Highest in the Country</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Naveed</ce:surname>
+<ce:given-name>Minahil</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>DC Fiscal Policy Institute</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-website>
+<ce:e-address type="url">https://www.dcfpi.org/all/income-inequality-dc-highest-country/</ce:e-address>
+</ref-website>
+<ref-text>December 15</ref-text>
+</ref-info>
+<ref-fulltext>Naveed, Minahil. “Income Inequality in DC Highest in the Country.” DC Fiscal Policy Institute, December 15, 2017. https://www.dcfpi.org/all/income-inequality-dc-highest-country/.</ref-fulltext>
+<ce:source-text>Naveed, Minahil. “Income Inequality in DC Highest in the Country.” DC Fiscal Policy Institute, December 15, 2017. https://www.dcfpi.org/all/income-inequality-dc-highest-country/.</ce:source-text>
+</reference>
+<reference seq="134">
+<ref-info>
+<ref-title>
+<ref-titletext-english>District Suit Alleges Mismanagement at Howard Theatre</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>O’Connell</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/local/district-suit-alleges-mismanagement-at-howard-theatre/2018/03/07/b9619ab4-224d-11e8-badd-7c9f29a55815_story.html</ce:e-address>
+</ref-website>
+<ref-text>March 8</ref-text>
+</ref-info>
+<ref-fulltext>O’Connell, Jonathan. “District Suit Alleges Mismanagement at Howard Theatre.” Washington Post, March 8, 2018. https://www.washingtonpost.com/local/district-suit-alleges-mismanagement-at-howard-theatre/2018/03/07/b9619ab4-224d-11e8-badd-7c9f29a55815_story.html.</ref-fulltext>
+<ce:source-text>O’Connell, Jonathan. “District Suit Alleges Mismanagement at Howard Theatre.” Washington Post, March 8, 2018. https://www.washingtonpost.com/local/district-suit-alleges-mismanagement-at-howard-theatre/2018/03/07/b9619ab4-224d-11e8-badd-7c9f29a55815_story.html.</ce:source-text>
+</reference>
+<reference seq="135">
+<ref-info>
+<ref-title>
+<ref-titletext-english>New NFL Policy Will Fine Teams If Players Kneel during National Anthem</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Ortiz</ce:surname>
+<ce:given-name>Erik</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>NBC News</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-website>
+<ce:e-address type="url">https://www.nbcnews.com/news/us-news/nfl-announces-new-national-anthem-policy-fines-teams-if-players-n876816</ce:e-address>
+</ref-website>
+<ref-text>May 24</ref-text>
+</ref-info>
+<ref-fulltext>Ortiz, Erik. “New NFL Policy Will Fine Teams If Players Kneel during National Anthem.” NBC News, May 24, 2018. https://www.nbcnews.com/news/us-news/nfl-announces-new-national-anthem-policy-fines-teams-if-players-n876816.</ref-fulltext>
+<ce:source-text>Ortiz, Erik. “New NFL Policy Will Fine Teams If Players Kneel during National Anthem.” NBC News, May 24, 2018. https://www.nbcnews.com/news/us-news/nfl-announces-new-national-anthem-policy-fines-teams-if-players-n876816.</ce:source-text>
+</reference>
+<reference seq="136">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Break.dance</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Parham</ce:surname>
+<ce:given-name>Marisa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sx Archipelagos</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://archipelagosjournal.org/issue03/parham/parham.html</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Parham, Marisa. “break.dance,” Sx Archipelagos, no. 3 (2019). https://archipelagosjournal.org/issue03/parham/parham.html.</ref-fulltext>
+<ce:source-text>Parham, Marisa. “break.dance,” Sx Archipelagos, no. 3 (2019). https://archipelagosjournal.org/issue03/parham/parham.html.</ce:source-text>
+</reference>
+<reference seq="137">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Pattillo</ce:surname>
+<ce:given-name>Mary</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="2013"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Pattillo, Mary. Black Picket Fences: Privilege &amp; Peril among the Black Middle Class. Chicago: University of Chicago Press, 2013.</ref-fulltext>
+<ce:source-text>Pattillo, Mary. Black Picket Fences: Privilege &amp; Peril among the Black Middle Class. Chicago: University of Chicago Press, 2013.</ce:source-text>
+</reference>
+<reference seq="138">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Political Economy of Attention</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Pedersen</ce:surname>
+<ce:given-name>Morten Axel</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Albris</ce:surname>
+<ce:given-name>Kristoffer</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>N.</ce:initials>
+<ce:surname>Seaver</ce:surname>
+<ce:given-name>Nick</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Annual Review of Anthropology</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>50</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>309</first-page>
+<last-page>325</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pedersen, Morten Axel, Kristoffer Albris, and Nick Seaver. “The Political Economy of Attention.” Annual Review of Anthropology 50, no. 1 (2021): 309–25.</ref-fulltext>
+<ce:source-text>Pedersen, Morten Axel, Kristoffer Albris, and Nick Seaver. “The Political Economy of Attention.” Annual Review of Anthropology 50, no. 1 (2021): 309–25.</ce:source-text>
+</reference>
+<reference seq="139">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Perry</ce:surname>
+<ce:given-name>Imani</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>May We Forever Stand: A History of the Black National Anthem</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Perry, Imani. May We Forever Stand: A History of the Black National Anthem. Chapel Hill: University of North Carolina Press, 2018.</ref-fulltext>
+<ce:source-text>Perry, Imani. May We Forever Stand: A History of the Black National Anthem. Chapel Hill: University of North Carolina Press, 2018.</ce:source-text>
+</reference>
+<reference seq="140">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Soundscape Ecology: The Science of Sound in the Landscape</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.C.</ce:initials>
+<ce:surname>Pijanowski</ce:surname>
+<ce:given-name>Bryan C.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>L.J.</ce:initials>
+<ce:surname>Villanueva-Rivera</ce:surname>
+<ce:given-name>Luis J.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>S.L.</ce:initials>
+<ce:surname>Dumyahn</ce:surname>
+<ce:given-name>Sarah L.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>A.</ce:initials>
+<ce:surname>Farina</ce:surname>
+<ce:given-name>Almo</ce:given-name>
+</author>
+<author seq="5">
+<ce:initials>B.L.</ce:initials>
+<ce:surname>Krause</ce:surname>
+<ce:given-name>Bernie L.</ce:given-name>
+</author>
+<author seq="6">
+<ce:initials>B.M.</ce:initials>
+<ce:surname>Napoletano</ce:surname>
+<ce:given-name>Brian M.</ce:given-name>
+</author>
+<author seq="7">
+<ce:initials>S.H.</ce:initials>
+<ce:surname>Gage</ce:surname>
+<ce:given-name>Stuart H.</ce:given-name>
+</author>
+<author seq="8">
+<ce:initials>N.</ce:initials>
+<ce:surname>Pieretti</ce:surname>
+<ce:given-name>Nadia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bioscience</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>61</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>203</first-page>
+<last-page>216</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pijanowski, Bryan C., Luis J. Villanueva-Rivera, Sarah L. Dumyahn, Almo Farina, Bernie L. Krause, Brian M. Napoletano, Stuart H. Gage, and Nadia Pieretti. “Soundscape Ecology: The Science of Sound in the Landscape.” BioScience 61, no. 3 (2011): 203–16.</ref-fulltext>
+<ce:source-text>Pijanowski, Bryan C., Luis J. Villanueva-Rivera, Sarah L. Dumyahn, Almo Farina, Bernie L. Krause, Brian M. Napoletano, Stuart H. Gage, and Nadia Pieretti. “Soundscape Ecology: The Science of Sound in the Landscape.” BioScience 61, no. 3 (2011): 203–16.</ce:source-text>
+</reference>
+<reference seq="141">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.A.</ce:initials>
+<ce:surname>Pinchback</ce:surname>
+<ce:given-name>Lloyd A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Soul Searchers 1968–1978: A Decade of Memories. Largo</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>MD: Pinchbax Books</ref-text>
+</ref-info>
+<ref-fulltext>Pinchback, Lloyd A. The Soul Searchers 1968–1978: A Decade of Memories. Largo, MD: Pinchbax Books, 2013.</ref-fulltext>
+<ce:source-text>Pinchback, Lloyd A. The Soul Searchers 1968–1978: A Decade of Memories. Largo, MD: Pinchbax Books, 2013.</ce:source-text>
+</reference>
+<reference seq="142">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Bruno Mars ‘Latina’ Cover Story: Details from the Interview</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Platon</ce:surname>
+<ce:given-name>Adelle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Billboard</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>January 31</ref-text>
+</ref-info>
+<ref-fulltext>Platon, Adelle. “Bruno Mars ‘Latina’ Cover Story: Details from the Interview.” Billboard, January 31, 2017.</ref-fulltext>
+<ce:source-text>Platon, Adelle. “Bruno Mars ‘Latina’ Cover Story: Details from the Interview.” Billboard, January 31, 2017.</ce:source-text>
+</reference>
+<reference seq="143">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Prince</ce:surname>
+<ce:given-name>Sabiyha</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>African Americans and Gentrification in Washington, D.C.: Race, Class and Social Justice in the Nation’s Capital</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<ref-text>Farnham, UK: Ashgate Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Prince, Sabiyha. African Americans and Gentrification in Washington, D.C.: Race, Class and Social Justice in the Nation’s Capital. Farnham, UK: Ashgate Publishing, 2014.</ref-fulltext>
+<ce:source-text>Prince, Sabiyha. African Americans and Gentrification in Washington, D.C.: Race, Class and Social Justice in the Nation’s Capital. Farnham, UK: Ashgate Publishing, 2014.</ce:source-text>
+</reference>
+<reference seq="144">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Quashie</ce:surname>
+<ce:given-name>Kevin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Sovereignty of Quiet: Beyond Resistance in Black Culture</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>New Brunswick, NJ: Rutgers University Press</ref-text>
+</ref-info>
+<ref-fulltext>Quashie, Kevin. The Sovereignty of Quiet: Beyond Resistance in Black Culture. New Brunswick, NJ: Rutgers University Press, 2012.</ref-fulltext>
+<ce:source-text>Quashie, Kevin. The Sovereignty of Quiet: Beyond Resistance in Black Culture. New Brunswick, NJ: Rutgers University Press, 2012.</ce:source-text>
+</reference>
+<reference seq="145">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Loudness, Excess, Power: A Political Liminology of a Global City of the South</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.B.</ce:initials>
+<ce:surname>Quintero</ce:surname>
+<ce:given-name>Michael Birenbaum</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Remapping Sound Studies</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>135</first-page>
+<last-page>155</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>edited by Jim Sykes and Gavin Steingo, Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Quintero, Michael Birenbaum. “Loudness, Excess, Power: A Political Liminology of a Global City of the South.” In Remapping Sound Studies, edited by Jim Sykes and Gavin Steingo, 135–55. Durham, NC: Duke University Press, 2019.</ref-fulltext>
+<ce:source-text>Quintero, Michael Birenbaum. “Loudness, Excess, Power: A Political Liminology of a Global City of the South.” In Remapping Sound Studies, edited by Jim Sykes and Gavin Steingo, 135–55. Durham, NC: Duke University Press, 2019.</ce:source-text>
+</reference>
+<reference seq="146">
+<ref-info>
+<ref-title>
+<ref-titletext-english>City as Borderland: Gentrification and the Policing of Black and Latinx Geographies in Oakland</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.M.</ce:initials>
+<ce:surname>Ramírez</ce:surname>
+<ce:given-name>Margaret M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Environment and Planning D: Society and Space</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>38</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>147</first-page>
+<last-page>166</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ramírez, Margaret M. “City as Borderland: Gentrification and the Policing of Black and Latinx Geographies in Oakland.” Environment and Planning D: Society and Space 38, no. 1 (2020): 147–66.</ref-fulltext>
+<ce:source-text>Ramírez, Margaret M. “City as Borderland: Gentrification and the Policing of Black and Latinx Geographies in Oakland.” Environment and Planning D: Society and Space 38, no. 1 (2020): 147–66.</ce:source-text>
+</reference>
+<reference seq="147">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Rankine</ce:surname>
+<ce:given-name>Claudia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Citizen: An American Lyric</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<ref-text>Minneapolis: Graywolf Press</ref-text>
+</ref-info>
+<ref-fulltext>Rankine, Claudia. Citizen: An American Lyric. Minneapolis: Graywolf Press, 2014.</ref-fulltext>
+<ce:source-text>Rankine, Claudia. Citizen: An American Lyric. Minneapolis: Graywolf Press, 2014.</ce:source-text>
+</reference>
+<reference seq="148">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Against Cleaning</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Rawson</ce:surname>
+<ce:given-name>Katie</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Muñoz</ce:surname>
+<ce:given-name>Trevor</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Curating Menus</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-website>
+<ce:e-address type="url">http://www.curatingmenus.org/articles/against-cleaning/</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” Curating Menus 6, 2016. http://www.curatingmenus.org/articles/against-cleaning/.</ref-fulltext>
+<ce:source-text>Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” Curating Menus 6, 2016. http://www.curatingmenus.org/articles/against-cleaning/.</ce:source-text>
+</reference>
+<reference seq="149">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Gentrifying Atlanta: Investor Purchases of Rental Housing, Evictions, and the Displacement of Black Residents</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.L.</ce:initials>
+<ce:surname>Raymond</ce:surname>
+<ce:given-name>Elora Lee</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Miller</ce:surname>
+<ce:given-name>Ben</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>McKinney</ce:surname>
+<ce:given-name>Michaela</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:surname>Braun</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Housing Policy Debate</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>31</vol-first>
+<iss-first>3</iss-first>
+<iss-last>5</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>818</first-page>
+<last-page>834</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Raymond, Elora Lee, Ben Miller, Michaela McKinney, and Jonathan Braun. “Gentrifying Atlanta: Investor Purchases of Rental Housing, Evictions, and the Displacement of Black Residents.” Housing Policy Debate 31, no. 3–5 (2021): 818–34.</ref-fulltext>
+<ce:source-text>Raymond, Elora Lee, Ben Miller, Michaela McKinney, and Jonathan Braun. “Gentrifying Atlanta: Investor Purchases of Rental Housing, Evictions, and the Displacement of Black Residents.” Housing Policy Debate 31, no. 3–5 (2021): 818–34.</ce:source-text>
+</reference>
+<reference seq="150">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Reese</ce:surname>
+<ce:given-name>Ashantém.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Food Geographies: Race, Self-Reliance, and Food Access in Washington</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+</ref-info>
+<ref-fulltext>Reese, Ashanté M. Black Food Geographies: Race, Self-Reliance, and Food Access in Washington, D.C. Chapel Hill: University of North Carolina Press, 2019.</ref-fulltext>
+<ce:source-text>Reese, Ashanté M. Black Food Geographies: Race, Self-Reliance, and Food Access in Washington, D.C. Chapel Hill: University of North Carolina Press, 2019.</ce:source-text>
+</reference>
+<reference seq="151">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Rosa</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Looking like a Language, Sounding like a Race</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Rosa, Jonathan. Looking Like a Language, Sounding Like a Race. New York: Oxford University Press, 2019.</ref-fulltext>
+<ce:source-text>Rosa, Jonathan. Looking Like a Language, Sounding Like a Race. New York: Oxford University Press, 2019.</ce:source-text>
+</reference>
+<reference seq="152">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Rose</ce:surname>
+<ce:given-name>Tricia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Noise: Rap Music and Black Culture in Contemporary America</ref-sourcetitle>
+<ref-publicationyear first="1994"/>
+<ref-text>Middletown, CT: Wesleyan University Press</ref-text>
+</ref-info>
+<ref-fulltext>Rose, Tricia. Black Noise: Rap Music and Black Culture in Contemporary America. Middletown, CT: Wesleyan University Press, 1994.</ref-fulltext>
+<ce:source-text>Rose, Tricia. Black Noise: Rap Music and Black Culture in Contemporary America. Middletown, CT: Wesleyan University Press, 1994.</ce:source-text>
+</reference>
+<reference seq="153">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Keeping Go-Go Music Going in a Gentrifying D.C</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Rosenfeld</ce:surname>
+<ce:given-name>Paul</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Atlantic</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-website>
+<ce:e-address type="url">https://www.theatlantic.com/video/index/417780/keeping-go-go-going-in-a-gentrifying-dc/</ce:e-address>
+</ref-website>
+<ref-text>November 28</ref-text>
+</ref-info>
+<ref-fulltext>Rosenfeld, Paul. “Keeping Go-Go Music Going in a Gentrifying D.C.” The Atlantic, November 28, 2015. https://www.theatlantic.com/video/index/417780/keeping-go-go-going-in-a-gentrifying-dc/.</ref-fulltext>
+<ce:source-text>Rosenfeld, Paul. “Keeping Go-Go Music Going in a Gentrifying D.C.” The Atlantic, November 28, 2015. https://www.theatlantic.com/video/index/417780/keeping-go-go-going-in-a-gentrifying-dc/.</ce:source-text>
+</reference>
+<reference seq="154">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Racial Banishment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Roy</ce:surname>
+<ce:given-name>Ananya</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Keywords in Radical Geography: Antipode at 50</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>227</first-page>
+<last-page>230</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Roy, Ananya. “Racial Banishment.” Keywords in Radical Geography: Antipode at 50 (2019): 227– 30.</ref-fulltext>
+<ce:source-text>Roy, Ananya. “Racial Banishment.” Keywords in Radical Geography: Antipode at 50 (2019): 227– 30.</ce:source-text>
+</reference>
+<reference seq="155">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.A.</ce:initials>
+<ce:surname>Ruble</ce:surname>
+<ce:given-name>Blair A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington’s U Street: A Biography</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>Baltimore: Johns Hopkins University Press</ref-text>
+</ref-info>
+<ref-fulltext>Ruble, Blair A. Washington’s U Street: A Biography. Baltimore: Johns Hopkins University Press, 2012.</ref-fulltext>
+<ce:source-text>Ruble, Blair A. Washington’s U Street: A Biography. Baltimore: Johns Hopkins University Press, 2012.</ce:source-text>
+</reference>
+<reference seq="156">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Rusert</ce:surname>
+<ce:given-name>Britt</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>W.</ce:initials>
+<ce:surname>Battle-Baptiste</ce:surname>
+<ce:given-name>Witney</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>W. E. B. Du Bois’s Data Portraits: Visualizing Black America</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>Princeton, NJ: Princeton Architectural Press</ref-text>
+</ref-info>
+<ref-fulltext>Rusert, Britt, and Witney Battle-Baptiste. W. E. B. Du Bois’s Data Portraits: Visualizing Black America. Princeton, NJ: Princeton Architectural Press, 2018.</ref-fulltext>
+<ce:source-text>Rusert, Britt, and Witney Battle-Baptiste. W. E. B. Du Bois’s Data Portraits: Visualizing Black America. Princeton, NJ: Princeton Architectural Press, 2018.</ce:source-text>
+</reference>
+<reference seq="157">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.M.</ce:initials>
+<ce:surname>Schafer</ce:surname>
+<ce:given-name>R. Murray</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Tuning of the World.</ref-sourcetitle>
+<ref-publicationyear first="1977"/>
+<ref-text>New York: Knopf</ref-text>
+</ref-info>
+<ref-fulltext>Schafer, R. Murray. The Tuning of the World. New York: Knopf, 1977.</ref-fulltext>
+<ce:source-text>Schafer, R. Murray. The Tuning of the World. New York: Knopf, 1977.</ce:source-text>
+</reference>
+<reference seq="158">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Shabazz</ce:surname>
+<ce:given-name>Rashad</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>Champaign: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Shabazz, Rashad. Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago. Champaign: University of Illinois Press, 2015.</ref-fulltext>
+<ce:source-text>Shabazz, Rashad. Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago. Champaign: University of Illinois Press, 2015.</ce:source-text>
+</reference>
+<reference seq="159">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Shange</ce:surname>
+<ce:given-name>Savannah</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Girl Ordinary: Flesh, Carcerality, and the Refusal of Ethnography</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>27</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>3</first-page>
+<last-page>21</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Shange, Savannah. “Black Girl Ordinary: Flesh, Carcerality, and the Refusal of Ethnography.” Transforming Anthropology 27, no. 1 (2019): 3–21.</ref-fulltext>
+<ce:source-text>Shange, Savannah. “Black Girl Ordinary: Flesh, Carcerality, and the Refusal of Ethnography.” Transforming Anthropology 27, no. 1 (2019): 3–21.</ce:source-text>
+</reference>
+<reference seq="160">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Sharpe</ce:surname>
+<ce:given-name>Christina</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>In the Wake: On Blackness and Being</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Sharpe, Christina. In the Wake: On Blackness and Being. Durham, NC: Duke University Press, 2016.</ref-fulltext>
+<ce:source-text>Sharpe, Christina. In the Wake: On Blackness and Being. Durham, NC: Duke University Press, 2016.</ce:source-text>
+</reference>
+<reference seq="161">
+<ref-info>
+<ref-title>
+<ref-titletext-english>D.C. Has the Highest ‘Intensity’ of Gentrification of Any U.S. City, Study Says</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Shaver</ce:surname>
+<ce:given-name>Katherine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/transportation/2019/03/19/study-dc-has-had-highest-intensity-gentrification-any-us-city/</ce:e-address>
+</ref-website>
+<ref-text>March 3</ref-text>
+</ref-info>
+<ref-fulltext>Shaver, Katherine. “D.C. Has the Highest ‘Intensity’ of Gentrification of Any U.S. City, Study Says.” Washington Post, March 3, 2019. https://www.washingtonpost.com/transportation/2019/03/19/study-dc-has-had-highest-intensity-gentrification-any-us-city/.</ref-fulltext>
+<ce:source-text>Shaver, Katherine. “D.C. Has the Highest ‘Intensity’ of Gentrification of Any U.S. City, Study Says.” Washington Post, March 3, 2019. https://www.washingtonpost.com/transportation/2019/03/19/study-dc-has-had-highest-intensity-gentrification-any-us-city/.</ce:source-text>
+</reference>
+<reference seq="162">
+<ref-info>
+<ref-title>
+<ref-titletext-english>To Be Announced: Radical Praxis or Knowing (at) the Limits of Justice</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.F.D.</ce:initials>
+<ce:surname>Silva</ce:surname>
+<ce:given-name>Denise Ferreira Da.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Text</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>31</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>43</first-page>
+<last-page>62</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Silva, Denise Ferreira da. “To Be Announced: Radical Praxis or Knowing (at) the Limits of Justice.” Social Text 31, no. 1 (2013): 43–62.</ref-fulltext>
+<ce:source-text>Silva, Denise Ferreira da. “To Be Announced: Radical Praxis or Knowing (at) the Limits of Justice.” Social Text 31, no. 1 (2013): 43–62.</ce:source-text>
+</reference>
+<reference seq="163">
+<ref-info>
+<ref-title>
+<ref-titletext-english>When People Say, ‘We Have Made It through Worse Before</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Clint</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wildness</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://readwildness.com/19/smith-people</ce:e-address>
+</ref-website>
+<ref-text>May 2019</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Clint. “When People Say, ‘We Have Made It through Worse Before.’” Wildness, May 2019. https://readwildness.com/19/smith-people.</ref-fulltext>
+<ce:source-text>Smith, Clint. “When People Say, ‘We Have Made It through Worse Before.’” Wildness, May 2019. https://readwildness.com/19/smith-people.</ce:source-text>
+</reference>
+<reference seq="164">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Danez</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Don’t Call Us Dead: Poems</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Minneapolis: Graywolf Press</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Danez. Don’t Call Us Dead: Poems. Minneapolis: Graywolf Press, 2017.</ref-fulltext>
+<ce:source-text>Smith, Danez. Don’t Call Us Dead: Poems. Minneapolis: Graywolf Press, 2017.</ce:source-text>
+</reference>
+<reference seq="165">
+<ref-info>
+<ref-title>
+<ref-titletext-english>DC Dangerous Intersections 2018</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Max</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>WTOP</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://wtop.com/dc/2019/02/the-most-dangerous-d-c-intersections-of-2018/</ce:e-address>
+</ref-website>
+<ref-text>February 27</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Max. “DC Dangerous Intersections 2018.” WTOP, February 27, 2019. https://wtop.com/dc/2019/02/the-most-dangerous-d-c-intersections-of-2018/.</ref-fulltext>
+<ce:source-text>Smith, Max. “DC Dangerous Intersections 2018.” WTOP, February 27, 2019. https://wtop.com/dc/2019/02/the-most-dangerous-d-c-intersections-of-2018/.</ce:source-text>
+</reference>
+<reference seq="166">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Neil</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The New Urban Frontier: Gentrification and the Revanchist City</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<ref-text>New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Neil. The New Urban Frontier: Gentrification and the Revanchist City. New York: Routledge, 1996.</ref-fulltext>
+<ce:source-text>Smith, Neil. The New Urban Frontier: Gentrification and the Revanchist City. New York: Routledge, 1996.</ce:source-text>
+</reference>
+<reference seq="167">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Exclusive: A Look at MPD’s ‘Go-Go Report.’</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Rend</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington City Paper</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-website>
+<ce:e-address type="url">http://washingtoncitypaper.com/article/471073/exclusive-a-look-at-mpds-go-go-report/</ce:e-address>
+</ref-website>
+<ref-text>July 14</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Rend. “Exclusive: A Look at MPD’s ‘Go-Go Report.’” Washington City Paper, July 14, 2010. http://washingtoncitypaper.com/article/471073/exclusive-a-look-at-mpds-go-go-report/.</ref-fulltext>
+<ce:source-text>Smith, Rend. “Exclusive: A Look at MPD’s ‘Go-Go Report.’” Washington City Paper, July 14, 2010. http://washingtoncitypaper.com/article/471073/exclusive-a-look-at-mpds-go-go-report/.</ce:source-text>
+</reference>
+<reference seq="168">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Tuning Into the ‘Happy Am I’ Preacher: Researching the Radio Career of Elder Lightfoot Solomon Michaux</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Suzanne</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sounding Out</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-website>
+<ce:e-address type="url">https://soundstudiesblog.com/2015/03/05/tuning-into-the-happy-am-i-preacher-researching-the-radio-career-of-elder-lightfoot-solomon-michaux/</ce:e-address>
+</ref-website>
+<ref-text>March 5</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Suzanne. “Tuning Into the ‘Happy Am I’ Preacher: Researching the Radio Career of Elder Lightfoot Solomon Michaux.” Sounding Out (blog), March 5, 2015. https://soundstudiesblog.com/2015/03/05/tuning-into-the-happy-am-i-preacher-researching-the-radio-career-of-elder-lightfoot-solomon-michaux/.</ref-fulltext>
+<ce:source-text>Smith, Suzanne. “Tuning Into the ‘Happy Am I’ Preacher: Researching the Radio Career of Elder Lightfoot Solomon Michaux.” Sounding Out (blog), March 5, 2015. https://soundstudiesblog.com/2015/03/05/tuning-into-the-happy-am-i-preacher-researching-the-radio-career-of-elder-lightfoot-solomon-michaux/.</ce:source-text>
+</reference>
+<reference seq="169">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>IUPAC</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Society for Ethnomusicology</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-website>
+<ce:e-address type="url">https://www.ethnomusicology.org/page/PS_Torture</ce:e-address>
+</ref-website>
+<ref-text>February 2</ref-text>
+</ref-info>
+<ref-fulltext>Society for Ethnomusicology. “Position Statement on Torture.” February 2, 2007. https://www.ethnomusicology.org/page/PS_Torture.</ref-fulltext>
+<ce:source-text>Society for Ethnomusicology. “Position Statement on Torture.” February 2, 2007. https://www.ethnomusicology.org/page/PS_Torture.</ce:source-text>
+</reference>
+<reference seq="170">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Song Meter SM4 Wildlife Audio Recorder</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Wildlife Acoustics</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https://www.wildlifeacoustics.com/products/song-meter-sm4</ce:e-address>
+</ref-website>
+<ref-text>August 26</ref-text>
+</ref-info>
+<ref-fulltext>“Song Meter SM4 Wildlife Audio Recorder.” Wildlife Acoustics. https://www.wildlifeacoustics. com/products/song-meter-sm4 (accessed August 26, 2024).</ref-fulltext>
+<ce:source-text>“Song Meter SM4 Wildlife Audio Recorder.” Wildlife Acoustics. https://www.wildlifeacoustics. com/products/song-meter-sm4 (accessed August 26, 2024).</ce:source-text>
+</reference>
+<reference seq="171">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Southern</ce:surname>
+<ce:given-name>Eileen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Music of Black Americans: A History</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<ref-text>3rd ed. New York: Norton</ref-text>
+</ref-info>
+<ref-fulltext>Southern, Eileen. The Music of Black Americans: A History, 3rd ed. New York: Norton [1972], 1997.</ref-fulltext>
+<ce:source-text>Southern, Eileen. The Music of Black Americans: A History, 3rd ed. New York: Norton [1972], 1997.</ce:source-text>
+</reference>
+<reference seq="172">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Southern</ce:surname>
+<ce:given-name>Eileen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Readings in Black American Music</ref-sourcetitle>
+<ref-publicationyear first="1983"/>
+<ref-text>2nd edition. New York: Norton</ref-text>
+</ref-info>
+<ref-fulltext>Southern, Eileen, ed. Readings in Black American Music. 2nd edition. New York: Norton, 1983.</ref-fulltext>
+<ce:source-text>Southern, Eileen, ed. Readings in Black American Music. 2nd edition. New York: Norton, 1983.</ce:source-text>
+</reference>
+<reference seq="173">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mama’s Baby, Papa’s Maybe: An American Grammar Book</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.J.</ce:initials>
+<ce:surname>Spillers</ce:surname>
+<ce:given-name>Hortense J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Diacritics</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>65</first-page>
+<last-page>81</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Spillers, Hortense J. “Mama’s Baby, Papa’s Maybe: An American Grammar Book.” Diacritics 17, no. 2 (1987): 65–81.</ref-fulltext>
+<ce:source-text>Spillers, Hortense J. “Mama’s Baby, Papa’s Maybe: An American Grammar Book.” Diacritics 17, no. 2 (1987): 65–81.</ce:source-text>
+</reference>
+<reference seq="174">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Why Are Bike Lanes Such Heated Symbols Of Gentrification</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Stein</ce:surname>
+<ce:given-name>Perry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/news/local/wp/2015/11/12/why-are-bike-lanes-such-heated-symbols-of-gentrification/</ce:e-address>
+</ref-website>
+<ref-text>November 12</ref-text>
+</ref-info>
+<ref-fulltext>Stein, Perry. “Why Are Bike Lanes Such Heated Symbols Of Gentrification?” Washington Post, November 12, 2015. https://www.washingtonpost.com/news/local/wp/2015/11/12/why-are-bike-lanes-such-heated-symbols-of-gentrification/.</ref-fulltext>
+<ce:source-text>Stein, Perry. “Why Are Bike Lanes Such Heated Symbols Of Gentrification?” Washington Post, November 12, 2015. https://www.washingtonpost.com/news/local/wp/2015/11/12/why-are-bike-lanes-such-heated-symbols-of-gentrification/.</ce:source-text>
+</reference>
+<reference seq="175">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Net Worth of White Households in D.C. Region Is 81 Times That of Black Households</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Stein</ce:surname>
+<ce:given-name>Perry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/news/local/wp/2016/11/02/net-worth-of-white-households-in-d-c-region-is-81-times-greater-than-black-households/</ce:e-address>
+</ref-website>
+<ref-text>November 2</ref-text>
+</ref-info>
+<ref-fulltext>Stein, Perry. “Net Worth of White Households in D.C. Region Is 81 Times That of Black Households.” Washington Post, November 2, 2016. https://www.washingtonpost.com/news/ local/wp/2016/11/02/net-worth-of-white-households-in-d-c-region-is-81-times-greater-than-black-households/.</ref-fulltext>
+<ce:source-text>Stein, Perry. “Net Worth of White Households in D.C. Region Is 81 Times That of Black Households.” Washington Post, November 2, 2016. https://www.washingtonpost.com/news/ local/wp/2016/11/02/net-worth-of-white-households-in-d-c-region-is-81-times-greater-than-black-households/.</ce:source-text>
+</reference>
+<reference seq="176">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Sterne</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Audible Past: Cultural Origins of Sound Reproduction</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Sterne, Jonathan. The Audible Past: Cultural Origins of Sound Reproduction. Durham, NC: Duke University Press, 2003.</ref-fulltext>
+<ce:source-text>Sterne, Jonathan. The Audible Past: Cultural Origins of Sound Reproduction. Durham, NC: Duke University Press, 2003.</ce:source-text>
+</reference>
+<reference seq="177">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Sterne</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Sound Studies Reader</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Sterne, Jonathan. The Sound Studies Reader. New York: Routledge, 2012.</ref-fulltext>
+<ce:source-text>Sterne, Jonathan. The Sound Studies Reader. New York: Routledge, 2012.</ce:source-text>
+</reference>
+<reference seq="178">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Joe Biden Says ‘Poor Kids’ Are Just as Bright as ‘White Kids.’</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Stevens</ce:surname>
+<ce:given-name>Matt</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New York Times</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://www.nytimes.com/2019/08/09/us/politics/joe-biden-poor-kids.html</ce:e-address>
+</ref-website>
+<ref-text>August 9</ref-text>
+</ref-info>
+<ref-fulltext>Stevens, Matt. 2019. “Joe Biden Says ‘Poor Kids’ Are Just as Bright as ‘White Kids.’” New York Times, August 9, 2019. https://www.nytimes.com/2019/08/09/us/politics/joe-biden-poor-kids.html.</ref-fulltext>
+<ce:source-text>Stevens, Matt. 2019. “Joe Biden Says ‘Poor Kids’ Are Just as Bright as ‘White Kids.’” New York Times, August 9, 2019. https://www.nytimes.com/2019/08/09/us/politics/joe-biden-poor-kids.html.</ce:source-text>
+</reference>
+<reference seq="179">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fieldwork at Home: European and Asian Perspectives</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Stock</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Chiener</ce:surname>
+<ce:given-name>Chou</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>edited by Gregory Barz and Timothy Cooley. New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Stock, Jonathan, and Chou Chiener. “Fieldwork at Home: European and Asian Perspectives.” In Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology, edited by Gregory Barz and Timothy Cooley. New York: Oxford University Press, 2008.</ref-fulltext>
+<ce:source-text>Stock, Jonathan, and Chou Chiener. “Fieldwork at Home: European and Asian Perspectives.” In Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology, edited by Gregory Barz and Timothy Cooley. New York: Oxford University Press, 2008.</ce:source-text>
+</reference>
+<reference seq="180">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.L.</ce:initials>
+<ce:surname>Stoever</ce:surname>
+<ce:given-name>Jennifer Lynn</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Sonic Color Line: Race and the Cultural Politics of Listening</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>New York: NYU Press</ref-text>
+</ref-info>
+<ref-fulltext>Stoever, Jennifer Lynn. The Sonic Color Line: Race and the Cultural Politics of Listening. New York: NYU Press, 2016.</ref-fulltext>
+<ce:source-text>Stoever, Jennifer Lynn. The Sonic Color Line: Race and the Cultural Politics of Listening. New York: NYU Press, 2016.</ce:source-text>
+</reference>
+<reference seq="181">
+<ref-info>
+<ref-title>
+<ref-titletext-english>‘Ebola in Town’: Creating Musical Connections in Liberian Communities During the 2014 Crisis in West Africa</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.M.</ce:initials>
+<ce:surname>Stone</ce:surname>
+<ce:given-name>Ruth M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Africa Today</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>63</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>79</first-page>
+<last-page>97</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Stone, Ruth M. “‘Ebola in Town’: Creating Musical Connections in Liberian Communities During the 2014 Crisis in West Africa.” Africa Today 63, no. 3 (2017): 79–97.</ref-fulltext>
+<ce:source-text>Stone, Ruth M. “‘Ebola in Town’: Creating Musical Connections in Liberian Communities During the 2014 Crisis in West Africa.” Africa Today 63, no. 3 (2017): 79–97.</ce:source-text>
+</reference>
+<reference seq="182">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.T.</ce:initials>
+<ce:surname>Summers</ce:surname>
+<ce:given-name>Brandi Thompson</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black in Place: The Spatial Aesthetics of Race in a Post-Chocolate City</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Summers, Brandi Thompson. Black in Place: The Spatial Aesthetics of Race in a Post-Chocolate City. Chapel Hill: University of North Carolina Press, 2019.</ref-fulltext>
+<ce:source-text>Summers, Brandi Thompson. Black in Place: The Spatial Aesthetics of Race in a Post-Chocolate City. Chapel Hill: University of North Carolina Press, 2019.</ce:source-text>
+</reference>
+<reference seq="183">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Q+A: Stephan Pennington Talks Music History, Cultural Appropriation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Taber</ce:surname>
+<ce:given-name>Jake</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Tufts Daily</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-website>
+<ce:e-address type="url">https://tuftsdaily.com/features/2015/04/16/qa-stephan-pennington-talks-music-history-cultural-appropriation/</ce:e-address>
+</ref-website>
+<ref-text>April 16</ref-text>
+</ref-info>
+<ref-fulltext>Taber, Jake. “Q+A: Stephan Pennington Talks Music History, Cultural Appropriation.” The Tufts Daily (blog), April 16, 2015. https://tuftsdaily.com/features/2015/04/16/qa-stephan-pennington-talks-music-history-cultural-appropriation/.</ref-fulltext>
+<ce:source-text>Taber, Jake. “Q+A: Stephan Pennington Talks Music History, Cultural Appropriation.” The Tufts Daily (blog), April 16, 2015. https://tuftsdaily.com/features/2015/04/16/qa-stephan-pennington-talks-music-history-cultural-appropriation/.</ce:source-text>
+</reference>
+<reference seq="184">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.O.</ce:initials>
+<ce:surname>Táíwò</ce:surname>
+<ce:given-name>Olúfẹ́mi O.</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="2022"/>
+<ref-text>Chicago: Haymarket Books</ref-text>
+</ref-info>
+<ref-fulltext>Táíwò, Olúfẹ́mi O. Elite Capture: How the Powerful Took Over Identity Politics. Chicago: Haymarket Books, 2022.</ref-fulltext>
+<ce:source-text>Táíwò, Olúfẹ́mi O. Elite Capture: How the Powerful Took Over Identity Politics. Chicago: Haymarket Books, 2022.</ce:source-text>
+</reference>
+<reference seq="185">
+<ref-info>
+<ref-sourcetitle>The Right to Community</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">https://www.tandfonline.com/doi/epdf/10.1080/13604813.2018.1432178?needAccess=true&amp;role=button</ce:e-address>
+</ref-website>
+<ref-text>February 19</ref-text>
+</ref-info>
+<ref-fulltext>“The Right to Community?” https://www.tandfonline.com/doi/epdf/10.1080/13604 813.2018.1432178?needAccess = true&amp;role = button (accessed February 19, 2023).</ref-fulltext>
+<ce:source-text>“The Right to Community?” https://www.tandfonline.com/doi/epdf/10.1080/13604 813.2018.1432178?needAccess = true&amp;role = button (accessed February 19, 2023).</ce:source-text>
+</reference>
+<reference seq="186">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Historical and Modern Trends in Black Capitalism</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.L.</ce:initials>
+<ce:surname>Tolson</ce:surname>
+<ce:given-name>Arthur L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Black Scholar</ref-sourcetitle>
+<ref-publicationyear first="1975"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>7</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>8</first-page>
+<last-page>14</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tolson, Arthur L. “Historical and Modern Trends in Black Capitalism.” The Black Scholar 6, no. 7 (1975): 8–14.</ref-fulltext>
+<ce:source-text>Tolson, Arthur L. “Historical and Modern Trends in Black Capitalism.” The Black Scholar 6, no. 7 (1975): 8–14.</ce:source-text>
+</reference>
+<reference seq="187">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.-F.</ce:initials>
+<ce:surname>Tuan</ce:surname>
+<ce:given-name>Yi-Fu</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Space and Place: The Perspective of Experience</ref-sourcetitle>
+<ref-publicationyear first="1977"/>
+<ref-text>Minneapolis: University of Minnesota Press</ref-text>
+</ref-info>
+<ref-fulltext>Tuan, Yi-Fu. Space and Place: The Perspective of Experience. Minneapolis: University of Minnesota Press, 1977.</ref-fulltext>
+<ce:source-text>Tuan, Yi-Fu. Space and Place: The Perspective of Experience. Minneapolis: University of Minnesota Press, 1977.</ce:source-text>
+</reference>
+<reference seq="188">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Turino</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Music as Social Life: The Politics of Participation</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Turino, Thomas. Music as Social Life: The Politics of Participation. Chicago: University of Chicago Press, 2008.</ref-fulltext>
+<ce:source-text>Turino, Thomas. Music as Social Life: The Politics of Participation. Chicago: University of Chicago Press, 2008.</ce:source-text>
+</reference>
+<reference seq="189">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Walcott</ce:surname>
+<ce:given-name>Rinaldo</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Long Emancipation: Moving Toward Black Freedom</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>Durham, NC: Duke University Press Books</ref-text>
+</ref-info>
+<ref-fulltext>Walcott, Rinaldo. The Long Emancipation: Moving toward Black Freedom. Durham, NC: Duke University Press Books, 2021.</ref-fulltext>
+<ce:source-text>Walcott, Rinaldo. The Long Emancipation: Moving toward Black Freedom. Durham, NC: Duke University Press Books, 2021.</ce:source-text>
+</reference>
+<reference seq="190">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Why Big Data Needs Thick Data</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Wang</ce:surname>
+<ce:given-name>Tricia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethnography Matters</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-website>
+<ce:e-address type="url">https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7</ce:e-address>
+</ref-website>
+<ref-text>December 5</ref-text>
+</ref-info>
+<ref-fulltext>Wang, Tricia. 2016. “Why Big Data Needs Thick Data.” Ethnography Matters, December 5, 2016. https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7.</ref-fulltext>
+<ce:source-text>Wang, Tricia. 2016. “Why Big Data Needs Thick Data.” Ethnography Matters, December 5, 2016. https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7.</ce:source-text>
+</reference>
+<reference seq="191">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Mother Who Gave Go-Go Its First Big Push</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Wartofsky</ce:surname>
+<ce:given-name>Alona</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/archive/lifestyle/2003/02/01/the-mother-who-gave-go-go-its-first-big-push/15cc724b-b1b1-40bb-a3a3-ec3690dda78d/</ce:e-address>
+</ref-website>
+<ref-text>February 1</ref-text>
+</ref-info>
+<ref-fulltext>Wartofsky, Alona. “The Mother Who Gave Go-Go Its First Big Push.” Washington Post, February 1, 2003. https://www.washingtonpost.com/archive/lifestyle/2003/02/01/the-mot her-who-gave-go-go-its-first-big-push/15cc724b-b1b1-40bb-a3a3-ec3690dda78d/.</ref-fulltext>
+<ce:source-text>Wartofsky, Alona. “The Mother Who Gave Go-Go Its First Big Push.” Washington Post, February 1, 2003. https://www.washingtonpost.com/archive/lifestyle/2003/02/01/the-mot her-who-gave-go-go-its-first-big-push/15cc724b-b1b1-40bb-a3a3-ec3690dda78d/.</ce:source-text>
+</reference>
+<reference seq="192">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Success of Moechella and #DontMuteDC Is Galvanizing Go-Go</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Wartofsky</ce:surname>
+<ce:given-name>Alona</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington City Paper</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://washingtoncitypaper.com/article/180244/moechella-is-just-the-beginning/</ce:e-address>
+</ref-website>
+<ref-text>May 16</ref-text>
+</ref-info>
+<ref-fulltext>Wartofsky, Alona. “The Success of Moechella and #DontMuteDC Is Galvanizing Go-Go.” Washington City Paper, May 16, 2019. https://washingtoncitypaper.com/article/180244/ moechella-is-just-the-beginning/.</ref-fulltext>
+<ce:source-text>Wartofsky, Alona. “The Success of Moechella and #DontMuteDC Is Galvanizing Go-Go.” Washington City Paper, May 16, 2019. https://washingtoncitypaper.com/article/180244/ moechella-is-just-the-beginning/.</ce:source-text>
+</reference>
+<reference seq="193">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Wells Fargo CEO: ‘A Watershed Moment</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Wells Fargo Stories</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-website>
+<ce:e-address type="url">https://stories.wf.com/wells-fargo-ceo-a-watershed-moment/</ce:e-address>
+</ref-website>
+<ref-text>June 19</ref-text>
+</ref-info>
+<ref-fulltext>“Wells Fargo CEO: ‘A Watershed Moment.’” Wells Fargo Stories, June 19, 2020. https://stories. wf.com/wells-fargo-ceo-a-watershed-moment/.</ref-fulltext>
+<ce:source-text>“Wells Fargo CEO: ‘A Watershed Moment.’” Wells Fargo Stories, June 19, 2020. https://stories. wf.com/wells-fargo-ceo-a-watershed-moment/.</ce:source-text>
+</reference>
+<reference seq="194">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Weheliye</ce:surname>
+<ce:given-name>Alexander</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Phonographies: Grooves in Sonic Afro-Modernity</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Weheliye, Alexander. Phonographies: Grooves in Sonic Afro-Modernity. Durham, NC: Duke University Press, 2005.</ref-fulltext>
+<ce:source-text>Weheliye, Alexander. Phonographies: Grooves in Sonic Afro-Modernity. Durham, NC: Duke University Press, 2005.</ce:source-text>
+</reference>
+<reference seq="195">
+<ref-info>
+<ref-title>
+<ref-titletext-english>D.C. Slave Emancipation Day Declared a Holiday</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Wheeler</ce:surname>
+<ce:given-name>Linda</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/archive/local/2000/03/30/dc-slave-emancipation-day-declared-a-holiday/1c0fa519-c076-4745-8f0e-683908b94b88/</ce:e-address>
+</ref-website>
+<ref-text>March 30</ref-text>
+</ref-info>
+<ref-fulltext>Wheeler, Linda. 2000. “D.C. Slave Emancipation Day Declared a Holiday.” Washington Post, March 30, 2000. https://www.washingtonpost.com/archive/local/2000/03/30/dc-slave-emancipation-day-declared-a-holiday/1c0fa519-c076-4745-8f0e-683908b94b88/.</ref-fulltext>
+<ce:source-text>Wheeler, Linda. 2000. “D.C. Slave Emancipation Day Declared a Holiday.” Washington Post, March 30, 2000. https://www.washingtonpost.com/archive/local/2000/03/30/dc-slave-emancipation-day-declared-a-holiday/1c0fa519-c076-4745-8f0e-683908b94b88/.</ce:source-text>
+</reference>
+<reference seq="196">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Williams</ce:surname>
+<ce:given-name>Brett</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Upscaling Downtown: Stalled Gentrification in Washington, D.C</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<ref-text>Ithaca, NY: Cornell University Press</ref-text>
+</ref-info>
+<ref-fulltext>Williams, Brett. Upscaling Downtown: Stalled Gentrification in Washington, D.C. Ithaca, NY: Cornell University Press, 1988.</ref-fulltext>
+<ce:source-text>Williams, Brett. Upscaling Downtown: Stalled Gentrification in Washington, D.C. Ithaca, NY: Cornell University Press, 1988.</ce:source-text>
+</reference>
+<reference seq="197">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.W.</ce:initials>
+<ce:surname>Wilson</ce:surname>
+<ce:given-name>Matthew W.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Lines: Critical GIS and the Trouble of the Map</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Minneapolis: University of Minnesota Press</ref-text>
+</ref-info>
+<ref-fulltext>Wilson, Matthew W. New Lines: Critical GIS and the Trouble of the Map. Minneapolis: University of Minnesota Press, 2017.</ref-fulltext>
+<ce:source-text>Wilson, Matthew W. New Lines: Critical GIS and the Trouble of the Map. Minneapolis: University of Minnesota Press, 2017.</ce:source-text>
+</reference>
+<reference seq="198">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Moving: From Performance to Performative Ethnography and Back Again</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Wong</ce:surname>
+<ce:given-name>Deborah</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>edited by Gregory Barz and Timothy Cooley. New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Wong, Deborah. “Moving: From Performance to Performative Ethnography and Back Again.” In Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology, edited by Gregory Barz and Timothy Cooley. New York: Oxford University Press, 2008.</ref-fulltext>
+<ce:source-text>Wong, Deborah. “Moving: From Performance to Performative Ethnography and Back Again.” In Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology, edited by Gregory Barz and Timothy Cooley. New York: Oxford University Press, 2008.</ce:source-text>
+</reference>
+<reference seq="199">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Worthington</ce:surname>
+<ce:given-name>Garrettson Snethen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Black Code of the District of Columbia, in Force September 1St, 1848</ref-sourcetitle>
+<ref-publicationyear first="1848"/>
+<ref-text>A. &amp; F. Anti-Slavery Society</ref-text>
+</ref-info>
+<ref-fulltext>Worthington, Garrettson Snethen. The Black Code of the District of Columbia, in Force September 1st, 1848. A. &amp; F. Anti-Slavery Society, 1848.</ref-fulltext>
+<ce:source-text>Worthington, Garrettson Snethen. The Black Code of the District of Columbia, in Force September 1st, 1848. A. &amp; F. Anti-Slavery Society, 1848.</ce:source-text>
+</reference>
+<reference seq="200">
+<ref-info>
+<ref-title>
+<ref-titletext-english>D.C.’s Chinatown Has Only 300 Chinese Americans Left, and They’re Fighting to Stay</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Wang</ce:surname>
+<ce:given-name>Yanan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Washington Post</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-website>
+<ce:e-address type="url">https://www.washingtonpost.com/lifestyle/style/dcs-chinatown-has-only-300-chinese-americans-left--and-fighting-to-stay/2015/07/16/86d54e84-2191-11e5-bf41-c23f5d3face1_story.html</ce:e-address>
+</ref-website>
+<ref-text>July 18</ref-text>
+</ref-info>
+<ref-fulltext>Wang, Yanan. “D.C.’s Chinatown Has Only 300 Chinese Americans Left, and They’re Fighting to Stay.” Washington Post, July 18, 2015. https://www.washingtonpost.com/lifestyle/style/ dcs-chinatown-has-only-300-chinese-americans-left--and-fighting-to-stay/2015/07/16/ 86d54e84-2191-11e5-bf41-c23f5d3face1_story.html.</ref-fulltext>
+<ce:source-text>Wang, Yanan. “D.C.’s Chinatown Has Only 300 Chinese Americans Left, and They’re Fighting to Stay.” Washington Post, July 18, 2015. https://www.washingtonpost.com/lifestyle/style/ dcs-chinatown-has-only-300-chinese-americans-left--and-fighting-to-stay/2015/07/16/ 86d54e84-2191-11e5-bf41-c23f5d3face1_story.html.</ce:source-text>
+</reference>
+<reference seq="201">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Zukin</ce:surname>
+<ce:given-name>Sharon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Cultures of Cities</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<ref-text>Cambridge, MA: Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Zukin, Sharon. The Cultures of Cities. Cambridge, MA: Blackwell, 1996.</ref-fulltext>
+<ce:source-text>Zukin, Sharon. The Cultures of Cities. Cambridge, MA: Blackwell, 1996.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

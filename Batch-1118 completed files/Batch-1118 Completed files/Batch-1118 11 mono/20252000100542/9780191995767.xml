@@ -1,0 +1,3871 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-16T20:01:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1093/9780191995767.001.0001</ce:doi>
+<itemid idtype="TPB-ID">20252000100542</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+<author-keywords>
+<author-keyword>Painting</author-keyword>
+<author-keyword>Aesthetics</author-keyword>
+<author-keyword>Representation</author-keyword>
+<author-keyword>Style</author-keyword>
+<author-keyword>Pictorial organization</author-keyword>
+<author-keyword>Neurosis</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Uncollected Writings: Writing on Art</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Kemp</ce:surname>
+<ce:given-name>Gary</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Glasgow</organization>
+<country iso-code="GBR"/>
+<ce:source-text>Senior Lecturer University of Glasgow, UK</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Toreno</ce:surname>
+<ce:given-name>Elisabetta</ce:given-name>
+</author>
+<affiliation>
+<organization>Open University</organization>
+<country iso-code="GBR"/>
+<ce:source-text>Associate Lecturer Open University, UK</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>G.</ce:initials>
+<ce:surname>Kemp</ce:surname>
+<ce:given-name>Gary</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Glasgow</organization>
+<country iso-code="GBR"/>
+<ce:source-text>Senior Lecturer University of Glasgow, UK</ce:source-text>
+</affiliation>
+</correspondence>
+<correspondence>
+<person>
+<ce:initials>E.</ce:initials>
+<ce:surname>Toreno</ce:surname>
+<ce:given-name>Elisabetta</ce:given-name>
+</person>
+<affiliation>
+<organization>Open University</organization>
+<country iso-code="GBR"/>
+<ce:source-text>Associate Lecturer Open University, UK</ce:source-text>
+</affiliation>
+</correspondence>
+<correspondence>
+<person>
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</person>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Gary Kemp and Elisabetta Toreno 2025</publishercopyright>
+<ce:para>This is the first of three planned volumes of Richard Wollheim’s work for Oxford University Press. The others are volumes on political philosophy, edited by Jonathan Wolff; and on philosophical psychology, edited by Garry Hagberg. The present volume serves two purposes. First, it contains articles published before 1994 that did not appear in any collection under his name, plus ones published since 1994, and therefore after any collection appeared of his work. Second, at the time of his death he was assembling a small book, which comprised two revised essays, the original versions of which appeared in 1994 (‘On Formalism and Its Kinds’) and 2001 (‘On Formalism and Pictorial Organisation’), plus substantial new material. The whole is reproduced here (we’ve followed Wollheim in referring to them as ‘Lectures’). Together with works of the first kind, along with his works of 1974, 1980, 1986, and 1994, we are thus provided with a complete collection of Wollheim’s works in the philosophy of art.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="GBR">
+<sourcetitle>Uncollected writings: writing on art</sourcetitle>
+<sourcetitle-abbrev>Uncollected writings: writing on art</sourcetitle-abbrev>
+<isbn type="print" length="13">9780198890126</isbn>
+<isbn type="electronic" length="13">9780191995767</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>368</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>22</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://academic.oup.com/book/59484</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="186">
+<reference seq="1">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Minimal Art</ref-sourcetitle>
+<ref-publicationyear first="1965"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>39</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>26</first-page>
+<last-page>32</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Arts Magazine, Jan</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, ‘Minimal Art’, Arts Magazine, 39.4 (Jan.1965), pp. 26– 32.</ref-fulltext>
+<ce:source-text>Richard Wollheim, ‘Minimal Art’, Arts Magazine, 39.4 (Jan.1965), pp. 26– 32.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Budd</ce:surname>
+<ce:given-name>Malcolm</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Richard Arthur Wollheim 1923– 2003</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>130</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>227</first-page>
+<last-page>246</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Proceedings of the British Academy</ref-text>
+</ref-info>
+<ref-fulltext>Malcolm Budd, ‘Richard Arthur Wollheim 1923– 2003’, Proceedings of the British Academy, 130 (2005), pp. 227– 46.</ref-fulltext>
+<ce:source-text>Malcolm Budd, ‘Richard Arthur Wollheim 1923– 2003’, Proceedings of the British Academy, 130 (2005), pp. 227– 46.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Delaborde</ce:surname>
+<ce:given-name>Henri</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ingres, Savie, Sestravaux, Sa Doctrine: D'apres Les Notes Manuscrites Et Les Lettres Du Maitre</ref-sourcetitle>
+<ref-publicationyear first="1870"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>79</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Paris: H. Plon</ref-text>
+</ref-info>
+<ref-fulltext>Henri Delaborde, Ingres, savie, sestravaux, sa doctrine: d’apres les notes manuscrites et les lettres du maitre(Paris: H. Plon, 1870), p. 79.</ref-fulltext>
+<ce:source-text>Henri Delaborde, Ingres, savie, sestravaux, sa doctrine: d’apres les notes manuscrites et les lettres du maitre(Paris: H. Plon, 1870), p. 79.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Winckelmann</ce:surname>
+<ce:given-name>Joachim</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The History of Ancient Art, trans</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Joachim Winckelmann, The History of Ancient Art, trans.</ref-fulltext>
+<ce:source-text>Joachim Winckelmann, The History of Ancient Art, trans.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Lodge</ce:surname>
+<ce:given-name>Henry</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1880"/>
+<ref-text>Boston, MA: J. R. Osgood</ref-text>
+</ref-info>
+<ref-fulltext>Henry Lodge(Boston, MA: J. R. Osgood, 1880);</ref-fulltext>
+<ce:source-text>Henry Lodge(Boston, MA: J. R. Osgood, 1880);</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Kant</ce:surname>
+<ce:given-name>Immanuel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Critique of the Power of Judgement</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<ref-text>Paul Guyer, trans. Paul Guyer and Eric Matthews (Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>ImmanuelKant, Critique of the Power of Judgement, ed. Paul Guyer, trans. Paul Guyer and Eric Matthews (Cambridge: Cambridge University Press, 2000);</ref-fulltext>
+<ce:source-text>ImmanuelKant, Critique of the Power of Judgement, ed. Paul Guyer, trans. Paul Guyer and Eric Matthews (Cambridge: Cambridge University Press, 2000);</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.W.F.</ce:initials>
+<ce:surname>Hegel</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Aesthetics: Lectures on Fine Art</ref-sourcetitle>
+<ref-publicationyear first="1975"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>H. G. Hotho, trans. T. M. Knox, 3 vols Oxford: Clarendon Press</ref-text>
+</ref-info>
+<ref-fulltext>G. W. F. Hegel, Aesthetics: Lectures on Fine Art, ed. H. G. Hotho, trans. T. M. Knox, 3 vols (Oxford: Clarendon Press, 1975), vol. 1.</ref-fulltext>
+<ce:source-text>G. W. F. Hegel, Aesthetics: Lectures on Fine Art, ed. H. G. Hotho, trans. T. M. Knox, 3 vols (Oxford: Clarendon Press, 1975), vol. 1.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Dickie</ce:surname>
+<ce:given-name>George</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Introduction to Aesthetics: An Analytic Approach</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>25</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>GeorgeDickie, Introduction to Aesthetics: An Analytic Approach(Oxford: Oxford University Press, 1997), p. 25.</ref-fulltext>
+<ce:source-text>GeorgeDickie, Introduction to Aesthetics: An Analytic Approach(Oxford: Oxford University Press, 1997), p. 25.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Shelley</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Concept of the Aesthetic</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://plato.stanford.edu/archives/spr2022/entries/aesthetic-concept/</ce:e-address>
+</ref-website>
+<ref-text>Edward N. Zalta (ed.)Stanford Encyclopedia of Philosophy (Spring 2022)</ref-text>
+</ref-info>
+<ref-fulltext>James Shelley, ‘The Concept of the Aesthetic’, in Edward N. Zalta (ed.). Stanford Encyclopedia of Philosophy (Spring 2022), https://plato.stanford.edu/archives/spr2022/entries/aesthetic-concept/;</ref-fulltext>
+<ce:source-text>James Shelley, ‘The Concept of the Aesthetic’, in Edward N. Zalta (ed.). Stanford Encyclopedia of Philosophy (Spring 2022), https://plato.stanford.edu/archives/spr2022/entries/aesthetic-concept/;</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Barasch</ce:surname>
+<ce:given-name>Mosche</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Theories of Art, 1: From Plato to Winckelmann</ref-sourcetitle>
+<ref-publicationyear first="1985"/>
+<ref-text>New York and London: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Mosche Barasch, Theories of Art, 1: From Plato to Winckelmann(New York and London: Routledge, 1985).</ref-fulltext>
+<ce:source-text>Mosche Barasch, Theories of Art, 1: From Plato to Winckelmann(New York and London: Routledge, 1985).</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>From Stylus to Style: Reflections on the Fate of a Nation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Sauerländer</ce:surname>
+<ce:given-name>Willibald</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art History</ref-sourcetitle>
+<ref-publicationyear first="1983"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>253</first-page>
+<last-page>270</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Sept</ref-text>
+</ref-info>
+<ref-fulltext>Willibald Sauerländer, ‘From Stylus to Style: Reflections on the Fate of a Nation’, Art History, 6.3 (Sept.1983), pp. 253– 70 (p. 255).</ref-fulltext>
+<ce:source-text>Willibald Sauerländer, ‘From Stylus to Style: Reflections on the Fate of a Nation’, Art History, 6.3 (Sept.1983), pp. 253– 70 (p. 255).</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Norm and Form: The Stylistic Categories of Art History and their Origins in Renaissance Ideals</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Gombrich on the Renaissance, Vol. 1: Norm and Form</ref-sourcetitle>
+<ref-publicationyear first="1966"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>81</first-page>
+<last-page>98</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>4th edn (1<sup>st</sup>edn, London: Phaidon Press</ref-text>
+</ref-info>
+<ref-fulltext>Ernst Gombrich, ‘Norm and Form: The Stylistic Categories of Art History and their Origins in Renaissance Ideals’, in Gombrich on the Renaissance, vol. 1: Norm and Form, 4th edn (1<sup>st</sup>edn 1966);</ref-fulltext>
+<ce:source-text>Ernst Gombrich, ‘Norm and Form: The Stylistic Categories of Art History and their Origins in Renaissance Ideals’, in Gombrich on the Renaissance, vol. 1: Norm and Form, 4th edn (1st edn 1966);</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-publicationyear first="1985"/>
+<ref-text>London: Phaidon Press, 1985, pp. 81– 98</ref-text>
+</ref-info>
+<ref-fulltext>London: Phaidon Press, 1985, pp. 81– 98.</ref-fulltext>
+<ce:source-text>London: Phaidon Press, 1985, pp. 81– 98.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Peacocke</ce:surname>
+<ce:given-name>Antonia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Aesthetic Experience</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">https://plato.stanford.edu/entries/aesthetic-experience/</ce:e-address>
+</ref-website>
+<ref-text>Stanford Encyclopedia of Philosophy</ref-text>
+</ref-info>
+<ref-fulltext>Antonia Peacocke, ‘Aesthetic Experience, ’ in Stanford Encyclopedia of Philosophy(2023), https://plato.stanford.edu/entries/aesthetic-experience/;</ref-fulltext>
+<ce:source-text>Antonia Peacocke, ‘Aesthetic Experience, ’ in Stanford Encyclopedia of Philosophy(2023), https://plato.stanford.edu/entries/aesthetic-experience/;</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Guyer</ce:surname>
+<ce:given-name>Paul</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>18Th Century German Aesthetics</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-website>
+<ce:e-address type="url">https://plato.stanford.edu/archives/fall2020/entries/aesthetics-18th-german/</ce:e-address>
+</ref-website>
+<ref-text>Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Fall</ref-text>
+</ref-info>
+<ref-fulltext>Paul Guyer, ‘18th Century German Aesthetics’, in Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Fall 2020), https://plato.stanford.edu/archives/fall2020/entries/aesthetics-18th-german/.</ref-fulltext>
+<ce:source-text>Paul Guyer, ‘18th Century German Aesthetics’, in Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Fall 2020), https://plato.stanford.edu/archives/fall2020/entries/aesthetics-18th-german/.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Kemp</ce:surname>
+<ce:given-name>Gary</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Croce’s Aesthetics</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-website>
+<ce:e-address type="url">https://plato.stanford.edu/archives/win2021/entries/croce-aesthetics/</ce:e-address>
+</ref-website>
+<ref-text>Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Winter</ref-text>
+</ref-info>
+<ref-fulltext>Gary Kemp, ‘Croce’s Aesthetics’, in Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Winter2021), https://plato.stanford.edu/archives/win2021/entries/croce-aesthetics/.</ref-fulltext>
+<ce:source-text>Gary Kemp, ‘Croce’s Aesthetics’, in Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Winter2021), https://plato.stanford.edu/archives/win2021/entries/croce-aesthetics/.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Adajian</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Definition of Art</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://plato.stanford.edu/archives/spr2022/entries/art-definition/</ce:e-address>
+</ref-website>
+<ref-text>Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Spring</ref-text>
+</ref-info>
+<ref-fulltext>Thomas Adajian, ‘The Definition of Art’, in Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Spring2022), https://plato.stanford.edu/archives/spr2022/entries/art-definition/;</ref-fulltext>
+<ce:source-text>Thomas Adajian, ‘The Definition of Art’, in Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Spring2022), https://plato.stanford.edu/archives/spr2022/entries/art-definition/;</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Hatt</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Klonk</ce:surname>
+<ce:given-name>Charlotte</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art History: A Critical Introduction to Its Methods</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-text>Manchester: Manchester University Press</ref-text>
+</ref-info>
+<ref-fulltext>Michael Hatt and Charlotte Klonk, Art History: A Critical Introduction to its Methods(Manchester: Manchester University Press, 2006);</ref-fulltext>
+<ce:source-text>Michael Hatt and Charlotte Klonk, Art History: A Critical Introduction to its Methods(Manchester: Manchester University Press, 2006);</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Podro</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Critical Art Historians of Art</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<ref-text>New Haven, CT: Yale University Press</ref-text>
+</ref-info>
+<ref-fulltext>Michael Podro, The Critical Art Historians of Art(New Haven, CT: Yale University Press, 1982).</ref-fulltext>
+<ce:source-text>Michael Podro, The Critical Art Historians of Art(New Haven, CT: Yale University Press, 1982).</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.B.</ce:initials>
+<ce:surname>Alberti</ce:surname>
+<ce:given-name>Leon Battista</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On Painting, Intr and Trans</ref-sourcetitle>
+<ref-publicationyear first="1956"/>
+<ref-text>John R. Spencer (1956; repr New Haven, CT: Yale University Press</ref-text>
+</ref-info>
+<ref-fulltext>Leon Battista Alberti, On Painting, intr. and trans. John R. Spencer 1956;</ref-fulltext>
+<ce:source-text>Leon Battista Alberti, On Painting, intr. and trans. John R. Spencer 1956;</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.R.</ce:initials>
+<ce:surname>Mengs</ce:surname>
+<ce:given-name>Anton Raphael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Works of Anthony Raphael Mengs, First Painter to His Catholic Majesty Charles III, Trans from the Italian</ref-sourcetitle>
+<ref-publicationyear first="1796"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>21</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: R. Faulder &amp; G. and J. Robinson</ref-text>
+</ref-info>
+<ref-fulltext>Anton Raphael Mengs, The Works of Anthony Raphael Mengs, first painter to His Catholic Majesty Charles III, trans. from the Italian(London: R. Faulder &amp; G. and J. Robinson, 1796), p. 21</ref-fulltext>
+<ce:source-text>Anton Raphael Mengs, The Works of Anthony Raphael Mengs, first painter to His Catholic Majesty Charles III, trans. from the Italian(London: R. Faulder &amp; G. and J. Robinson, 1796), p. 21</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Wollheim</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Minimal Art</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wollheim, ‘Minimal Art, ’ 26.</ref-fulltext>
+<ce:source-text>Wollheim, ‘Minimal Art, ’ 26.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Waldman</ce:surname>
+<ce:given-name>Guido</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>391</first-page>
+<last-page>393</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>(Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Guido Waldman(Oxford: Oxford University Press, 1993), VI.5, pp. 391– 3 (p. 392).</ref-fulltext>
+<ce:source-text>Guido Waldman(Oxford: Oxford University Press, 1993), VI.5, pp. 391– 3 (p. 392).</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Kris</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>O.</ce:initials>
+<ce:surname>Kurz</ce:surname>
+<ce:given-name>Otto</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Legend, Myth, and Magic in the Image of the Artist: A Historical Experiment</ref-sourcetitle>
+<ref-publicationyear first="1979"/>
+<ref-text>New Haven, CT: Yale University Press</ref-text>
+</ref-info>
+<ref-fulltext>Ernst Kris and Otto Kurz, Legend, Myth, and Magic in the Image of the Artist: A Historical Experiment(New Haven, CT: Yale University Press, 1979).</ref-fulltext>
+<ce:source-text>Ernst Kris and Otto Kurz, Legend, Myth, and Magic in the Image of the Artist: A Historical Experiment(New Haven, CT: Yale University Press, 1979).</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Panofsky</ce:surname>
+<ce:given-name>Erwin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Studies in Iconology</ref-sourcetitle>
+<ref-publicationyear first="1939"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Erwin Panofsky, Studies in Iconology(New York: Oxford University Press, 1939)</ref-fulltext>
+<ce:source-text>Erwin Panofsky, Studies in Iconology(New York: Oxford University Press, 1939)</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.J.</ce:initials>
+<ce:surname>Clark</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Image of the People: Gustave Courbet and the 1848 Revolution</ref-sourcetitle>
+<ref-publicationyear first="1973"/>
+<ref-text>(Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>T. J. Clark, Image of the People: Gustave Courbet and the 1848 Revolution (Berkeley: University of California Press, 1973)</ref-fulltext>
+<ce:source-text>T. J. Clark, Image of the People: Gustave Courbet and the 1848 Revolution (Berkeley: University of California Press, 1973)</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Alpers</ce:surname>
+<ce:given-name>Svetlana</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Art of Describing: Dutch Art in the Seventeenth Century</ref-sourcetitle>
+<ref-publicationyear first="1983"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Svetlana Alpers, The Art of Describing: Dutch Art in the Seventeenth Century (Chicago: University of Chicago Press, 1983)</ref-fulltext>
+<ce:source-text>Svetlana Alpers, The Art of Describing: Dutch Art in the Seventeenth Century (Chicago: University of Chicago Press, 1983)</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.T.J.</ce:initials>
+<ce:surname>Mitchell</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Picture Theory</ref-sourcetitle>
+<ref-publicationyear first="1994"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>W. T. J Mitchell, Picture Theory(Chicago: University of Chicago Press, 1994)</ref-fulltext>
+<ce:source-text>W. T. J Mitchell, Picture Theory(Chicago: University of Chicago Press, 1994)</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Universal Survey Museum</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Duncan</ce:surname>
+<ce:given-name>Carol</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Wallach</ce:surname>
+<ce:given-name>Alan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art History</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>448</first-page>
+<last-page>469</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Dec</ref-text>
+</ref-info>
+<ref-fulltext>Carol Duncan and Alan Wallach, ‘The Universal Survey Museum’, Art History, 3.4 (Dec. 1980), pp. 448– 69;</ref-fulltext>
+<ce:source-text>Carol Duncan and Alan Wallach, ‘The Universal Survey Museum’, Art History, 3.4 (Dec. 1980), pp. 448– 69;</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>McClellan</ce:surname>
+<ce:given-name>Andrew</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Art Museum from Boullée to Bilbao</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>Andrew McClellan, The Art Museum From Boullée to Bilbao (Berkeley: University of California Press, 2008).</ref-fulltext>
+<ce:source-text>Andrew McClellan, The Art Museum From Boullée to Bilbao (Berkeley: University of California Press, 2008).</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Danto</ce:surname>
+<ce:given-name>Arthur</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Transfiguration of the Commonplace</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Arthur Danto, The Transfiguration of the Commonplace (Cambridge, MA: Harvard University Press, 1981)</ref-fulltext>
+<ce:source-text>Arthur Danto, The Transfiguration of the Commonplace (Cambridge, MA: Harvard University Press, 1981)</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Illusion: A Study in the Psychology of Pictorial Representation, 6Th Edn</ref-sourcetitle>
+<ref-publicationyear first="1960"/>
+</ref-info>
+<ref-fulltext>Ernst Gombrich, Art and Illusion: A Study in the Psychology of Pictorial Representation, 6th edn1960;</ref-fulltext>
+<ce:source-text>Ernst Gombrich, Art and Illusion: A Study in the Psychology of Pictorial Representation, 6th edn1960;</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>153</first-page>
+<last-page>244</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>London: Phaidon, 2002, pp. 153– 244</ref-fulltext>
+<ce:source-text>London: Phaidon, 2002, pp. 153– 244</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Dickie</ce:surname>
+<ce:given-name>George</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Art Circle</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>80</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Haven</ref-text>
+</ref-info>
+<ref-fulltext>George Dickie, The Art Circle(New York: Haven, 1984), p. 80;</ref-fulltext>
+<ce:source-text>George Dickie, The Art Circle(New York: Haven, 1984), p. 80;</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Moxey</ce:surname>
+<ce:given-name>Keith</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>173</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Keith Moxey, Visual Time: The Image in History (Durham, NC: Duke University Press, 2013), p. 173.</ref-fulltext>
+<ce:source-text>Keith Moxey, Visual Time: The Image in History (Durham, NC: Duke University Press, 2013), p. 173.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Reading Critical Theory</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Holly</ce:surname>
+<ce:given-name>Michael Ann</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Past Looking: Historical Imagination and the Rhetoric of the Image</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>170</first-page>
+<last-page>208</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Ithaca, NY: Cornell University Press</ref-text>
+</ref-info>
+<ref-fulltext>Michael Ann Holly, ‘Reading Critical Theory’, in Past Looking: Historical Imagination and the Rhetoric of the Image (Ithaca, NY: Cornell University Press, 1996), pp. 170– 208;</ref-fulltext>
+<ce:source-text>Michael Ann Holly, ‘Reading Critical Theory’, in Past Looking: Historical Imagination and the Rhetoric of the Image (Ithaca, NY: Cornell University Press, 1996), pp. 170– 208;</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<itemidlist>
+<ce:doi>10.1093/OBO/9780190221911-0016</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.Y.</ce:initials>
+<ce:surname>Sencindiver</ce:surname>
+<ce:given-name>Susan Yi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Materialism</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Oxford Bibliographies3 June</ref-text>
+</ref-info>
+<ref-fulltext>Susan Yi Sencindiver, ‘New Materialism’, Oxford Bibliographies, 3 June2019, DOI: 10.1093/ OBO/ 9780190221911- 0016.</ref-fulltext>
+<ce:source-text>Susan Yi Sencindiver, ‘New Materialism’, Oxford Bibliographies, 3 June2019, DOI: 10.1093/ OBO/ 9780190221911- 0016.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What Is Object- Oriented Ontology</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Kerr</ce:surname>
+<ce:given-name>Dylan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Quick- And- Dirty Guide to the Philosophical Movement Sweeping the Art World’, Artspace</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-website>
+<ce:e-address type="url">https://www.artspace.com/magazine/interviews_features/the_big_idea/a-guide-to-object-oriented-ontology-art-53690</ce:e-address>
+</ref-website>
+<ref-text>8 Apr</ref-text>
+</ref-info>
+<ref-fulltext>Dylan Kerr, ‘What Is Object- Oriented Ontology? A Quick- and- Dirty Guide to the Philosophical Movement Sweeping the Art World’, Artspace, 8 Apr. 2016, https://www.artspace.com/magazine/interviews_features/the_big_ idea/a-guide-to-object-oriented-ontology-art-53690.</ref-fulltext>
+<ce:source-text>Dylan Kerr, ‘What Is Object- Oriented Ontology? A Quick- and- Dirty Guide to the Philosophical Movement Sweeping the Art World’, Artspace, 8 Apr. 2016, https://www.artspace.com/magazine/interviews_features/the_big_ idea/a-guide-to-object-oriented-ontology-art-53690.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Cole</ce:surname>
+<ce:given-name>Andrew</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Those Obscure Objects of Desire: The Uses and Abuses of Object- Oriented Ontology and Speculative Realismartforum</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>53</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>10</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://www.artforum.com/print/201506/the-uses-and-abuses-of-object-oriented-ontology-and-speculative-realism-andrew-cole-52280</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Andrew Cole, ‘Those Obscure Objects of Desire: The Uses and Abuses of Object- Oriented Ontology and Speculative Realism’, Artforum, 53i.10, https://www.artforum.com/print/ 201506/the-uses-and-abuses-of-object-oriented-ontology-and-speculative-realism-andrew-cole-52280.</ref-fulltext>
+<ce:source-text>Andrew Cole, ‘Those Obscure Objects of Desire: The Uses and Abuses of Object- Oriented Ontology and Speculative Realism’, Artforum, 53i.10, https://www.artforum.com/print/ 201506/the-uses-and-abuses-of-object-oriented-ontology-and-speculative-realism-andrew-cole-52280.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Hume</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Of the Standard of Taste’, in Four Dissertations</ref-sourcetitle>
+<ref-publicationyear first="1757"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>215</first-page>
+<last-page>240</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: A. Millar</ref-text>
+</ref-info>
+<ref-fulltext>David Hume, ‘Of the Standard of Taste’, in Four Dissertations (London: A. Millar, 1757), pp. 215– 40;</ref-fulltext>
+<ce:source-text>David Hume, ‘Of the Standard of Taste’, in Four Dissertations (London: A. Millar, 1757), pp. 215– 40;</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Creath</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Logical Empiricism</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>2022</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://plato.stanford.edu/entries/logical-empiricism/</ce:e-address>
+</ref-website>
+<ref-text>Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Winter</ref-text>
+</ref-info>
+<ref-fulltext>Richard Creath, ‘Logical Empiricism’, in Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Winter2022), https://plato.stanford.edu/entries/logical-empiricism/</ref-fulltext>
+<ce:source-text>Richard Creath, ‘Logical Empiricism’, in Edward N. Zalta (ed.), Stanford Encyclopedia of Philosophy (Winter2022), https://plato.stanford.edu/entries/logical-empiricism/</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Meditations on a Hobby Horse</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<ref-text>London: Phaidon Press</ref-text>
+</ref-info>
+<ref-fulltext>Ernst Gombrich, Meditations on a Hobby Horse(London: Phaidon Press, 1963).</ref-fulltext>
+<ce:source-text>Ernst Gombrich, Meditations on a Hobby Horse(London: Phaidon Press, 1963).</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Painting as an Art</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Painting as an Art(Princeton, NJ: Princeton University Press, 1987), p. 8</ref-fulltext>
+<ce:source-text>Richard Wollheim, Painting as an Art(Princeton, NJ: Princeton University Press, 1987), p. 8</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Illusion and Representation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Wilson</ce:surname>
+<ce:given-name>Catherine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>British Journal of Aesthetics</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>215</first-page>
+<last-page>217</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Catherine Wilson, ‘Illusion and Representation’, British Journal of Aesthetics, 22 (1982), pp. 215– 17.</ref-fulltext>
+<ce:source-text>Catherine Wilson, ‘Illusion and Representation’, British Journal of Aesthetics, 22 (1982), pp. 215– 17.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Baxandall'S</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Primer in the Social History of Pictorial style’, Painting and Experience in Fifteenth- Century Italy</ref-sourcetitle>
+<ref-publicationyear first="1972"/>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Michael Baxandall’s (1933–2008) ‘primer in the social history of pictorial style’, Painting and Experience in Fifteenth- Century Italy(Oxford: Oxford University Press, 1972).</ref-fulltext>
+<ce:source-text>Michael Baxandall’s (1933–2008) ‘primer in the social history of pictorial style’, Painting and Experience in Fifteenth- Century Italy(Oxford: Oxford University Press, 1972).</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pictorial Style: Two Views’, in the Mind and Its Depths</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>171</first-page>
+<last-page>183</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, ‘Pictorial Style: Two Views’, in The Mind and Its Depths (Cambridge, MA: Harvard University Press, 1993), pp. 171– 83.</ref-fulltext>
+<ce:source-text>Richard Wollheim, ‘Pictorial Style: Two Views’, in The Mind and Its Depths (Cambridge, MA: Harvard University Press, 1993), pp. 171– 83.</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Proust</ce:surname>
+<ce:given-name>Marcel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Chardin and Rembrandt, Trans</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Marcel Proust, Chardin and Rembrandt, trans.</ref-fulltext>
+<ce:source-text>Marcel Proust, Chardin and Rembrandt, trans.</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Feldman</ce:surname>
+<ce:given-name>Jennie</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="2017"/>
+<ref-text>London: Thames &amp; Hudson for David Zwirner Books</ref-text>
+</ref-info>
+<ref-fulltext>Jennie Feldman (London: Thames &amp; Hudson for David Zwirner Books, 2017);</ref-fulltext>
+<ce:source-text>Jennie Feldman (London: Thames &amp; Hudson for David Zwirner Books, 2017);</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.O.</ce:initials>
+<ce:surname>Borowitz</ce:surname>
+<ce:given-name>Helen O.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Watteau and Chardin of Marcel Proust’, Bulletin of the Cleveland Museum of Art</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>69</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>18</first-page>
+<last-page>35</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Jan</ref-text>
+</ref-info>
+<ref-fulltext>Helen O. Borowitz, ‘The Watteau and Chardin of Marcel Proust’, Bulletin of the Cleveland Museum of Art, 69.1 (Jan. 1982), pp. 18– 35.</ref-fulltext>
+<ce:source-text>Helen O. Borowitz, ‘The Watteau and Chardin of Marcel Proust’, Bulletin of the Cleveland Museum of Art, 69.1 (Jan. 1982), pp. 18– 35.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wittgenstein on Art</ref-sourcetitle>
+<ref-publicationyear first="1966"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+<iss-first>72</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>367</first-page>
+<last-page>368</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New Statesman, Sept</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, ‘Wittgenstein on Art’, New Statesman, 9.72 (Sept. 1966), pp. 367– 8 (p. 367)</ref-fulltext>
+<ce:source-text>Richard Wollheim, ‘Wittgenstein on Art’, New Statesman, 9.72 (Sept. 1966), pp. 367– 8 (p. 367)</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Fry</ce:surname>
+<ce:given-name>Roger</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Transformations: Critical and Speculative Essays on Art</ref-sourcetitle>
+<ref-publicationyear first="1926"/>
+<ref-text>London: Chatto and Windus</ref-text>
+</ref-info>
+<ref-fulltext>Roger Fry, Transformations: Critical and Speculative Essays on Art (London: Chatto and Windus, 1926)</ref-fulltext>
+<ce:source-text>Roger Fry, Transformations: Critical and Speculative Essays on Art (London: Chatto and Windus, 1926)</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Painting as an Art: The Andrew W. Mellon Lectures in The Fine Arts for 1984</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Painting as an Art: The Andrew W. Mellon Lectures in the Fine Arts for 1984 (Princeton, NJ: Princeton University Press, 1986)</ref-fulltext>
+<ce:source-text>Richard Wollheim, Painting as an Art: The Andrew W. Mellon Lectures in the Fine Arts for 1984 (Princeton, NJ: Princeton University Press, 1986)</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Lecture II, and ‘On Pictorial Representation</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Journal of Aesthetics and Art Criticism</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>56</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>217</first-page>
+<last-page>226</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>summer</ref-text>
+</ref-info>
+<ref-fulltext>Lecture II, and ‘On Pictorial Representation’, Journal of Aesthetics and Art Criticism, 56.3 (summer1998), pp. 217– 26</ref-fulltext>
+<ce:source-text>Lecture II, and ‘On Pictorial Representation’, Journal of Aesthetics and Art Criticism, 56.3 (summer1998), pp. 217– 26</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Loran</ce:surname>
+<ce:given-name>Erle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cézanne’s Composition: Analysis of His Form with Diagrams and Photographs of His Motifs</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>Erle Loran, Cézanne’s Composition: Analysis of his Form with Diagrams and Photographs of his Motifs (Berkeley: University of California Press, 1963)</ref-fulltext>
+<ce:source-text>Erle Loran, Cézanne’s Composition: Analysis of his Form with Diagrams and Photographs of his Motifs (Berkeley: University of California Press, 1963)</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Greenberg</ce:surname>
+<ce:given-name>Clement</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Review of Cézanne’s Composition</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Clement Greenberg, ‘Review of Cézanne’s Composition</ref-fulltext>
+<ce:source-text>Clement Greenberg, ‘Review of Cézanne’s Composition</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Loran</ce:surname>
+<ce:given-name>Earle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Collected Essays and Criticism</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>John O’Brian (Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Earle Loran’, in The Collected Essays and Criticism, vol. 2, ed. John O’Brian (Chicago: University of Chicago Press, 1986).</ref-fulltext>
+<ce:source-text>Earle Loran’, in The Collected Essays and Criticism, vol. 2, ed. John O’Brian (Chicago: University of Chicago Press, 1986).</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Wölfflin</ce:surname>
+<ce:given-name>Heinrich</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Classic Art: An Introduction to the Italian Renaissance, Trans</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>101</first-page>
+<last-page>103</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Peter and Linda Murray (London: Phaidon Press</ref-text>
+</ref-info>
+<ref-fulltext>Heinrich Wölfflin, Classic Art: An Introduction to the Italian Renaissance, trans. Peter and Linda Murray (London: Phaidon Press, 1963), pp. 101– 3</ref-fulltext>
+<ce:source-text>Heinrich Wölfflin, Classic Art: An Introduction to the Italian Renaissance, trans. Peter and Linda Murray (London: Phaidon Press, 1963), pp. 101– 3</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Schier</ce:surname>
+<ce:given-name>Flint</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Deeper into Pictures</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Flint Schier, Deeper into Pictures(Cambridge: Cambridge University Press, 1986)</ref-fulltext>
+<ce:source-text>Flint Schier, Deeper into Pictures(Cambridge: Cambridge University Press, 1986)</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Semiology of Cubism</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.A.</ce:initials>
+<ce:surname>Bois</ce:surname>
+<ce:given-name>Yve- Alain</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Picasso and Braque: A Symposium</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>169</first-page>
+<last-page>221</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Lynn Zelevansky (ed.), New York: Museum of Modern Art</ref-text>
+</ref-info>
+<ref-fulltext>Yve- Alain Bois, ‘The Semiology of Cubism’, in Lynn Zelevansky (ed.), Picasso and Braque: A Symposium (New York: Museum of Modern Art, 1992), pp. 169– 221</ref-fulltext>
+<ce:source-text>Yve- Alain Bois, ‘The Semiology of Cubism’, in Lynn Zelevansky (ed.), Picasso and Braque: A Symposium (New York: Museum of Modern Art, 1992), pp. 169– 221</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.A.</ce:initials>
+<ce:surname>Bois</ce:surname>
+<ce:given-name>Yve- Alain</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Kahnweiler’s Lesson’, Reprinted in Painting as Model</ref-sourcetitle>
+<ref-publicationyear first="1990"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>82</first-page>
+<last-page>94</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge, MA: MIT Press, particularly</ref-text>
+</ref-info>
+<ref-fulltext>Yve- Alain Bois, ‘Kahnweiler’s Lesson’, reprinted in Painting as Model (Cambridge, MA: MIT Press, 1990), particularly pp. 82– 94.</ref-fulltext>
+<ce:source-text>Yve- Alain Bois, ‘Kahnweiler’s Lesson’, reprinted in Painting as Model (Cambridge, MA: MIT Press, 1990), particularly pp. 82– 94.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Krauss</ce:surname>
+<ce:given-name>Rosalind</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Motivation of the Sign</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>261</first-page>
+<last-page>305</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Bois, Picasso and Braque, with discussion and notes</ref-text>
+</ref-info>
+<ref-fulltext>Rosalind Krauss, ‘The Motivation of the Sign’, in Bois, Picasso and Braque, 261– 305 (with discussion and notes)</ref-fulltext>
+<ce:source-text>Rosalind Krauss, ‘The Motivation of the Sign’, in Bois, Picasso and Braque, 261– 305 (with discussion and notes)</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.A.</ce:initials>
+<ce:surname>Bois</ce:surname>
+<ce:given-name>Yve- Alain</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1998"/>
+<ref-text>Matisse and Picasso (Paris: Flammarion, Paris, in conjunction with the Kimbell Art Museum, Fort Worth, TX</ref-text>
+</ref-info>
+<ref-fulltext>Yve- Alain Bois, Matisse and Picasso (Paris: Flammarion, Paris, in conjunction with the Kimbell Art Museum, Fort Worth, TX, 1998)</ref-fulltext>
+<ce:source-text>Yve- Alain Bois, Matisse and Picasso (Paris: Flammarion, Paris, in conjunction with the Kimbell Art Museum, Fort Worth, TX, 1998)</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Krauss</ce:surname>
+<ce:given-name>Rosalind</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.O.</ce:initials>
+<ce:surname>Unconscious</ce:surname>
+<ce:given-name>The Optical</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>15</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge, MA: MIT Press</ref-text>
+</ref-info>
+<ref-fulltext>Rosalind Krauss, The OpticalUnconscious(Cambridge, MA: MIT Press1993), p. 15</ref-fulltext>
+<ce:source-text>Rosalind Krauss, The OpticalUnconscious(Cambridge, MA: MIT Press1993), p. 15</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Genre and Style’ in Contemporary Philosophic Thought: The International Philosophy Year Conferences at Brockport, vol. 3</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Weitz</ce:surname>
+<ce:given-name>Morris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Perspectives in Education, Religion, and the Arts</ref-sourcetitle>
+<ref-publicationyear first="1970"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>183</first-page>
+<last-page>218</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Albany, NY: State University of New York Press</ref-text>
+</ref-info>
+<ref-fulltext>Morris Weitz, ‘Genre and Style’ in Contemporary Philosophic Thought: The International Philosophy Year Conferences at Brockport, vol. 3: Perspectives in Education, Religion, and the Arts (Albany, NY: State University of New York Press, 1970), pp. 183– 218;</ref-fulltext>
+<ce:source-text>Morris Weitz, ‘Genre and Style’ in Contemporary Philosophic Thought: The International Philosophy Year Conferences at Brockport, vol. 3: Perspectives in Education, Religion, and the Arts (Albany, NY: State University of New York Press, 1970), pp. 183– 218;</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Ackerman</ce:surname>
+<ce:given-name>James S.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Western Art History</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>James S. Ackerman, ‘Western Art History’</ref-fulltext>
+<ce:source-text>James S. Ackerman, ‘Western Art History’</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Ackerman</ce:surname>
+<ce:given-name>James S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Carpenter</ce:surname>
+<ce:given-name>Rhys</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Archaeology</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>164</first-page>
+<last-page>186</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Englewood Cliffs, NJ: Prentice Hall</ref-text>
+</ref-info>
+<ref-fulltext>James S. Ackerman and Rhys Carpenter, Art and Archaeology (Englewood Cliffs, NJ: Prentice Hall, 1963), pp. 164– 86.</ref-fulltext>
+<ce:source-text>James S. Ackerman and Rhys Carpenter, Art and Archaeology (Englewood Cliffs, NJ: Prentice Hall, 1963), pp. 164– 86.</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.H.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Illusion: A Study of the Psychology of Pictorial Representation</ref-sourcetitle>
+<ref-publicationyear first="1960"/>
+<ref-text>New York: Pantheon</ref-text>
+</ref-info>
+<ref-fulltext>E. H. Gombrich, Art and Illusion: A Study of the Psychology of Pictorial Representation New York: Pantheon, 1960;</ref-fulltext>
+<ce:source-text>E. H. Gombrich, Art and Illusion: A Study of the Psychology of Pictorial Representation New York: Pantheon, 1960;</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Its Objects</ref-sourcetitle>
+<ref-publicationyear first="1968"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2</first-page>
+<last-page>9</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Cambridge University Press, sections 18</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Art and its Objects (New York: Cambridge University Press, 1968), sections 18, 28, 2– 9.</ref-fulltext>
+<ce:source-text>Richard Wollheim, Art and its Objects (New York: Cambridge University Press, 1968), sections 18, 28, 2– 9.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.L.</ce:initials>
+<ce:surname>Sills</ce:surname>
+<ce:given-name>David L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Encyclopedia of the Social Sciences</ref-sourcetitle>
+<ref-publicationyear first="1968"/>
+<ref-text>New York: Free Press</ref-text>
+</ref-info>
+<ref-fulltext>David L. Sills (ed.), International Encyclopedia of the Social Sciences(New York: Free Press, 1968)</ref-fulltext>
+<ce:source-text>David L. Sills (ed.), International Encyclopedia of the Social Sciences(New York: Free Press, 1968)</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Freeman</ce:surname>
+<ce:given-name>Donald</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Linguistics and Literary Style</ref-sourcetitle>
+<ref-publicationyear first="1970"/>
+<ref-text>New York: Holt, Rinehart &amp; Winston</ref-text>
+</ref-info>
+<ref-fulltext>Donald Freeman (ed.), Linguistics and Literary Style (New York: Holt, Rinehart &amp; Winston, 1970).</ref-fulltext>
+<ce:source-text>Donald Freeman (ed.), Linguistics and Literary Style (New York: Holt, Rinehart &amp; Winston, 1970).</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Chomsky</ce:surname>
+<ce:given-name>Noam</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Current Issues in Linguistic Theory</ref-sourcetitle>
+<ref-publicationyear first="1964"/>
+<ref-text>The Hague; Mouton</ref-text>
+</ref-info>
+<ref-fulltext>Noam Chomsky, Current Issues in Linguistic Theory (The Hague; Mouton, 1964);</ref-fulltext>
+<ce:source-text>Noam Chomsky, Current Issues in Linguistic Theory (The Hague; Mouton, 1964);</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Chomsky</ce:surname>
+<ce:given-name>Noam</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Syntactic Structures</ref-sourcetitle>
+<ref-publicationyear first="1957"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>(The Hague: Mouton</ref-text>
+</ref-info>
+<ref-fulltext>Noam Chomsky, Syntactic Structures(The Hague: Mouton, 1957), 5.5</ref-fulltext>
+<ce:source-text>Noam Chomsky, Syntactic Structures(The Hague: Mouton, 1957), 5.5</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:surname>Fodor</ce:surname>
+<ce:given-name>Jerry A.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Katz</ce:surname>
+<ce:given-name>Jerrold</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Structure of Language</ref-sourcetitle>
+<ref-publicationyear first="1964"/>
+<ref-text>Englewood Cliffs, NJ: Prentice Hall</ref-text>
+</ref-info>
+<ref-fulltext>Jerry A. Fodor and Jerrold Katz (eds), The Structure of Language(Englewood Cliffs, NJ: Prentice Hall, 1964).</ref-fulltext>
+<ce:source-text>Jerry A. Fodor and Jerrold Katz (eds), The Structure of Language(Englewood Cliffs, NJ: Prentice Hall, 1964).</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.D.</ce:initials>
+<ce:surname>Luce</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Bush</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>E.</ce:initials>
+<ce:surname>Galenter</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Readings in Mathematical Psychology</ref-sourcetitle>
+<ref-publicationyear first="1965"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>New York: John Wiley</ref-text>
+</ref-info>
+<ref-fulltext>R. D. Luce, R. Bush, and E. Galenter(eds), Readings in Mathematical Psychology, vol. 2 (New York: John Wiley, 1965).</ref-fulltext>
+<ce:source-text>R. D. Luce, R. Bush, and E. Galenter(eds), Readings in Mathematical Psychology, vol. 2 (New York: John Wiley, 1965).</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Cf. Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On Drawing an Object</ref-sourcetitle>
+<ref-publicationyear first="1965"/>
+<ref-text>London: University College London</ref-text>
+</ref-info>
+<ref-fulltext>Cf. Richard Wollheim, On Drawing an Object(London: University College London, 1965)</ref-fulltext>
+<ce:source-text>Cf. Richard Wollheim, On Drawing an Object(London: University College London, 1965)</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Wölfflin</ce:surname>
+<ce:given-name>Heinrich</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Principles of Art History, Trans</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Heinrich Wölfflin, Principles of Art History, trans.</ref-fulltext>
+<ce:source-text>Heinrich Wölfflin, Principles of Art History, trans.</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.D.</ce:initials>
+<ce:surname>Hottinger</ce:surname>
+</author>
+</ref-authors>
+<ref-publicationyear first="1932"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>6</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Holt</ref-text>
+</ref-info>
+<ref-fulltext>M.D. Hottinger(New York: Holt, 1932), p. 6.</ref-fulltext>
+<ce:source-text>M.D. Hottinger(New York: Holt, 1932), p. 6.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Its Objects</ref-sourcetitle>
+<ref-publicationyear first="1970"/>
+<ref-text>Harmondsworth: Penguin</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Art and its Objects(Harmondsworth: Penguin, 1970).</ref-fulltext>
+<ce:source-text>Richard Wollheim, Art and its Objects(Harmondsworth: Penguin, 1970).</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Style Now</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Concerning Contemporary Art</ref-sourcetitle>
+<ref-publicationyear first="1974"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>133</first-page>
+<last-page>153</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Bernard Smith (ed.), Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, ‘Style Now’, in Bernard Smith (ed.), Concerning Contemporary Art (Oxford: Oxford University Press, 1974), pp. 133– 53</ref-fulltext>
+<ce:source-text>Richard Wollheim, ‘Style Now’, in Bernard Smith (ed.), Concerning Contemporary Art (Oxford: Oxford University Press, 1974), pp. 133– 53</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Meditations on a Hobby Horse</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<ref-text>London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>Ernst Gombrich, Meditations on a Hobby Horse (London: Phaidon, 1963);</ref-fulltext>
+<ce:source-text>Ernst Gombrich, Meditations on a Hobby Horse (London: Phaidon, 1963);</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.L.</ce:initials>
+<ce:surname>Williams</ce:surname>
+<ce:given-name>David L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Encyclopedia of the Social Sciences</ref-sourcetitle>
+<ref-publicationyear first="1968"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>352</first-page>
+<last-page>361</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Random House</ref-text>
+</ref-info>
+<ref-fulltext>David L. Williams (ed.), International Encyclopedia of the Social Sciences (New York: Random House, 1968), pp. 352–61.</ref-fulltext>
+<ce:source-text>David L. Williams (ed.), International Encyclopedia of the Social Sciences (New York: Random House, 1968), pp. 352–61.</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Chomsky</ce:surname>
+<ce:given-name>Noam</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Aspects of the Theory of Syntax</ref-sourcetitle>
+<ref-publicationyear first="1965"/>
+<ref-text>Cambridge, MA: MIT Press</ref-text>
+</ref-info>
+<ref-fulltext>Noam Chomsky, Aspects of the Theory of Syntax(Cambridge, MA: MIT Press, 1965)</ref-fulltext>
+<ce:source-text>Noam Chomsky, Aspects of the Theory of Syntax(Cambridge, MA: MIT Press, 1965)</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Symbol Systems and Artistic Styles</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Hellman</ce:surname>
+<ce:given-name>Geoffrey</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Aesthetics and Art Criticism</ref-sourcetitle>
+<ref-publicationyear first="1977"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>35</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>279</first-page>
+<last-page>292</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Geoffrey Hellman, ‘Symbol Systems and Artistic Styles’, Journal of Aesthetics and Art Criticism, 35.3 (1977), pp. 279– 92.</ref-fulltext>
+<ce:source-text>Geoffrey Hellman, ‘Symbol Systems and Artistic Styles’, Journal of Aesthetics and Art Criticism, 35.3 (1977), pp. 279– 92.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Ackerman</ce:surname>
+<ce:given-name>James S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Carpenter</ce:surname>
+<ce:given-name>Rhys</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Archaeology</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>123</first-page>
+<last-page>231</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Englewood Cliffs, NJ: Prentice Hall</ref-text>
+</ref-info>
+<ref-fulltext>James S. Ackerman and Rhys Carpenter (eds), Art and Archaeology (Englewood Cliffs, NJ: Prentice Hall, 1963), pp. 123– 231</ref-fulltext>
+<ce:source-text>James S. Ackerman and Rhys Carpenter (eds), Art and Archaeology (Englewood Cliffs, NJ: Prentice Hall, 1963), pp. 123– 231</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Contemporary Philosophical Thought: The International Philosophy Year Conference at Brockport, vol. 3</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.E.</ce:initials>
+<ce:surname>Kiefer</ce:surname>
+<ce:given-name>Howard E.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.K.</ce:initials>
+<ce:surname>Munitz</ce:surname>
+<ce:given-name>Milton K.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Perspectives in Education, Religion and the Arts</ref-sourcetitle>
+<ref-publicationyear first="1970"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>183</first-page>
+<last-page>218</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Albany State University of New York Press</ref-text>
+</ref-info>
+<ref-fulltext>Howard E. Kiefer and Milton K. Munitz (eds), Contemporary Philosophical Thought: The International Philosophy Year Conference at Brockport, vol. 3: Perspectives in Education, Religion and the Arts (New York: Albany State University of New York Press, 1970), pp. 183– 218</ref-fulltext>
+<ce:source-text>Howard E. Kiefer and Milton K. Munitz (eds), Contemporary Philosophical Thought: The International Philosophy Year Conference at Brockport, vol. 3: Perspectives in Education, Religion and the Arts (New York: Albany State University of New York Press, 1970), pp. 183– 218</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.J.A.</ce:initials>
+<ce:surname>Fodor</ce:surname>
+<ce:given-name>Cf. Jerry A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Psychological Explanation</ref-sourcetitle>
+<ref-publicationyear first="1968"/>
+<ref-text>New York: Random House</ref-text>
+</ref-info>
+<ref-fulltext>Cf. Jerry A. Fodor, Psychological Explanation(New York: Random House, 1968)</ref-fulltext>
+<ce:source-text>Cf. Jerry A. Fodor, Psychological Explanation(New York: Random House, 1968)</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Singer</ce:surname>
+<ce:given-name>Eric</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Manual of Graphology</ref-sourcetitle>
+<ref-publicationyear first="1969"/>
+<ref-text>London: Duckworth</ref-text>
+</ref-info>
+<ref-fulltext>Eric Singer, A Manual of Graphology(London: Duckworth, 1969)</ref-fulltext>
+<ce:source-text>Eric Singer, A Manual of Graphology(London: Duckworth, 1969)</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Mind and Its Depths</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, The Mind and its Depths(Cambridge, MA: Harvard University Press, 1993).</ref-fulltext>
+<ce:source-text>Richard Wollheim, The Mind and its Depths(Cambridge, MA: Harvard University Press, 1993).</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>van Ecky</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>McAllister</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>V.</ce:initials>
+<ce:surname>Vall</ce:surname>
+<ce:given-name>Vander</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Question of Style in Philosophy and the Arts</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>C.Van Ecky, J. McAllister, and Vander Vall (eds), The Question of Style in Philosophy and the Arts (Cambridge: Cambridge University Press, 1995).</ref-fulltext>
+<ce:source-text>C.Van Ecky, J.McAllister, and VanderVall (eds), The Question of Style in Philosophy and the Arts (Cambridge: Cambridge University Press, 1995).</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Its Objects, 2Nd Edn</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<volisspag>
+<volume-issue-number>
+<suppl>Supplement 5</suppl>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>224</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press, supplementary essay</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Art and its Objects, 2nd edn (Cambridge: Cambridge University Press, 1980), supplementary essay5, p. 224.</ref-fulltext>
+<ce:source-text>Richard Wollheim, Art and its Objects, 2nd edn (Cambridge: Cambridge University Press, 1980), supplementary essay5, p. 224.</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Peacocke</ce:surname>
+<ce:given-name>Christopher</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Depiction’, the Philosophical Review</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>96</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>383</first-page>
+<last-page>410</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Christopher Peacocke, ‘Depiction’, The Philosophical Review, 96(1987), pp. 383– 410.</ref-fulltext>
+<ce:source-text>Christopher Peacocke, ‘Depiction’, The Philosophical Review, 96(1987), pp. 383– 410.</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Knowles</ce:surname>
+<ce:given-name>Dudley</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Skorupski</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Virtue and Taste</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>154</first-page>
+<last-page>175</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Basil Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Dudley Knowles and John Skorupski (eds), Virtue and Taste (Oxford: Basil Blackwell, 1993), pp. 154– 75.</ref-fulltext>
+<ce:source-text>Dudley Knowles and John Skorupski (eds), Virtue and Taste (Oxford: Basil Blackwell, 1993), pp. 154– 75.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Wölfflin</ce:surname>
+<ce:given-name>Heinrich</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Principles of Art History, Trans.</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Heinrich Wölfflin, The Principles of Art History, trans.</ref-fulltext>
+<ce:source-text>Heinrich Wölfflin, The Principles of Art History, trans.</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.D.</ce:initials>
+<ce:surname>Hottinger</ce:surname>
+</author>
+</ref-authors>
+<ref-publicationyear first="1932"/>
+<ref-text>(New York: Holt</ref-text>
+</ref-info>
+<ref-fulltext>M. D. Hottinger(New York: Holt, 1932).</ref-fulltext>
+<ce:source-text>M. D. Hottinger(New York: Holt, 1932).</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Wittgenstein</ce:surname>
+<ce:given-name>Ludwig</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Investigations</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<ref-text>G. E. M. Anscombe, Oxford: Basil Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Ludwig Wittgenstein, Philosophical Investigations, ed.G. E. M. Anscombe(Oxford: Basil Blackwell, 1953).</ref-fulltext>
+<ce:source-text>Ludwig Wittgenstein, Philosophical Investigations, ed.G. E. M. Anscombe(Oxford: Basil Blackwell, 1953).</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.H.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Illusion</ref-sourcetitle>
+<ref-publicationyear first="1960"/>
+<ref-text>London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>E. H. Gombrich, Art and Illusion(London: Phaidon, 1960).</ref-fulltext>
+<ce:source-text>E. H. Gombrich, Art and Illusion(London: Phaidon, 1960).</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Budd</ce:surname>
+<ce:given-name>Malcolm</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On Looking at a Picture</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Malcolm Budd, ‘On Looking at a Picture’</ref-fulltext>
+<ce:source-text>Malcolm Budd, ‘On Looking at a Picture’</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Seeing- In and Seeing Fictionally</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.L.</ce:initials>
+<ce:surname>Walton</ce:surname>
+<ce:given-name>Kendall L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Psychoanalysis, Mind and Art: Perspectives on Richard Wollheim</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<ref-text>both in Jim Hopkins and Anthony Savile, Oxford: Basil Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Kendall L. Walton, ‘Seeing- In and Seeing Fictionally’, both in Jim Hopkins and Anthony Savile (eds), Psychoanalysis, Mind and Art: Perspectives on Richard Wollheim(Oxford: Basil Blackwell, 1992).</ref-fulltext>
+<ce:source-text>Kendall L. Walton, ‘Seeing- In and Seeing Fictionally’, both in Jim Hopkins and Anthony Savile (eds), Psychoanalysis, Mind and Art: Perspectives on Richard Wollheim(Oxford: Basil Blackwell, 1992).</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Fry</ce:surname>
+<ce:given-name>Roger</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Transformations: Critical and Speculative Essays on Art</ref-sourcetitle>
+<ref-publicationyear first="1926"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>15</first-page>
+<last-page>16</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Chatto and Windus</ref-text>
+</ref-info>
+<ref-fulltext>Roger Fry, Transformations: Critical and Speculative Essays on Art (London: Chatto and Windus, 1926), pp. 15– 16.</ref-fulltext>
+<ce:source-text>Roger Fry, Transformations: Critical and Speculative Essays on Art (London: Chatto and Windus, 1926), pp. 15– 16.</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On Formalism and Its Kinds</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<ref-text>Barcelona: Fundacio Antoni Tapies</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, On Formalism and its Kinds(Barcelona: Fundacio Antoni Tapies, 1995).</ref-fulltext>
+<ce:source-text>Richard Wollheim, On Formalism and its Kinds(Barcelona: Fundacio Antoni Tapies, 1995).</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Goodman</ce:surname>
+<ce:given-name>Nelson</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Languages of Art</ref-sourcetitle>
+<ref-publicationyear first="1969"/>
+<ref-text>Indianapolis: Hackett</ref-text>
+</ref-info>
+<ref-fulltext>Nelson Goodman, The Languages of Art(Indianapolis: Hackett, 1969)</ref-fulltext>
+<ce:source-text>Nelson Goodman, The Languages of Art(Indianapolis: Hackett, 1969)</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.L.</ce:initials>
+<ce:surname>Walton</ce:surname>
+<ce:given-name>Kendall L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Walton, Mimesis as Make- Believe</ref-sourcetitle>
+<ref-publicationyear first="1990"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Kendall L. Walton, Mimesis as Make- Believe(Cambridge, MA: Harvard University Press, 1990).</ref-fulltext>
+<ce:source-text>Kendall L. Walton, Mimesis as Make- Believe(Cambridge, MA: Harvard University Press, 1990).</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Painting as an Art</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<ref-text>Princeton NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Painting as an Art(Princeton NJ: Princeton University Press, 1987)</ref-fulltext>
+<ce:source-text>Richard Wollheim, Painting as an Art(Princeton NJ: Princeton University Press, 1987)</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Hopkins</ce:surname>
+<ce:given-name>Robert</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Picture, Image and Experience</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Robert Hopkins, Picture, Image and Experience(Cambridge: Cambridge University Press, 1998)</ref-fulltext>
+<ce:source-text>Robert Hopkins, Picture, Image and Experience(Cambridge: Cambridge University Press, 1998)</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Peacocke</ce:surname>
+<ce:given-name>Christopher</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Depiction’, Philosophical Review</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>96</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>383</first-page>
+<last-page>410</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Christopher Peacocke, ‘Depiction’, Philosophical Review, 96.3 (1987), pp. 383– 410;</ref-fulltext>
+<ce:source-text>Christopher Peacocke, ‘Depiction’, Philosophical Review, 96.3 (1987), pp. 383– 410;</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Natural Generativity and Imitation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Sartwell</ce:surname>
+<ce:given-name>Crispin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>British Journal of Aesthetics</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>31</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>58</first-page>
+<last-page>67</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Crispin Sartwell, ‘Natural Generativity and Imitation’, British Journal of Aesthetics, 31.1 (1991), pp. 58– 67</ref-fulltext>
+<ce:source-text>Crispin Sartwell, ‘Natural Generativity and Imitation’, British Journal of Aesthetics, 31.1 (1991), pp. 58– 67</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cooper</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Companion to Aesthetics</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<ref-text>Oxford: Basil Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>David Cooper (ed.), A Companion to Aesthetics(Oxford: Basil Blackwell, 1992);</ref-fulltext>
+<ce:source-text>David Cooper (ed.), A Companion to Aesthetics(Oxford: Basil Blackwell, 1992);</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-title>
+<ref-titletext-english>On Looking at a Picture</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Budd</ce:surname>
+<ce:given-name>Malcolm</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Psychoanalysis, Mind and Art</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<ref-text>J. Hopkins and Anthony Savile, Oxford: Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Malcolm Budd, ‘On Looking at a Picture’, in J. Hopkins and Anthony Savile (eds), Psychoanalysis, Mind and Art(Oxford: Blackwell, 1992).</ref-fulltext>
+<ce:source-text>Malcolm Budd, ‘On Looking at a Picture’, in J. Hopkins and Anthony Savile (eds), Psychoanalysis, Mind and Art(Oxford: Blackwell, 1992).</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Its Objects, 2Nd Edn</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Art and its Objects, 2nd edn(Cambridge: Cambridge University Press, 1980)</ref-fulltext>
+<ce:source-text>Richard Wollheim, Art and its Objects, 2nd edn(Cambridge: Cambridge University Press, 1980)</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Wittgenstein</ce:surname>
+<ce:given-name>Ludwig</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Investigations</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<ref-text>Oxford: Basil Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Ludwig Wittgenstein, Philosophical Investigations(Oxford: Basil Blackwell, 1953)</ref-fulltext>
+<ce:source-text>Ludwig Wittgenstein, Philosophical Investigations(Oxford: Basil Blackwell, 1953)</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-sourcetitle>Picture, Image, and Experience</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>114</first-page>
+<last-page>117</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hopkins, Picture, Image, and Experience, 114–17.</ref-fulltext>
+<ce:source-text>Hopkins, Picture, Image, and Experience, 114–17.</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Walton</ce:surname>
+<ce:given-name>Kendall</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mimesis as Make- Believe</ref-sourcetitle>
+<ref-publicationyear first="1990"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Kendall Walton, Mimesis as Make- Believe(Cambridge, MA: Harvard University Press, 1990)</ref-fulltext>
+<ce:source-text>Kendall Walton, Mimesis as Make- Believe(Cambridge, MA: Harvard University Press, 1990)</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Aesthetics and Art Criticism</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>60</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>27</first-page>
+<last-page>35</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Richard Wollheim’, Journal of Aesthetics and Art Criticism, 60.1 (2002), pp. 27– 35</ref-fulltext>
+<ce:source-text>Richard Wollheim’, Journal of Aesthetics and Art Criticism, 60.1 (2002), pp. 27– 35</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Pictorial art and visual experience</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Hyman</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>British Journal of Aesthetics</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>40</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>21</first-page>
+<last-page>45</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>John Hyman, ‘Pictorial art and visual experience, ’ British Journal of Aesthetics40.1 (2000), pp, 21–45.</ref-fulltext>
+<ce:source-text>John Hyman, ‘Pictorial art and visual experience, ’ British Journal of Aesthetics40.1 (2000), pp, 21–45.</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Illusion</ref-sourcetitle>
+<ref-publicationyear first="1956"/>
+<ref-text>London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>Ernst Gombrich, Art and Illusion(London: Phaidon, 1956)</ref-fulltext>
+<ce:source-text>Ernst Gombrich, Art and Illusion(London: Phaidon, 1956)</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.H.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Raphael’s Madonna Della Sedia</ref-sourcetitle>
+<ref-publicationyear first="1956"/>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>E. H. Gombrich, Raphael’s Madonna della Sedia(Oxford: Oxford University Press, 1956)</ref-fulltext>
+<ce:source-text>E. H. Gombrich, Raphael’s Madonna della Sedia(Oxford: Oxford University Press, 1956)</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-title>
+<ref-titletext-english>On Perfection, Coherence and Unity of Form and Content</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Schapiro</ce:surname>
+<ce:given-name>Meyer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Philosophy</ref-sourcetitle>
+<ref-publicationyear first="1966"/>
+<ref-text>Sidney Hook, New York: New York University Press</ref-text>
+</ref-info>
+<ref-fulltext>Meyer Schapiro, ‘On Perfection, Coherence and Unity of Form and Content’in Sidney Hook (ed.), Art and Philosophy(New York: New York University Press, 1966)</ref-fulltext>
+<ce:source-text>Meyer Schapiro, ‘On Perfection, Coherence and Unity of Form and Content’in Sidney Hook (ed.), Art and Philosophy(New York: New York University Press, 1966)</ce:source-text>
+</reference>
+<reference seq="118">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Wind</ce:surname>
+<ce:given-name>Edgar</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Anarchy</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>35</first-page>
+<last-page>51</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Duckworth</ref-text>
+</ref-info>
+<ref-fulltext>Edgar Wind, Art and Anarchy (London: Duckworth, 1963), pp. 35– 51</ref-fulltext>
+<ce:source-text>Edgar Wind, Art and Anarchy (London: Duckworth, 1963), pp. 35– 51</ce:source-text>
+</reference>
+<reference seq="119">
+<ref-info>
+<ref-publicationyear first="1964"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+<last-page>8</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York Review of Books30 April</ref-text>
+</ref-info>
+<ref-fulltext>New York Review of Books, 30 April1964, pp. 7– 8.</ref-fulltext>
+<ce:source-text>New York Review of Books, 30 April1964, pp. 7– 8.</ce:source-text>
+</reference>
+<reference seq="120">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Stokes</ce:surname>
+<ce:given-name>Adrian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Greek Culture and the Ego</ref-sourcetitle>
+<ref-publicationyear first="1958"/>
+<ref-text>London: Tavistock</ref-text>
+</ref-info>
+<ref-fulltext>Adrian Stokes, Greek Culture and the Ego(London: Tavistock, 1958)</ref-fulltext>
+<ce:source-text>Adrian Stokes, Greek Culture and the Ego(London: Tavistock, 1958)</ce:source-text>
+</reference>
+<reference seq="121">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Stokes</ce:surname>
+<ce:given-name>Adrian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Inside Out</ref-sourcetitle>
+<ref-publicationyear first="1947"/>
+<ref-text>London: Faber &amp; Faber</ref-text>
+</ref-info>
+<ref-fulltext>Adrian Stokes, Inside Out(London: Faber &amp; Faber, 1947);</ref-fulltext>
+<ce:source-text>Adrian Stokes, Inside Out(London: Faber &amp; Faber, 1947);</ce:source-text>
+</reference>
+<reference seq="122">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Ruskin</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Praeterita</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>London: Everyman</ref-text>
+</ref-info>
+<ref-fulltext>John Ruskin, Praeterita (London: Everyman, 2005);</ref-fulltext>
+<ce:source-text>John Ruskin, Praeterita (London: Everyman, 2005);</ce:source-text>
+</reference>
+<reference seq="123">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Child in the House</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Pater</ce:surname>
+<ce:given-name>Walter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Collected Works of Walter Pater</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Walter Pater, ‘The Child in the House’, in The Collected Works of Walter Pater, vol. 3 (Oxford: Oxford University Press, 2019)</ref-fulltext>
+<ce:source-text>Walter Pater, ‘The Child in the House’, in The Collected Works of Walter Pater, vol. 3 (Oxford: Oxford University Press, 2019)</ce:source-text>
+</reference>
+<reference seq="124">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Freud</ce:surname>
+<ce:given-name>Sigmund</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Interpretation of Dreams</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<ref-text>Ware: Wordsworth Press</ref-text>
+</ref-info>
+<ref-fulltext>SigmundFreud, The Interpretation of Dreams(Ware: Wordsworth Press, 1997);</ref-fulltext>
+<ce:source-text>SigmundFreud, The Interpretation of Dreams(Ware: Wordsworth Press, 1997);</ce:source-text>
+</reference>
+<reference seq="125">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Sculptor Agostino di Duccio</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Stokes</ce:surname>
+<ce:given-name>Adrian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Criterion</ref-sourcetitle>
+<ref-publicationyear first="1929"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+<iss-first>34</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>44</first-page>
+<last-page>60</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Adrian Stokes, ‘The Sculptor Agostino di Duccio’, Criterion, 9.34 (1929), pp. 44– 60.</ref-fulltext>
+<ce:source-text>Adrian Stokes, ‘The Sculptor Agostino di Duccio’, Criterion, 9.34 (1929), pp. 44– 60.</ce:source-text>
+</reference>
+<reference seq="126">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Stokes</ce:surname>
+<ce:given-name>Adrian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Stones of Rimini</ref-sourcetitle>
+<ref-publicationyear first="1934"/>
+<ref-text>London: Faber &amp; Faber</ref-text>
+</ref-info>
+<ref-fulltext>Adrian Stokes, The Stones of Rimini(London: Faber &amp; Faber, 1934).</ref-fulltext>
+<ce:source-text>Adrian Stokes, The Stones of Rimini(London: Faber &amp; Faber, 1934).</ce:source-text>
+</reference>
+<reference seq="127">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Davie</ce:surname>
+<ce:given-name>Donald</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ezra Pound: Poet as Sculptor</ref-sourcetitle>
+<ref-publicationyear first="1964"/>
+<ref-text>London: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Donald Davie, Ezra Pound: Poet as Sculptor(London: Oxford University Press, 1964)</ref-fulltext>
+<ce:source-text>Donald Davie, Ezra Pound: Poet as Sculptor(London: Oxford University Press, 1964)</ce:source-text>
+</reference>
+<reference seq="128">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.D.</ce:initials>
+<ce:surname>Duccio</ce:surname>
+<ce:given-name>Agostino Dc</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>This is Now a Matter of Dispute: See, for Example</ref-sourcetitle>
+<ref-publicationyear first="1958"/>
+<ref-text>John Pope- Hennessy, Italian Renaissance Sculpture, London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>Agostino dcDuccio. This is now a matter of dispute: see, for example, John Pope- Hennessy, Italian Renaissance Sculpture(London: Phaidon, 1958);</ref-fulltext>
+<ce:source-text>Agostino dcDuccio. This is now a matter of dispute: see, for example, John Pope- Hennessy, Italian Renaissance Sculpture(London: Phaidon, 1958);</ce:source-text>
+</reference>
+<reference seq="129">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Seymour</ce:surname>
+<ce:given-name>Charles</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sculpture in Italy</ref-sourcetitle>
+<ref-publicationyear first="1966"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1400</first-page>
+<last-page>1500</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Penguin</ref-text>
+</ref-info>
+<ref-fulltext>CharlesSeymour, Jr, Sculpture in Italy, 1400– 1500(London: Penguin, 1966).</ref-fulltext>
+<ce:source-text>CharlesSeymour, Jr, Sculpture in Italy, 1400– 1500(London: Penguin, 1966).</ce:source-text>
+</reference>
+<reference seq="130">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Stokes</ce:surname>
+<ce:given-name>Adrian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Quattro Cento: A Different Conception of the Italian Renaissance: Part One Florence &amp; Verona</ref-sourcetitle>
+<ref-publicationyear first="1932"/>
+<ref-text>London: Faber and Faber</ref-text>
+</ref-info>
+<ref-fulltext>Adrian Stokes, The Quattro Cento: A Different Conception Of The Italian Renaissance: Part One Florence &amp; Verona(London: Faber and Faber, 1932)</ref-fulltext>
+<ce:source-text>Adrian Stokes, The Quattro Cento: A Different Conception Of The Italian Renaissance: Part One Florence &amp; Verona(London: Faber and Faber, 1932)</ce:source-text>
+</reference>
+<reference seq="131">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Russell</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Moore</ce:surname>
+<ce:given-name>Henry</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1968"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>19</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Allen Lane</ref-text>
+</ref-info>
+<ref-fulltext>JohnRussell, HenryMoore(London: Allen Lane, 1968), p. 19</ref-fulltext>
+<ce:source-text>JohnRussell, HenryMoore(London: Allen Lane, 1968), p. 19</ce:source-text>
+</reference>
+<reference seq="132">
+<ref-info>
+<ref-sourcetitle>On Art and the Mind</ref-sourcetitle>
+<ref-publicationyear first="1974"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>58</first-page>
+<last-page>59</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Allen Lane</ref-text>
+</ref-info>
+<ref-fulltext>On Art and the Mind (London: Allen Lane, 1974), pp. 58– 9;</ref-fulltext>
+<ce:source-text>On Art and the Mind (London: Allen Lane, 1974), pp. 58– 9;</ce:source-text>
+</reference>
+<reference seq="133">
+<ref-info>
+<ref-sourcetitle>The Thread of Life</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>71</first-page>
+<last-page>84</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New Haven, CT: Yale University Press</ref-text>
+</ref-info>
+<ref-fulltext>The Thread of Life (New Haven, CT: Yale University Press, 1984), pp. 71– 84;</ref-fulltext>
+<ce:source-text>The Thread of Life (New Haven, CT: Yale University Press, 1984), pp. 71– 84;</ce:source-text>
+</reference>
+<reference seq="134">
+<ref-info>
+<ref-sourcetitle>Painting as an Art</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>103</first-page>
+<last-page>104</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Painting as an Art (Princeton, NJ: Princeton University Press, 1986), pp. 103– 4.</ref-fulltext>
+<ce:source-text>Painting as an Art (Princeton, NJ: Princeton University Press, 1986), pp. 103– 4.</ce:source-text>
+</reference>
+<reference seq="135">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Walton</ce:surname>
+<ce:given-name>Kendall</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mimesis as Make- Believe: On the Foundation of the Representational Arts</ref-sourcetitle>
+<ref-publicationyear first="1990"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Kendall Walton, Mimesis as Make- Believe: On the Foundation of the Representational Arts (Cambridge, MA: Harvard University Press, 1990);</ref-fulltext>
+<ce:source-text>Kendall Walton, Mimesis as Make- Believe: On the Foundation of the Representational Arts (Cambridge, MA: Harvard University Press, 1990);</ce:source-text>
+</reference>
+<reference seq="136">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Meditations on a Hobby Horse</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<ref-text>London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>Ernst Gombrich, Meditations on a Hobby Horse(London: Phaidon, 1963).</ref-fulltext>
+<ce:source-text>Ernst Gombrich, Meditations on a Hobby Horse(London: Phaidon, 1963).</ce:source-text>
+</reference>
+<reference seq="137">
+<ref-info>
+<ref-sourcetitle>Mimesis as Make- Believe</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>21</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Walton, Mimesis as Make- Believe, pp. 21</ref-fulltext>
+<ce:source-text>Walton, Mimesis as Make- Believe, pp. 21</ce:source-text>
+</reference>
+<reference seq="138">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Painting as an Art</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>360</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Thames and Hudson</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Painting as an Art(London: Thames and Hudson, 1987), p. 360n</ref-fulltext>
+<ce:source-text>Richard Wollheim, Painting as an Art(London: Thames and Hudson, 1987), p. 360n</ce:source-text>
+</reference>
+<reference seq="139">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Danto</ce:surname>
+<ce:given-name>Arthur</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Transfiguration of the Commonplace: A Philosophy of Art</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>ArthurDanto, The Transfiguration of the Commonplace: A Philosophy of Art (Cambridge, MA: Harvard University Press), 1981</ref-fulltext>
+<ce:source-text>ArthurDanto, The Transfiguration of the Commonplace: A Philosophy of Art (Cambridge, MA: Harvard University Press), 1981</ce:source-text>
+</reference>
+<reference seq="140">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:surname>Fodor</ce:surname>
+<ce:given-name>Jerry A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Modularity of Mind</ref-sourcetitle>
+<ref-publicationyear first="1983"/>
+<ref-text>Cambridge, MA: MIT Press</ref-text>
+</ref-info>
+<ref-fulltext>Jerry A. Fodor, The Modularity of Mind(Cambridge, MA: MIT Press, 1983)</ref-fulltext>
+<ce:source-text>Jerry A. Fodor, The Modularity of Mind(Cambridge, MA: MIT Press, 1983)</ce:source-text>
+</reference>
+<reference seq="141">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Danto</ce:surname>
+<ce:given-name>Arthur</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Description and the Phenomenology of Perception</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>ArthurDanto, ‘Description and the Phenomenology of Perception</ref-fulltext>
+<ce:source-text>ArthurDanto, ‘Description and the Phenomenology of Perception</ce:source-text>
+</reference>
+<reference seq="142">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Bryson</ce:surname>
+<ce:given-name>Norman</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1991"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>201</first-page>
+<last-page>215</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Michael Ann Holly, and Keith MoxeyVisual Theory: Painting and Interpretation London: Polity Press</ref-text>
+</ref-info>
+<ref-fulltext>NormanBryson, Michael Ann Holly, and Keith Moxey (eds), Visual Theory: Painting and Interpretation (London: Polity Press, 1991), pp. 201– 15</ref-fulltext>
+<ce:source-text>NormanBryson, Michael Ann Holly, and Keith Moxey (eds), Visual Theory: Painting and Interpretation (London: Polity Press, 1991), pp. 201– 15</ce:source-text>
+</reference>
+<reference seq="143">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Pater</ce:surname>
+<ce:given-name>Walter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Studies in the History of the Renaissance</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Matthew Beaumont (Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Walter Pater, Studies in the History of the Renaissance, ed. Matthew Beaumont (Oxford: Oxford University Press, 2010)</ref-fulltext>
+<ce:source-text>Walter Pater, Studies in the History of the Renaissance, ed. Matthew Beaumont (Oxford: Oxford University Press, 2010)</ce:source-text>
+</reference>
+<reference seq="144">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Walter Pater as a Critic of the Arts</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On Art and the Mind: Essays and Lectures</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1973</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Allen Lane</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, ‘Walter Pater as a Critic of the Arts’, in On Art and the Mind: Essays and Lectures (London: Allen Lane, 1973)</ref-fulltext>
+<ce:source-text>Richard Wollheim, ‘Walter Pater as a Critic of the Arts’, in On Art and the Mind: Essays and Lectures (London: Allen Lane, 1973)</ce:source-text>
+</reference>
+<reference seq="145">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.C.</ce:initials>
+<ce:surname>Benson</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>W.</ce:initials>
+<ce:surname>Pater</ce:surname>
+<ce:given-name>Walter</ce:given-name>
+</author>
+</ref-authors>
+<ref-publicationyear first="1906"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>162</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>A. C.Benson, Walter Pater(London: Macmillan, 1906), p. 162</ref-fulltext>
+<ce:source-text>A. C.Benson, Walter Pater(London: Macmillan, 1906), p. 162</ce:source-text>
+</reference>
+<reference seq="146">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Pater</ce:surname>
+<ce:given-name>Walter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sketches and Reviews</ref-sourcetitle>
+<ref-publicationyear first="1919"/>
+<ref-text>New York: Boni and Liveright</ref-text>
+</ref-info>
+<ref-fulltext>Walter Pater, Sketches and Reviews(New York: Boni and Liveright, 1919).</ref-fulltext>
+<ce:source-text>Walter Pater, Sketches and Reviews(New York: Boni and Liveright, 1919).</ce:source-text>
+</reference>
+<reference seq="147">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Pater</ce:surname>
+<ce:given-name>Walter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Studies in the History of the Renaissance</ref-sourcetitle>
+<ref-publicationyear first="1873"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>211</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>Walter Pater, Studies in the History of the Renaissance(London: Macmillan, 1873), p. 211.</ref-fulltext>
+<ce:source-text>Walter Pater, Studies in the History of the Renaissance(London: Macmillan, 1873), p. 211.</ce:source-text>
+</reference>
+<reference seq="148">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:surname>Crowe</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>G.B.</ce:initials>
+<ce:surname>Cavalcaselle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A New History of Painting in Italy</ref-sourcetitle>
+<ref-publicationyear first="1864"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>415</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: John Murray</ref-text>
+</ref-info>
+<ref-fulltext>J. A.Crowe and G. B.Cavalcaselle, A New History of Painting in Italy (London: John Murray, 1864), II, 415</ref-fulltext>
+<ce:source-text>J. A.Crowe and G. B.Cavalcaselle, A New History of Painting in Italy (London: John Murray, 1864), II, 415</ce:source-text>
+</reference>
+<reference seq="149">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.H.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Meditations on a Hobby Horse</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<ref-text>London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>E. H. Gombrich, Meditations on a Hobby Horse(London: Phaidon, 1963)</ref-fulltext>
+<ce:source-text>E. H. Gombrich, Meditations on a Hobby Horse(London: Phaidon, 1963)</ce:source-text>
+</reference>
+<reference seq="150">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Berger</ce:surname>
+<ce:given-name>René</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Language of Art</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<ref-text>London: Thames &amp; Hudson</ref-text>
+</ref-info>
+<ref-fulltext>RenéBerger, The Language of Art(London: Thames &amp; Hudson, 1963).</ref-fulltext>
+<ce:source-text>RenéBerger, The Language of Art(London: Thames &amp; Hudson, 1963).</ce:source-text>
+</reference>
+<reference seq="151">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Greenberg</ce:surname>
+<ce:given-name>Clement</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Collected Essays and Criticism</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>John O’Brian, Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Clement Greenberg, The Collected Essays and Criticism, ed. John O’Brian, 2 vols. (Chicago: University of Chicago Press, 1986)</ref-fulltext>
+<ce:source-text>Clement Greenberg, The Collected Essays and Criticism, ed. John O’Brian, 2 vols. (Chicago: University of Chicago Press, 1986)</ce:source-text>
+</reference>
+<reference seq="152">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Hauser</ce:surname>
+<ce:given-name>Arnold</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Social History of Art</ref-sourcetitle>
+<ref-publicationyear first="1951"/>
+<ref-text>London: Routledge and Kegan Paul</ref-text>
+</ref-info>
+<ref-fulltext>ArnoldHauser, The Social History of Art(London: Routledge and Kegan Paul, 1951)</ref-fulltext>
+<ce:source-text>ArnoldHauser, The Social History of Art(London: Routledge and Kegan Paul, 1951)</ce:source-text>
+</reference>
+<reference seq="153">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Fischer</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Necessity of Art</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>London: Verso</ref-text>
+</ref-info>
+<ref-fulltext>ErnstFischer, The Necessity of Art(London: Verso, 2010)</ref-fulltext>
+<ce:source-text>ErnstFischer, The Necessity of Art(London: Verso, 2010)</ce:source-text>
+</reference>
+<reference seq="154">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Role of Theory in Aesthetics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Weitz</ce:surname>
+<ce:given-name>Morris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Aesthetics and Art Criticism</ref-sourcetitle>
+<ref-publicationyear first="1956"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>27</first-page>
+<last-page>35</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Morris Weitz, ‘The Role of Theory in Aesthetics’, Journal of Aesthetics and Art Criticism, 15.1 (1956), pp. 27– 35.</ref-fulltext>
+<ce:source-text>Morris Weitz, ‘The Role of Theory in Aesthetics’, Journal of Aesthetics and Art Criticism, 15.1 (1956), pp. 27– 35.</ce:source-text>
+</reference>
+<reference seq="155">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Lectures and Conversations on Aesthetics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Wittgenstein</ce:surname>
+<ce:given-name>Ludwig</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Psychology and Religious Belief</ref-sourcetitle>
+<ref-publicationyear first="1967"/>
+<ref-text>Cyril Barrett, Oxford: Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Ludwig Wittgenstein, Lectures and Conversations on Aesthetics, Psychology and Religious Belief, edited by Cyril Barrett(Oxford: Blackwell, 1967).</ref-fulltext>
+<ce:source-text>Ludwig Wittgenstein, Lectures and Conversations on Aesthetics, Psychology and Religious Belief, edited by Cyril Barrett(Oxford: Blackwell, 1967).</ce:source-text>
+</reference>
+<reference seq="156">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Wittgenstein</ce:surname>
+<ce:given-name>Ludwig</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Remarks on the Foundations of Mathematics</ref-sourcetitle>
+<ref-publicationyear first="1956"/>
+<ref-text>edited by G. E. M. Anscombe (Oxford: Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Ludwig Wittgenstein, Remarks on the Foundations of Mathematics, edited by G. E. M. Anscombe (Oxford: Blackwell, 1956).</ref-fulltext>
+<ce:source-text>Ludwig Wittgenstein, Remarks on the Foundations of Mathematics, edited by G. E. M. Anscombe (Oxford: Blackwell, 1956).</ce:source-text>
+</reference>
+<reference seq="157">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Barrett</ce:surname>
+<ce:given-name>Cyril</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Collected Papers on Aesthetics</ref-sourcetitle>
+<ref-publicationyear first="1965"/>
+<ref-text>Oxford: Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>CyrilBarrett, Collected Papers on Aesthetics(Oxford: Blackwell, 1965)</ref-fulltext>
+<ce:source-text>CyrilBarrett, Collected Papers on Aesthetics(Oxford: Blackwell, 1965)</ce:source-text>
+</reference>
+<reference seq="158">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Hook</ce:surname>
+<ce:given-name>Sidney</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Philosophy</ref-sourcetitle>
+<ref-publicationyear first="1966"/>
+<ref-text>New York: New York University Press</ref-text>
+</ref-info>
+<ref-fulltext>SidneyHook (ed.), Art and Philosophy(New York: New York University Press, 1966)</ref-fulltext>
+<ce:source-text>SidneyHook (ed.), Art and Philosophy(New York: New York University Press, 1966)</ce:source-text>
+</reference>
+<reference seq="159">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Wittgenstein</ce:surname>
+<ce:given-name>Ludwig</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Blue and Brown Books</ref-sourcetitle>
+<ref-publicationyear first="1958"/>
+<ref-text>Oxford: Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Ludwig Wittgenstein, The Blue and Brown Books (Oxford: Blackwell, 1958).</ref-fulltext>
+<ce:source-text>Ludwig Wittgenstein, The Blue and Brown Books (Oxford: Blackwell, 1958).</ce:source-text>
+</reference>
+<reference seq="160">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Black</ce:surname>
+<ce:given-name>Max</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophy in America</ref-sourcetitle>
+<ref-publicationyear first="1964"/>
+<ref-text>London: Allen &amp; Unwin</ref-text>
+</ref-info>
+<ref-fulltext>MaxBlack (ed.), Philosophy in America(London: Allen &amp; Unwin, 1964).</ref-fulltext>
+<ce:source-text>MaxBlack (ed.), Philosophy in America(London: Allen &amp; Unwin, 1964).</ce:source-text>
+</reference>
+<reference seq="161">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Da Carpi</ce:surname>
+<ce:given-name>Girolamo</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art Bulletin</ref-sourcetitle>
+<ref-publicationyear first="1948"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>81</first-page>
+<last-page>103</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>30 (June</ref-text>
+</ref-info>
+<ref-fulltext>Girolamo daCarpi’, Art Bulletin, 30 (June1948), pp. 81– 103.</ref-fulltext>
+<ce:source-text>Girolamo daCarpi’, Art Bulletin, 30 (June1948), pp. 81– 103.</ce:source-text>
+</reference>
+<reference seq="162">
+<ref-info>
+<ref-sourcetitle>The Social History of Art</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>345</first-page>
+<last-page>348</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hauser, The Social History of Art, 345–8</ref-fulltext>
+<ce:source-text>Hauser, The Social History of Art, 345–8</ce:source-text>
+</reference>
+<reference seq="163">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.H.F.</ce:initials>
+<ce:surname>von Wright</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Logical Problem of Induction</ref-sourcetitle>
+<ref-publicationyear first="1941"/>
+<ref-text>Helsinki: Helsingfors</ref-text>
+</ref-info>
+<ref-fulltext>G. H. F.von Wright, The Logical Problem of Induction(Helsinki: Helsingfors), [Eds.], 1941</ref-fulltext>
+<ce:source-text>G. H. F.von Wright, The Logical Problem of Induction(Helsinki: Helsingfors), [Eds.], 1941</ce:source-text>
+</reference>
+<reference seq="164">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Hinks</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Carolingian Art</ref-sourcetitle>
+<ref-publicationyear first="1935"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>209</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Sidgwick and Jackson</ref-text>
+</ref-info>
+<ref-fulltext>R.Hinks, Carolingian Art(London: Sidgwick and Jackson, 1935), p. 209.</ref-fulltext>
+<ce:source-text>R.Hinks, Carolingian Art(London: Sidgwick and Jackson, 1935), p. 209.</ce:source-text>
+</reference>
+<reference seq="165">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Style</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Schapiro</ce:surname>
+<ce:given-name>Meyer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Anthropology Today</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>310</first-page>
+<last-page>311</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Alfred Kroeber (ed.), Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Meyer Schapiro, ‘Style’, in Alfred Kroeber (ed.), Anthropology Today (Chicago: University of Chicago Press, 1953), pp. 310– 11.</ref-fulltext>
+<ce:source-text>Meyer Schapiro, ‘Style’, in Alfred Kroeber (ed.), Anthropology Today (Chicago: University of Chicago Press, 1953), pp. 310– 11.</ce:source-text>
+</reference>
+<reference seq="166">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Plekhanov</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Social Life</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>153</first-page>
+<last-page>154</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Lawrence &amp; Wishart Ltd, [Eds.]</ref-text>
+</ref-info>
+<ref-fulltext>G.Plekhanov, Art and Social Life (London: Lawrence &amp; Wishart Ltd, [Eds.]1953), pp. 153– 4</ref-fulltext>
+<ce:source-text>G.Plekhanov, Art and Social Life (London: Lawrence &amp; Wishart Ltd, [Eds.]1953), pp. 153– 4</ce:source-text>
+</reference>
+<reference seq="167">
+<ref-info>
+<ref-sourcetitle>The Social History of Art</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>35</first-page>
+<last-page>43</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hauser, The Social History of Art, 35– 43.</ref-fulltext>
+<ce:source-text>Hauser, The Social History of Art, 35– 43.</ce:source-text>
+</reference>
+<reference seq="168">
+<ref-info>
+<ref-sourcetitle>Florentine Painting and Its Social Background</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>165</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Antal, Florentine Painting and Its Social Background, 165.</ref-fulltext>
+<ce:source-text>Antal, Florentine Painting and Its Social Background, 165.</ce:source-text>
+</reference>
+<reference seq="169">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Meiss</ce:surname>
+<ce:given-name>Millard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art Bulletin</ref-sourcetitle>
+<ref-publicationyear first="1949"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>31</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>143</first-page>
+<last-page>150</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>June</ref-text>
+</ref-info>
+<ref-fulltext>MillardMeiss, Art Bulletin, 31 (June1949), pp. 143– 50;</ref-fulltext>
+<ce:source-text>MillardMeiss, Art Bulletin, 31 (June1949), pp. 143– 50;</ce:source-text>
+</reference>
+<reference seq="170">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.E.</ce:initials>
+<ce:surname>Mommsen</ce:surname>
+<ce:given-name>Theodor E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the History of Ideas</ref-sourcetitle>
+<ref-publicationyear first="1950"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>369</first-page>
+<last-page>379</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>June</ref-text>
+</ref-info>
+<ref-fulltext>Theodor E.Mommsen, Journal of the History of Ideas, 11 (June1950), pp. 369– 79</ref-fulltext>
+<ce:source-text>Theodor E.Mommsen, Journal of the History of Ideas, 11 (June1950), pp. 369– 79</ce:source-text>
+</reference>
+<reference seq="171">
+<ref-info>
+<ref-sourcetitle>Florentine Painting and Its Social Background</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>31</first-page>
+<last-page>50</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Plekhanov, Florentine Painting and its Social Background, 31– 50.</ref-fulltext>
+<ce:source-text>Plekhanov, Florentine Painting and its Social Background, 31– 50.</ce:source-text>
+</reference>
+<reference seq="172">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Meiss</ce:surname>
+<ce:given-name>Millard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Painting in Florence and Siena after the Black Death</ref-sourcetitle>
+<ref-publicationyear first="1951"/>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>MillardMeiss, Painting in Florence and Siena after the Black Death (Princeton, NJ: Princeton University Press, 1951)</ref-fulltext>
+<ce:source-text>MillardMeiss, Painting in Florence and Siena after the Black Death (Princeton, NJ: Princeton University Press, 1951)</ce:source-text>
+</reference>
+<reference seq="173">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Review of Hauser</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Gombrich'S</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social History, in Art Bulletin</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>35</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>79</first-page>
+<last-page>84</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Mar</ref-text>
+</ref-info>
+<ref-fulltext>E.Gombrich’sreview of Hauser, Social History, in Art Bulletin, 35 (Mar. 1953), pp. 79– 84.</ref-fulltext>
+<ce:source-text>E.Gombrich’sreview of Hauser, Social History, in Art Bulletin, 35 (Mar. 1953), pp. 79– 84.</ce:source-text>
+</reference>
+<reference seq="174">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Milner</ce:surname>
+<ce:given-name>Marion</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On Not Being Able to Paint</ref-sourcetitle>
+<ref-publicationyear first="1957"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>7</first-page>
+<last-page>8</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>MarionMilner, On Not Being Able to Paint (London: Routledge, 1957), pp. 7– 8</ref-fulltext>
+<ce:source-text>MarionMilner, On Not Being Able to Paint (London: Routledge, 1957), pp. 7– 8</ce:source-text>
+</reference>
+<reference seq="175">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Wittgenstein</ce:surname>
+<ce:given-name>Ludwig</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Investigations</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>510</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Basil Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>Ludwig Wittgenstein, Philosophical Investigations (Oxford: Basil Blackwell, 1953), §510;</ref-fulltext>
+<ce:source-text>Ludwig Wittgenstein, Philosophical Investigations (Oxford: Basil Blackwell, 1953), §510;</ce:source-text>
+</reference>
+<reference seq="176">
+<ref-info>
+<ref-sourcetitle>The Blue and Brown Books</ref-sourcetitle>
+<ref-publicationyear first="1958"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>42</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Basil Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>The Blue and Brown Books (Oxford: Basil Blackwell, 1958), p. 42</ref-fulltext>
+<ce:source-text>The Blue and Brown Books (Oxford: Basil Blackwell, 1958), p. 42</ce:source-text>
+</reference>
+<reference seq="177">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.H.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Meditations on a Hobby Horse</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>57</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>E. H. Gombrich, Meditations on a Hobby Horse(London: Phaidon, 1963), p. 57.</ref-fulltext>
+<ce:source-text>E. H. Gombrich, Meditations on a Hobby Horse(London: Phaidon, 1963), p. 57.</ce:source-text>
+</reference>
+<reference seq="178">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.H.</ce:initials>
+<ce:surname>Gombrich</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Illusion</ref-sourcetitle>
+<ref-publicationyear first="1960"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>86</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Phaidon</ref-text>
+</ref-info>
+<ref-fulltext>E. H. Gombrich, Art and Illusion(London: Phaidon, 1960), p. 86.</ref-fulltext>
+<ce:source-text>E. H. Gombrich, Art and Illusion(London: Phaidon, 1960), p. 86.</ce:source-text>
+</reference>
+<reference seq="179">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Rosenberg</ce:surname>
+<ce:given-name>Harold</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Tradition of the New</ref-sourcetitle>
+<ref-publicationyear first="1962"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>27</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Thames and Hudson</ref-text>
+</ref-info>
+<ref-fulltext>HaroldRosenberg, The Tradition of the New(London: Thames and Hudson, 1962), p. 27n.</ref-fulltext>
+<ce:source-text>HaroldRosenberg, The Tradition of the New(London: Thames and Hudson, 1962), p. 27n.</ce:source-text>
+</reference>
+<reference seq="180">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Langer</ce:surname>
+<ce:given-name>Susanne</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophy in a New Key</ref-sourcetitle>
+<ref-publicationyear first="1942"/>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>SusanneLanger, Philosophy in a New Key (Cambridge, MA: Harvard University Press, 1942), ch. 4.</ref-fulltext>
+<ce:source-text>SusanneLanger, Philosophy in a New Key (Cambridge, MA: Harvard University Press, 1942), ch. 4.</ce:source-text>
+</reference>
+<reference seq="181">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Kris</ce:surname>
+<ce:given-name>Ernst</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Psychoanalytic Explorations in Art</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>231</first-page>
+<last-page>234</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: George Allen &amp; Unwin Ltd</ref-text>
+</ref-info>
+<ref-fulltext>Ernst Kris, Psychoanalytic Explorations in Art (London: George Allen &amp; Unwin Ltd., 1953), pp. 231–4.</ref-fulltext>
+<ce:source-text>Ernst Kris, Psychoanalytic Explorations in Art (London: George Allen &amp; Unwin Ltd., 1953), pp. 231–4.</ce:source-text>
+</reference>
+<reference seq="182">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Painting as an Art: The Andrew W. Mellon Lectures in The Fine Arts, 1984</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Painting as an Art: The Andrew W. Mellon Lectures in the Fine Arts, 1984 (Princeton, NJ: Princeton University Press, 1987)</ref-fulltext>
+<ce:source-text>Richard Wollheim, Painting as an Art: The Andrew W. Mellon Lectures in the Fine Arts, 1984 (Princeton, NJ: Princeton University Press, 1987)</ce:source-text>
+</reference>
+<reference seq="183">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Nelson Goodman’s Languages of Art</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="1970"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>72</vol-first>
+<iss-first>16</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>531</first-page>
+<last-page>539</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>20 Aug</ref-text>
+</ref-info>
+<ref-fulltext>‘Nelson Goodman’s Languages of Art’, Journal of Philosophy, 72.16(20 Aug. 1970), pp. 531– 9</ref-fulltext>
+<ce:source-text>‘Nelson Goodman’s Languages of Art’, Journal of Philosophy, 72.16(20 Aug. 1970), pp. 531– 9</ce:source-text>
+</reference>
+<reference seq="184">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On Art and the Mind</ref-sourcetitle>
+<ref-publicationyear first="1973"/>
+<ref-text>London: Allen Lane, Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, On Art and the Mind (London: Allen Lane, 1973; Cambridge, MA: Harvard University Press, 1974).</ref-fulltext>
+<ce:source-text>Richard Wollheim, On Art and the Mind (London: Allen Lane, 1973; Cambridge, MA: Harvard University Press, 1974).</ce:source-text>
+</reference>
+<reference seq="185">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Goodman</ce:surname>
+<ce:given-name>Nelson</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.Z.</ce:initials>
+<ce:surname>Elgin</ce:surname>
+<ce:given-name>Catherine Z.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reconceptions in Philosophy and Other Arts and Sciences</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>55</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Indianapolis: Hackett</ref-text>
+</ref-info>
+<ref-fulltext>Nelson Goodman and Catherine Z.Elgin, Reconceptions in Philosophy and Other Arts and Sciences (Indianapolis: Hackett, 1988), p. 55.</ref-fulltext>
+<ce:source-text>Nelson Goodman and Catherine Z.Elgin, Reconceptions in Philosophy and Other Arts and Sciences (Indianapolis: Hackett, 1988), p. 55.</ce:source-text>
+</reference>
+<reference seq="186">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Art and Its Objects, 2Nd Edn with Six Supplementary Essays</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<ref-text>New York: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, Art and its Objects, 2nd edn with Six Supplementary Essays (New York: Cambridge University Press, 1980)</ref-fulltext>
+<ce:source-text>Richard Wollheim, Art and its Objects, 2nd edn with Six Supplementary Essays (New York: Cambridge University Press, 1980)</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

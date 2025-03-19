@@ -1,0 +1,2733 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-15T12:32:38</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID">20252000100104</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+<author-keywords>
+<author-keyword>Detachment</author-keyword>
+<author-keyword>Attachment</author-keyword>
+<author-keyword>Leading a life</author-keyword>
+<author-keyword>Self-understanding</author-keyword>
+<author-keyword>Passage of time</author-keyword>
+<author-keyword>Personal relationships</author-keyword>
+<author-keyword>Neutrality</author-keyword>
+<author-keyword>Temporality</author-keyword>
+<author-keyword>Valuing</author-keyword>
+<author-keyword>Vulnerability</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">One Life to Lead: The Mysteries of Time and the Goods of Attachment</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Samuel</ce:surname>
+<ce:given-name>Scheffler</ce:given-name>
+</author>
+<affiliation>
+<organization>New York University</organization>
+<country iso-code="USA"/>
+<ce:source-text>Samuel Scheffler Professor of Philosophy and Law, New York University</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>S.</ce:initials>
+<ce:surname>Samuel</ce:surname>
+<ce:given-name>Scheffler</ce:given-name>
+</person>
+<affiliation>
+<organization>New York University</organization>
+<country iso-code="USA"/>
+<ce:source-text>Samuel Scheffler Professor of Philosophy and Law, New York University</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Samuel Scheffler 2025 All rights reserved</publishercopyright>
+<ce:para>It is a truism that each of us has one life to lead. But we rarely ask what it means to lead a life, perhaps because the answer strikes us as obvious. In fact, though, leading one’s life requires that we negotiate some deeply puzzling aspects of our experience and overcome some profound challenges to our sense of ourselves and our place in the world. This book develops an “attachment-sensitive” conception of what it means to lead a recognizably human life. In so doing, it reveals some hidden complexities that are latent in our understanding of ourselves and our lives. The book focuses on two interrelated dimensions of our experience: the temporal and the interpersonal. Many of the puzzles and challenges we must negotiate concern the passage of time, which shapes and frequently unsettles our emotions, our attitudes, and our understanding of ourselves. Other questions concern our determination to form and sustain valuable personal and social attachments, even though doing so requires us to share authority with others and renders us vulnerable to grief, loss, and pain. The investigations of the temporal and interpersonal dimensions of our experience remind us that although our capacity to view our lives in broader perspective is extremely important, we cannot undo our social and temporal specificity. We lead our lives, and can hope to lead good lives, not by systematically transcending our selves or our attachments, as some traditions and thinkers have urged, but by engaging with the world as we find it.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>One life to lead: the mysteries of time and the goods of attachment</sourcetitle>
+<sourcetitle-abbrev>one life to lead: the mysteries of time and the goods of attachment</sourcetitle-abbrev>
+<isbn type="print" length="13">9780197754634</isbn>
+<isbn type="electronic" length="13">9780197754740</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>264</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>13</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://academic.oup.com/book/59317</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="105">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Many, perhaps most, people manage to live meaningful lives without giving the idea of meaning a moment’s explicit thought, and those whose lives are not satisfactorily meaningful are not likely to be able to remedy this shortfall simply by having it called more explicitly to their attention</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Wolf</ce:surname>
+<ce:given-name>Susan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Meaning in Life and Why It Matters</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>48</first-page>
+<last-page>49</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>makes a similar point about the meaning of life, Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Susan Wolf makes a similar point about the meaning of life: “Many, perhaps most, people manage to live meaningful lives without giving the idea of meaning a moment’s explicit thought, and those whose lives are not satisfactorily meaningful are not likely to be able to remedy this shortfall simply by having it called more explicitly to their attention” (Wolf, Meaning in Life and Why It Matters [Princeton, NJ: Princeton University Press, 2010], pp. 48–9).</ref-fulltext>
+<ce:source-text>Susan Wolf makes a similar point about the meaning of life: “Many, perhaps most, people manage to live meaningful lives without giving the idea of meaning a moment’s explicit thought, and those whose lives are not satisfactorily meaningful are not likely to be able to remedy this shortfall simply by having it called more explicitly to their attention” (Wolf, Meaning in Life and Why It Matters [Princeton, NJ: Princeton University Press, 2010], pp. 48–9).</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Calhoun</ce:surname>
+<ce:given-name>Cheshire</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Doing Valuable Time</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-text>In her book, New York: Oxford University Press, Although our approaches to the question differ, both of us are centrally concerned with the temporal dimension of human life. Calhoun’s book takes up a number of issues that I do not discuss, and it contains a great deal that is of interest</ref-text>
+</ref-info>
+<ref-fulltext>Cheshire Calhoun in her book Doing Valuable Time (New York: Oxford University Press, 2018). Although our approaches to the question differ, both of us are centrally concerned with the temporal dimension of human life. Calhoun’s book takes up a number of issues that I do not discuss, and it contains a great deal that is of interest.</ref-fulltext>
+<ce:source-text>Cheshire Calhoun in her book Doing Valuable Time (New York: Oxford University Press, 2018). Although our approaches to the question differ, both of us are centrally concerned with the temporal dimension of human life. Calhoun’s book takes up a number of issues that I do not discuss, and it contains a great deal that is of interest.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wollheim</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Thread of Life</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>266</first-page>
+<last-page>267</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Richard Wollheim, The Thread of Life (Cambridge, MA: Harvard University Press, 1984), pp. 266–7.</ref-fulltext>
+<ce:source-text>Richard Wollheim, The Thread of Life (Cambridge, MA: Harvard University Press, 1984), pp. 266–7.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.J.C.</ce:initials>
+<ce:surname>Smart</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Williams</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Utilitarianism for and Against</ref-sourcetitle>
+<ref-publicationyear first="1973"/>
+<ref-text>Cambridge: Cambridge University Press,, The notion of a project [projet] also plays an important role in Sartre’s thought</ref-text>
+</ref-info>
+<ref-fulltext>J. J. C. Smart and B. Williams, Utilitarianism For and Against (Cambridge: Cambridge University Press, 1973). The notion of a project [projet] also plays an important role in Sartre’s thought.</ref-fulltext>
+<ce:source-text>J. J. C. Smart and B. Williams, Utilitarianism For and Against (Cambridge: Cambridge University Press, 1973). The notion of a project [projet] also plays an important role in Sartre’s thought.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Nussbaum</ce:surname>
+<ce:given-name>Martha</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Therapy of Desire</ref-sourcetitle>
+<ref-publicationyear first="1994"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>363</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Martha Nussbaum, The Therapy of Desire (Princeton, NJ: Princeton University Press, 1994), p. 363.</ref-fulltext>
+<ce:source-text>Martha Nussbaum, The Therapy of Desire (Princeton, NJ: Princeton University Press, 1994), p. 363.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Hägglund</ce:surname>
+<ce:given-name>Martin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>This Life</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>New York: Pantheon Books, especially chapters 1–4</ref-text>
+</ref-info>
+<ref-fulltext>Martin Hägglund’s This Life (New York: Pantheon Books, 2019), especially chapters 1–4.</ref-fulltext>
+<ce:source-text>Martin Hägglund’s This Life (New York: Pantheon Books, 2019), especially chapters 1–4.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Nussbaum</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Therapy of Desire</ref-sourcetitle>
+<ref-text>chapter 10</ref-text>
+</ref-info>
+<ref-fulltext>Nussbaum, The Therapy of Desire, chapter 10.</ref-fulltext>
+<ce:source-text>Nussbaum, The Therapy of Desire, chapter 10.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Grief</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.S.</ce:initials>
+<ce:surname>Naipaul</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Yorker</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>18</first-page>
+<last-page>24</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>January 6, p. 19</ref-text>
+</ref-info>
+<ref-fulltext>V. S. Naipaul, “Grief,” New Yorker, January 6, 2020, pp. 18–24, at p. 19.</ref-fulltext>
+<ce:source-text>V. S. Naipaul, “Grief,” New Yorker, January 6, 2020, pp. 18–24, at p. 19.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-title>
+<ref-titletext-english>From the Japanese”: “Why love what you will lose?/There is nothing else to love</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Glück</ce:surname>
+<ce:given-name>Louise</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Triumph of Achilles</ref-sourcetitle>
+<ref-publicationyear first="1985"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>192</first-page>
+<last-page>195</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Echo Press, reprinted in Louise Glück: Collected Poems 1962–2012 [New York: Farrar, Straus and Giroux, 2012], p. 195</ref-text>
+</ref-info>
+<ref-fulltext>Louise Glück’s poem “From the Japanese”: “Why love what you will lose?/There is nothing else to love” (in The Triumph of Achilles [Echo Press, 1985]; reprinted in Louise Glück: Collected Poems 1962–2012 [New York: Farrar, Straus and Giroux, 2012], pp. 192–5, at p. 195).</ref-fulltext>
+<ce:source-text>Louise Glück’s poem “From the Japanese”: “Why love what you will lose?/There is nothing else to love” (in The Triumph of Achilles [Echo Press, 1985]; reprinted in Louise Glück: Collected Poems 1962–2012 [New York: Farrar, Straus and Giroux, 2012], pp. 192–5, at p. 195).</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Grief’ describes a pattern which recurs, with different variations, in the weave of our life [Lebensteppich]</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Wittgenstein</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Investigations</ref-sourcetitle>
+<ref-publicationyear first="1953"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>174</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>Wittgenstein: “‘Grief’ describes a pattern which recurs, with different variations, in the weave of our life [Lebensteppich]” (Philosophical Investigations [New York: Macmillan, 1953]), p. 174.</ref-fulltext>
+<ce:source-text>Wittgenstein: “‘Grief’ describes a pattern which recurs, with different variations, in the weave of our life [Lebensteppich]” (Philosophical Investigations [New York: Macmillan, 1953]), p. 174.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>On Reflective Equanimity</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.-L.</ce:initials>
+<ce:surname>Shun</ce:surname>
+<ce:given-name>Kwong-Loi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Moral Cultivation and Confucian Character: Engaging Joel J. Kupperman</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>127</first-page>
+<last-page>149</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Li Chenyang and Ni Peimin, Albany: State University of New York Press, p. 142</ref-text>
+</ref-info>
+<ref-fulltext>Kwong-loi Shun, “On Reflective Equanimity,” in Li Chenyang and Ni Peimin, eds., Moral Cultivation and Confucian Character: Engaging Joel J. Kupperman (Albany: State University of New York Press, 2014), pp. 127–49, at p. 142.</ref-fulltext>
+<ce:source-text>Kwong-loi Shun, “On Reflective Equanimity,” in Li Chenyang and Ni Peimin, eds., Moral Cultivation and Confucian Character: Engaging Joel J. Kupperman (Albany: State University of New York Press, 2014), pp. 127–49, at p. 142.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-title>
+<ref-titletext-english>On the Idea of ‘No Self</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Shun</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Proceedings and Addresses of the American Philosophical Association</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>92</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>78</first-page>
+<last-page>107</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>November</ref-text>
+</ref-info>
+<ref-fulltext>Shun, “On the Idea of ‘No Self,’” Proceedings and Addresses of the American Philosophical Association 92(November, 2018): 78-107.</ref-fulltext>
+<ce:source-text>Shun, “On the Idea of ‘No Self,’” Proceedings and Addresses of the American Philosophical Association 92(November, 2018): 78-107.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Shun</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>On Reflective Equanimity</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>132</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Shun, “On Reflective Equanimity,” p. 132.</ref-fulltext>
+<ce:source-text>Shun, “On Reflective Equanimity,” p. 132.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Parfit</ce:surname>
+<ce:given-name>Derek</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons and Persons</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>281</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Clarendon Press</ref-text>
+</ref-info>
+<ref-fulltext>Derek Parfit, Reasons and Persons (Oxford: Clarendon Press, 1984), p. 281.</ref-fulltext>
+<ce:source-text>Derek Parfit, Reasons and Persons (Oxford: Clarendon Press, 1984), p. 281.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How to Be Good</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Macfarquhar</ce:surname>
+<ce:given-name>Larissa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Yorker</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-website>
+<ce:e-address type="url">https://tricycle.org/trikedaily/tibetan-monks-found-chanting-text-oxford-philosopher/</ce:e-address>
+</ref-website>
+<ref-text>mentions this story in her, profile of Parfit, September 5, and further background is supplied by Daniel Wikler here</ref-text>
+</ref-info>
+<ref-fulltext>Larissa MacFarquhar mentions this story in her New Yorker profile of Parfit (“How to Be Good,” September 5, 2011), and further background is supplied by Daniel Wikler here: https://tricycle.org/trikedaily/tibetan-monks-found-chanting-text-oxford-phil osopher/.</ref-fulltext>
+<ce:source-text>Larissa MacFarquhar mentions this story in her New Yorker profile of Parfit (“How to Be Good,” September 5, 2011), and further background is supplied by Daniel Wikler here: https://tricycle.org/trikedaily/tibetan-monks-found-chanting-text-oxford-phil osopher/.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Edmonds</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Parfit: A Philosopher and His Mission to save Morality</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>105</first-page>
+<last-page>106</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>David Edmonds, Parfit: A Philosopher and His Mission to Save Morality (Princeton, NJ: Princeton University Press, 2023), pp. 105–6.</ref-fulltext>
+<ce:source-text>David Edmonds, Parfit: A Philosopher and His Mission to Save Morality (Princeton, NJ: Princeton University Press, 2023), pp. 105–6.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>So It Goes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>David Velleman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Amherst Lecture in Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>1</iss-first>
+<iss-last>23</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>19</first-page>
+<last-page>20</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">http://www.amherstlecture.org/velleman2006/</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>J. David Velleman, “So It Goes,” The Amherst Lecture in Philosophy 1 (2006): 1–23, at pp. 19–20.http://www.amherstlecture.org/velleman2006/</ref-fulltext>
+<ce:source-text>J. David Velleman, “So It Goes,” The Amherst Lecture in Philosophy 1 (2006): 1–23, at pp. 19–20.http://www.amherstlecture.org/velleman2006/</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Parfit</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons and Persons</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>178</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Parfit, Reasons and Persons, p. 178.</ref-fulltext>
+<ce:source-text>Parfit, Reasons and Persons, p. 178.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Constructivism in Ethics and the Problem of Attachment and Loss</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Street</ce:surname>
+<ce:given-name>Sharon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Proceedings of the Aristotelian Society Supplementary Volume</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>90</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>161</first-page>
+<last-page>189</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sharon Street, “Constructivism in Ethics and the Problem of Attachment and Loss,” Proceedings of the Aristotelian Society Supplementary Volume 90(2016): 161–89</ref-fulltext>
+<ce:source-text>Sharon Street, “Constructivism in Ethics and the Problem of Attachment and Loss,” Proceedings of the Aristotelian Society Supplementary Volume 90(2016): 161–89</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Nagel</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The View from Nowhere</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Thomas Nagel, The View from Nowhere (New York: Oxford University Press, 1986), p. 5.</ref-fulltext>
+<ce:source-text>Thomas Nagel, The View from Nowhere (New York: Oxford University Press, 1986), p. 5.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Nagel</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mortal Questions</ref-sourcetitle>
+<ref-publicationyear first="1979"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>24</first-page>
+<last-page>38</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Thomas Nagel, Mortal Questions (Cambridge: Cambridge University Press, 1979), pp. 24–38.</ref-fulltext>
+<ce:source-text>Thomas Nagel, Mortal Questions (Cambridge: Cambridge University Press, 1979), pp. 24–38.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Williams</ce:surname>
+<ce:given-name>Bernard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Moral Luck</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>20</first-page>
+<last-page>39</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>as reprinted in his, Moral Luck Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Bernard Williams, “Moral Luck,” as reprinted in his Moral Luck (Cambridge: Cambridge University Press, 1981), pp. 20–39.</ref-fulltext>
+<ce:source-text>Bernard Williams, “Moral Luck,” as reprinted in his Moral Luck (Cambridge: Cambridge University Press, 1981), pp. 20–39.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Prospects for Temporal Neutrality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Brink</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of Philosophy of Time</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>352</first-page>
+<last-page>381</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>C. Callender, Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>David Brink, “Prospects for Temporal Neutrality,” in C. Callender ed., The Oxford Handbook of Philosophy of Time (Oxford: Oxford University Press, 2011), pp. 352–81.</ref-fulltext>
+<ce:source-text>David Brink, “Prospects for Temporal Neutrality,” in C. Callender ed., The Oxford Handbook of Philosophy of Time (Oxford: Oxford University Press, 2011), pp. 352–81.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Temporal profile</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Berislav</ce:surname>
+<ce:given-name>Marušic</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On the Temporality of the Emotions</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+<iss-first>25</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>uses the term, to express the same idea, both in his book, Oxford: Oxford University Press, and in his earlier essay “Do Reasons Expire? An Essay on Grief,” Philosophers’ Imprint, December 2018</ref-text>
+</ref-info>
+<ref-fulltext>Berislav Marušic uses the term “temporal profile” to express the same idea, both in his book On the Temporality of the Emotions (Oxford: Oxford University Press, 2022) and in his earlier essay “Do Reasons Expire? An Essay on Grief,” Philosophers’ Imprint, Vol. 18, No. 25, December 2018.</ref-fulltext>
+<ce:source-text>Berislav Marušic uses the term “temporal profile” to express the same idea, both in his book On the Temporality of the Emotions (Oxford: Oxford University Press, 2022) and in his earlier essay “Do Reasons Expire? An Essay on Grief,” Philosophers’ Imprint, Vol. 18, No. 25, December 2018.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.M.E.</ce:initials>
+<ce:surname>McTaggart</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Nature of Existence</ref-sourcetitle>
+<ref-publicationyear first="1927"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>350</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Volume II (Cambridge: Cambridge University Press, I am grateful to Tom Hurka for the reference. 8Personal communication, September 26, 2015</ref-text>
+</ref-info>
+<ref-fulltext>J. M. E. McTaggart, The Nature of Existence, Volume II (Cambridge: Cambridge University Press, 1927), p. 350. I am grateful to Tom Hurka for the reference. 8Personal communication, September 26, 2015.</ref-fulltext>
+<ce:source-text>J. M. E. McTaggart, The Nature of Existence, Volume II (Cambridge: Cambridge University Press, 1927), p. 350. I am grateful to Tom Hurka for the reference. 8Personal communication, September 26, 2015.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Parfit</ce:surname>
+<ce:given-name>Derek</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On What Matters</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>495</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford: Oxford University Press, (note to page 57)</ref-text>
+</ref-info>
+<ref-fulltext>Derek Parfit, On What Matters (Oxford: Oxford University Press, 2011), vol. 1, p. 495 (note to page 57).</ref-fulltext>
+<ce:source-text>Derek Parfit, On What Matters (Oxford: Oxford University Press, 2011), vol. 1, p. 495 (note to page 57).</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Temporal Neutrality and the Bias toward the Future</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Scheffler</ce:surname>
+<ce:given-name>Samuel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Principles and Persons: The Legacy of Derek Parfit</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>85</first-page>
+<last-page>114</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>(in J. McMahan, T. Campbell, J. Goodrich, and K. Ramakrishnan, eds., Oxford: Oxford University Press, Parfit, Reasons and Persons, p. 174</ref-text>
+</ref-info>
+<ref-fulltext>Samuel Scheffler, “Temporal Neutrality and the Bias toward the Future” (in J. McMahan, T. Campbell, J. Goodrich, and K. Ramakrishnan, eds., Principles and Persons: The Legacy of Derek Parfit [Oxford: Oxford University Press, 2021], pp. 85– 114). Parfit, Reasons and Persons, p. 174.</ref-fulltext>
+<ce:source-text>Samuel Scheffler, “Temporal Neutrality and the Bias toward the Future” (in J. McMahan, T. Campbell, J. Goodrich, and K. Ramakrishnan, eds., Principles and Persons: The Legacy of Derek Parfit [Oxford: Oxford University Press, 2021], pp. 85– 114). Parfit, Reasons and Persons, p. 174.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Justification of National Partiality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Hurka</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Morality of Nationalism</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>139</first-page>
+<last-page>157</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>R. McKim and J. McMahan, Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Thomas Hurka, “The Justification of National Partiality,” in R. McKim and J. McMahan, eds., The Morality of Nationalism (Oxford: Oxford University Press, 1997), pp. 139–57.</ref-fulltext>
+<ce:source-text>Thomas Hurka, “The Justification of National Partiality,” in R. McKim and J. McMahan, eds., The Morality of Nationalism (Oxford: Oxford University Press, 1997), pp. 139–57.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love as Valuing a Relationship</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Kolodny</ce:surname>
+<ce:given-name>Niko</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Review</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>112</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>135</first-page>
+<last-page>189</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Niko Kolodny, “Love as Valuing a Relationship,” Philosophical Review 112(2003): 135–89.</ref-fulltext>
+<ce:source-text>Niko Kolodny, “Love as Valuing a Relationship,” Philosophical Review 112(2003): 135–89.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Parfit</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons and Persons</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>172</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Parfit, Reasons and Persons., p. 172.</ref-fulltext>
+<ce:source-text>Parfit, Reasons and Persons., p. 172.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Parfit</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons and Persons</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>185</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Parfit, Reasons and Persons, p. 185.</ref-fulltext>
+<ce:source-text>Parfit, Reasons and Persons, p. 185.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Rawls</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Theory of Justice</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>293</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rawls, A Theory of Justice, p. 293.</ref-fulltext>
+<ce:source-text>Rawls, A Theory of Justice, p. 293.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Prospects for Temporal Neutrality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Brink</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of Philosophy of Time</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>352</first-page>
+<last-page>381</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>C. Callender, Oxford: Oxford University Press, p. 377</ref-text>
+</ref-info>
+<ref-fulltext>David Brink, “Prospects for Temporal Neutrality,” in C. Callender ed., The Oxford Handbook of Philosophy of Time (Oxford: Oxford University Press, 2011), pp. 352–81, at p. 377.</ref-fulltext>
+<ce:source-text>David Brink, “Prospects for Temporal Neutrality,” in C. Callender ed., The Oxford Handbook of Philosophy of Time (Oxford: Oxford University Press, 2011), pp. 352–81, at p. 377.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Well-Being and Time</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Velleman</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pacific Philosophical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>72</vol-first>
+<iss-first>48</iss-first>
+<iss-last>77</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>329</first-page>
+<last-page>357</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>reprinted in J. M. Fischer ed., The Metaphysics of Death [Stanford, CA: Stanford University Press, 1993</ref-text>
+</ref-info>
+<ref-fulltext>David Velleman, “Well-Being and Time,” Pacific Philosophical Quarterly 72[1991]: 48–77, reprinted in J. M. Fischer ed., The Metaphysics of Death [Stanford, CA: Stanford University Press, 1993], pp. 329–57.)</ref-fulltext>
+<ce:source-text>David Velleman, “Well-Being and Time,” Pacific Philosophical Quarterly 72[1991]: 48–77, reprinted in J. M. Fischer ed., The Metaphysics of Death [Stanford, CA: Stanford University Press, 1993], pp. 329–57.</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Brink</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Prospects for Temporal Neutrality</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>377</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Brink, "Prospects for Temporal Neutrality," p. 377.</ref-fulltext>
+<ce:source-text>Brink, "Prospects for Temporal Neutrality," p. 377.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Puzzle about Other-Directed Time-Bias</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Hare</ce:surname>
+<ce:given-name>Caspar</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Australasian Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>86</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>269</first-page>
+<last-page>277</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Caspar Hare, “A Puzzle about Other-Directed Time-Bias,” Australasian Journal of Philosophy 86(2008): 269–77.</ref-fulltext>
+<ce:source-text>Caspar Hare, “A Puzzle about Other-Directed Time-Bias,” Australasian Journal of Philosophy 86(2008): 269–77.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Parfit</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reasons and Persons</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>164</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Parfit, Reasons and Persons, p. 164.</ref-fulltext>
+<ce:source-text>Parfit, Reasons and Persons, p. 164.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Do Reasons Expire? An Essay on Grief</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Berislav</ce:surname>
+<ce:given-name>Marušic</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophers' Imprint</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+<iss-first>25</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>December</ref-text>
+</ref-info>
+<ref-fulltext>Berislav Marušic, “Do Reasons Expire? An Essay on Grief,” Philosophers’ Imprint, Vol. 18, No. 25, December 2018</ref-fulltext>
+<ce:source-text>Berislav Marušic, “Do Reasons Expire? An Essay on Grief,” Philosophers’ Imprint, Vol. 18, No. 25, December 2018</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love and Death</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Moller</ce:surname>
+<ce:given-name>Dan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>104</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>301</first-page>
+<last-page>316</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dan Moller, “Love and Death,” Journal of Philosophy 104(2007): 301–16.</ref-fulltext>
+<ce:source-text>Dan Moller, “Love and Death,” Journal of Philosophy 104(2007): 301–16.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love and the Rationality of Grief</ref-titletext-english>
+</ref-title>
+<itemidlist>
+<ce:doi>10.1093/oxfordhb/9780199395729.013.35</ce:doi>
+</itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Moller</ce:surname>
+<ce:given-name>Dan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of Philosophy of Love</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>C. Grau and A. Smuts, Oxford, Online Publication Date: April</ref-text>
+</ref-info>
+<ref-fulltext>Dan Moller, “Love and the Rationality of Grief,” in C. Grau and A. Smuts eds., The Oxford Handbook of Philosophy of Love (Oxford, Online Publication Date: April, 2017), DOI: 10.1093/oxfordhb/9780199395729.013.35.</ref-fulltext>
+<ce:source-text>Dan Moller, “Love and the Rationality of Grief,” in C. Grau and A. Smuts eds., The Oxford Handbook of Philosophy of Love (Oxford, Online Publication Date: April, 2017), DOI: 10.1093/oxfordhb/9780199395729.013.35.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love and Death: The Problem of Resilience</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Smuts</ce:surname>
+<ce:given-name>Aaron</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Immortality and the Philosophy of Death</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>173</first-page>
+<last-page>188</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Michael Cholbi, London: Rowman and Littlefield</ref-text>
+</ref-info>
+<ref-fulltext>Aaron Smuts, “Love and Death: The Problem of Resilience,” in Michael Cholbi, ed., Immortality and the Philosophy of Death (London: Rowman and Littlefield, 2015), pp. 173–88.</ref-fulltext>
+<ce:source-text>Aaron Smuts, “Love and Death: The Problem of Resilience,” in Michael Cholbi, ed., Immortality and the Philosophy of Death (London: Rowman and Littlefield, 2015), pp. 173–88.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Lear</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Imagining the End: Mourning and Ethical Life</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>117</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Lear, Imagining the End: Mourning and Ethical Life (Cambridge, MA: Harvard University Press, 2022), p. 117.</ref-fulltext>
+<ce:source-text>Lear, Imagining the End: Mourning and Ethical Life (Cambridge, MA: Harvard University Press, 2022), p. 117.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Strachey</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Standard Edition of the Complete Psychological Works of Sigmund Freud</ref-sourcetitle>
+<ref-publicationyear first="1957"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>305</first-page>
+<last-page>307</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>London: Hogarth Press</ref-text>
+</ref-info>
+<ref-fulltext>J. Strachey ed., The Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. 14 (London: Hogarth Press, 1957), pp. 305–7.</ref-fulltext>
+<ce:source-text>J. Strachey ed., The Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. 14 (London: Hogarth Press, 1957), pp. 305–7.</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Barry</ce:surname>
+<ce:given-name>Kevin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Night Boat to Tangier</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>52</first-page>
+<last-page>53</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Doubleday, Maurice and Charlie, two aging drug smugglers, are in the midst of discussing the “seven true distractions in life”: I fully accept there’s a thing called love, Maurice says. Haven’t I been half my born days up to my sucker eyeballs in it? And there’s sentimentality, which is all tied up with the love and the lust. There’s grief and the longer we go on, the more of it we’ve the burden of. It accretes, Charlie says, like a motherfucker out of control. Does the old grief</ref-text>
+</ref-info>
+<ref-fulltext>Kevin Barry’s novel Night Boat to Tangier (New York: Doubleday, 2019, pp. 52–3), Maurice and Charlie, two aging drug smugglers, are in the midst of discussing the “seven true distractions in life”: I fully accept there’s a thing called love, Maurice says. Haven’t I been half my born days up to my sucker eyeballs in it? And there’s sentimentality, which is all tied up with the love and the lust. There’s grief and the longer we go on, the more of it we’ve the burden of. It accretes, Charlie says, like a motherfucker out of control. Does the old grief.</ref-fulltext>
+<ce:source-text>Kevin Barry’s novel Night Boat to Tangier (New York: Doubleday, 2019, pp. 52–3), Maurice and Charlie, two aging drug smugglers, are in the midst of discussing the “seven true distractions in life”: I fully accept there’s a thing called love, Maurice says. Haven’t I been half my born days up to my sucker eyeballs in it? And there’s sentimentality, which is all tied up with the love and the lust. There’s grief and the longer we go on, the more of it we’ve the burden of. It accretes, Charlie says, like a motherfucker out of control. Does the old grief.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Grief: A Narrative Account</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Goldie</ce:surname>
+<ce:given-name>Peter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ratio</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>119</first-page>
+<last-page>137</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Peter Goldie, “Grief: A Narrative Account,” Ratio 24(2011): 119–37.</ref-fulltext>
+<ce:source-text>Peter Goldie, “Grief: A Narrative Account,” Ratio 24(2011): 119–37.</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-title>
+<ref-titletext-english>There Are No Reasons for Affective Attitudes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Maguire</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mind</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>127</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>779</first-page>
+<last-page>805</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>view, see</ref-text>
+</ref-info>
+<ref-fulltext>Maguire’s view, see “There Are No Reasons for Affective Attitudes,” Mind 127(2018): 779–805.</ref-fulltext>
+<ce:source-text>Maguire’s view, see “There Are No Reasons for Affective Attitudes,” Mind 127(2018): 779–805.</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-title>
+<ref-titletext-english>We Have No Reason to Think There Are No Reasons for Affective Attitudes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Faraci</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Mind</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>129</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>225</first-page>
+<last-page>234</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>David Faraci, “We Have No Reason to Think There Are No Reasons for Affective Attitudes,” Mind 129(2020): 225–34.</ref-fulltext>
+<ce:source-text>David Faraci, “We Have No Reason to Think There Are No Reasons for Affective Attitudes,” Mind 129(2020): 225–34.</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Wrong Kind of Reason</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Hieronymi</ce:surname>
+<ce:given-name>Pamela</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>102</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>437</first-page>
+<last-page>457</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pamela Hieronymi, “The Wrong Kind of Reason,” Journal of Philosophy 102(2005): 437–57.</ref-fulltext>
+<ce:source-text>Pamela Hieronymi, “The Wrong Kind of Reason,” Journal of Philosophy 102(2005): 437–57.</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Sentiment and Value</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>D'Arms</ce:surname>
+<ce:given-name>Justin</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Jacobson</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>110</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>722</first-page>
+<last-page>748</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Justin D’Arms and Daniel Jacobson, “Sentiment and Value,” Ethics 110(2000): 722–48.</ref-fulltext>
+<ce:source-text>Justin D’Arms and Daniel Jacobson, “Sentiment and Value,” Ethics 110(2000): 722–48.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Strike of the Demon</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Rabinowicz</ce:surname>
+<ce:given-name>Wlodek</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Rønnow-Rasmussen</ce:surname>
+<ce:given-name>Toni</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>114</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>391</first-page>
+<last-page>423</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wlodek Rabinowicz and Toni Rønnow-Rasmussen, “The Strike of the Demon,” Ethics 114(2004): 391–423.</ref-fulltext>
+<ce:source-text>Wlodek Rabinowicz and Toni Rønnow-Rasmussen, “The Strike of the Demon,” Ethics 114(2004): 391–423.</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-title>
+<ref-titletext-english>I am not suggesting that grief is an irrational response. Rather it is (considered in itself) non-rational, not assessable in terms of rationality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Wilkinson</ce:surname>
+<ce:given-name>Stephen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>50</vol-first>
+<iss-first>289</iss-first>
+<iss-last>304</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>297</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>See Wilkinson, “Is ‘Normal’ Grief a Mental Disorder?</ref-text>
+</ref-info>
+<ref-fulltext>Stephen Wilkinson writes: “I am not suggesting that grief is an irrational response. Rather it is (considered in itself) non-rational, not assessable in terms of rationality.” See Wilkinson, “Is ‘Normal’ Grief a Mental Disorder?,” Philosophical Quarterly 50(2000): 289–304, at p. 297.</ref-fulltext>
+<ce:source-text>Stephen Wilkinson writes: “I am not suggesting that grief is an irrational response. Rather it is (considered in itself) non-rational, not assessable in terms of rationality.” See Wilkinson, “Is ‘Normal’ Grief a Mental Disorder?,” Philosophical Quarterly 50(2000): 289–304, at p. 297.</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Nussbaum</ce:surname>
+<ce:given-name>Martha</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Upheavals of Thought: The Intelligence of The Emotions</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Martha Nussbaum in Upheavals of Thought: The Intelligence of the Emotions (Cambridge: Cambridge University Press, 2001).</ref-fulltext>
+<ce:source-text>Martha Nussbaum in Upheavals of Thought: The Intelligence of the Emotions (Cambridge: Cambridge University Press, 2001).</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Marušic</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>On the Temporality of the Emotions</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>74</first-page>
+<last-page>77</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>He credits the example to Eli Hirsch</ref-text>
+</ref-info>
+<ref-fulltext>Marušic, On the Temporality of the Emotions, pp. 74–7. He credits the example to Eli Hirsch.</ref-fulltext>
+<ce:source-text>Marušic, On the Temporality of the Emotions, pp. 74–7. He credits the example to Eli Hirsch.</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Grief and Recovery</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Preston-Roedder</ce:surname>
+<ce:given-name>Ryan</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Preston-Roedder</ce:surname>
+<ce:given-name>Erica</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Moral Psychology of Sadness</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>93</first-page>
+<last-page>116</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>A. Gottlib, London: Rowman and Littlefield</ref-text>
+</ref-info>
+<ref-fulltext>Ryan Preston-Roedder and Erica Preston-Roedder, “Grief and Recovery,” in A. Gottlib, ed., The Moral Psychology of Sadness (London: Rowman and Littlefield, 2017), pp. 93–116.</ref-fulltext>
+<ce:source-text>Ryan Preston-Roedder and Erica Preston-Roedder, “Grief and Recovery,” in A. Gottlib, ed., The Moral Psychology of Sadness (London: Rowman and Littlefield, 2017), pp. 93–116.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Regret, Resilience, and the Nature of Grief</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Cholbi</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Moral Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>16</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>486</first-page>
+<last-page>508</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Michael Cholbi, “Regret, Resilience, and the Nature of Grief,” Journal of Moral Philosophy 16(2019): 486–508.</ref-fulltext>
+<ce:source-text>Michael Cholbi, “Regret, Resilience, and the Nature of Grief,” Journal of Moral Philosophy 16(2019): 486–508.</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-title>
+<ref-titletext-english>On Caring</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Frankfurt</ce:surname>
+<ce:given-name>Harry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Necessity, Volition, and Love</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>155</first-page>
+<last-page>180</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Frankfurt, Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Harry Frankfurt, “On Caring,” in Frankfurt, Necessity, Volition, and Love (Cambridge: Cambridge University Press, 1999), pp. 155–80.</ref-fulltext>
+<ce:source-text>Harry Frankfurt, “On Caring,” in Frankfurt, Necessity, Volition, and Love (Cambridge: Cambridge University Press, 1999), pp. 155–80.</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Frankfurt</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Reasons of Love</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Frankfurt, The Reasons of Love (Princeton, NJ: Princeton University Press, 2004)</ref-fulltext>
+<ce:source-text>Frankfurt, The Reasons of Love (Princeton, NJ: Princeton University Press, 2004)</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love as Valuing a Relationship</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Kolodny</ce:surname>
+<ce:given-name>Niko</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Review</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>112</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>135</first-page>
+<last-page>189</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Niko Kolodny, “Love as Valuing a Relationship,” Philosophical Review 112(2003): 135–89.</ref-fulltext>
+<ce:source-text>Niko Kolodny, “Love as Valuing a Relationship,” Philosophical Review 112(2003): 135–89.</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love as a Moral Emotion</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Velleman</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>109</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>338</first-page>
+<last-page>374</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>David Velleman, “Love as a Moral Emotion,” Ethics 109(1999): 338–74.</ref-fulltext>
+<ce:source-text>David Velleman, “Love as a Moral Emotion,” Ethics 109(1999): 338–74.</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Reason to Be Angry Forever</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Callard</ce:surname>
+<ce:given-name>Agnes</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Moral Psychology of Anger</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>123</first-page>
+<last-page>137</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>arresting essay, O. Flanagan and M. Cherry, London: Rowman and Littlefield</ref-text>
+</ref-info>
+<ref-fulltext>Agnes Callard’s arresting essay “The Reason to Be Angry Forever,” in O. Flanagan and M. Cherry eds., The Moral Psychology of Anger (London: Rowman and Littlefield, 2018), pp. 123–37.</ref-fulltext>
+<ce:source-text>Agnes Callard’s arresting essay “The Reason to Be Angry Forever,” in O. Flanagan and M. Cherry eds., The Moral Psychology of Anger (London: Rowman and Littlefield, 2018), pp. 123–37.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Articulating an Uncompromising Forgiveness</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Callard</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophy and Phenomenological Research</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>62</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>529</first-page>
+<last-page>555</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>essay“The Reason to Be Angry Forever”). One important attempt to answer it, albeit not one accepted by Callard, is developed by Pamela Hieronymi</ref-text>
+</ref-info>
+<ref-fulltext>Callard’s essay (“The Reason to Be Angry Forever”). One important attempt to answer it, albeit not one accepted by Callard, is developed by Pamela Hieronymi in “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research 62(2001): 529–55.</ref-fulltext>
+<ce:source-text>Callard’s essay (“The Reason to Be Angry Forever”). One important attempt to answer it, albeit not one accepted by Callard, is developed by Pamela Hieronymi in “Articulating an Uncompromising Forgiveness,” Philosophy and Phenomenological Research 62(2001): 529–55.</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Nussbaum</ce:surname>
+<ce:given-name>Martha</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Anger and Forgiveness</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Martha Nussbaum, Anger and Forgiveness (New York: Oxford University Press, 2016).</ref-fulltext>
+<ce:source-text>Martha Nussbaum, Anger and Forgiveness (New York: Oxford University Press, 2016).</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Aptness of Anger</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Srinivasan</ce:surname>
+<ce:given-name>Amia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Political Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>123</first-page>
+<last-page>144</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Amia Srinivasan, “The Aptness of Anger,” Journal of Political Philosophy 26(2018): 123–44.</ref-fulltext>
+<ce:source-text>Amia Srinivasan, “The Aptness of Anger,” Journal of Political Philosophy 26(2018): 123–44.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Nussbaum</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Upheavals of Thought</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>80</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Nussbaum, Upheavals of Thought, p. 80.</ref-fulltext>
+<ce:source-text>Nussbaum, Upheavals of Thought, p. 80.</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>James</ce:surname>
+<ce:given-name>William</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Principles of Psychology</ref-sourcetitle>
+<ref-publicationyear first="1890"/>
+<ref-text>New York: Henry Holt</ref-text>
+</ref-info>
+<ref-fulltext>William James, The Principles of Psychology (New York: Henry Holt, 1890).</ref-fulltext>
+<ce:source-text>William James, The Principles of Psychology (New York: Henry Holt, 1890).</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Persistence through Time</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Haslanger</ce:surname>
+<ce:given-name>Sally</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>He Oxford Handbook of Metaphysics</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>315</first-page>
+<last-page>354</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Michael Loux and Dean Zimmerman, Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Sally Haslanger, “Persistence through Time,” in Michael Loux and Dean Zimmerman eds., The Oxford Handbook of Metaphysics (Oxford: Oxford University Press, 2003), pp. 315–54.</ref-fulltext>
+<ce:source-text>Sally Haslanger, “Persistence through Time,” in Michael Loux and Dean Zimmerman eds., The Oxford Handbook of Metaphysics (Oxford: Oxford University Press, 2003), pp. 315–54.</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Hawley</ce:surname>
+<ce:given-name>Katherine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>How Things Persist</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Katherine Hawley, How Things Persist (Oxford: Oxford University Press, 2001)</ref-fulltext>
+<ce:source-text>Katherine Hawley, How Things Persist (Oxford: Oxford University Press, 2001)</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Is There a Problem about Persistence?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Johnston</ce:surname>
+<ce:given-name>Mark</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Proceedings of the Aristotelian Society</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>61</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>107</first-page>
+<last-page>135</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Supplementary</ref-text>
+</ref-info>
+<ref-fulltext>Mark Johnston, “Is There a Problem about Persistence?,” Proceedings of the Aristotelian Society, Supplementary Volume 61(1987): 107–35.</ref-fulltext>
+<ce:source-text>Mark Johnston, “Is There a Problem about Persistence?,” Proceedings of the Aristotelian Society, Supplementary Volume 61(1987): 107–35.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On the Plurality of Worlds</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<ref-text>Oxford: Basil Blackwell</ref-text>
+</ref-info>
+<ref-fulltext>David Lewis, On the Plurality of Worlds (Oxford: Basil Blackwell, 1986)</ref-fulltext>
+<ce:source-text>David Lewis, On the Plurality of Worlds (Oxford: Basil Blackwell, 1986)</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Lewis on Perdurance versus Endurance</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.J.</ce:initials>
+<ce:surname>Lowe</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Analysis</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>47</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>152</first-page>
+<last-page>154</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>E. J. Lowe, “Lewis on Perdurance versus Endurance,” Analysis 47(1987): 152–4.</ref-fulltext>
+<ce:source-text>E. J. Lowe, “Lewis on Perdurance versus Endurance,” Analysis 47(1987): 152–4.</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-title>
+<ref-titletext-english>So It Goes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Velleman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Amherst Lecture in Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>1</iss-first>
+<iss-last>23</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>5</first-page>
+<last-page>8</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Velleman, “So It Goes,” The Amherst Lecture in Philosophy 1 (2006): 1–23, at pp. 5–8.</ref-fulltext>
+<ce:source-text>Velleman, “So It Goes,” The Amherst Lecture in Philosophy 1 (2006): 1–23, at pp. 5–8.</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Against Narrativity</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Strawson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ratio</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>428</first-page>
+<last-page>452</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>G. Strawson, “Against Narrativity,” Ratio 17(2004): 428–452.</ref-fulltext>
+<ce:source-text>G. Strawson, “Against Narrativity,” Ratio 17(2004): 428–452.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Barnes</ce:surname>
+<ce:given-name>Julian</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Levels of Life</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>107</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Vintage Books</ref-text>
+</ref-info>
+<ref-fulltext>Julian Barnes, Levels of Life (New York: Vintage Books, 2014), p. 107.</ref-fulltext>
+<ce:source-text>Julian Barnes, Levels of Life (New York: Vintage Books, 2014), p. 107.</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Nozick</ce:surname>
+<ce:given-name>Robert</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Anarchy, State, and Utopia</ref-sourcetitle>
+<ref-publicationyear first="1974"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>42</first-page>
+<last-page>45</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Basic Books</ref-text>
+</ref-info>
+<ref-fulltext>Robert Nozick, Anarchy, State, and Utopia (New York: Basic Books, 1974), pp. 42–5.</ref-fulltext>
+<ce:source-text>Robert Nozick, Anarchy, State, and Utopia (New York: Basic Books, 1974), pp. 42–5.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love as Valuing a Relationship</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Kolodny</ce:surname>
+<ce:given-name>Niko</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Review</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>112</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>135</first-page>
+<last-page>189</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>especially p. 149</ref-text>
+</ref-info>
+<ref-fulltext>Niko Kolodny, “Love as Valuing a Relationship,” Philosophical Review 112(2003): 135– 189, especially p. 149.</ref-fulltext>
+<ce:source-text>Niko Kolodny, “Love as Valuing a Relationship,” Philosophical Review 112(2003): 135– 189, especially p. 149.</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Real (and Imaginal) Relationships with the Dead</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Norlock</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Value Inquiry</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<iss-first>51</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>341</first-page>
+<last-page>356</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>p. 343</ref-text>
+</ref-info>
+<ref-fulltext>Norlock, “Real (and Imaginal) Relationships with the Dead,” Journal of Value Inquiry (51)2017: 341–56, at p. 343.</ref-fulltext>
+<ce:source-text>Norlock, “Real (and Imaginal) Relationships with the Dead,” Journal of Value Inquiry (51)2017: 341–56, at p. 343.</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Relating to the Dead: Social Cognition and the Phenomenology of Grief</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Ratcliffe</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Phenomenology of Sociality: Discovering the 'We'</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>202</first-page>
+<last-page>215</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Thomas Szanto and Dermot Moran, New York: Routledge, p. 211</ref-text>
+</ref-info>
+<ref-fulltext>Ratcliffe, “Relating to the Dead: Social Cognition and the Phenomenology of Grief,” in Thomas Szanto and Dermot Moran eds., Phenomenology of Sociality: Discovering the ‘We’ (New York: Routledge, 2016), pp. 202–15, at p. 211.</ref-fulltext>
+<ce:source-text>Ratcliffe, “Relating to the Dead: Social Cognition and the Phenomenology of Grief,” in Thomas Szanto and Dermot Moran eds., Phenomenology of Sociality: Discovering the ‘We’ (New York: Routledge, 2016), pp. 202–15, at p. 211.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How Shall I Mourn Them?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Davis</ce:surname>
+<ce:given-name>Lydia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>He Collected Stories of Lydia Davis</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>697</first-page>
+<last-page>699</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Picador</ref-text>
+</ref-info>
+<ref-fulltext>Lydia Davis’s “How Shall I Mourn Them?” (in The Collected Stories of Lydia Davis [New York: Picador, 2009], pp. 697–699)</ref-fulltext>
+<ce:source-text>Lydia Davis’s “How Shall I Mourn Them?” (in The Collected Stories of Lydia Davis [New York: Picador, 2009], pp. 697–699)</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.D.</ce:initials>
+<ce:surname>James</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Children of Men</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<ref-text>London: Faber and Faber</ref-text>
+</ref-info>
+<ref-fulltext>P. D. James, The Children of Men (London: Faber and Faber, 1992).</ref-fulltext>
+<ce:source-text>P. D. James, The Children of Men (London: Faber and Faber, 1992).</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Why Care about the Future?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Partridge</ce:surname>
+<ce:given-name>Ernest</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Responsibilities to Future Generations</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>203</first-page>
+<last-page>220</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>E. Partridge, Buffalo, NY: Prometheus Books, pp. 204–5</ref-text>
+</ref-info>
+<ref-fulltext>Ernest Partridge, “Why Care about the Future?,” in E. Partridge ed., Responsibilities to Future Generations (Buffalo, NY: Prometheus Books, 1981), pp. 203– 20, at pp. 204–5.</ref-fulltext>
+<ce:source-text>Ernest Partridge, “Why Care about the Future?,” in E. Partridge ed., Responsibilities to Future Generations (Buffalo, NY: Prometheus Books, 1981), pp. 203– 20, at pp. 204–5.</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Schell</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Fate of the Earth</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>115</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Alfred A. Knopf</ref-text>
+</ref-info>
+<ref-fulltext>Jonathan Schell, The Fate of the Earth (New York: Alfred A. Knopf, 1982), p. 115.</ref-fulltext>
+<ce:source-text>Jonathan Schell, The Fate of the Earth (New York: Alfred A. Knopf, 1982), p. 115.</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Heyd</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Genethics</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>221</first-page>
+<last-page>222</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Berkeley: University of California Press</ref-text>
+</ref-info>
+<ref-fulltext>David Heyd, Genethics (Berkeley: University of California Press, 1992), pp. 221–2.</ref-fulltext>
+<ce:source-text>David Heyd, Genethics (Berkeley: University of California Press, 1992), pp. 221–2.</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Passmore</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Man’s Responsibility for Nature</ref-sourcetitle>
+<ref-publicationyear first="1974"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>87</first-page>
+<last-page>92</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Charles Scribner’s Sons</ref-text>
+</ref-info>
+<ref-fulltext>Passmore, Man’s Responsibility for Nature (New York: Charles Scribner’s Sons, 1974), pp. 87–92.</ref-fulltext>
+<ce:source-text>Passmore, Man’s Responsibility for Nature (New York: Charles Scribner’s Sons, 1974), pp. 87–92.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Prospects for Temporal Neutrality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Brink</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of Philosophy of Time</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>352</first-page>
+<last-page>381</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>C. Callender, Oxford: Oxford University Press, p. 362</ref-text>
+</ref-info>
+<ref-fulltext>David Brink, “Prospects for Temporal Neutrality,” in C. Callender ed., The Oxford Handbook of Philosophy of Time (Oxford: Oxford University Press, 2011), pp. 352–81, at p. 362.</ref-fulltext>
+<ce:source-text>David Brink, “Prospects for Temporal Neutrality,” in C. Callender ed., The Oxford Handbook of Philosophy of Time (Oxford: Oxford University Press, 2011), pp. 352–81, at p. 362.</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-title>
+<ref-titletext-english>On Being Attached</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Wonderly</ce:surname>
+<ce:given-name>Monique</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>173</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>223</first-page>
+<last-page>242</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Monique Wonderly, “On Being Attached,” Philosophical Studies 173(2016): 223–42.</ref-fulltext>
+<ce:source-text>Monique Wonderly, “On Being Attached,” Philosophical Studies 173(2016): 223–42.</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love and Attachment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Wonderly</ce:surname>
+<ce:given-name>Monique</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Philosophical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>54</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>232</first-page>
+<last-page>250</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Monique Wonderly,“Love and Attachment,” American Philosophical Quarterly 54(2017): 232–50.</ref-fulltext>
+<ce:source-text>Monique Wonderly,“Love and Attachment,” American Philosophical Quarterly 54(2017): 232–50.</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love as Valuing a Relationship</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Kolodny</ce:surname>
+<ce:given-name>Niko</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Review</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>112</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>135</first-page>
+<last-page>189</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Niko Kolodny, “Love as Valuing a Relationship,” Philosophical Review 112(2003): 135–89</ref-fulltext>
+<ce:source-text>Niko Kolodny, “Love as Valuing a Relationship,” Philosophical Review 112(2003): 135–89</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Keller</ce:surname>
+<ce:given-name>Simon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Partiality</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>62</first-page>
+<last-page>64</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Simon Keller, Partiality (Princeton, NJ: Princeton University Press, 2013), pp. 62–4.</ref-fulltext>
+<ce:source-text>Simon Keller, Partiality (Princeton, NJ: Princeton University Press, 2013), pp. 62–4.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Membership and Political Obligation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Scheffler</ce:surname>
+<ce:given-name>Samuel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Political Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>3</iss-first>
+<iss-last>23</iss-last>
+</volume-issue-number>
+</volisspag>
+<ref-text>from which most of the discussion of membership-dependent reasons in this section is drawn</ref-text>
+</ref-info>
+<ref-fulltext>Samuel Scheffler, “Membership and Political Obligation” (Journal of Political Philosophy 26[2018]: 3–23), from which most of the discussion of membership-dependent reasons in this section is drawn.</ref-fulltext>
+<ce:source-text>Samuel Scheffler, “Membership and Political Obligation” (Journal of Political Philosophy 26[2018]: 3–23), from which most of the discussion of membership-dependent reasons in this section is drawn.</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Selflessness and Responsibility for Self: Is Deference Compatible with Autonomy?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Westlund</ce:surname>
+<ce:given-name>Andrea</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Review</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>112</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>483</first-page>
+<last-page>523</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Andrea Westlund in Selflessness and Responsibility for Self: Is Deference Compatible with Autonomy?" (Philosophical Review 112[2003]: 483–523 .</ref-fulltext>
+<ce:source-text>Andrea Westlund in "Selflessness and Responsibility for Self: Is Deference Compatible with Autonomy?" (Philosophical Review 112[2003]: 483–523 .</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Friendship and Moral Danger</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cocking</ce:surname>
+<ce:given-name>Dean</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Kennett</ce:surname>
+<ce:given-name>Jeanette</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Philosophy</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>97</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>278</first-page>
+<last-page>296</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>though they go further in some respects than I would. See also Koltonski, “A Good Friend Will Help You Move a Body</ref-text>
+</ref-info>
+<ref-fulltext>Dean Cocking and Jeanette Kennett in “Friendship and Moral Danger,” Journal of Philosophy 97(2000): 278–96, though they go further in some respects than I would. See also Koltonski, “A Good Friend Will Help You Move a Body.”</ref-fulltext>
+<ce:source-text>Dean Cocking and Jeanette Kennett in “Friendship and Moral Danger,” Journal of Philosophy 97(2000): 278–96, though they go further in some respects than I would. See also Koltonski, “A Good Friend Will Help You Move a Body.”</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Agency, Attachment, and Difference</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Herman</ce:surname>
+<ce:given-name>Barbara</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>101</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>775</first-page>
+<last-page>797</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>article</ref-text>
+</ref-info>
+<ref-fulltext>Barbara Herman’s article "Agency, Attachment, and Difference" (Ethics 101[1991]: 775–97.</ref-fulltext>
+<ce:source-text>Barbara Herman’s article "Agency, Attachment, and Difference" (Ethics 101[1991]: 775–97.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Deference as a Normative Power</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Westlund</ce:surname>
+<ce:given-name>Andrea</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>166</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>455</first-page>
+<last-page>474</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>although her concerns are partly orthogonal to mine</ref-text>
+</ref-info>
+<ref-fulltext>Andrea Westlund, "Deference as a Normative Power" (Philosophical Studies 166[2013]: 455–74), although her concerns are partly orthogonal to mine.</ref-fulltext>
+<ce:source-text>Andrea Westlund, "Deference as a Normative Powe" (Philosophical Studies 166[2013]: 455–74), although her concerns are partly orthogonal to mine.</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Reasons We Can Share</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:surname>Korsgaard</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Creating the Kingdom of Ends</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>275</first-page>
+<last-page>310</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Korsgaard, “The Reasons We Can Share,” in her Creating the Kingdom of Ends (Cambridge: Cambridge University Press, 1996), pp. 275–310.</ref-fulltext>
+<ce:source-text>Korsgaard, “The Reasons We Can Share,” in her Creating the Kingdom of Ends (Cambridge: Cambridge University Press, 1996), pp. 275–310.</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Duties and Their Direction</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Sreenivasan</ce:surname>
+<ce:given-name>Gopal</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>120</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>465</first-page>
+<last-page>494</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gopal Sreenivasan, “Duties and Their Direction,” Ethics 120(2010): 465–94.</ref-fulltext>
+<ce:source-text>Gopal Sreenivasan, “Duties and Their Direction,” Ethics 120(2010): 465–94.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What Is It to Wrong Someone? A Puzzle about Justice</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Thompson</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reason and Value: Themes from the Moral Philosophy of Joseph Raz</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>333</first-page>
+<last-page>384</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>R. J. Wallace, P. Pettit, S. Scheffler, and M. Smith, Oxford: Clarendon Press</ref-text>
+</ref-info>
+<ref-fulltext>Michael Thompson, “What Is It to Wrong Someone? A Puzzle about Justice,” in R. J. Wallace, P. Pettit, S. Scheffler, and M. Smith, eds., Reason and Value: Themes from the Moral Philosophy of Joseph Raz (Oxford: Clarendon Press, 2004), pp. 333–84.</ref-fulltext>
+<ce:source-text>Michael Thompson, “What Is It to Wrong Someone? A Puzzle about Justice,” in R. J. Wallace, P. Pettit, S. Scheffler, and M. Smith, eds., Reason and Value: Themes from the Moral Philosophy of Joseph Raz (Oxford: Clarendon Press, 2004), pp. 333–84.</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Jay Wallace</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Moral Nexus</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>R. Jay Wallace, The Moral Nexus (Princeton, NJ: Princeton University Press, 2019).</ref-fulltext>
+<ce:source-text>R. Jay Wallace, The Moral Nexus (Princeton, NJ: Princeton University Press, 2019).</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Wolf</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Meaning in Life and Why It Matters</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>4</first-page>
+<last-page>5</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Wolf, Meaning in Life and Why It Matters (Princeton, NJ: Princeton University Press, 2010), pp. 4–5.</ref-fulltext>
+<ce:source-text>Wolf, Meaning in Life and Why It Matters (Princeton, NJ: Princeton University Press, 2010), pp. 4–5.</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Iris Murdoch and the Domain of the Moral</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Blum</ce:surname>
+<ce:given-name>Lawrence</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophical Studies</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>50</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>343</first-page>
+<last-page>367</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lawrence Blum’s “Iris Murdoch and the Domain of the Moral” (Philosophical Studies 50[1986]: 343–67).</ref-fulltext>
+<ce:source-text>Lawrence Blum’s “Iris Murdoch and the Domain of the Moral” (Philosophical Studies 50[1986]: 343–67).</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Love as a Moral Emotion</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Velleman</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethics</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>109</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>338</first-page>
+<last-page>374</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>David Velleman’s “Love as a Moral Emotion” (Ethics 109[1999]: 338–74).</ref-fulltext>
+<ce:source-text>David Velleman’s “Love as a Moral Emotion” (Ethics 109[1999]: 338–74).</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Attachment, Autonomy and the Evaluative Variety of Love</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Harcourt</ce:surname>
+<ce:given-name>Edward</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Love, Reason and Morality</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>39</first-page>
+<last-page>56</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>E. Kroeker and K. Schaubroeck, New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Edward Harcourt, “Attachment, Autonomy and the Evaluative Variety of Love,” in E. Kroeker and K. Schaubroeck, eds., Love, Reason and Morality (New York: Routledge, 2017), pp. 39-56.</ref-fulltext>
+<ce:source-text>Edward Harcourt, “Attachment, Autonomy and the Evaluative Variety of Love,” in E. Kroeker and K. Schaubroeck, eds., Love, Reason and Morality (New York: Routledge, 2017), pp. 39-56.</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Prospects for Temporal Neutrality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Brink</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>He Oxford Handbook of Philosophy of Time</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>352</first-page>
+<last-page>381</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>C. Callender, Oxford: Oxford University Press, p. 364</ref-text>
+</ref-info>
+<ref-fulltext>David Brink, “Prospects for Temporal Neutrality,” in C. Callender, ed., The Oxford Handbook of Philosophy of Time (Oxford: Oxford University Press, 2011), pp. 352-81, at p. 364.</ref-fulltext>
+<ce:source-text>David Brink, “Prospects for Temporal Neutrality,” in C. Callender, ed., The Oxford Handbook of Philosophy of Time (Oxford: Oxford University Press, 2011), pp. 352-81, at p. 364.</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Nagel</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The View from Nowhere</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>5</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Thomas Nagel, The View from Nowhere (New York: Oxford University Press, 1986), p. 5.</ref-fulltext>
+<ce:source-text>Thomas Nagel, The View from Nowhere (New York: Oxford University Press, 1986), p. 5.</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Nagel</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The View from Nowhere</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>211</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Nagel, The View from Nowhere, p. 211.</ref-fulltext>
+<ce:source-text>Nagel, The View from Nowhere, p. 211.</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Calhoun</ce:surname>
+<ce:given-name>Cheshire</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Doing Valuable Time</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>64</first-page>
+<last-page>66</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Cheshire Calhoun, Doing Valuable Time (New York: Oxford University Press, 2018), pp. 64–6.</ref-fulltext>
+<ce:source-text>Cheshire Calhoun, Doing Valuable Time (New York: Oxford University Press, 2018), pp. 64–6.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

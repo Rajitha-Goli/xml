@@ -1,0 +1,2689 @@
+<?xml version='1.0' encoding='UTF-8'?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-15T17:05:12</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1093/9780197696576.001.0001</ce:doi>
+<itemid idtype="TPB-ID">20252000100529</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+<author-keywords>
+<author-keyword>Andrew Jackson</author-keyword>
+<author-keyword>Southern Honor</author-keyword>
+<author-keyword>Battle of New Orleans</author-keyword>
+<author-keyword>slavery</author-keyword>
+<author-keyword>Indian Removal</author-keyword>
+<author-keyword>Bank War</author-keyword>
+<author-keyword>Second Party System</author-keyword>
+<author-keyword>American civil religion</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Andrew Jackson: Old Hickory in Christian America</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:degrees>Prof.</ce:degrees>
+<ce:surname>Atkins</ce:surname>
+<ce:given-name>Jonathan M.</ce:given-name>
+</author>
+<affiliation>
+<organization>Berry College</organization>
+<city>Rome</city>
+<state>GA</state>
+<country iso-code="USA" />
+<ce:source-text>Professor of History, Berry College, Rome, GA, USA</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>J.M.</ce:initials>
+<ce:degrees>Prof.</ce:degrees>
+<ce:surname>Atkins</ce:surname>
+<ce:given-name>Jonathan M.</ce:given-name>
+</person>
+<affiliation>
+<organization>Berry College</organization>
+<city>Rome</city>
+<state>GA</state>
+<country iso-code="USA" />
+<ce:source-text>Professor of History, Berry College, Rome, GA, USA</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Jonathan M. Atkins 2025</publishercopyright>
+<ce:para>Few today think of Andrew Jackson as a religious man. Actually, the American military hero and president professed Christianity throughout his life. Raised a “rigid Presbeterian,” his mother sought to provide her son with an education so he could grow up to become a minister, and the boy held on to his faith despite losing his family and suffering physically in the American Revolution. Jackson rose to prominence as a promising young man before a financial mishap and a growing number of personal conflicts—including killing an opponent in a duel—appeared to end his public career. Yet before his emergence as the hero of the Battle of New Orleans, Jackson attended church, read his Bible, and prayed with his devout wife, Rachel. He held orthodox views on the divinity of Christ, the atonement, and an afterlife in Heaven, and he blended Christian tenets with the honor-based culture that dominated the antebellum South while reconciling his beliefs with his ownership of slaves and promotion of Indian Removal. As president, and especially during his “Bank War,” he equated his enemies with the forces of evil. Unlike the revivalists of his era’s Second Great Awakening, Jackson never experienced a dramatic conversion, and he advocated religious liberty and separation of church and state as core republican principles. Nevertheless, as the Second Party System developed during his presidency, Jackson’s frequent appeals for divine guidance and for God’s blessing on the nation further encouraged the development of an American civil religion.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Andrew jackson: Old hickory in christian america</sourcetitle>
+<sourcetitle-abbrev>Andrew n.a.: Old n.a. in christ. am.</sourcetitle-abbrev>
+<isbn type="print" length="13">9780198852353</isbn>
+<isbn type="electronic" length="13">9780191886812</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>240</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025" />
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://academic.oup.com/book/59304</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="138">
+<reference seq="1">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Bassett</ce:surname>
+<ce:given-name>John Spencer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Correspondence of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="1926" last="2013" />
+<ref-text>Washington: Carnegie Institution</ref-text>
+</ref-info>
+<ref-fulltext>Bassett, John Spencer, ed., Correspondence of Andrew Jackson, 7 vols. Washington: Carnegie Institution, 1926– 1935.</ref-fulltext>
+<ce:source-text>Bassett, John Spencer, ed., Correspondence of Andrew Jackson, 7 vols. Washington: Carnegie Institution, 1926– 1935.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.H.</ce:initials>
+<ce:surname>Benton</ce:surname>
+<ce:given-name>Thomas Hart</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Thirty Years View; Or a History of the Working of the American Government for Thirty Years, from 1820 to 1850</ref-sourcetitle>
+<ref-publicationyear first="1883" />
+<ref-text>New York: D. Appleton and Company</ref-text>
+</ref-info>
+<ref-fulltext>Benton, Thomas Hart. Thirty Years View; or A History of the Working of the American Government for Thirty Years, from 1820 to 1850, 2 vols. New York: D. Appleton and Company, 1883.</ref-fulltext>
+<ce:source-text>Benton, Thomas Hart. Thirty Years View; or A History of the Working of the American Government for Thirty Years, from 1820 to 1850, 2 vols. New York: D. Appleton and Company, 1883.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Brinkerhoff</ce:surname>
+<ce:given-name>Roeliff</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Recollections of a Lifetime</ref-sourcetitle>
+<ref-publicationyear first="1900" />
+<ref-text>Cincinnati: The Robert Clark Company</ref-text>
+</ref-info>
+<ref-fulltext>Brinkerhoff, Roeliff. Recollections of a Lifetime. Cincinnati: The Robert Clark Company, 1900.</ref-fulltext>
+<ce:source-text>Brinkerhoff, Roeliff. Recollections of a Lifetime. Cincinnati: The Robert Clark Company, 1900.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Calhoun</ce:surname>
+<ce:given-name>John C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Exposition and Protest, Reported by the Special Committee of the House of Representatives, on the Tariff</ref-sourcetitle>
+<ref-publicationyear first="1829" />
+<ref-text>Charleston: D.W. Sims</ref-text>
+</ref-info>
+<ref-fulltext>Calhoun, John C. Exposition and Protest, Reported by the Special Committee of the House of Representatives, on the Tariff. Charleston: D.W. Sims, 1829.</ref-fulltext>
+<ce:source-text>Calhoun, John C. Exposition and Protest, Reported by the Special Committee of the House of Representatives, on the Tariff. Charleston: D.W. Sims, 1829.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Cartwright</ce:surname>
+<ce:given-name>Peter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Autobiography of Peter Cartwright</ref-sourcetitle>
+<ref-publicationyear first="1856" />
+<ref-text>New York: Nelson and Phillips</ref-text>
+</ref-info>
+<ref-fulltext>Cartwright, Peter. Autobiography of Peter Cartwright. New York: Nelson and Phillips, 1856.</ref-fulltext>
+<ce:source-text>Cartwright, Peter. Autobiography of Peter Cartwright. New York: Nelson and Phillips, 1856.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.J.G.</ce:initials>
+<ce:surname>Craighead</ce:surname>
+<ce:given-name>Rev. James Geddes</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Craighead Family: A Genealogical Memoir of the Descendants of Rev. Thomas and Margaret Craighead, 1658– 1876</ref-sourcetitle>
+<ref-publicationyear first="1876" />
+<ref-text>Philadelphia: Sherman &amp; Co., Printers</ref-text>
+</ref-info>
+<ref-fulltext>Craighead, Rev. James Geddes. The Craighead Family: A Genealogical Memoir of the Descendants of Rev. Thomas and Margaret Craighead, 1658– 1876. Philadelphia: Sherman &amp; Co., Printers, 1876.</ref-fulltext>
+<ce:source-text>Craighead, Rev. James Geddes. The Craighead Family: A Genealogical Memoir of the Descendants of Rev. Thomas and Margaret Craighead, 1658– 1876. Philadelphia: Sherman &amp; Co., Printers, 1876.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Journal of William Moultrie While a Commissioner on the North and South Carolina Boundary Survey, 1772</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.S.</ce:initials>
+<ce:surname>Davis</ce:surname>
+<ce:given-name>Charles S.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Southern History</ref-sourcetitle>
+<ref-publicationyear first="1942" />
+<volisspag>
+<volume-issue-number>
+<vol-first>8</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>549</first-page>
+<last-page>555</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>November</ref-text>
+</ref-info>
+<ref-fulltext>Davis, Charles S. “The Journal of William Moultrie While a Commissioner on the North and South Carolina Boundary Survey, 1772.” Journal of Southern History 8 (November 1942): 549– 55.</ref-fulltext>
+<ce:source-text>Davis, Charles S. “The Journal of William Moultrie While a Commissioner on the North and South Carolina Boundary Survey, 1772.” Journal of Southern History 8 (November 1942): 549– 55.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Denson</ce:surname>
+<ce:given-name>Jesse</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Chronicles of Andrew; Containing an Accurate and Brief Account of General Jackson’s Victories in the South, over the Creeks, also His Victories over the British at Orleans, with a Biographical Sketch of His Life</ref-sourcetitle>
+<ref-publicationyear first="1815" />
+<ref-text>Lexington, KY: Printed for the author</ref-text>
+</ref-info>
+<ref-fulltext>Denson, Jesse. The Chronicles of Andrew; Containing an accurate and brief account of General Jackson’s victories in the south, over the Creeks, also His Victories over the British at Orleans, with a biographical sketch of his life. Lexington, KY: Printed for the author, 1815.</ref-fulltext>
+<ce:source-text>Denson, Jesse. The Chronicles of Andrew; Containing an accurate and brief account of General Jackson’s victories in the south, over the Creeks, also His Victories over the British at Orleans, with a biographical sketch of his life. Lexington, KY: Printed for the author, 1815.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.M.</ce:initials>
+<ce:surname>Dusenbery</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Monument to the Memory of General Andrew Jackson, Containing Twenty- Five Eulogies and Sermons, Delivered on Occasion of His Death</ref-sourcetitle>
+<ref-publicationyear first="1846" />
+<ref-text>Philadelphia: Walker &amp; Gillis</ref-text>
+</ref-info>
+<ref-fulltext>Dusenbery, B. M., compiler. Monument to the Memory of General Andrew Jackson, Containing Twenty- five Eulogies and Sermons, Delivered on Occasion of His Death. Philadelphia: Walker &amp; Gillis, 1846.</ref-fulltext>
+<ce:source-text>Dusenbery, B. M., compiler. Monument to the Memory of General Andrew Jackson, Containing Twenty- five Eulogies and Sermons, Delivered on Occasion of His Death. Philadelphia: Walker &amp; Gillis, 1846.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.H.</ce:initials>
+<ce:surname>Eaton</ce:surname>
+<ce:given-name>John H.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Letters of Wyoming, to the People of the United States, on the Presidential Election, and in Favour of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="1824" />
+<ref-text>Philadelphia: S. Simpson &amp; J. Conrad</ref-text>
+</ref-info>
+<ref-fulltext>Eaton, John H. The Letters of Wyoming, to the People of the United States, on the Presidential Election, and in Favour of Andrew Jackson. Philadelphia: S. Simpson &amp; J. Conrad, 1824.</ref-fulltext>
+<ce:source-text>Eaton, John H. The Letters of Wyoming, to the People of the United States, on the Presidential Election, and in Favour of Andrew Jackson. Philadelphia: S. Simpson &amp; J. Conrad, 1824.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.S.</ce:initials>
+<ce:surname>Ely</ce:surname>
+<ce:given-name>Ezra Stiles</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Duty of Christian Freemen to Elect Christian Rulers</ref-sourcetitle>
+<ref-publicationyear first="1828" />
+<ref-text>Philadelphia: William F. Geddes</ref-text>
+</ref-info>
+<ref-fulltext>Ely, Ezra Stiles. The Duty of Christian Freemen to Elect Christian Rulers. Philadelphia: William F. Geddes, 1828.</ref-fulltext>
+<ce:source-text>Ely, Ezra Stiles. The Duty of Christian Freemen to Elect Christian Rulers. Philadelphia: William F. Geddes, 1828.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Everts</ce:surname>
+<ce:given-name>Jeremiah</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Essays on the Present Crisis in the Condition of the American Indians; First Published in the National Intelligencer, under the Signature of William Penn</ref-sourcetitle>
+<ref-publicationyear first="1830" />
+<ref-text>Philadelphia: Thomas Kite</ref-text>
+</ref-info>
+<ref-fulltext>Everts, Jeremiah. Essays on the Present Crisis in the Condition of the American Indians; First Published in The National Intelligencer, under the Signature of William Penn. Philadelphia: Thomas Kite, 1830.</ref-fulltext>
+<ce:source-text>Everts, Jeremiah. Essays on the Present Crisis in the Condition of the American Indians; First Published in The National Intelligencer, under the Signature of William Penn. Philadelphia: Thomas Kite, 1830.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.G.</ce:initials>
+<ce:surname>Heiskell</ce:surname>
+<ce:given-name>Samuel G.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson and Early Tennessee History</ref-sourcetitle>
+<ref-publicationyear first="1921" />
+<ref-text>Nashville: Ambrose Printing Company</ref-text>
+</ref-info>
+<ref-fulltext>Heiskell, Samuel G. Andrew Jackson and Early Tennessee History, 3 vols. Nashville: Ambrose Printing Company, 1921.</ref-fulltext>
+<ce:source-text>Heiskell, Samuel G. Andrew Jackson and Early Tennessee History, 3 vols. Nashville: Ambrose Printing Company, 1921.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.J.</ce:initials>
+<ce:surname>Hooker</ce:surname>
+<ce:given-name>Richard J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Carolina Backcountry on The Eve of The Revolution: The Journal and Other Writings of Charles Woodmason, Anglican Itinerant</ref-sourcetitle>
+<ref-publicationyear first="1953" />
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Hooker, Richard J., ed. The Carolina Backcountry on the Eve of the Revolution: The Journal and Other Writings of Charles Woodmason, Anglican Itinerant. Chapel Hill: University of North Carolina Press, 1953.</ref-fulltext>
+<ce:source-text>Hooker, Richard J., ed. The Carolina Backcountry on the Eve of the Revolution: The Journal and Other Writings of Charles Woodmason, Anglican Itinerant. Chapel Hill: University of North Carolina Press, 1953.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>McCoy</ce:surname>
+<ce:given-name>Isaac</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Remarks on the Practicability of Indian Reform, Embracing Their Colonization</ref-sourcetitle>
+<ref-publicationyear first="1827" />
+<ref-text>Boston, Lincoln &amp; Edmands</ref-text>
+</ref-info>
+<ref-fulltext>McCoy, Isaac. Remarks on the Practicability of Indian Reform, Embracing Their Colonization. Boston, Lincoln &amp; Edmands, 1827.</ref-fulltext>
+<ce:source-text>McCoy, Isaac. Remarks on the Practicability of Indian Reform, Embracing Their Colonization. Boston, Lincoln &amp; Edmands, 1827.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Reid</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.H.</ce:initials>
+<ce:surname>Eaton</ce:surname>
+<ce:given-name>John Henry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Life of Andrew Jackson, Major General, in the Service of the United States</ref-sourcetitle>
+<ref-publicationyear first="1817" />
+<ref-text>Philadelphia: M. Carey and Son</ref-text>
+</ref-info>
+<ref-fulltext>Reid, John, and John Henry Eaton. The Life of Andrew Jackson, Major General, in the Service of the United States. Philadelphia: M. Carey and Son, 1817.</ref-fulltext>
+<ce:source-text>Reid, John, and John Henry Eaton. The Life of Andrew Jackson, Major General, in the Service of the United States. Philadelphia: M. Carey and Son, 1817.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.D.</ce:initials>
+<ce:surname>Richardson</ce:surname>
+<ce:given-name>James D.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Compilation of the Messages and Papers of the Presidents</ref-sourcetitle>
+<ref-publicationyear first="1899" />
+<ref-text>Washington: Government Printing Office</ref-text>
+</ref-info>
+<ref-fulltext>Richardson, James D., ed., A Compilation of the Messages and Papers of the Presidents, 10 vols. Washington: Government Printing Office, 1899.</ref-fulltext>
+<ce:source-text>Richardson, James D., ed., A Compilation of the Messages and Papers of the Presidents, 10 vols. Washington: Government Printing Office, 1899.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.B.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Sam B.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.C.</ce:initials>
+<ce:surname>Owsley</ce:surname>
+<ce:given-name>Harriet Chappell</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>H.D.</ce:initials>
+<ce:surname>Moser</ce:surname>
+<ce:given-name>Harold D.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>D.</ce:initials>
+<ce:surname>Feller</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Papers of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="1980" />
+<ref-text>Knoxville: University of Tennessee Press</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Sam B., Harriet Chappell Owsley, Harold D. Moser, Daniel Feller et al., eds., The Papers of Andrew Jackson, 12 vols. to date. Knoxville: University of Tennessee Press, 1980– present.</ref-fulltext>
+<ce:source-text>Smith, Sam B., Harriet Chappell Owsley, Harold D. Moser, Daniel Feller et al., eds., The Papers of Andrew Jackson, 12 vols. to date. Knoxville: University of Tennessee Press, 1980– present.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>de Tocqueville</ce:surname>
+<ce:given-name>Alexis</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Democracy in America</ref-sourcetitle>
+<ref-publicationyear first="1945" />
+<ref-text>Henry Reeveew York: Alfred A. Knopf, 1835</ref-text>
+</ref-info>
+<ref-fulltext>Tocqueville, Alexis de. Democracy in America, tr. Henry Reeve. New York: Alfred A. Knopf, 1945; orig. pub. 1835.</ref-fulltext>
+<ce:source-text>Tocqueville, Alexis de. Democracy in America, tr. Henry Reeve. New York: Alfred A. Knopf, 1945; orig. pub. 1835.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Autobiography of Martin Van Buren</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Van Buren</ce:surname>
+<ce:given-name>Martin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Annual Report of the American Historical Association for the Year 1918</ref-sourcetitle>
+<ref-publicationyear first="1920" />
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Washington: Government Printing Office</ref-text>
+</ref-info>
+<ref-fulltext>Van Buren, Martin. “Autobiography of Martin Van Buren,” in Annual Report of the American Historical Association for the Year 1918, vol. 2. Washington: Government Printing Office, 1920.</ref-fulltext>
+<ce:source-text>Van Buren, Martin. “Autobiography of Martin Van Buren,” in Annual Report of the American Historical Association for the Year 1918, vol. 2. Washington: Government Printing Office, 1920.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Weaver</ce:surname>
+<ce:given-name>Herbert</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>W.</ce:initials>
+<ce:surname>Cutler</ce:surname>
+<ce:given-name>Wayne</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>T.</ce:initials>
+<ce:surname>Chaffin</ce:surname>
+<ce:given-name>Tom</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>M.D.</ce:initials>
+<ce:surname>Cohen</ce:surname>
+<ce:given-name>Michael David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Correspondence of James K. Polk</ref-sourcetitle>
+<ref-publicationyear first="1969" last="2013" />
+<ref-text>Knoxville: University of Tennessee Press</ref-text>
+</ref-info>
+<ref-fulltext>Weaver, Herbert, Wayne Cutler, Tom Chaffin, and Michael David Cohen, eds. Correspondence of James K. Polk. Knoxville: University of Tennessee Press, 1969–2021.</ref-fulltext>
+<ce:source-text>Weaver, Herbert, Wayne Cutler, Tom Chaffin, and Michael David Cohen, eds. Correspondence of James K. Polk. Knoxville: University of Tennessee Press, 1969–2021.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.A.</ce:initials>
+<ce:surname>Wise</ce:surname>
+<ce:given-name>Henry A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Seven Decades of the Union</ref-sourcetitle>
+<ref-publicationyear first="1881" />
+<ref-text>Philadelphia: J.B. Lippincott &amp; Co</ref-text>
+</ref-info>
+<ref-fulltext>Wise, Henry A. Seven Decades of the Union. Philadelphia: J.B. Lippincott &amp; Co., 1881.</ref-fulltext>
+<ce:source-text>Wise, Henry A. Seven Decades of the Union. Philadelphia: J.B. Lippincott &amp; Co., 1881.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.P.</ce:initials>
+<ce:surname>Abernethy</ce:surname>
+<ce:given-name>Thomas Perkins</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From Frontier to Plantation in Tennessee: A Study in Frontier Democracy</ref-sourcetitle>
+<ref-publicationyear first="1932" />
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Abernethy, Thomas Perkins. From Frontier to Plantation in Tennessee: A Study in Frontier Democracy. Chapel Hill: University of North Carolina Press, 1932.</ref-fulltext>
+<ce:source-text>Abernethy, Thomas Perkins. From Frontier to Plantation in Tennessee: A Study in Frontier Democracy. Chapel Hill: University of North Carolina Press, 1932.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.E.</ce:initials>
+<ce:surname>Allgor</ce:surname>
+<ce:given-name>Catherine E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Parlor Politics: In Which the Ladies of Washington Help Build a City and a Government</ref-sourcetitle>
+<ref-publicationyear first="2000" />
+<ref-text>Charlottesville: University Press of Virginia</ref-text>
+</ref-info>
+<ref-fulltext>Allgor, Catherine E. Parlor Politics: In Which the Ladies of Washington Help Build a City and a Government. Charlottesville: University Press of Virginia, 2000.</ref-fulltext>
+<ce:source-text>Allgor, Catherine E. Parlor Politics: In Which the Ladies of Washington Help Build a City and a Government. Charlottesville: University Press of Virginia, 2000.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Hermitage Church</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.E.</ce:initials>
+<ce:surname>Arnold</ce:surname>
+<ce:given-name>James E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennessee Historical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1969" />
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>113</first-page>
+<last-page>125</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Summer</ref-text>
+</ref-info>
+<ref-fulltext>Arnold, James E. “The Hermitage Church.” Tennessee Historical Quarterly 28 (Summer 1969): 113– 25.</ref-fulltext>
+<ce:source-text>Arnold, James E. “The Hermitage Church.” Tennessee Historical Quarterly 28 (Summer 1969): 113– 25.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Bankhurst</ce:surname>
+<ce:given-name>Benjamin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ulster Presbyterians and the Scots Irish Diaspora, 1750– 1764</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<ref-text>New York: Palgrave Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>Bankhurst, Benjamin. Ulster Presbyterians and the Scots Irish Diaspora, 1750– 1764. New York: Palgrave Macmillan, 2013.</ref-fulltext>
+<ce:source-text>Bankhurst, Benjamin. Ulster Presbyterians and the Scots Irish Diaspora, 1750– 1764. New York: Palgrave Macmillan, 2013.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Banner</ce:surname>
+<ce:given-name>Stuart</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>How the Indians Lost Their Land: Law and Power on the Frontier</ref-sourcetitle>
+<ref-publicationyear first="2005" />
+<ref-text>Cambridge, MA: The Belknap Press of Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Banner, Stuart. How the Indians Lost Their Land: Law and Power on the Frontier. Cambridge, MA: The Belknap Press of Harvard University Press, 2005.</ref-fulltext>
+<ce:source-text>Banner, Stuart. How the Indians Lost Their Land: Law and Power on the Frontier. Cambridge, MA: The Belknap Press of Harvard University Press, 2005.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Belohlavek</ce:surname>
+<ce:given-name>John M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Let the Eagle Soar! the Foreign Policy of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="1985" />
+<ref-text>Lincoln: University of Nebraska Press</ref-text>
+</ref-info>
+<ref-fulltext>Belohlavek, John M. “Let the Eagle Soar!” The Foreign Policy of Andrew Jackson. Lincoln: University of Nebraska Press, 1985.</ref-fulltext>
+<ce:source-text>Belohlavek, John M. “Let the Eagle Soar!” The Foreign Policy of Andrew Jackson. Lincoln: University of Nebraska Press, 1985.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Benson</ce:surname>
+<ce:given-name>Lee</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Concept of Jacksonian Democracy: New York as a Test Case</ref-sourcetitle>
+<ref-publicationyear first="1961" />
+<ref-text>Princeton: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Benson, Lee. The Concept of Jacksonian Democracy: New York as a Test Case. Princeton: Princeton University Press, 1961.</ref-fulltext>
+<ce:source-text>Benson, Lee. The Concept of Jacksonian Democracy: New York as a Test Case. Princeton: Princeton University Press, 1961.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.B.</ce:initials>
+<ce:surname>Boles</ce:surname>
+<ce:given-name>John B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Great Revival 1787– 1805</ref-sourcetitle>
+<ref-publicationyear first="1972" />
+<ref-text>Lexington: University Press of Kentucky</ref-text>
+</ref-info>
+<ref-fulltext>Boles, John B. The Great Revival 1787– 1805. Lexington: University Press of Kentucky, 1972.</ref-fulltext>
+<ce:source-text>Boles, John B. The Great Revival 1787– 1805. Lexington: University Press of Kentucky, 1972.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Booraem</ce:surname>
+<ce:given-name>Hendrik</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Young Hickory: The Making of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<ref-text>Dallas: Taylor Trade Publishing</ref-text>
+</ref-info>
+<ref-fulltext>Booraem, Hendrik. Young Hickory: The Making of Andrew Jackson. Dallas: Taylor Trade Publishing, 2001.</ref-fulltext>
+<ce:source-text>Booraem, Hendrik. Young Hickory: The Making of Andrew Jackson. Dallas: Taylor Trade Publishing, 2001.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Brooke</ce:surname>
+<ce:given-name>Peter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ulster Presbyterianism: The Historical Perspective 1610– 1970</ref-sourcetitle>
+<ref-publicationyear first="1987" />
+<ref-text>New York: St. Martin’s Press</ref-text>
+</ref-info>
+<ref-fulltext>Brooke, Peter. Ulster Presbyterianism: The Historical Perspective 1610– 1970. New York: St. Martin’s Press, 1987.</ref-fulltext>
+<ce:source-text>Brooke, Peter. Ulster Presbyterianism: The Historical Perspective 1610– 1970. New York: St. Martin’s Press, 1987.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.M.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Richard Maxwell</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The South Carolina Regulators</ref-sourcetitle>
+<ref-publicationyear first="1963" />
+<ref-text>Cambridge, MA: The Belknap Press of Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Brown, Richard Maxwell. The South Carolina Regulators. Cambridge, MA: The Belknap Press of Harvard University Press, 1963.</ref-fulltext>
+<ce:source-text>Brown, Richard Maxwell. The South Carolina Regulators. Cambridge, MA: The Belknap Press of Harvard University Press, 1963.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Buchanan</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Jackson’s Way: Andrew Jackson and the People of the Western Waters</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<ref-text>New York: John Wiley &amp; Sons</ref-text>
+</ref-info>
+<ref-fulltext>Buchanan, John. Jackson’s Way: Andrew Jackson and the People of the Western Waters. New York: John Wiley &amp; Sons, 2001.</ref-fulltext>
+<ce:source-text>Buchanan, John. Jackson’s Way: Andrew Jackson and the People of the Western Waters. New York: John Wiley &amp; Sons, 2001.</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Pure and Sublime System: The Appeal of Post Revolutionary Freemasonry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.C.</ce:initials>
+<ce:surname>Bullock</ce:surname>
+<ce:given-name>Steven C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Early Republic</ref-sourcetitle>
+<ref-publicationyear first="1989" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>359</first-page>
+<last-page>367</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Autumn</ref-text>
+</ref-info>
+<ref-fulltext>Bullock, Steven C. “A Pure and Sublime System: The Appeal of Post Revolutionary Freemasonry.” Journal of the Early Republic 9 (Autumn 1989): 359– 73.</ref-fulltext>
+<ce:source-text>Bullock, Steven C. “A Pure and Sublime System: The Appeal of Post Revolutionary Freemasonry.” Journal of the Early Republic 9 (Autumn 1989): 359– 73.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.C.</ce:initials>
+<ce:surname>Bullock</ce:surname>
+<ce:given-name>Steven C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revolutionary Brotherhood: Freemasonry and the Transformation of the American Social Order, 1730– 1840</ref-sourcetitle>
+<ref-publicationyear first="1996" />
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Bullock, Steven C. Revolutionary Brotherhood: Freemasonry and the Transformation of the American Social Order, 1730– 1840. Chapel Hill: University of North Carolina Press, 1996.</ref-fulltext>
+<ce:source-text>Bullock, Steven C. Revolutionary Brotherhood: Freemasonry and the Transformation of the American Social Order, 1730– 1840. Chapel Hill: University of North Carolina Press, 1996.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Burstein</ce:surname>
+<ce:given-name>Andrew</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Passions of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="2003" />
+<ref-text>New York: Alfred A. Knopf</ref-text>
+</ref-info>
+<ref-fulltext>Burstein, Andrew. The Passions of Andrew Jackson. New York: Alfred A. Knopf, 2003.</ref-fulltext>
+<ce:source-text>Burstein, Andrew. The Passions of Andrew Jackson. New York: Alfred A. Knopf, 2003.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-title>
+<ref-titletext-english>‘The Genuine Presbyterian Whine’: Presbyterian Worship in the Eighteenth Century</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.B.</ce:initials>
+<ce:surname>Bynum</ce:surname>
+<ce:given-name>William B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Presbyterians</ref-sourcetitle>
+<ref-publicationyear first="1996" />
+<volisspag>
+<volume-issue-number>
+<vol-first>74</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>157</first-page>
+<last-page>170</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Fall</ref-text>
+</ref-info>
+<ref-fulltext>Bynum, William B. “‘The Genuine Presbyterian Whine’: Presbyterian Worship in the Eighteenth Century.” American Presbyterians 74 (Fall 1996): 157– 70.</ref-fulltext>
+<ce:source-text>Bynum, William B. “‘The Genuine Presbyterian Whine’: Presbyterian Worship in the Eighteenth Century.” American Presbyterians 74 (Fall 1996): 157– 70.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.J.</ce:initials>
+<ce:surname>Carwardine</ce:surname>
+<ce:given-name>Richard J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Evangelicals and Politics in Antebellum America</ref-sourcetitle>
+<ref-publicationyear first="1993" />
+<ref-text>New Haven: Yale University Press</ref-text>
+</ref-info>
+<ref-fulltext>Carwardine, Richard J. Evangelicals and Politics in Antebellum America. New Haven: Yale University Press, 1993.</ref-fulltext>
+<ce:source-text>Carwardine, Richard J. Evangelicals and Politics in Antebellum America. New Haven: Yale University Press, 1993.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Andrew Jackson, Slavery, and Historians</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.R.</ce:initials>
+<ce:surname>Cheathem</ce:surname>
+<ce:given-name>Mark R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>History Compass</ref-sourcetitle>
+<ref-publicationyear first="2011" />
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>326</first-page>
+<last-page>338</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cheathem, Mark R. “Andrew Jackson, Slavery, and Historians.” History Compass 9 (2011): 326– 38.</ref-fulltext>
+<ce:source-text>Cheathem, Mark R. “Andrew Jackson, Slavery, and Historians.” History Compass 9 (2011): 326– 38.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.R.</ce:initials>
+<ce:surname>Cheathem</ce:surname>
+<ce:given-name>Mark R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson, Southerner</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<ref-text>Baton Rouge: Louisiana State University Press</ref-text>
+</ref-info>
+<ref-fulltext>Cheathem, Mark R. Andrew Jackson, Southerner. Baton Rouge: Louisiana State University Press, 2013.</ref-fulltext>
+<ce:source-text>Cheathem, Mark R. Andrew Jackson, Southerner. Baton Rouge: Louisiana State University Press, 2013.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Hannah, Andrew Jackson’s Slave</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.R.</ce:initials>
+<ce:surname>Cheathem</ce:surname>
+<ce:given-name>Mark R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Humanities</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<volume-issue-number>
+<vol-first>35</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://www.neh.gov/humanities/2014/marchapril/feature/hannahandrewjacksonsslave</ce:e-address>
+</ref-website>
+<ref-text>March/ April</ref-text>
+</ref-info>
+<ref-fulltext>Cheathem, Mark R. “Hannah, Andrew Jackson’s Slave.” Humanities 35 (March/ April 2014): https://www.neh.gov/humanities/2014/marchapril/feature/hannahandrewjacksonsslave.</ref-fulltext>
+<ce:source-text>Cheathem, Mark R. “Hannah, Andrew Jackson’s Slave.” Humanities 35 (March/ April 2014): https://www.neh.gov/humanities/2014/marchapril/feature/hannahandrewjacksonsslave.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.R.</ce:initials>
+<ce:surname>Cheathem</ce:surname>
+<ce:given-name>Mark R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Old Hickory’s Nephew: The Political and Private Struggles of Andrew Jackson Donelson</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>Baton Rouge: Louisiana State University Press</ref-text>
+</ref-info>
+<ref-fulltext>Cheathem, Mark R. Old Hickory’s Nephew: The Political and Private Struggles of Andrew Jackson Donelson. Baton Rouge: Louisiana State University Press, 2007.</ref-fulltext>
+<ce:source-text>Cheathem, Mark R. Old Hickory’s Nephew: The Political and Private Struggles of Andrew Jackson Donelson. Baton Rouge: Louisiana State University Press, 2007.</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.B.</ce:initials>
+<ce:surname>Cole</ce:surname>
+<ce:given-name>Donald B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Presidency of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="1993" />
+<ref-text>Lawrence: University Press of Kansas</ref-text>
+</ref-info>
+<ref-fulltext>Cole, Donald B. The Presidency of Andrew Jackson. Lawrence: University Press of Kansas, 1993.</ref-fulltext>
+<ce:source-text>Cole, Donald B. The Presidency of Andrew Jackson. Lawrence: University Press of Kansas, 1993.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.B.</ce:initials>
+<ce:surname>Cole</ce:surname>
+<ce:given-name>Donald B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Vindicating Andrew Jackson: The 1828 Election and The Rise of The Two- Party System</ref-sourcetitle>
+<ref-publicationyear first="2009" />
+<ref-text>Lawrence: University Press of Kansas</ref-text>
+</ref-info>
+<ref-fulltext>Cole, Donald B. Vindicating Andrew Jackson: The 1828 Election and the Rise of the Two- Party System. Lawrence: University Press of Kansas, 2009.</ref-fulltext>
+<ce:source-text>Cole, Donald B. Vindicating Andrew Jackson: The 1828 Election and the Rise of the Two- Party System. Lawrence: University Press of Kansas, 2009.</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Evangelicals, Fugitives, and Hillbillies: Tennessee’s Impact on American National Culture</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.K.</ce:initials>
+<ce:surname>Conkin</ce:surname>
+<ce:given-name>Paul K.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennessee Historical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1995" />
+<volisspag>
+<volume-issue-number>
+<vol-first>54</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>246</first-page>
+<last-page>271</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Fall</ref-text>
+</ref-info>
+<ref-fulltext>Conkin, Paul K. “Evangelicals, Fugitives, and Hillbillies: Tennessee’s Impact on American National Culture.” Tennessee Historical Quarterly 54 (Fall 1995): 246– 71.</ref-fulltext>
+<ce:source-text>Conkin, Paul K. “Evangelicals, Fugitives, and Hillbillies: Tennessee’s Impact on American National Culture.” Tennessee Historical Quarterly 54 (Fall 1995): 246– 71.</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Cumfer</ce:surname>
+<ce:given-name>Cynthia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Separate Peoples, One Land: The Minds of Cherokees, Blacks, and Whites on The Tennessee Frontier</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Cumfer, Cynthia. Separate Peoples, One Land: The Minds of Cherokees, Blacks, and Whites on the Tennessee Frontier. Chapel Hill: University of North Carolina Press, 2007.</ref-fulltext>
+<ce:source-text>Cumfer, Cynthia. Separate Peoples, One Land: The Minds of Cherokees, Blacks, and Whites on the Tennessee Frontier. Chapel Hill: University of North Carolina Press, 2007.</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Legal Practice of Andrew Jackson</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.W.J.</ce:initials>
+<ce:surname>Ely</ce:surname>
+<ce:given-name>James W. Jr</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennessee Historical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1979" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>421</first-page>
+<last-page>435</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Winter</ref-text>
+</ref-info>
+<ref-fulltext>Ely, James W. Jr. “The Legal Practice of Andrew Jackson.” Tennessee Historical Quarterly 38 (Winter 1979): 421– 35.</ref-fulltext>
+<ce:source-text>Ely, James W. Jr. “The Legal Practice of Andrew Jackson.” Tennessee Historical Quarterly 38 (Winter 1979): 421– 35.</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Seminole Controversy Revisited: A New Look at Andrew Jackson’s 1818 Florida Campaign</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Feller</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Florida Historical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>309</first-page>
+<last-page>325</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Winter</ref-text>
+</ref-info>
+<ref-fulltext>Feller, Daniel. “The Seminole Controversy Revisited: A New Look at Andrew Jackson’s 1818 Florida Campaign.” Florida Historical Quarterly 88 (Winter 2010): 309– 25.</ref-fulltext>
+<ce:source-text>Feller, Daniel. “The Seminole Controversy Revisited: A New Look at Andrew Jackson’s 1818 Florida Campaign.” Florida Historical Quarterly 88 (Winter 2010): 309– 25.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.R.</ce:initials>
+<ce:surname>Finger</ce:surname>
+<ce:given-name>John R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennessee Frontiers: Three Regions in Transition</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<ref-text>Bloomington: Indiana University Press</ref-text>
+</ref-info>
+<ref-fulltext>Finger, John R. Tennessee Frontiers: Three Regions in Transition. Bloomington: Indiana University Press, 2001.</ref-fulltext>
+<ce:source-text>Finger, John R. Tennessee Frontiers: Three Regions in Transition. Bloomington: Indiana University Press, 2001.</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.W.</ce:initials>
+<ce:surname>Freehling</ce:surname>
+<ce:given-name>William W.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Prelude to Civil War: The Nullification Controversy in South Carolina, 1816– 1836</ref-sourcetitle>
+<ref-publicationyear first="1965" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Freehling, William W. Prelude to Civil War: The Nullification Controversy in South Carolina, 1816– 1836. New York: Oxford University Press, 1965.</ref-fulltext>
+<ce:source-text>Freehling, William W. Prelude to Civil War: The Nullification Controversy in South Carolina, 1816– 1836. New York: Oxford University Press, 1965.</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.B.</ce:initials>
+<ce:surname>Freeman</ce:surname>
+<ce:given-name>Joanne B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Affairs of Honor: National Politics in the New Republic</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<ref-text>New Haven: Yale University Press</ref-text>
+</ref-info>
+<ref-fulltext>Freeman, Joanne B. Affairs of Honor: National Politics in the New Republic. New Haven: Yale University Press, 2001.</ref-fulltext>
+<ce:source-text>Freeman, Joanne B. Affairs of Honor: National Politics in the New Republic. New Haven: Yale University Press, 2001.</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Gismondi</ce:surname>
+<ce:given-name>Melissa Jean</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Rachel Jackson and the Search for Zion, 1760s– 1830S</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>University of Virginia</ref-text>
+</ref-info>
+<ref-fulltext>Gismondi, Melissa Jean. “Rachel Jackson and the Search for Zion, 1760s– 1830s.” Ph.D. dissertation, University of Virginia, 2017.</ref-fulltext>
+<ce:source-text>Gismondi, Melissa Jean. “Rachel Jackson and the Search for Zion, 1760s– 1830s.” Ph.D. dissertation, University of Virginia, 2017.</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.S.</ce:initials>
+<ce:surname>Goodstein</ce:surname>
+<ce:given-name>Anita Shafer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nashville 1780– 1860: From Frontier to City</ref-sourcetitle>
+<ref-publicationyear first="1989" />
+<ref-text>Gainesville: University of Florida Press</ref-text>
+</ref-info>
+<ref-fulltext>Goodstein, Anita Shafer. Nashville 1780– 1860: From Frontier to City. Gainesville: University of Florida Press, 1989.</ref-fulltext>
+<ce:source-text>Goodstein, Anita Shafer. Nashville 1780– 1860: From Frontier to City. Gainesville: University of Florida Press, 1989.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-title>
+<ref-titletext-english>‘Gouge and Bite, Pull Hair and Scratch’: The Social Significance of Fighting in the Southern Backcountry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.J.</ce:initials>
+<ce:surname>Gorn</ce:surname>
+<ce:given-name>Elliott J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Historical Review</ref-sourcetitle>
+<ref-publicationyear first="1985" />
+<volisspag>
+<volume-issue-number>
+<vol-first>90</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>18</first-page>
+<last-page>43</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>February</ref-text>
+</ref-info>
+<ref-fulltext>Gorn, Elliott J. “‘Gouge and Bite, Pull Hair and Scratch’: The Social Significance of Fighting in the Southern Backcountry.” American Historical Review 90 (February 1985): 18– 43.</ref-fulltext>
+<ce:source-text>Gorn, Elliott J. “‘Gouge and Bite, Pull Hair and Scratch’: The Social Significance of Fighting in the Southern Backcountry.” American Historical Review 90 (February 1985): 18– 43.</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.S.</ce:initials>
+<ce:surname>Greenberg</ce:surname>
+<ce:given-name>Kenneth S.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Honor &amp; Slavery: Lies, Duels, Noses, Masks, Dressing as a Woman, Gifts, Strangers, Humanitarianism, Death, Slave Rebellions, the Proslavery Argument, Baseball, Hunting, Gambling in the Old South</ref-sourcetitle>
+<ref-publicationyear first="1996" />
+<ref-text>Princeton: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Greenberg, Kenneth S. Honor &amp; Slavery: Lies, Duels, Noses, Masks, Dressing as a Woman, Gifts, Strangers, Humanitarianism, Death, Slave Rebellions, The Proslavery Argument, Baseball, Hunting, Gambling in the Old South. Princeton: Princeton University Press, 1996.</ref-fulltext>
+<ce:source-text>Greenberg, Kenneth S. Honor &amp; Slavery: Lies, Duels, Noses, Masks, Dressing as a Woman, Gifts, Strangers, Humanitarianism, Death, Slave Rebellions, The Proslavery Argument, Baseball, Hunting, Gambling in the Old South. Princeton: Princeton University Press, 1996.</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Griffin</ce:surname>
+<ce:given-name>Patrick</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The People with No Name: Ireland’s Ulster Scots, America’s Scots- Irish, and the Creation of a British Atlantic World, 1689– 1764</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<ref-text>Princeton: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Griffin, Patrick. The People with No Name: Ireland’s Ulster Scots, America’s Scots- Irish, and the Creation of a British Atlantic World, 1689– 1764. Princeton: Princeton University Press, 2001.</ref-fulltext>
+<ce:source-text>Griffin, Patrick. The People with No Name: Ireland’s Ulster Scots, America’s Scots- Irish, and the Creation of a British Atlantic World, 1689– 1764. Princeton: Princeton University Press, 2001.</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.N.</ce:initials>
+<ce:surname>Gullotta</ce:surname>
+<ce:given-name>Daniel Nicholas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>To Make a Christian of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-text>Stanford University</ref-text>
+</ref-info>
+<ref-fulltext>Gullotta, Daniel Nicholas. “To Make a Christian of Andrew Jackson.” Ph.D. dissertation, Stanford University, 2023.</ref-fulltext>
+<ce:source-text>Gullotta, Daniel Nicholas. “To Make a Christian of Andrew Jackson.” Ph.D. dissertation, Stanford University, 2023.</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Guyatt</ce:surname>
+<ce:given-name>Nicholas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Providence and the Invention of the United States, 1607– 1876</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Guyatt, Nicholas. Providence and the Invention of the United States, 1607– 1876. Cambridge: Cambridge University Press, 2007.</ref-fulltext>
+<ce:source-text>Guyatt, Nicholas. Providence and the Invention of the United States, 1607– 1876. Cambridge: Cambridge University Press, 2007.</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Hammond</ce:surname>
+<ce:given-name>Bray</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Banks and Politics in America from the Revolution to the Civil War</ref-sourcetitle>
+<ref-publicationyear first="1957" />
+<ref-text>Princeton: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hammond, Bray. Banks and Politics in America from the Revolution to the Civil War. Princeton: Princeton University Press, 1957.</ref-fulltext>
+<ce:source-text>Hammond, Bray. Banks and Politics in America from the Revolution to the Civil War. Princeton: Princeton University Press, 1957.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The End of the Affair? Anti Dueling Laws and Social Norms in Antebellum America</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.A.</ce:initials>
+<ce:surname>Harwell Wells</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Vanderbilt Law Review</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<volisspag>
+<volume-issue-number>
+<vol-first>54</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1813</first-page>
+<last-page>1837</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>May</ref-text>
+</ref-info>
+<ref-fulltext>Harwell Wells, C. A. “The End of the Affair? Anti Dueling Laws and Social Norms in Antebellum America.” Vanderbilt Law Review 54 (May 2001): 1813– 37.</ref-fulltext>
+<ce:source-text>Harwell Wells, C. A. “The End of the Affair? Anti Dueling Laws and Social Norms in Antebellum America.” Vanderbilt Law Review 54 (May 2001): 1813– 37.</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Haselby</ce:surname>
+<ce:given-name>Sam</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Origins of American Religious Nationalism</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Haselby, Sam. The Origins of American Religious Nationalism. New York: Oxford University Press, 2015.</ref-fulltext>
+<ce:source-text>Haselby, Sam. The Origins of American Religious Nationalism. New York: Oxford University Press, 2015.</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.O.</ce:initials>
+<ce:surname>Hatch</ce:surname>
+<ce:given-name>Nathan O.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Democratization of American Christianity</ref-sourcetitle>
+<ref-publicationyear first="1989" />
+<ref-text>New Haven: Yale University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hatch, Nathan O. The Democratization of American Christianity. New Haven: Yale University Press, 1989.</ref-fulltext>
+<ce:source-text>Hatch, Nathan O. The Democratization of American Christianity. New Haven: Yale University Press, 1989.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Case for Andrew Jackson in 1824: Eaton’s ‘Wyoming Letters.’</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.P.</ce:initials>
+<ce:surname>Hay</ce:surname>
+<ce:given-name>Robert P.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennessee Historical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1970" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>139</first-page>
+<last-page>151</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Summer</ref-text>
+</ref-info>
+<ref-fulltext>Hay, Robert P. “The Case for Andrew Jackson in 1824: Eaton’s ‘Wyoming Letters.’” Tennessee Historical Quarterly 29 (Summer 1970): 139– 51.</ref-fulltext>
+<ce:source-text>Hay, Robert P. “The Case for Andrew Jackson in 1824: Eaton’s ‘Wyoming Letters.’” Tennessee Historical Quarterly 29 (Summer 1970): 139– 51.</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Not a Ragged Mob; The Inauguration of 1829</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.S.</ce:initials>
+<ce:surname>Heidler</ce:surname>
+<ce:given-name>David S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.T.</ce:initials>
+<ce:surname>Heidler</ce:surname>
+<ce:given-name>Jeanne T.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>White House History</ref-sourcetitle>
+<ref-publicationyear first="1997" />
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>134</first-page>
+<last-page>143</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Heidler, David S., and Jeanne T. Heidler. “Not a Ragged Mob; The Inauguration of 1829.” White House History 15 (1997): 134– 43.</ref-fulltext>
+<ce:source-text>Heidler, David S., and Jeanne T. Heidler. “Not a Ragged Mob; The Inauguration of 1829.” White House History 15 (1997): 134– 43.</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.S.</ce:initials>
+<ce:surname>Heidler</ce:surname>
+<ce:given-name>David S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.T.</ce:initials>
+<ce:surname>Heidler</ce:surname>
+<ce:given-name>Jeanne T.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Old Hickory’s War: Andrew Jackson and the Quest for Empire</ref-sourcetitle>
+<ref-publicationyear first="2003" />
+<ref-text>Mechanicsburg, PA: Stackpole Books</ref-text>
+</ref-info>
+<ref-fulltext>Heidler, David S., and Jeanne T. Heidler. Old Hickory’s War: Andrew Jackson and the Quest for Empire. Mechanicsburg, PA: Stackpole Books, 2003.</ref-fulltext>
+<ce:source-text>Heidler, David S., and Jeanne T. Heidler. Old Hickory’s War: Andrew Jackson and the Quest for Empire. Mechanicsburg, PA: Stackpole Books, 2003.</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.S.</ce:initials>
+<ce:surname>Heidler</ce:surname>
+<ce:given-name>David S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.T.</ce:initials>
+<ce:surname>Heidler</ce:surname>
+<ce:given-name>Jeanne T.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Rise of Andrew Jackson: Myth, Manipulation, and the Making of Modern Politics</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<ref-text>New York: Basic Books</ref-text>
+</ref-info>
+<ref-fulltext>Heidler, David S., and Jeanne T. Heidler. Rise of Andrew Jackson: Myth, Manipulation, and the Making of Modern Politics. New York: Basic Books, 2018.</ref-fulltext>
+<ce:source-text>Heidler, David S., and Jeanne T. Heidler. Rise of Andrew Jackson: Myth, Manipulation, and the Making of Modern Politics. New York: Basic Books, 2018.</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.L.</ce:initials>
+<ce:surname>Heyrman</ce:surname>
+<ce:given-name>Christine Leigh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Southern Cross: The Beginnings of The Bible Belt</ref-sourcetitle>
+<ref-publicationyear first="1997" />
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Heyrman, Christine Leigh. Southern Cross: The Beginnings of the Bible Belt Chapel Hill: University of North Carolina Press, 1997.</ref-fulltext>
+<ce:source-text>Heyrman, Christine Leigh. Southern Cross: The Beginnings of the Bible Belt Chapel Hill: University of North Carolina Press, 1997.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.R.</ce:initials>
+<ce:surname>Hickey</ce:surname>
+<ce:given-name>Donald R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Glorious Victory: Andrew Jackson and the Battle of New Orleans</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>Baltimore: Johns Hopkins University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hickey, Donald R. Glorious Victory: Andrew Jackson and the Battle of New Orleans. Baltimore: Johns Hopkins University Press, 2015.</ref-fulltext>
+<ce:source-text>Hickey, Donald R. Glorious Victory: Andrew Jackson and the Battle of New Orleans. Baltimore: Johns Hopkins University Press, 2015.</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.R.</ce:initials>
+<ce:surname>Hickey</ce:surname>
+<ce:given-name>Donald R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The War of 1812: A Forgotten Conflict. Urbana</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<ref-text>University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Hickey, Donald R. The War of 1812: A Forgotten Conflict. Urbana: University of Illinois Press, 2012.</ref-fulltext>
+<ce:source-text>Hickey, Donald R. The War of 1812: A Forgotten Conflict. Urbana: University of Illinois Press, 2012.</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.R.</ce:initials>
+<ce:surname>Holmes</ce:surname>
+<ce:given-name>Andrew R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Shaping of Ulster Presbyterian Belief and Practice1770– 1840</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Holmes, Andrew R. The Shaping of Ulster Presbyterian Belief and Practice, 1770– 1840. New York: Oxford University Press, 2006.</ref-fulltext>
+<ce:source-text>Holmes, Andrew R. The Shaping of Ulster Presbyterian Belief and Practice, 1770– 1840. New York: Oxford University Press, 2006.</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Antimasonic and Know Nothing Parties</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.F.</ce:initials>
+<ce:surname>Holt</ce:surname>
+<ce:given-name>Michael F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Political Parties and American Political Development from the Age of Jackson to the Age of Lincoln</ref-sourcetitle>
+<ref-publicationyear first="1992" />
+<ref-text>Baton Rouge: Louisiana State University Press</ref-text>
+</ref-info>
+<ref-fulltext>Holt, Michael F. “The Antimasonic and Know Nothing Parties,” in Political Parties and American Political Development from the Age of Jackson to the Age of Lincoln. Baton Rouge: Louisiana State University Press, 1992.</ref-fulltext>
+<ce:source-text>Holt, Michael F. “The Antimasonic and Know Nothing Parties,” in Political Parties and American Political Development from the Age of Jackson to the Age of Lincoln. Baton Rouge: Louisiana State University Press, 1992.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.F.</ce:initials>
+<ce:surname>Holt</ce:surname>
+<ce:given-name>Michael F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War</ref-sourcetitle>
+<ref-publicationyear first="1999" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Holt, Michael F. The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War. New York: Oxford University Press, 1999.</ref-fulltext>
+<ce:source-text>Holt, Michael F. The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War. New York: Oxford University Press, 1999.</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.W.</ce:initials>
+<ce:surname>Howe</ce:surname>
+<ce:given-name>Daniel Walker</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>What Hath God Wrought? The Transformation of America, 1815– 1848</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Howe, Daniel Walker. What Hath God Wrought? The Transformation of America, 1815– 1848. New York: Oxford University Press, 2007.</ref-fulltext>
+<ce:source-text>Howe, Daniel Walker. What Hath God Wrought? The Transformation of America, 1815– 1848. New York: Oxford University Press, 2007.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.E.</ce:initials>
+<ce:surname>Johnson</ce:surname>
+<ce:given-name>Paul E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Shopkeeper’s Millennium: Society and Revivals in Rochester, New York, 1815– 1837</ref-sourcetitle>
+<ref-publicationyear first="1978" />
+<ref-text>New York: Hill &amp; Wang</ref-text>
+</ref-info>
+<ref-fulltext>Johnson, Paul E. A Shopkeeper’s Millennium: Society and Revivals in Rochester, New York, 1815– 1837. New York: Hill &amp; Wang, 1978.</ref-fulltext>
+<ce:source-text>Johnson, Paul E. A Shopkeeper’s Millennium: Society and Revivals in Rochester, New York, 1815– 1837. New York: Hill &amp; Wang, 1978.</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Kanon</ce:surname>
+<ce:given-name>Tom</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennesseans at War, 1812– 1815: Andrew Jackson, the Creek War, and the Battle of New Orleans</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>Tuscaloosa: University of Alabama Press</ref-text>
+</ref-info>
+<ref-fulltext>Kanon, Tom. Tennesseans at War, 1812– 1815: Andrew Jackson, The Creek War, and the Battle of New Orleans. Tuscaloosa: University of Alabama Press, 2014.</ref-fulltext>
+<ce:source-text>Kanon, Tom. Tennesseans at War, 1812– 1815: Andrew Jackson, The Creek War, and the Battle of New Orleans. Tuscaloosa: University of Alabama Press, 2014.</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Kendall</ce:surname>
+<ce:given-name>Amos</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Life of Andrew Jackson, Private, Military, and Civil, with Illustrations</ref-sourcetitle>
+<ref-publicationyear first="1843" />
+<ref-text>New York: Harper &amp; Brothers</ref-text>
+</ref-info>
+<ref-fulltext>Kendall, Amos. Life of Andrew Jackson, Private, Military, and Civil, with Illustrations. New York: Harper &amp; Brothers, 1843.</ref-fulltext>
+<ce:source-text>Kendall, Amos. Life of Andrew Jackson, Private, Military, and Civil, with Illustrations. New York: Harper &amp; Brothers, 1843.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Kidd</ce:surname>
+<ce:given-name>Thomas</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>America’s Religious History: Faith, Politics, and the Shaping of a Nation</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<ref-text>Grand Rapids, MI: Zondervan</ref-text>
+</ref-info>
+<ref-fulltext>Kidd, Thomas. America’s Religious History: Faith, Politics, and the Shaping of a Nation. Grand Rapids, MI: Zondervan, 2019.</ref-fulltext>
+<ce:source-text>Kidd, Thomas. America’s Religious History: Faith, Politics, and the Shaping of a Nation. Grand Rapids, MI: Zondervan, 2019.</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.S.</ce:initials>
+<ce:surname>Kidd</ce:surname>
+<ce:given-name>Thomas S.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>God of Liberty: A Religious History of the American Revolution</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+<ref-text>New York: Basic Books</ref-text>
+</ref-info>
+<ref-fulltext>Kidd, Thomas S. God of Liberty: A Religious History of the American Revolution. New York: Basic Books, 2010.</ref-fulltext>
+<ce:source-text>Kidd, Thomas S. God of Liberty: A Religious History of the American Revolution. New York: Basic Books, 2010.</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.S.</ce:initials>
+<ce:surname>Kidd</ce:surname>
+<ce:given-name>Thomas S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Hankins</ce:surname>
+<ce:given-name>Barry</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Baptists in America: A History</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Kidd, Thomas S., and Barry Hankins. Baptists in America: A History. New York: Oxford University Press, 2015.</ref-fulltext>
+<ce:source-text>Kidd, Thomas S., and Barry Hankins. Baptists in America: A History. New York: Oxford University Press, 2015.</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.N.</ce:initials>
+<ce:surname>Klein</ce:surname>
+<ce:given-name>Rachel N.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Unification of a Slave State: The Rise of The Planter Class in The South Carolina Backcountry, 1760– 1808</ref-sourcetitle>
+<ref-publicationyear first="1990" />
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Klein, Rachel N. Unification of a Slave State: The Rise of the Planter Class in the South Carolina Backcountry, 1760– 1808. Chapel Hill: University of North Carolina Press, 1990.</ref-fulltext>
+<ce:source-text>Klein, Rachel N. Unification of a Slave State: The Rise of the Planter Class in the South Carolina Backcountry, 1760– 1808. Chapel Hill: University of North Carolina Press, 1990.</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Presidential Patron of the Sport of Kings: Andrew Jackson</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.S.</ce:initials>
+<ce:surname>Kupfer</ce:surname>
+<ce:given-name>Barbara Stern</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennessee Historical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1970" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>243</first-page>
+<last-page>255</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kupfer, Barbara Stern. “A Presidential Patron of the Sport of Kings: Andrew Jackson.” Tennessee Historical Quarterly 29 (Fall 1970): 243– 55.</ref-fulltext>
+<ce:source-text>Kupfer, Barbara Stern. “A Presidential Patron of the Sport of Kings: Andrew Jackson.” Tennessee Historical Quarterly 29 (Fall 1970): 243– 55.</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.B.</ce:initials>
+<ce:surname>Latner</ce:surname>
+<ce:given-name>Richard B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Presidency of Andrew Jackson: White House Politics1829– 1837</ref-sourcetitle>
+<ref-publicationyear first="1979" />
+<ref-text>Athens: University of Georgia Press</ref-text>
+</ref-info>
+<ref-fulltext>Latner, Richard B. Presidency of Andrew Jackson: White House Politics, 1829– 1837. Athens: University of Georgia Press, 1979.</ref-fulltext>
+<ce:source-text>Latner, Richard B. Presidency of Andrew Jackson: White House Politics, 1829– 1837. Athens: University of Georgia Press, 1979.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.E.</ce:initials>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>Kenneth E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Carolina Backcountry Venture: Tradition, Capital, and Circumstance in the Development of Camden and the Wateree Valley, 1740– 1810</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>Columbia: University of South Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Lewis, Kenneth E. The Carolina Backcountry Venture: Tradition, Capital, and Circumstance in the Development of Camden and the Wateree Valley, 1740– 1810. Columbia: University of South Carolina Press, 2017.</ref-fulltext>
+<ce:source-text>Lewis, Kenneth E. The Carolina Backcountry Venture: Tradition, Capital, and Circumstance in the Development of Camden and the Wateree Valley, 1740– 1810. Columbia: University of South Carolina Press, 2017.</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.G.</ce:initials>
+<ce:surname>Leyburn</ce:surname>
+<ce:given-name>James G.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Scotch- Irish: A Social History</ref-sourcetitle>
+<ref-publicationyear first="1962" />
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Leyburn, James G. The Scotch- Irish: A Social History. Chapel Hill: University of North Carolina Press, 1962.</ref-fulltext>
+<ce:source-text>Leyburn, James G. The Scotch- Irish: A Social History. Chapel Hill: University of North Carolina Press, 1962.</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.C.</ce:initials>
+<ce:surname>Loveland</ce:surname>
+<ce:given-name>Anna C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Southern Evangelicals and the Social Order 1800– 1860</ref-sourcetitle>
+<ref-publicationyear first="1980" />
+<ref-text>Baton Rouge: Louisiana State University Press</ref-text>
+</ref-info>
+<ref-fulltext>Loveland, Anna C. Southern Evangelicals and the Social Order 1800– 1860. Baton Rouge: Louisiana State University Press, 1980</ref-fulltext>
+<ce:source-text>Loveland, Anna C. Southern Evangelicals and the Social Order 1800– 1860. Baton Rouge: Louisiana State University Press, 1980</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.F.</ce:initials>
+<ce:surname>Marszalek</ce:surname>
+<ce:given-name>John F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Petticoat Affair: Manners, Mutiny, and Sex in Andrew Jackson’s White House</ref-sourcetitle>
+<ref-publicationyear first="1997" />
+<ref-text>New York: The Free Press</ref-text>
+</ref-info>
+<ref-fulltext>Marszalek, John F. The Petticoat Affair: Manners, Mutiny, and Sex in Andrew Jackson’s White House. New York: The Free Press, 1997.</ref-fulltext>
+<ce:source-text>Marszalek, John F. The Petticoat Affair: Manners, Mutiny, and Sex in Andrew Jackson’s White House. New York: The Free Press, 1997.</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.H.</ce:initials>
+<ce:surname>Masterson</ce:surname>
+<ce:given-name>William H.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>William Blount</ref-sourcetitle>
+<ref-publicationyear first="1954" />
+<ref-text>Baton Rouge: Louisiana State University Press</ref-text>
+</ref-info>
+<ref-fulltext>Masterson, William H. William Blount. Baton Rouge: Louisiana State University Press, 1954.</ref-fulltext>
+<ce:source-text>Masterson, William H. William Blount. Baton Rouge: Louisiana State University Press, 1954.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.G.</ce:initials>
+<ce:surname>Mathews</ce:surname>
+<ce:given-name>Donald G.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Religion in the Old South. Chicago</ref-sourcetitle>
+<ref-publicationyear first="1977" />
+<ref-text>University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Mathews, Donald G. Religion in the Old South. Chicago: University of Chicago Press, 1977.</ref-fulltext>
+<ce:source-text>Mathews, Donald G. Religion in the Old South. Chicago: University of Chicago Press, 1977.</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Was There a ‘Whig Strategy’ in 1836</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.P.</ce:initials>
+<ce:surname>McCormick</ce:surname>
+<ce:given-name>Richard P.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Early Republic 4</ref-sourcetitle>
+<ref-publicationyear first="1984" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>47</first-page>
+<last-page>70</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Spring</ref-text>
+</ref-info>
+<ref-fulltext>McCormick, Richard P. “Was There a ‘Whig Strategy’ in 1836?” Journal of the Early Republic 4 (Spring 1984): 47– 70.</ref-fulltext>
+<ce:source-text>McCormick, Richard P. “Was There a ‘Whig Strategy’ in 1836?” Journal of the Early Republic 4 (Spring 1984): 47– 70.</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.G.</ce:initials>
+<ce:surname>McLoughlin</ce:surname>
+<ce:given-name>William G.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cherokee Renascence in the New Republic</ref-sourcetitle>
+<ref-publicationyear first="1986" />
+<ref-text>Princeton: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>McLoughlin, William G. Cherokee Renascence in the New Republic. Princeton: Princeton University Press, 1986.</ref-fulltext>
+<ce:source-text>McLoughlin, William G. Cherokee Renascence in the New Republic. Princeton: Princeton University Press, 1986.</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Meacham</ce:surname>
+<ce:given-name>Jon</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Lion: Andrew Jackson in the White House</ref-sourcetitle>
+<ref-publicationyear first="2008" />
+<ref-text>New York: Random House</ref-text>
+</ref-info>
+<ref-fulltext>Meacham, Jon. American Lion: Andrew Jackson in the White House. New York: Random House, 2008.</ref-fulltext>
+<ce:source-text>Meacham, Jon. American Lion: Andrew Jackson in the White House. New York: Random House, 2008.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Meredith</ce:surname>
+<ce:given-name>Rachel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>There was Somebody Always Dying and Leaving Jackson as Guardian’: The Wards of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<ref-text>M.A. Thesis, Middle Tennessee State University</ref-text>
+</ref-info>
+<ref-fulltext>Meredith, Rachel. “‘There Was Somebody Always Dying and Leaving Jackson as Guardian’: The Wards of Andrew Jackson.” M.A. Thesis, Middle Tennessee State University, 2013.</ref-fulltext>
+<ce:source-text>Meredith, Rachel. “‘There Was Somebody Always Dying and Leaving Jackson as Guardian’: The Wards of Andrew Jackson.” M.A. Thesis, Middle Tennessee State University, 2013.</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.H.</ce:initials>
+<ce:surname>Merrill</ce:surname>
+<ce:given-name>James H.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Indians’ New World: Catawbas and Their Neighbors from European Contact through the Era of Removal</ref-sourcetitle>
+<ref-publicationyear first="1989" />
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Merrill, James H. The Indians’ New World: Catawbas and Their Neighbors from European Contact through the Era of Removal. Chapel Hill: University of North Carolina Press, 1989.</ref-fulltext>
+<ce:source-text>Merrill, James H. The Indians’ New World: Catawbas and Their Neighbors from European Contact through the Era of Removal. Chapel Hill: University of North Carolina Press, 1989.</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Middlekauf</ce:surname>
+<ce:given-name>Robert</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Glorious Cause: The American Revolution, 1763– 1789</ref-sourcetitle>
+<ref-publicationyear first="1982" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Middlekauf, Robert. The Glorious Cause: The American Revolution, 1763– 1789. New York: Oxford University Press, 1982.</ref-fulltext>
+<ce:source-text>Middlekauf, Robert. The Glorious Cause: The American Revolution, 1763– 1789. New York: Oxford University Press, 1982.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.C.</ce:initials>
+<ce:surname>Mooney</ce:surname>
+<ce:given-name>Chase C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>William H. Crawford: 1772– 1834</ref-sourcetitle>
+<ref-publicationyear first="1974" />
+<ref-text>Lexington: University Press of Kentucky, 1974</ref-text>
+</ref-info>
+<ref-fulltext>Mooney, Chase C. William H. Crawford: 1772– 1834. Lexington: University Press of Kentucky, 1974.</ref-fulltext>
+<ce:source-text>Mooney, Chase C. William H. Crawford: 1772– 1834. Lexington: University Press of Kentucky, 1974.</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.N.</ce:initials>
+<ce:surname>Moore</ce:surname>
+<ce:given-name>Peter N.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>World of Toil and Strife: Community Transformation in Backcountry South Carolina, 1750– 1805</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>Columbia: University of South Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Moore, Peter N. World of Toil and Strife: Community Transformation in Backcountry South Carolina, 1750– 1805. Columbia: University of South Carolina Press, 2007.</ref-fulltext>
+<ce:source-text>Moore, Peter N. World of Toil and Strife: Community Transformation in Backcountry South Carolina, 1750– 1805. Columbia: University of South Carolina Press, 2007.</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.J.</ce:initials>
+<ce:surname>Nadelhaft</ce:surname>
+<ce:given-name>Jerome J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Disorders of War: The Revolution in South Carolina</ref-sourcetitle>
+<ref-publicationyear first="1981" />
+<ref-text>Orono: University of Maine at Orono Press</ref-text>
+</ref-info>
+<ref-fulltext>Nadelhaft, Jerome J. The Disorders of War: The Revolution in South Carolina. Orono: University of Maine at Orono Press, 1981.</ref-fulltext>
+<ce:source-text>Nadelhaft, Jerome J. The Disorders of War: The Revolution in South Carolina. Orono: University of Maine at Orono Press, 1981.</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.J.C.</ce:initials>
+<ce:surname>Niven</ce:surname>
+<ce:given-name>John. John C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Calhoun and the Price of Union</ref-sourcetitle>
+<ref-publicationyear first="1988" />
+<ref-text>Baton Rouge: Louisiana State University Press</ref-text>
+</ref-info>
+<ref-fulltext>Niven, John. John C. Calhoun and the Price of Union. Baton Rouge: Louisiana State University Press, 1988.</ref-fulltext>
+<ce:source-text>Niven, John. John C. Calhoun and the Price of Union. Baton Rouge: Louisiana State University Press, 1988.</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Noll</ce:surname>
+<ce:given-name>Mark A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A History of Christianity in the United States and Canada</ref-sourcetitle>
+<ref-publicationyear first="1992" />
+<ref-text>Grand Rapids: William B. Eerdmans Publishing Co</ref-text>
+</ref-info>
+<ref-fulltext>Noll, Mark A. A History of Christianity in the United States and Canada. Grand Rapids: William B. Eerdmans Publishing Co., 1992.</ref-fulltext>
+<ce:source-text>Noll, Mark A. A History of Christianity in the United States and Canada. Grand Rapids: William B. Eerdmans Publishing Co., 1992.</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.A.</ce:initials>
+<ce:surname>Norton</ce:surname>
+<ce:given-name>Herman A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Religion in Tennessee 1777– 1945.</ref-sourcetitle>
+<ref-publicationyear first="1981" />
+<ref-text>Knoxville: University of Tennessee Press</ref-text>
+</ref-info>
+<ref-fulltext>Norton, Herman A. Religion in Tennessee 1777– 1945. Knoxville: University of Tennessee Press, 1981.</ref-fulltext>
+<ce:source-text>Norton, Herman A. Religion in Tennessee 1777– 1945. Knoxville: University of Tennessee Press, 1981.</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Opal</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Avenging the People: Andrew Jackson, the Rule of Law, and the American Nation</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Opal, J. M. Avenging the People: Andrew Jackson, the Rule of Law, and the American Nation. New York: Oxford University Press, 2017.</ref-fulltext>
+<ce:source-text>Opal, J. M. Avenging the People: Andrew Jackson, the Rule of Law, and the American Nation. New York: Oxford University Press, 2017.</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.L.</ce:initials>
+<ce:surname>Owsley</ce:surname>
+<ce:given-name>Frank L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Jr. Struggle for The Gulf Borderlands: The Creek War and The Battle of New Orleans, 1812– 1815</ref-sourcetitle>
+<ref-publicationyear first="2000" />
+<ref-text>Tuscaloosa: University of Alabama Press</ref-text>
+</ref-info>
+<ref-fulltext>Owsley, Frank L. Jr. Struggle for the Gulf Borderlands: The Creek War and the Battle of New Orleans, 1812– 1815. Tuscaloosa: University of Alabama Press, 2000.</ref-fulltext>
+<ce:source-text>Owsley, Frank L. Jr. Struggle for the Gulf Borderlands: The Creek War and the Battle of New Orleans, 1812– 1815. Tuscaloosa: University of Alabama Press, 2000.</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Pancake</ce:surname>
+<ce:given-name>John S.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Destructive War: The British Campaign in The Carolinas, 1780– 1782</ref-sourcetitle>
+<ref-publicationyear first="1985" />
+<ref-text>Tuscaloosa: University of Alabama Press</ref-text>
+</ref-info>
+<ref-fulltext>Pancake, John S. The Destructive War: The British Campaign in the Carolinas, 1780– 1782. Tuscaloosa: University of Alabama Press, 1985.</ref-fulltext>
+<ce:source-text>Pancake, John S. The Destructive War: The British Campaign in the Carolinas, 1780– 1782. Tuscaloosa: University of Alabama Press, 1985.</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.H.</ce:initials>
+<ce:surname>Parsons</ce:surname>
+<ce:given-name>Lynn Hudson</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Birth of Modern Politics: Andrew Jackson, John Quincy Adams, and the Election of 1828</ref-sourcetitle>
+<ref-publicationyear first="2009" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Parsons, Lynn Hudson. The Birth of Modern Politics: Andrew Jackson, John Quincy Adams, and the Election of 1828. New York: Oxford University Press, 2009.</ref-fulltext>
+<ce:source-text>Parsons, Lynn Hudson. The Birth of Modern Politics: Andrew Jackson, John Quincy Adams, and the Election of 1828. New York: Oxford University Press, 2009.</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Parton</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Life of Andrew Jackson, 3 Vols</ref-sourcetitle>
+<ref-publicationyear first="1859" last="2013" />
+<ref-text>Boston and New York: Houghton, Mifflin &amp; Company</ref-text>
+</ref-info>
+<ref-fulltext>Parton, James. Life of Andrew Jackson, 3 vols. Boston and New York: Houghton, Mifflin &amp; Company, 1859– 60.</ref-fulltext>
+<ce:source-text>Parton, James. Life of Andrew Jackson, 3 vols. Boston and New York: Houghton, Mifflin &amp; Company, 1859– 60.</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.M.</ce:initials>
+<ce:surname>Pletcher</ce:surname>
+<ce:given-name>David M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Diplomacy of Annexation: Texas, Oregon, and the Mexican War</ref-sourcetitle>
+<ref-publicationyear first="1973" />
+<ref-text>Columbia: University of Missouri Press</ref-text>
+</ref-info>
+<ref-fulltext>Pletcher, David M. The Diplomacy of Annexation: Texas, Oregon, and the Mexican War. Columbia: University of Missouri Press, 1973</ref-fulltext>
+<ce:source-text>Pletcher, David M. The Diplomacy of Annexation: Texas, Oregon, and the Mexican War. Columbia: University of Missouri Press, 1973</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Andrew Jackson’s Indian Policy: A Reassessment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.P.</ce:initials>
+<ce:surname>Prucha</ce:surname>
+<ce:given-name>Francis Paul</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of American History</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>56</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>527</first-page>
+<last-page>539</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>December 1969</ref-text>
+</ref-info>
+<ref-fulltext>Prucha, Francis Paul. “Andrew Jackson’s Indian Policy: A Reassessment.” Journal of American History 56 (December 1969): 527–39.</ref-fulltext>
+<ce:source-text>Prucha, Francis Paul. “Andrew Jackson’s Indian Policy: A Reassessment.” Journal of American History 56 (December 1969): 527–39.</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.P.</ce:initials>
+<ce:surname>Prucha</ce:surname>
+<ce:given-name>Francis Paul</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Great Father: The United States Government and The American Indians</ref-sourcetitle>
+<ref-publicationyear first="1984" />
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Lincoln: University of Nebraska Press</ref-text>
+</ref-info>
+<ref-fulltext>Prucha, Francis Paul. The Great Father: The United States Government and the American Indians, 2 vols. Lincoln: University of Nebraska Press, 1984.</ref-fulltext>
+<ce:source-text>Prucha, Francis Paul. The Great Father: The United States Government and the American Indians, 2 vols. Lincoln: University of Nebraska Press, 1984.</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.W.</ce:initials>
+<ce:surname>Putnam</ce:surname>
+<ce:given-name>A. Waldo</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>History of Middle Tennessee; Or, Life and Times of General James Robertson</ref-sourcetitle>
+<ref-publicationyear first="1859" />
+<ref-text>Nashville: Printed for the Offer</ref-text>
+</ref-info>
+<ref-fulltext>Putnam, A. Waldo. History of Middle Tennessee; or, Life and Times of General James Robertson. Nashville: Printed for the Offer, 1859.</ref-fulltext>
+<ce:source-text>Putnam, A. Waldo. History of Middle Tennessee; or, Life and Times of General James Robertson. Nashville: Printed for the Offer, 1859.</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.G.M.</ce:initials>
+<ce:surname>Ramsey</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Annals of Tennessee to the End of the Eighteenth Century</ref-sourcetitle>
+<ref-publicationyear first="1853" />
+<ref-text>Charleston: John Russell</ref-text>
+</ref-info>
+<ref-fulltext>Ramsey, J.G.M. The Annals of Tennessee to the End of the Eighteenth Century. Charleston: John Russell, 1853.</ref-fulltext>
+<ce:source-text>Ramsey, J.G.M. The Annals of Tennessee to the End of the Eighteenth Century. Charleston: John Russell, 1853.</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Ratcliffe</ce:surname>
+<ce:given-name>Donald</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The One-Party Presidential Contest: Adams, Jackson, and 1824’s Five-Horse Race</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>Lawrence: University Press of Kansas</ref-text>
+</ref-info>
+<ref-fulltext>Ratcliffe, Donald. The One-Party Presidential Contest: Adams, Jackson, and 1824’s Five-Horse Race. Lawrence: University Press of Kansas, 2015.</ref-fulltext>
+<ce:source-text>Ratcliffe, Donald. The One-Party Presidential Contest: Adams, Jackson, and 1824’s Five-Horse Race. Lawrence: University Press of Kansas, 2015.</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Ray</ce:surname>
+<ce:given-name>Kristofer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Middle Tennessee 1775–1825: Progress and Popular Democracy on the Southwestern Frontier</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>Knoxville: University of Tennessee Press</ref-text>
+</ref-info>
+<ref-fulltext>Ray, Kristofer. Middle Tennessee 1775–1825: Progress and Popular Democracy on the Southwestern Frontier. Knoxville: University of Tennessee Press, 2007.</ref-fulltext>
+<ce:source-text>Ray, Kristofer. Middle Tennessee 1775–1825: Progress and Popular Democracy on the Southwestern Frontier. Knoxville: University of Tennessee Press, 2007.</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.V.</ce:initials>
+<ce:surname>Remini</ce:surname>
+<ce:given-name>Robert V.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson and the Bank War</ref-sourcetitle>
+<ref-publicationyear first="1967" />
+<ref-text>New York: W.W. Norton &amp; Co</ref-text>
+</ref-info>
+<ref-fulltext>Remini, Robert V. Andrew Jackson and the Bank War. New York: W.W. Norton &amp; Co., 1967.</ref-fulltext>
+<ce:source-text>Remini, Robert V. Andrew Jackson and the Bank War. New York: W.W. Norton &amp; Co., 1967.</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Andrew Jackson Takes an Oath of Allegiance to Spain</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.V.</ce:initials>
+<ce:surname>Remini</ce:surname>
+<ce:given-name>Robert V.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennessee Historical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1995" />
+<volisspag>
+<volume-issue-number>
+<vol-first>54</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2</first-page>
+<last-page>15</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Remini, Robert V. “Andrew Jackson Takes an Oath of Allegiance to Spain.” Tennessee Historical Quarterly 54 (Spring 1995): 2–15.</ref-fulltext>
+<ce:source-text>Remini, Robert V. “Andrew Jackson Takes an Oath of Allegiance to Spain.” Tennessee Historical Quarterly 54 (Spring 1995): 2–15.</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.V.</ce:initials>
+<ce:surname>Remini</ce:surname>
+<ce:given-name>Robert V.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson: The Course of American Democracy, 1833–1845</ref-sourcetitle>
+<ref-publicationyear first="1984" />
+<ref-text>New York: Harper &amp; Row, Baltimore: Johns Hopkins University Press, 1998</ref-text>
+</ref-info>
+<ref-fulltext>Remini, Robert V. Andrew Jackson: The Course of American Democracy, 1833–1845. New York: Harper &amp; Row, 1984; rpt. Baltimore: Johns Hopkins University Press, 1998.</ref-fulltext>
+<ce:source-text>Remini, Robert V. Andrew Jackson: The Course of American Democracy, 1833–1845. New York: Harper &amp; Row, 1984; rpt. Baltimore: Johns Hopkins University Press, 1998.</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.V.</ce:initials>
+<ce:surname>Remini</ce:surname>
+<ce:given-name>Robert V.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson: The Course of American Empire, 1767–1821</ref-sourcetitle>
+<ref-publicationyear first="1977" />
+<ref-text>New York: Harper &amp; Row, Baltimore: Johns Hopkins University Press, 1998</ref-text>
+</ref-info>
+<ref-fulltext>Remini, Robert V. Andrew Jackson: The Course of American Empire, 1767–1821. New York: Harper &amp; Row, 1977; rpt. Baltimore: Johns Hopkins University Press, 1998.</ref-fulltext>
+<ce:source-text>Remini, Robert V. Andrew Jackson: The Course of American Empire, 1767–1821. New York: Harper &amp; Row, 1977; rpt. Baltimore: Johns Hopkins University Press, 1998.</ce:source-text>
+</reference>
+<reference seq="118">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.V.</ce:initials>
+<ce:surname>Remini</ce:surname>
+<ce:given-name>Robert V.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson: The Course of American Freedom, 1822–1832</ref-sourcetitle>
+<ref-publicationyear first="1981" />
+<ref-text>New York: Harper &amp; Row, Baltimore: Johns Hopkins University Press, 1998</ref-text>
+</ref-info>
+<ref-fulltext>Remini, Robert V. Andrew Jackson: The Course of American Freedom, 1822–1832. New York: Harper &amp; Row, 1981l rpt. Baltimore: Johns Hopkins University Press, 1998.</ref-fulltext>
+<ce:source-text>Remini, Robert V. Andrew Jackson: The Course of American Freedom, 1822–1832. New York: Harper &amp; Row, 1981l rpt. Baltimore: Johns Hopkins University Press, 1998.</ce:source-text>
+</reference>
+<reference seq="119">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.V.</ce:initials>
+<ce:surname>Remini</ce:surname>
+<ce:given-name>Robert V.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson and His Indian Wars</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<ref-text>New York: Penguin Books</ref-text>
+</ref-info>
+<ref-fulltext>Remini, Robert V. Andrew Jackson and His Indian Wars. New York: Penguin Books, 2001.</ref-fulltext>
+<ce:source-text>Remini, Robert V. Andrew Jackson and His Indian Wars. New York: Penguin Books, 2001.</ce:source-text>
+</reference>
+<reference seq="120">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.V.</ce:initials>
+<ce:surname>Remini</ce:surname>
+<ce:given-name>Robert V.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Battle of New Orleans: Andrew Jackson and America’s First Military Victory</ref-sourcetitle>
+<ref-text>New York: Penguin Books, 1999</ref-text>
+</ref-info>
+<ref-fulltext>Remini, Robert V. The Battle of New Orleans: Andrew Jackson and America’s First Military Victory. New York: Penguin Books, 1999.</ref-fulltext>
+<ce:source-text>Remini, Robert V. The Battle of New Orleans: Andrew Jackson and America’s First Military Victory. New York: Penguin Books, 1999.</ce:source-text>
+</reference>
+<reference seq="121">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.P.</ce:initials>
+<ce:surname>Rogin</ce:surname>
+<ce:given-name>Michael Paul</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Fathers and Children: Andrew Jackson and the Subjugation of the American Indian</ref-sourcetitle>
+<ref-text>New York: Alfred A. Knopf, 1975</ref-text>
+</ref-info>
+<ref-fulltext>Rogin, Michael Paul. Fathers and Children: Andrew Jackson and the Subjugation of the American Indian. New York: Alfred A. Knopf, 1975.</ref-fulltext>
+<ce:source-text>Rogin, Michael Paul. Fathers and Children: Andrew Jackson and the Subjugation of the American Indian. New York: Alfred A. Knopf, 1975.</ce:source-text>
+</reference>
+<reference seq="122">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.N.</ce:initials>
+<ce:surname>Satz</ce:surname>
+<ce:given-name>Ronald N.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Indian Policy in the Jacksonian Era</ref-sourcetitle>
+<ref-publicationyear first="1974" />
+<ref-text>Norman: University of Oklahoma Press</ref-text>
+</ref-info>
+<ref-fulltext>Satz, Ronald N. American Indian Policy in the Jacksonian Era. Norman: University of Oklahoma Press, 1974.</ref-fulltext>
+<ce:source-text>Satz, Ronald N. American Indian Policy in the Jacksonian Era. Norman: University of Oklahoma Press, 1974.</ce:source-text>
+</reference>
+<reference seq="123">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Formation of the American Colonization Society</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.N.</ce:initials>
+<ce:surname>Sherwood</ce:surname>
+<ce:given-name>Henry Noble</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Negro History</ref-sourcetitle>
+<ref-publicationyear first="1917" />
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>209</first-page>
+<last-page>228</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>July</ref-text>
+</ref-info>
+<ref-fulltext>Sherwood, Henry Noble. “The Formation of the American Colonization Society.” Journal of Negro History 2 (July 1917): 209–28.</ref-fulltext>
+<ce:source-text>Sherwood, Henry Noble. “The Formation of the American Colonization Society.” Journal of Negro History 2 (July 1917): 209–28.</ce:source-text>
+</reference>
+<reference seq="124">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Gary Scott</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Religion in the Oval Office: The Religious Lives of American Presidents</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Gary Scott. Religion in the Oval Office: The Religious Lives of American Presidents. New York: Oxford University Press, 2015.</ref-fulltext>
+<ce:source-text>Smith, Gary Scott. Religion in the Oval Office: The Religious Lives of American Presidents. New York: Oxford University Press, 2015.</ce:source-text>
+</reference>
+<reference seq="125">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Miles</ce:given-name>
+<ce:suffix>IV</ce:suffix>
+</author>
+</ref-authors>
+<ref-sourcetitle>What Andrew Jackson Could Teach Donald Trump about Religion</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-website>
+<ce:e-address type="url">https://www.thegospelcoalition.org/blogs/evangelical-history/what-andrew-jackson-could-teach-donald-trump-about-religion/</ce:e-address>
+</ref-website>
+<ref-text>July 21</ref-text>
+</ref-info>
+<ref-fulltext>Smith, Miles IV. “What Andrew Jackson Could Teach Donald Trump about Religion.” The Gospel Coalition, July 21, 2017, https:// www.the gosp elco alit ion.org/ blogs/ evan geli cal-hist ory/ what-and rew-jack son-could-teach-don ald-trump-about-relig ion/.</ref-fulltext>
+<ce:source-text>Smith, Miles IV. “What Andrew Jackson Could Teach Donald Trump about Religion.” The Gospel Coalition, July 21, 2017, https:// www.the gosp elco alit ion.org/ blogs/ evan geli cal-hist ory/ what-and rew-jack son-could-teach-don ald-trump-about-relig ion/.</ce:source-text>
+</reference>
+<reference seq="126">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Snay</ce:surname>
+<ce:given-name>Mitchell</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Gospel of Disunion: Religion and Separatism in the Antebellum South</ref-sourcetitle>
+<ref-publicationyear first="1993" />
+<ref-text>Cambridge: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Snay, Mitchell. Gospel of Disunion: Religion and Separatism in the Antebellum South. Cambridge: Cambridge University Press, 1993.</ref-fulltext>
+<ce:source-text>Snay, Mitchell. Gospel of Disunion: Religion and Separatism in the Antebellum South. Cambridge: Cambridge University Press, 1993.</ce:source-text>
+</reference>
+<reference seq="127">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.T.</ce:initials>
+<ce:surname>Thompson</ce:surname>
+<ce:given-name>Ernest Trice</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Presbyterians in the South</ref-sourcetitle>
+<ref-publicationyear first="1963" last="2013" />
+<ref-text>Richmond, VA: John Knox Press</ref-text>
+</ref-info>
+<ref-fulltext>Thompson, Ernest Trice. Presbyterians in the South, 3 vols. Richmond, VA: John Knox Press, 1963–1973.</ref-fulltext>
+<ce:source-text>Thompson, Ernest Trice. Presbyterians in the South, 3 vols. Richmond, VA: John Knox Press, 1963–1973.</ce:source-text>
+</reference>
+<reference seq="128">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Marriage, Mayhem, and Presidential Politics: The Robards-Jackson Backcountry Scandal</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Toplovich</ce:surname>
+<ce:given-name>Ann</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ohio Valley History</ref-sourcetitle>
+<ref-publicationyear first="2005" />
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>3</first-page>
+<last-page>22</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Winter</ref-text>
+</ref-info>
+<ref-fulltext>Toplovich, Ann. “Marriage, Mayhem, and Presidential Politics: The Robards-Jackson Backcountry Scandal.” Ohio Valley History 5 (Winter 2005): 3–22.</ref-fulltext>
+<ce:source-text>Toplovich, Ann. “Marriage, Mayhem, and Presidential Politics: The Robards-Jackson Backcountry Scandal.” Ohio Valley History 5 (Winter 2005): 3–22.</ce:source-text>
+</reference>
+<reference seq="129">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.J.</ce:initials>
+<ce:surname>Trinterud</ce:surname>
+<ce:given-name>Leonard J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Forming of an American Tradition: A Re-Examination of Colonial Presbyterianism</ref-sourcetitle>
+<ref-publicationyear first="1949" />
+<ref-text>Philadelphia: The Westminster Press</ref-text>
+</ref-info>
+<ref-fulltext>Trinterud, Leonard J. The Forming of an American Tradition: A Re-examination of Colonial Presbyterianism. Philadelphia: The Westminster Press, 1949.</ref-fulltext>
+<ce:source-text>Trinterud, Leonard J. The Forming of an American Tradition: A Re-examination of Colonial Presbyterianism. Philadelphia: The Westminster Press, 1949.</ce:source-text>
+</reference>
+<reference seq="130">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Turner</ce:surname>
+<ce:given-name>James C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Without God, without Creed: The Origins of Unbelief in America</ref-sourcetitle>
+<ref-publicationyear first="1986" />
+<ref-text>Baltimore: Johns Hopkins University Press</ref-text>
+</ref-info>
+<ref-fulltext>Turner, James C. Without God, Without Creed: The Origins of Unbelief in America. Baltimore: Johns Hopkins University Press, 1986.</ref-fulltext>
+<ce:source-text>Turner, James C. Without God, Without Creed: The Origins of Unbelief in America. Baltimore: Johns Hopkins University Press, 1986.</ce:source-text>
+</reference>
+<reference seq="131">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Walker</ce:surname>
+<ce:given-name>Arda</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Religious Views of Andrew Jackson</ref-sourcetitle>
+<ref-publicationyear first="1945" />
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>61</first-page>
+<last-page>70</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Walker, Arda. “The Religious Views of Andrew Jackson.” East Tennessee Historical Society’s Publications 17 (1945): 61–70.</ref-fulltext>
+<ce:source-text>Walker, Arda. “The Religious Views of Andrew Jackson.” East Tennessee Historical Society’s Publications 17 (1945): 61–70.</ce:source-text>
+</reference>
+<reference seq="132">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.F.C.</ce:initials>
+<ce:surname>Wallace</ce:surname>
+<ce:given-name>Anthony F.C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Long, Bitter Trail: Andrew Jackson and the Indians</ref-sourcetitle>
+<ref-publicationyear first="1993" />
+<ref-text>New York: Hill &amp; Wang</ref-text>
+</ref-info>
+<ref-fulltext>Wallace, Anthony F.C. The Long, Bitter Trail: Andrew Jackson and the Indians. New York: Hill &amp; Wang, 1993.</ref-fulltext>
+<ce:source-text>Wallace, Anthony F.C. The Long, Bitter Trail: Andrew Jackson and the Indians. New York: Hill &amp; Wang, 1993.</ce:source-text>
+</reference>
+<reference seq="133">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.W.</ce:initials>
+<ce:surname>Ward</ce:surname>
+<ce:given-name>John William</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson: Symbol for an Age</ref-sourcetitle>
+<ref-publicationyear first="1953" />
+<ref-text>London: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Ward, John William. Andrew Jackson: Symbol for an Age. London: Oxford University Press, 1953.</ref-fulltext>
+<ce:source-text>Ward, John William. Andrew Jackson: Symbol for an Age. London: Oxford University Press, 1953.</ce:source-text>
+</reference>
+<reference seq="134">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Warshauer</ce:surname>
+<ce:given-name>Matthew</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Andrew Jackson and the Politics of Martial Law: Nationalism, Civil Liberties, and Partisanship</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<ref-text>Knoxville: University of Tennessee Press</ref-text>
+</ref-info>
+<ref-fulltext>Warshauer, Matthew. Andrew Jackson and the Politics of Martial Law: Nationalism, Civil Liberties, and Partisanship. Knoxville: University of Tennessee Press, 2006.</ref-fulltext>
+<ce:source-text>Warshauer, Matthew. Andrew Jackson and the Politics of Martial Law: Nationalism, Civil Liberties, and Partisanship. Knoxville: University of Tennessee Press, 2006.</ce:source-text>
+</reference>
+<reference seq="135">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Andrew Jackson: Chivalric Slave Master</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Warshauer</ce:surname>
+<ce:given-name>Matthew</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tennessee Historical Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<volisspag>
+<volume-issue-number>
+<vol-first>65</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>203</first-page>
+<last-page>229</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Warshauer, Matthew. “Andrew Jackson: Chivalric Slave Master.” Tennessee Historical Quarterly 65 (Fall 2006): 203–29.</ref-fulltext>
+<ce:source-text>Warshauer, Matthew. “Andrew Jackson: Chivalric Slave Master.” Tennessee Historical Quarterly 65 (Fall 2006): 203–29.</ce:source-text>
+</reference>
+<reference seq="136">
+<ref-info>
+<ref-title>
+<ref-titletext-english>‘One Woman So Dangerous to Public Morals’: Gender and Power in the Eaton Affair</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.E.</ce:initials>
+<ce:surname>Wood</ce:surname>
+<ce:given-name>Kirsten E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Early Republic</ref-sourcetitle>
+<ref-publicationyear first="1997" />
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>237</first-page>
+<last-page>275</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wood, Kirsten E. “ ‘One Woman So Dangerous to Public Morals’: Gender and Power in the Eaton Affair.” Journal of the Early Republic 17 (Summer 1997): 237–75.</ref-fulltext>
+<ce:source-text>Wood, Kirsten E. “ ‘One Woman So Dangerous to Public Morals’: Gender and Power in the Eaton Affair.” Journal of the Early Republic 17 (Summer 1997): 237–75.</ce:source-text>
+</reference>
+<reference seq="137">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Andrew Jackson’s Honor</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Wyatt-Brown</ce:surname>
+<ce:given-name>Bertram</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Early Republic</ref-sourcetitle>
+<ref-publicationyear first="1997" />
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>36</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wyatt-Brown, Bertram. “Andrew Jackson’s Honor.” Journal of the Early Republic 17 (Spring 1997): 1–36.</ref-fulltext>
+<ce:source-text>Wyatt-Brown, Bertram. “Andrew Jackson’s Honor.” Journal of the Early Republic 17 (Spring 1997): 1–36.</ce:source-text>
+</reference>
+<reference seq="138">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Wyatt-Brown</ce:surname>
+<ce:given-name>Bertram</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Southern Honor: Ethics and Behavior in the Old South</ref-sourcetitle>
+<ref-publicationyear first="1982" />
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Wyatt-Brown, Bertram. Southern Honor: Ethics and Behavior in the Old South. New York: Oxford University Press, 1982.</ref-fulltext>
+<ce:source-text>Wyatt-Brown, Bertram. Southern Honor: Ethics and Behavior in the Old South. New York: Oxford University Press, 1982.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit>
+</units>

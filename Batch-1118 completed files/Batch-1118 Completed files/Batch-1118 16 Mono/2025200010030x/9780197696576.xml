@@ -1,0 +1,4396 @@
+<?xml version='1.0' encoding='UTF-8'?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-15T17:05:12</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.1093/9780197696576.001.0001</ce:doi>
+<itemid idtype="TPB-ID">2025200010030x</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+<author-keywords>
+<author-keyword>Intersectionality</author-keyword>
+<author-keyword>Race</author-keyword>
+<author-keyword>Ethnicity and politics</author-keyword>
+<author-keyword>Gender</author-keyword>
+<author-keyword>African american politics</author-keyword>
+<author-keyword>Political behavior</author-keyword>
+<author-keyword>Political psychology</author-keyword>
+<author-keyword>Black politics</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Intersectional Solidarity: Black Women and the Politics of Group Consciousness</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>C.Y.</ce:initials>
+<ce:surname>Crowder</ce:surname>
+<ce:given-name>Chaya Y.</ce:given-name>
+</author>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>C.Y.</ce:initials>
+<ce:surname>Crowder</ce:surname>
+<ce:given-name>Chaya Y.</ce:given-name>
+</person>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Oxford University Press 2025 All rights reserved</publishercopyright>
+<ce:para>This project is concerned with the circumstances under which people come to support issues that affect Black women. In particular, Intersectional Solidarity challenges the notion that racial consciousness or gender consciousness alone shape political preferences and instead argues that when it comes to issues that affect marginalized groups at the intersection of multiple identities, intersectional group consciousness shapes political behavior. This book defines intersectional solidarity as a political disposition that is characterized by awareness and distress over the oppression of marginalized subgroups, such as Black women and LGBTQ+ people of color. The central contribution of this book is the development of original measure: the intersectional solidarity index (ISI). The ISI is a four-item scale that captures group consciousness at the intersection of race, gender, class, and sexuality. By measuring intersectional solidarity, we are better able to understand the types of people who support addressing issues that disproportionately and directly affect Black women. Finally, Intersectional Solidarity focuses on how intersectional solidarity influences support for issues that affect Black women. The book expands the types of policies examined by exploring intersectional issues, such as the circumstances under which the mass public support the Maternal CARE Act, a policy that addresses the racial disparity in maternal healthcare, as well as Equal Pay Certification, which is a policy that addresses the race/gender pay gap. Intersectional Solidarity demonstrates that to fully understand how people come to care about issues that affect Black women, scholars are required to ask new questions.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Intersectional solidarity: Black women and the politics of group consciousness</sourcetitle>
+<sourcetitle-abbrev>Intersectional solidarity: n.a. n.a. and the politics of n.a. conscious.</sourcetitle-abbrev>
+<isbn type="print" length="13">9780197696538</isbn>
+<isbn type="electronic" length="13">9780197696576</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>176</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>06</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://academic.oup.com/book/59234</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="151">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Abortion: Evidence of an Issue Evolution</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.D.</ce:initials>
+<ce:surname>Adams</ce:surname>
+<ce:given-name>Greg D.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Journal of Political Science</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>41</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Adams, Greg D. 1997. “Abortion: Evidence of an Issue Evolution.” American Journal of Political Science 41, no. 3: 718–737.</ref-fulltext>
+<ce:source-text>Adams, Greg D. 1997. “Abortion: Evidence of an Issue Evolution.” American Journal of Political Science 41, no. 3: 718–737.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Spousal Bump: Do Cross-Ethnic Marriages Increase Political Support in Multiethnic Democracies</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.L.</ce:initials>
+<ce:surname>Adida</ce:surname>
+<ce:given-name>Claire L.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Combes</ce:surname>
+<ce:given-name>Nathan</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Lo</ce:surname>
+<ce:given-name>Adeline</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>A.</ce:initials>
+<ce:surname>Verink</ce:surname>
+<ce:given-name>Alex</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Comparative Political Studies</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>49</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>635</first-page>
+<last-page>661</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/0010414015621080</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Adida, Claire L., Nathan Combes, Adeline Lo, and Alex Verink. 2016. “The Spousal Bump: Do Cross-Ethnic Marriages Increase Political Support in Multiethnic Democracies?” Comparative Political Studies 49, no. 5: 635–661. https://doi.org/10.1177/0010414015621080.</ref-fulltext>
+<ce:source-text>Adida, Claire L., Nathan Combes, Adeline Lo, and Alex Verink. 2016. “The Spousal Bump: Do Cross-Ethnic Marriages Increase Political Support in Multiethnic Democracies?” Comparative Political Studies 49, no. 5: 635–661. https://doi.org/10.1177/0010414015621080.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Disappearing Acts: Reclaiming Intersectionality in the Social Sciences in a Post—Black Feminist Era</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.G.</ce:initials>
+<ce:surname>Alexander-Floyd</ce:surname>
+<ce:given-name>Nikol G.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Feminist Formations</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>25</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Alexander-Floyd, Nikol G. 2012. “Disappearing Acts: Reclaiming Intersectionality in the Social Sciences in a Post—Black Feminist Era.” Feminist Formations 24, no. 1: 1–25.</ref-fulltext>
+<ce:source-text>Alexander-Floyd, Nikol G. 2012. “Disappearing Acts: Reclaiming Intersectionality in the Social Sciences in a Post—Black Feminist Era.” Feminist Formations 24, no. 1: 1–25.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Solange Gave the Most Brilliant Quote about Why She’s a Proud Black Intersectional Feminist</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Aran</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Splinter</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-website>
+<ce:e-address type="url">https://splinternews.com/solange-gavethe-most-brilliant-quote-about-why-shes-a-1793859252</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Aran, I. 2017. “Solange Gave the Most Brilliant Quote about Why She’s a Proud Black Intersectional Feminist.” Splinter. https://splinternews.com/solange-gavethe-most-brilliant-quote-about-why-shes-a-1793859252.</ref-fulltext>
+<ce:source-text>Aran, I. 2017. “Solange Gave the Most Brilliant Quote about Why She’s a Proud Black Intersectional Feminist.” Splinter. https://splinternews.com/solange-gavethe-most-brilliant-quote-about-why-shes-a-1793859252.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Banet-Weiser</ce:surname>
+<ce:given-name>Sarah</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Empowered: Popular Feminism and Popular Misogyny</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=pw5zDwAAQBAJ&amp;oi=fnd&amp;pg=PT5&amp;dq=banet±weiser±empowered&amp;ots=8O7gu3AlEI&amp;sig=X7-rzD_gnmfYdg2-3mucIlIaxao</ce:e-address>
+</ref-website>
+<ref-text>Durham, NC: Duke University Press</ref-text>
+</ref-info>
+<ref-fulltext>Banet-Weiser, Sarah. 2018. Empowered: Popular Feminism and Popular Misogyny. Durham, NC: Duke University Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=pw5zDwAAQBAJ&amp;oi=fnd&amp;pg=PT5&amp;dq=banet±weiser±empowered&amp;ots=8O7gu3AlEI&amp;sig=X7-rzD_gnmf Ydg2-3mucIlIaxao.</ref-fulltext>
+<ce:source-text>Banet-Weiser, Sarah. 2018. Empowered: Popular Feminism and Popular Misogyny. Durham, NC: Duke University Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=pw5zDwAAQBAJ&amp;oi=fnd&amp;pg=PT5&amp;dq=banet±weiser±empowered&amp;ots=8O7gu3AlEI&amp;sig=X7-rzD_gnmf Ydg2-3mucIlIaxao.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Invisible Southern Black Women Leaders In The Civil Rights Movement: The Triple Constraints of Gender, Race, and Class</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.M.</ce:initials>
+<ce:surname>Barnett</ce:surname>
+<ce:given-name>Bernice Mcnair</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Gender &amp; Society</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>162</first-page>
+<last-page>182</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/089124393007002002</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Barnett, Bernice Mcnair. 1993. “Invisible Southern Black Women Leaders In The Civil Rights Movement: The Triple Constraints of Gender, Race, and Class.” Gender &amp; Society 7, no. 2: 162–182. https://doi.org/10.1177/089124393007002002.</ref-fulltext>
+<ce:source-text>Barnett, Bernice Mcnair. 1993. “Invisible Southern Black Women Leaders In The Civil Rights Movement: The Triple Constraints of Gender, Race, and Class.” Gender &amp; Society 7, no. 2: 162–182. https://doi.org/10.1177/089124393007002002.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Barreto</ce:surname>
+<ce:given-name>Matt</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Masuoka</ce:surname>
+<ce:given-name>Natalie</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:surname>Sanchez</ce:surname>
+<ce:given-name>Gabriel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Discrimination and Group Consciousness among Muslim Americans</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>Presented at the Western Political Science AssociationSan Diego, CA</ref-text>
+</ref-info>
+<ref-fulltext>Barreto, Matt, Natalie Masuoka, and Gabriel Sanchez. 2008. “Discrimination and Group Consciousness among Muslim Americans.” Presented at the Western Political Science Association. San Diego, CA.</ref-fulltext>
+<ce:source-text>Barreto, Matt, Natalie Masuoka, and Gabriel Sanchez. 2008. “Discrimination and Group Consciousness among Muslim Americans.” Presented at the Western Political Science Association. San Diego, CA.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Shared Identities: Intersectionality, Linked Fate, and Perceptions of Political Candidates</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Bejarano</ce:surname>
+<ce:given-name>Christina</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.E.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Nadia E.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>S.A.</ce:initials>
+<ce:surname>Gershon</ce:surname>
+<ce:given-name>Sarah Allen</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>C.</ce:initials>
+<ce:surname>Montoya</ce:surname>
+<ce:given-name>Celeste</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Political Research Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>74</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>970</first-page>
+<last-page>985</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/1065912920951640</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Bejarano, Christina, Nadia E. Brown, Sarah Allen Gershon, and Celeste Montoya. 2021. “Shared Identities: Intersectionality, Linked Fate, and Perceptions of Political Candidates.” Political Research Quarterly 74, no. 4: 970–985. https://doi.org/10.1177/1065912920951640.</ref-fulltext>
+<ce:source-text>Bejarano, Christina, Nadia E. Brown, Sarah Allen Gershon, and Celeste Montoya. 2021. “Shared Identities: Intersectionality, Linked Fate, and Perceptions of Political Candidates.” Political Research Quarterly 74, no. 4: 970–985. https://doi.org/10.1177/1065912920951640.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Long-Term Public Health Benefits of Breastfeeding</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Binns</ce:surname>
+<ce:given-name>Colin</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Lee</ce:surname>
+<ce:given-name>Mikyung</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>W.Y.</ce:initials>
+<ce:surname>Low</ce:surname>
+<ce:given-name>Wah Yun</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Asia Pacific Journal of Public Health</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>7</first-page>
+<last-page>14</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/1010539515624964</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Binns, Colin, MiKyung Lee, and Wah Yun Low.2016. “The Long-Term Public Health Benefits of Breastfeeding.” Asia Pacific Journal of Public Health 28, no. 1: 7–14. https://doi.org/10.1177/1010539515624964.</ref-fulltext>
+<ce:source-text>Binns, Colin, MiKyung Lee, and Wah Yun Low.2016. “The Long-Term Public Health Benefits of Breastfeeding.” Asia Pacific Journal of Public Health 28, no. 1: 7–14. https://doi.org/10.1177/1010539515624964.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Board</ce:surname>
+<ce:given-name>Marcus</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Invisible Weapons: Infiltrating Resistance and Defeating Movements</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=YnxrEAAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=marcus±board±invisible±weapons&amp;ots=LNH6jf9Hun&amp;sig=Lgt_IjA6kJjB9tCkGKZo7DV9EAI</ce:e-address>
+</ref-website>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Board, Marcus. 2022. Invisible Weapons: Infiltrating Resistance and Defeating Movements. New York: Oxford University Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=YnxrEAAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=marcus±board±invisible±weapons&amp;ots=LNH6jf9Hun&amp;sig=Lgt_IjA6kJjB9tCkGKZo7DV9EAI.</ref-fulltext>
+<ce:source-text>Board, Marcus. 2022. Invisible Weapons: Infiltrating Resistance and Defeating Movements. New York: Oxford University Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=YnxrEAAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=marcus±board±invisible±weapons&amp;ots=LNH6jf9Hun&amp;sig=Lgt_IjA6kJjB9tCkGKZo7DV9EAI.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>When Black + Lesbian + Woman ≠ Black Lesbian Woman: The Methodological Challenges of Qualitative and Quantitative Intersectionality Research</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Bowleg</ce:surname>
+<ce:given-name>Lisa</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sex Roles</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>59</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>312</first-page>
+<last-page>325</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1007/s11199-008-9400-z</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Bowleg, Lisa. 2008. “When Black + Lesbian + Woman ≠ Black Lesbian Woman: The Methodological Challenges of Qualitative and Quantitative Intersectionality Research.” Sex Roles 59, no. 5: 312–325. https://doi.org/10.1007/s11199-008-9400-z.</ref-fulltext>
+<ce:source-text>Bowleg, Lisa. 2008. “When Black + Lesbian + Woman ≠ Black Lesbian Woman: The Methodological Challenges of Qualitative and Quantitative Intersectionality Research.” Sex Roles 59, no. 5: 312–325. https://doi.org/10.1007/s11199-008-9400-z.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Glass Half Full: Cautious Optimism and the Future of Black Women Political Elites in America</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.E.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Nadia E.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>S.A.</ce:initials>
+<ce:surname>Gershon</ce:surname>
+<ce:given-name>Sarah Allen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Race, Ethnicity, and Politics</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>3</first-page>
+<last-page>15</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Brown, Nadia E., and Sarah Allen Gershon. 2021. “Glass Half Full: Cautious Optimism and the Future of Black Women Political Elites in America.” Journal of Race, Ethnicity, and Politics 6, no. 1: 3–15.</ref-fulltext>
+<ce:source-text>Brown, Nadia E., and Sarah Allen Gershon. 2021. “Glass Half Full: Cautious Optimism and the Future of Black Women Political Elites in America.” Journal of Race, Ethnicity, and Politics 6, no. 1: 3–15.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.E.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Nadia E.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.C.</ce:initials>
+<ce:surname>Lemi</ce:surname>
+<ce:given-name>Danielle Casarez</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sister Style: The Politics of Appearance for Black Women Political Elites</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=xvYTEAAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=brown±and±lemi±2021&amp;ots=kdJBH-CrKy&amp;sig=iZ82UV2nVQBT9vjHTcsCsExSWwk</ce:e-address>
+</ref-website>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Brown, Nadia E., and Danielle Casarez Lemi. 2021. Sister Style: The Politics of Appearance for Black Women Political Elites. New York: Oxford University Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=xvYTEAAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=brown±and±lemi±2021&amp;ots=kdJBH-CrKy&amp;sig=iZ82UV2nVQBT9vjHTcsCsExSWwk.</ref-fulltext>
+<ce:source-text>Brown, Nadia E., and Danielle Casarez Lemi. 2021. Sister Style: The Politics of Appearance for Black Women Political Elites. New York: Oxford University Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=xvYTEAAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=brown±and±lemi±2021&amp;ots=kdJBH-CrKy&amp;sig=iZ82UV2nVQBT9vjHTcsCsExSWwk.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Do All Black Lives Matter Equally to Black People? Respectability Politics and the Limitations of Linked Fate</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.L.</ce:initials>
+<ce:surname>Bunyasi</ce:surname>
+<ce:given-name>Tehama Lopez</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.W.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Candis Watts</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Race, Ethnicity and Politics</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>4</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>180</first-page>
+<last-page>215</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bunyasi, Tehama Lopez, and Candis Watts Smith. 2019. “Do All Black Lives Matter Equally to Black People? Respectability Politics and the Limitations of Linked Fate.” Journal of Race, Ethnicity and Politics 4, no. 1: 180–215.</ref-fulltext>
+<ce:source-text>Bunyasi, Tehama Lopez, and Candis Watts Smith. 2019. “Do All Black Lives Matter Equally to Black People? Respectability Politics and the Limitations of Linked Fate.” Journal of Race, Ethnicity and Politics 4, no. 1: 180–215.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bureau of Justice Statistics</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>National Crime Victimization Survey</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-website>
+<ce:e-address type="url">https://bjs.ojp.gov/data-collection/ncvs#8-0</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Bureau of Justice Statistics. 2006. “National Crime Victimization Survey (NCVS)”. https://bjs.ojp.gov/data-collection/ncvs#8-0.</ref-fulltext>
+<ce:source-text>Bureau of Justice Statistics. 2006. “National Crime Victimization Survey (NCVS)”. https://bjs.ojp.gov/data-collection/ncvs#8-0.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Burnside</ce:surname>
+<ce:given-name>Randolph</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Rodriguez</ce:surname>
+<ce:given-name>Antonio</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Up Close and Personal: The Effect of Interracial Marriage on Latino Link-Fate</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Paper Presented at the Annual Meeting of the Midwest Political Science Association, Chicago, IL</ref-text>
+</ref-info>
+<ref-fulltext>Burnside, Randolph, and Antonio Rodriguez. 2009. “Up Close and Personal: The Effect of Interracial Marriage on Latino Link-Fate.” Paper Presented at the Annual Meeting of the Midwest Political Science Association, Chicago, IL.</ref-fulltext>
+<ce:source-text>Burnside, Randolph, and Antonio Rodriguez. 2009. “Up Close and Personal: The Effect of Interracial Marriage on Latino Link-Fate.” Paper Presented at the Annual Meeting of the Midwest Political Science Association, Chicago, IL.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Racial Threat,’ Partisan Climate, and Direct Democracy: Contextual Effects in Three California Initiatives</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.L.</ce:initials>
+<ce:surname>Campbell</ce:surname>
+<ce:given-name>Andrea Louise</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Wong</ce:surname>
+<ce:given-name>Cara</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:surname>Citrin</ce:surname>
+<ce:given-name>Jack</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Political Behavior</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>129</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Campbell, Andrea Louise, Cara Wong, and Jack Citrin. 2006. “‘Racial Threat,’ Partisan Climate, and Direct Democracy: Contextual Effects in Three California Initiatives.” Political Behavior 28, no. 2: 129.</ref-fulltext>
+<ce:source-text>Campbell, Andrea Louise, Cara Wong, and Jack Citrin. 2006. “‘Racial Threat,’ Partisan Climate, and Direct Democracy: Contextual Effects in Three California Initiatives.” Political Behavior 28, no. 2: 129.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Racial Linked Fate and Gender in US Politics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Campi</ce:surname>
+<ce:given-name>Ashleigh</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Junn</ce:surname>
+<ce:given-name>Jane</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics, Groups, and Identities</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>654</first-page>
+<last-page>662</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Campi, Ashleigh, and Jane Junn. 2019. “Racial Linked Fate and Gender in US Politics.” Politics, Groups, and Identities 7, no. 3: 654–662.</ref-fulltext>
+<ce:source-text>Campi, Ashleigh, and Jane Junn. 2019. “Racial Linked Fate and Gender in US Politics.” Politics, Groups, and Identities 7, no. 3: 654–662.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Carter</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Stonewall: The Riots that Sparked The Gay Revolution</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-text>New York: Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>Carter, David. 2004. Stonewall: The Riots That Sparked the Gay Revolution. New York: Macmillan.</ref-fulltext>
+<ce:source-text>Carter, David. 2004. Stonewall: The Riots That Sparked the Gay Revolution. New York: Macmillan.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Beyoncé’s Slay Trick: The Performance of Black Camp and Its Intersectional Politics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Chatzipapatheodoridis</ce:surname>
+<ce:given-name>Constantine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Open Cultural Studies</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>406</first-page>
+<last-page>416</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1515/culture-2017-0038</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Chatzipapatheodoridis, Constantine. 2017. “Beyoncé’s Slay Trick: The Performance of Black Camp and Its Intersectional Politics.” Open Cultural Studies 1, no. 1: 406–416. https://doi.org/10.1515/culture-2017-0038.</ref-fulltext>
+<ce:source-text>Chatzipapatheodoridis, Constantine. 2017. “Beyoncé’s Slay Trick: The Performance of Black Camp and Its Intersectional Politics.” Open Cultural Studies 1, no. 1: 406–416. https://doi.org/10.1515/culture-2017-0038.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Chudy</ce:surname>
+<ce:given-name>Jennifer</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Racial Sympathy in American Politics</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>MA thesis, University of Michigan</ref-text>
+</ref-info>
+<ref-fulltext>Chudy, Jennifer. 2017. “Racial Sympathy in American Politics.” MA thesis, University of Michigan.</ref-fulltext>
+<ce:source-text>Chudy, Jennifer. 2017. “Racial Sympathy in American Politics.” MA thesis, University of Michigan.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-title>
+<ref-titletext-english>From ‘Freedom Now!’ To ‘Black Lives Matter’: Retrieving King and Randolph to Theorize Contemporary White Antiracism</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Clemons</ce:surname>
+<ce:given-name>Jared</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Perspectives on Politics</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1290</first-page>
+<last-page>1304</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Clemons, Jared. 2022. “From ‘Freedom Now!’ To ‘Black Lives Matter’: Retrieving King and Randolph to Theorize Contemporary White Antiracism.” Perspectives on Politics 20, no. 4: 1290–1304.</ref-fulltext>
+<ce:source-text>Clemons, Jared. 2022. “From ‘Freedom Now!’ To ‘Black Lives Matter’: Retrieving King and Randolph to Theorize Contemporary White Antiracism.” Perspectives on Politics 20, no. 4: 1290–1304.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Marginalized Identity Invocation Online: The Case of President Donald Trump on Twitter</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Coe</ce:surname>
+<ce:given-name>Kevin</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>R.A.</ce:initials>
+<ce:surname>Griffin</ce:surname>
+<ce:given-name>Rachel Alicia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Media + Society</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/2056305120913979</ce:e-address>
+</ref-website>
+<ref-text>205630512091397</ref-text>
+</ref-info>
+<ref-fulltext>Coe, Kevin, and Rachel Alicia Griffin. 2020. “Marginalized Identity Invocation Online: The Case of President Donald Trump on Twitter.” Social Media + Society 6, no. 1: 205630512091397. https://doi.org/10.1177/2056305120913979.</ref-fulltext>
+<ce:source-text>Coe, Kevin, and Rachel Alicia Griffin. 2020. “Marginalized Identity Invocation Online: The Case of President Donald Trump on Twitter.” Social Media + Society 6, no. 1: 205630512091397. https://doi.org/10.1177/2056305120913979.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.J.</ce:initials>
+<ce:surname>Cohen</ce:surname>
+<ce:given-name>Cathy J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>GLQ: A Journal of Lesbian and Gay Studies</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>437</first-page>
+<last-page>465</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cohen, Cathy J. 1997. “Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics?” GLQ: A Journal of Lesbian and Gay Studies 3, no. 4: 437–465.</ref-fulltext>
+<ce:source-text>Cohen, Cathy J. 1997. “Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics?” GLQ: A Journal of Lesbian and Gay Studies 3, no. 4: 437–465.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.J.</ce:initials>
+<ce:surname>Cohen</ce:surname>
+<ce:given-name>Cathy J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Boundaries of Blackness: AIDS and the Breakdown of Black Politics</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Cohen, Cathy J. 1999. The Boundaries of Blackness: AIDS and the Breakdown of Black Politics. Chicago: University of Chicago Press.</ref-fulltext>
+<ce:source-text>Cohen, Cathy J. 1999. The Boundaries of Blackness: AIDS and the Breakdown of Black Politics. Chicago: University of Chicago Press.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Set correlation and contingency tables</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Cohen</ce:surname>
+<ce:given-name>Jacob</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Applied Psychological Measurement 12</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<volisspag>
+<volume-issue-number>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>425</first-page>
+<last-page>434</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cohen, Jacob. 1988. “Set correlation and contingency tables.” Applied psychological measurement 12, no. 4: 425–434.</ref-fulltext>
+<ce:source-text>Cohen, Jacob. 1988. “Set correlation and contingency tables.” Applied psychological measurement 12, no. 4: 425–434.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Combahee River Collective</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>The Combahee River Collective Statement</ref-sourcetitle>
+<ref-publicationyear first="1977"/>
+<ref-website>
+<ce:e-address type="url">https://www.academia.edu/download/63664556/combahee_river_statement20200618-38507-xcxt2r.pdf</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Combahee River Collective. 1977. “The Combahee River Collective Statement.” https://www.academia.edu/download/63664556/combahee_river_statement20200618-38507-xcxt2r.pdf.</ref-fulltext>
+<ce:source-text>Combahee River Collective. 1977. “The Combahee River Collective Statement.” https://www.academia.edu/download/63664556/combahee_river_statement20200618-38507-xcxt2r.pdf.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Combahee River Collective Statement</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Combahee River Collective</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Home Girls: A Black Feminist Anthology</ref-sourcetitle>
+<ref-publicationyear first="1983"/>
+<ref-text>Barbara Smith, 264–274. New Brunswick, NJ: Rutgers University Press</ref-text>
+</ref-info>
+<ref-fulltext>Combahee River Collective. 1983. “The Combahee River Collective Statement.” In Home Girls: A Black Feminist Anthology, edited by Barbara Smith, 264–274. New Brunswick, NJ: Rutgers University Press.</ref-fulltext>
+<ce:source-text>Combahee River Collective. 1983. “The Combahee River Collective Statement.” In Home Girls: A Black Feminist Anthology, edited by Barbara Smith, 264–274. New Brunswick, NJ: Rutgers University Press.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What’s in a Name? Womanism, Black Feminism, and Beyond</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Collins</ce:surname>
+<ce:given-name>Patricia Hill</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Black Scholar</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>9</first-page>
+<last-page>17</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Collins, Patricia Hill. 1996. “What’s in a Name? Womanism, Black Feminism, and Beyond.” The Black Scholar 26, no. 1: 9–17.</ref-fulltext>
+<ce:source-text>Collins, Patricia Hill. 1996. “What’s in a Name? Womanism, Black Feminism, and Beyond.” The Black Scholar 26, no. 1: 9–17.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Gender, Black Feminism, and Black Political Economy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Collins</ce:surname>
+<ce:given-name>Patricia Hill</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Annals of the American Academy of Political and Social Science</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>568</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>41</first-page>
+<last-page>53</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Collins, Patricia Hill. 2000. “Gender, Black Feminism, and Black Political Economy.” The Annals of the American Academy of Political and Social Science 568, no. 1: 41–53.</ref-fulltext>
+<ce:source-text>Collins, Patricia Hill. 2000. “Gender, Black Feminism, and Black Political Economy.” The Annals of the American Academy of Political and Social Science 568, no. 1: 41–53.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Intersectionality’s Definitional Dilemmas</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Collins</ce:surname>
+<ce:given-name>Patricia Hill</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Annual Review of Sociology</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>41</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>20</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1146/annurev-soc-073014-112142</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Collins, Patricia Hill. 2015. “Intersectionality’s Definitional Dilemmas.” Annual Review of Sociology 41, no. 1 1–20. https://doi.org/10.1146/annurev-soc-073014-112142.</ref-fulltext>
+<ce:source-text>Collins, Patricia Hill. 2015. “Intersectionality’s Definitional Dilemmas.” Annual Review of Sociology 41, no. 1 1–20. https://doi.org/10.1146/annurev-soc-073014-112142.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Not Just a Joke: Tina Fey, Amy Schumer, and the Weak Reflexivity of White Feminist Comedy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Colpean</ce:surname>
+<ce:given-name>Michelle</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Tully</ce:surname>
+<ce:given-name>Meg</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Women’s Studies in Communication</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>42</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>161</first-page>
+<last-page>180</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/07491409.2019.1610924</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Colpean, Michelle, and Meg Tully. 2019. “Not Just a Joke: Tina Fey, Amy Schumer, and the Weak Reflexivity of White Feminist Comedy.” Women’s Studies in Communication 42, no. 2: 161–180. https://doi.org/10.1080/07491409.2019.1610924.</ref-fulltext>
+<ce:source-text>Colpean, Michelle, and Meg Tully. 2019. “Not Just a Joke: Tina Fey, Amy Schumer, and the Weak Reflexivity of White Feminist Comedy.” Women’s Studies in Communication 42, no. 2: 161–180. https://doi.org/10.1080/07491409.2019.1610924.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Nature of Belief Systems in Mass Publics. Ideology and Discontent</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.E.</ce:initials>
+<ce:surname>Converse</ce:surname>
+<ce:given-name>Philip E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ideology and Discontent</ref-sourcetitle>
+<ref-publicationyear first="1964"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>206</first-page>
+<last-page>261</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Converse, Philip E. 1964. “The Nature of Belief Systems in Mass Publics. Ideology and Discontent.” Ideology and Discontent 18: 206–261.</ref-fulltext>
+<ce:source-text>Converse, Philip E. 1964. “The Nature of Belief Systems in Mass Publics. Ideology and Discontent.” Ideology and Discontent 18: 206–261.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.J.</ce:initials>
+<ce:surname>Cooper</ce:surname>
+<ce:given-name>Anna Julia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Voice from the South</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Cooper, Anna Julia. 1988. A Voice from the South. New York: Oxford University Press.</ref-fulltext>
+<ce:source-text>Cooper, Anna Julia. 1988. A Voice from the South. New York: Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Intersectionality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Cooper</ce:surname>
+<ce:given-name>Brittney</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of Feminist Theory</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1093/oxfordhb/9780199328581.013.20</ce:e-address>
+</ref-website>
+<ref-text>Lisa Disch and Mary Hawkesworth, 385–406. New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Cooper, Brittney. 2015. “Intersectionality.” In The Oxford Handbook of Feminist Theory, edited by Lisa Disch and Mary Hawkesworth, 385–406. New York: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199328581.013.20.</ref-fulltext>
+<ce:source-text>Cooper, Brittney. 2015. “Intersectionality.” In The Oxford Handbook of Feminist Theory, edited by Lisa Disch and Mary Hawkesworth, 385–406. New York: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199328581.013.20.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Stigma-Based Solidarity: Understanding the Psychological Foundations of Conflict and Coalition among Members of Different Stigmatized Groups</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Craig</ce:surname>
+<ce:given-name>Maureen A.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.A.</ce:initials>
+<ce:surname>Richeson</ce:surname>
+<ce:given-name>Jennifer A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Current Directions in Psychological Science</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>21</first-page>
+<last-page>27</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Craig, Maureen A., and Jennifer A. Richeson. 2016. “Stigma-Based Solidarity: Understanding the Psychological Foundations of Conflict and Coalition among Members of Different Stigmatized Groups.” Current Directions in Psychological Science 25, no. 1: 21–27.</ref-fulltext>
+<ce:source-text>Craig, Maureen A., and Jennifer A. Richeson. 2016. “Stigma-Based Solidarity: Understanding the Psychological Foundations of Conflict and Coalition among Members of Different Stigmatized Groups.” Current Directions in Psychological Science 25, no. 1: 21–27.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Between Feminism and Unionism: Working Class Women, Sex Equality, and Labor Speech</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Crain</ce:surname>
+<ce:given-name>Marion</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Georgetown Law Journal</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>82</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1903</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Crain, Marion. 1993. “Between Feminism and Unionism: Working Class Women, Sex Equality, and Labor Speech.” Georgetown Law Journal 82: 1903.</ref-fulltext>
+<ce:source-text>Crain, Marion. 1993. “Between Feminism and Unionism: Working Class Women, Sex Equality, and Labor Speech.” Georgetown Law Journal 82: 1903.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Crenshaw</ce:surname>
+<ce:given-name>Kimberlé</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>University of Chicago Legal Forum</ref-sourcetitle>
+<ref-publicationyear first="1989"/>
+<volisspag>
+<volume-issue-number>
+<iss-first>1</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>1989</ref-text>
+</ref-info>
+<ref-fulltext>Crenshaw, Kimberlé. 1989. “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.” University of Chicago Legal Forum 1989, no. 1: article 8.</ref-fulltext>
+<ce:source-text>Crenshaw, Kimberlé. 1989. “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.” University of Chicago Legal Forum 1989, no. 1: article 8.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Race, Gender, and Sexual Harassment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Crenshaw</ce:surname>
+<ce:given-name>Kimberle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Southern California Law Review</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>65</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1467</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Crenshaw, Kimberle. 1991. “Race, Gender, and Sexual Harassment.” Southern California Law Review 65: 1467.</ref-fulltext>
+<ce:source-text>Crenshaw, Kimberle. 1991. “Race, Gender, and Sexual Harassment.” Southern California Law Review 65: 1467.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Doing More than Thanking Black Women: The Influence of Intersectional Solidarity on Public Support for Policies</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Crowder</ce:surname>
+<ce:given-name>Chaya</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Women, Politics &amp; Policy</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>44</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>186</first-page>
+<last-page>205</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/1554477X.2022.2070831</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Crowder, Chaya. 2023. “Doing More than Thanking Black Women: The Influence of Intersectional Solidarity on Public Support for Policies.” Journal of Women, Politics &amp; Policy 44, no. 2: 186–205. https://doi.org/10.1080/1554477X.2022.2070831.</ref-fulltext>
+<ce:source-text>Crowder, Chaya. 2023. “Doing More than Thanking Black Women: The Influence of Intersectional Solidarity on Public Support for Policies.” Journal of Women, Politics &amp; Policy 44, no. 2: 186–205. https://doi.org/10.1080/1554477X.2022.2070831.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.C.</ce:initials>
+<ce:surname>Dawson</ce:surname>
+<ce:given-name>Michael C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Behind the Mule: Race and Class in African American Politics</ref-sourcetitle>
+<ref-publicationyear first="1994"/>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Dawson, Michael C. 1994. Behind the Mule: Race and Class in African American Politics. Princeton, NJ: Princeton University Press.</ref-fulltext>
+<ce:source-text>Dawson, Michael C. 1994. Behind the Mule: Race and Class in African American Politics. Princeton, NJ: Princeton University Press.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.C.</ce:initials>
+<ce:surname>Dawson</ce:surname>
+<ce:given-name>Michael C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Visions: The Roots of Contemporary African- American Political Ideologies</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=oE3UcAoDFLsC&amp;oi=fnd&amp;pg=PR7&amp;dq=black±visions&amp;ots=pg6gU4a6iM&amp;sig=0fHzuvgUR1Xhx2ftVsGRtF8sGaA</ce:e-address>
+</ref-website>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Dawson, Michael C. 2001. Black Visions: The Roots of Contemporary African- American Political Ideologies. Chicago: University of Chicago Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=oE3UcAoDFLsC&amp;oi=fnd&amp;pg=PR7&amp;dq=black±visions&amp;ots=pg6gU4a6iM&amp;sig=0fHzuvgUR1Xhx2ftVsGRtF8sGaA.</ref-fulltext>
+<ce:source-text>Dawson, Michael C. 2001. Black Visions: The Roots of Contemporary African- American Political Ideologies. Chicago: University of Chicago Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=oE3UcAoDFLsC&amp;oi=fnd&amp;pg=PR7&amp;dq=black±visions&amp;ots=pg6gU4a6iM&amp;sig=0fHzuvgUR1Xhx2ftVsGRtF8sGaA.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Feminist Solidarity, Reflective Solidarity: Theorizing Connections after Identity Politics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Dean</ce:surname>
+<ce:given-name>Jodi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Women &amp; Politics</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>26</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dean, Jodi. 1998. “Feminist Solidarity, Reflective Solidarity: Theorizing Connections after Identity Politics.” Women &amp; Politics 18, no. 4: 1–26.</ref-fulltext>
+<ce:source-text>Dean, Jodi. 1998. “Feminist Solidarity, Reflective Solidarity: Theorizing Connections after Identity Politics.” Women &amp; Politics 18, no. 4: 1–26.</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Desante</ce:surname>
+<ce:given-name>Christopher</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Candis</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Racial Stasis: The Millennial Generation and The Stagnation of Racial Attitudes in American Politics</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Desante, Christopher, and Candis Smith. 2020. Racial Stasis: The Millennial Generation and the Stagnation of Racial Attitudes in American Politics. Chicago: University of Chicago Press</ref-fulltext>
+<ce:source-text>Desante, Christopher, and Candis Smith. 2020. Racial Stasis: The Millennial Generation and the Stagnation of Racial Attitudes in American Politics. Chicago: University of Chicago Press</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Dupont</ce:surname>
+<ce:given-name>Ida</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.E.</ce:initials>
+<ce:surname>Richie</ce:surname>
+<ce:given-name>Beth E.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Fine</ce:surname>
+<ce:given-name>Michelle</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:surname>Lockard</ce:surname>
+<ce:given-name>Judith</ce:given-name>
+</author>
+<author seq="5">
+<ce:initials>R.</ce:initials>
+<ce:surname>Almeida</ce:surname>
+<ce:given-name>Rhea</ce:given-name>
+</author>
+<author seq="6">
+<ce:initials>K.</ce:initials>
+<ce:surname>Laughon</ce:surname>
+<ce:given-name>Kathryn</ce:given-name>
+</author>
+<author seq="7">
+<ce:initials>C.</ce:initials>
+<ce:surname>West</ce:surname>
+<ce:given-name>Carolyn</ce:given-name>
+</author>
+<author seq="8">
+<ce:initials>B.</ce:initials>
+<ce:surname>Smith</ce:surname>
+<ce:given-name>Brenda</ce:given-name>
+</author>
+<author seq="9">
+<ce:initials>L.</ce:initials>
+<ce:surname>Volpp</ce:surname>
+<ce:given-name>Leti</ce:given-name>
+</author>
+<author seq="10">
+<ce:initials>R.A.</ce:initials>
+<ce:surname>Roberts</ce:surname>
+<ce:given-name>Rosemarie A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Domestic Violence at the Margins: Readings on Race, Class, Gender, and Culture</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>New Brunswick, NJ: Rutgers University Press</ref-text>
+</ref-info>
+<ref-fulltext>Dupont, Ida, Beth E. Richie, Michelle Fine, Judith Lockard, Rhea Almeida, Kathryn Laughon, Carolyn West, Brenda Smith, Leti Volpp, and Rosemarie A. Roberts. 2005. Domestic Violence at the Margins: Readings on Race, Class, Gender, and Culture. New Brunswick, NJ: Rutgers University Press.</ref-fulltext>
+<ce:source-text>Dupont, Ida, Beth E. Richie, Michelle Fine, Judith Lockard, Rhea Almeida, Kathryn Laughon, Carolyn West, Brenda Smith, Leti Volpp, and Rosemarie A. Roberts. 2005. Domestic Violence at the Margins: Readings on Race, Class, Gender, and Culture. New Brunswick, NJ: Rutgers University Press.</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Women of the Civil Rights Movement: Black Feminism and Social Progress</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Duran</ce:surname>
+<ce:given-name>Jane</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Philosophia Africana</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>65</first-page>
+<last-page>73</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Duran, Jane. 2015. “Women of the Civil Rights Movement: Black Feminism and Social Progress.” Philosophia Africana 17, no. 2: 65–73.</ref-fulltext>
+<ce:source-text>Duran, Jane. 2015. “Women of the Civil Rights Movement: Black Feminism and Social Progress.” Philosophia Africana 17, no. 2: 65–73.</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Elder</ce:surname>
+<ce:given-name>Laurel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Partisan Gap: Why Democratic Women Get Elected but Republican Women Don’t</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=wFkzEAAAQBAJ&amp;oi=fnd&amp;pg=PP7&amp;dq=laurel±elder±2021&amp;ots=fSebeavRGv&amp;sig=x_zOZDLqzQK233PiCS-nZghl4KQ</ce:e-address>
+</ref-website>
+<ref-text>New York: NYU Press</ref-text>
+</ref-info>
+<ref-fulltext>Elder, Laurel. 2021. The Partisan Gap: Why Democratic Women Get Elected but Republican Women Don’t. New York: NYU Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=wFkzEAAAQBAJ&amp;oi=fnd&amp;pg=PP7&amp;dq=laurel±elder±2021&amp;ots=fSebeavRGv&amp;sig=x_zOZDLqzQK233PiCS-nZghl4KQ.</ref-fulltext>
+<ce:source-text>Elder, Laurel. 2021. The Partisan Gap: Why Democratic Women Get Elected but Republican Women Don’t. New York: NYU Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=wFkzEAAAQBAJ&amp;oi=fnd&amp;pg=PP7&amp;dq=laurel±elder±2021&amp;ots=fSebeavRGv&amp;sig=x_zOZDLqzQK233PiCS-nZghl4KQ.</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Intersectionality and Celebrity Culture</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Flood</ce:surname>
+<ce:given-name>Michelle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Women’s Studies in Communication</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>42</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>422</first-page>
+<last-page>426</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/07491409.2019.1682917</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Flood, Michelle. 2019. “Intersectionality and Celebrity Culture.” Women’s Studies in Communication 42, no. 4: 422–426. https://doi.org/10.1080/07491409.2019.1682917.</ref-fulltext>
+<ce:source-text>Flood, Michelle. 2019. “Intersectionality and Celebrity Culture.” Women’s Studies in Communication 42, no. 4: 422–426. https://doi.org/10.1080/07491409.2019.1682917.</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Altruism and Turnout</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.H.</ce:initials>
+<ce:surname>Fowler</ce:surname>
+<ce:given-name>James H.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Politics</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>68</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>674</first-page>
+<last-page>683</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Fowler, James H. 2006. “Altruism and Turnout.” Journal of Politics 68, no. 3: 674–683.</ref-fulltext>
+<ce:source-text>Fowler, James H. 2006. “Altruism and Turnout.” Journal of Politics 68, no. 3: 674–683.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Friedan</ce:surname>
+<ce:given-name>Betty</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Feminine Mystique</ref-sourcetitle>
+<ref-publicationyear first="1963"/>
+<ref-text>New York: W.W. Norton</ref-text>
+</ref-info>
+<ref-fulltext>Friedan, Betty. 1963. The Feminine Mystique. New York: W.W. Norton.</ref-fulltext>
+<ce:source-text>Friedan, Betty. 1963. The Feminine Mystique. New York: W.W. Norton.</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-title>
+<ref-titletext-english>For Whom Is Breast Best? Thoughts on Breastfeeding, Feminism and Ambivalence</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Friedman</ce:surname>
+<ce:given-name>May</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Motherhood Initiative for Research and Community Involvement</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>26</first-page>
+<last-page>35</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://jarm.journals.yorku.ca/index.php/jarm/article/download/22506/20986</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Friedman, May. 2009. “For Whom Is Breast Best? Thoughts on Breastfeeding, Feminism and Ambivalence.” Journal of the Motherhood Initiative for Research and Community Involvement 11, no. 1: 26–35. https://jarm.journals.yorku.ca/index.php/jarm/article/download/22506/20986.</ref-fulltext>
+<ce:source-text>Friedman, May. 2009. “For Whom Is Breast Best? Thoughts on Breastfeeding, Feminism and Ambivalence.” Journal of the Motherhood Initiative for Research and Community Involvement 11, no. 1: 26–35. https://jarm.journals.yorku.ca/index.php/jarm/article/download/22506/20986.</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Furr</ce:surname>
+<ce:given-name>Mike</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Scale Construction and Psychometrics for Social and Personality Psychology</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>SAGE Publications Ltd</ref-text>
+</ref-info>
+<ref-fulltext>Furr, Mike. 2011. Scale Construction and Psychometrics for Social and Personality Psychology. SAGE Publications Ltd.</ref-fulltext>
+<ce:source-text>Furr, Mike. 2011. Scale Construction and Psychometrics for Social and Personality Psychology. SAGE Publications Ltd.</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Helping Behavior and Racial Discrimination among Liberals and Conservatives</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.L.</ce:initials>
+<ce:surname>Gaertner</ce:surname>
+<ce:given-name>Samuel L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Personality and Social Psychology</ref-sourcetitle>
+<ref-publicationyear first="1973"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>335</first-page>
+<last-page>341</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gaertner, Samuel L. 1973. “Helping Behavior and Racial Discrimination among Liberals and Conservatives.” Journal of Personality and Social Psychology 25, no. 3: 335–341.</ref-fulltext>
+<ce:source-text>Gaertner, Samuel L. 1973. “Helping Behavior and Racial Discrimination among Liberals and Conservatives.” Journal of Personality and Social Psychology 25, no. 3: 335–341.</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Messages of Exclusion: Gender, Movements, and Symbolic Boundaries</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gamson</ce:surname>
+<ce:given-name>Joshua</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Gender &amp; Society</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>178</first-page>
+<last-page>199</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gamson, Joshua. 1997. “Messages of Exclusion: Gender, Movements, and Symbolic Boundaries.” Gender &amp; Society 11, no. 2: 178–199.</ref-fulltext>
+<ce:source-text>Gamson, Joshua. 1997. “Messages of Exclusion: Gender, Movements, and Symbolic Boundaries.” Gender &amp; Society 11, no. 2: 178–199.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Gaventa</ce:surname>
+<ce:given-name>John</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Power and Powerlessness: Quiescence and Rebellion in an Appalachian Valley</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=osTx9nJZ9HoC&amp;oi=fnd&amp;pg=PR16&amp;dq=gaventa±power&amp;ots=fjDsvbWYBo&amp;sig=K1hupDTPA1hBeGUrgMxgqaDWcfU</ce:e-address>
+</ref-website>
+<ref-text>Champaign: University of Illinois Press</ref-text>
+</ref-info>
+<ref-fulltext>Gaventa, John. 1982. Power and Powerlessness: Quiescence and Rebellion in an Appalachian Valley. Champaign: University of Illinois Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=osTx9nJZ9HoC&amp;oi=fnd&amp;pg=PR16&amp;dq=gaventa±power&amp;ots=fjDsvbWYBo&amp;sig=K1hupDTPA1hBeGUrgMxgqaDWcfU.</ref-fulltext>
+<ce:source-text>Gaventa, John. 1982. Power and Powerlessness: Quiescence and Rebellion in an Appalachian Valley. Champaign: University of Illinois Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=osTx9nJZ9HoC&amp;oi=fnd&amp;pg=PR16&amp;dq=gaventa±power&amp;ots=fjDsvbWYBo&amp;sig=K1hupDTPA1hBeGUrgMxgqaDWcfU.</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Americans’ Belief in Linked Fate: Does the Measure Capture the Concept</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Gay</ce:surname>
+<ce:given-name>Claudine</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Hochschild</ce:surname>
+<ce:given-name>Jennifer</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>White</ce:surname>
+<ce:given-name>Ariel</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Race, Ethnicity and Politics</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>117</first-page>
+<last-page>144</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gay, Claudine, Jennifer Hochschild, and Ariel White. 2016. “Americans’ Belief in Linked Fate: Does the Measure Capture the Concept?” Journal of Race, Ethnicity and Politics 1, no. 1: 117–144.</ref-fulltext>
+<ce:source-text>Gay, Claudine, Jennifer Hochschild, and Ariel White. 2016. “Americans’ Belief in Linked Fate: Does the Measure Capture the Concept?” Journal of Race, Ethnicity and Politics 1, no. 1: 117–144.</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Doubly Bound: The Impact of Gender and Race on the Politics of Black Women</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Gay</ce:surname>
+<ce:given-name>Claudine</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Tate</ce:surname>
+<ce:given-name>Katherine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Political Psychology</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>19</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>169</first-page>
+<last-page>184</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gay, Claudine, and Katherine Tate. 1998. “Doubly Bound: The Impact of Gender and Race on the Politics of Black Women.” Political Psychology 19, no. 1: 169–184.</ref-fulltext>
+<ce:source-text>Gay, Claudine, and Katherine Tate. 1998. “Doubly Bound: The Impact of Gender and Race on the Politics of Black Women.” Political Psychology 19, no. 1: 169–184.</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Intersectional Linked Fate and Political Representation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.A.</ce:initials>
+<ce:surname>Gershon</ce:surname>
+<ce:given-name>Sarah Allen</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Montoya</ce:surname>
+<ce:given-name>Celeste</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>C.</ce:initials>
+<ce:surname>Bejarano</ce:surname>
+<ce:given-name>Christina</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>N.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Nadia</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics, Groups, and Identities</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>642</first-page>
+<last-page>653</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gershon, Sarah Allen, Celeste Montoya, Christina Bejarano, and Nadia Brown. 2019. “Intersectional Linked Fate and Political Representation.” Politics, Groups, and Identities 7, no. 3: 642–653.</ref-fulltext>
+<ce:source-text>Gershon, Sarah Allen, Celeste Montoya, Christina Bejarano, and Nadia Brown. 2019. “Intersectional Linked Fate and Political Representation.” Politics, Groups, and Identities 7, no. 3: 642–653.</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Why Americans Hate Welfare</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Gilens</ce:surname>
+<ce:given-name>Martin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Race, Media, and the Politics of Antipoverty Policy</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Gilens, Martin. 1999. “Why Americans Hate Welfare.” Race, Media, and the Politics of Antipoverty Policy. Chicago: University of Chicago Press.</ref-fulltext>
+<ce:source-text>Gilens, Martin. 1999. “Why Americans Hate Welfare.” Race, Media, and the Politics of Antipoverty Policy. Chicago: University of Chicago Press.</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-title>
+<ref-titletext-english>#BlackGirlMagic Demystified</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Gillespie</ce:surname>
+<ce:given-name>Andra</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.E.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Nadia E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Phylon (1960–)</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>56</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>37</first-page>
+<last-page>58</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gillespie, Andra, and Nadia E. Brown. 2019. “#BlackGirlMagic Demystified.” Phylon (1960–) 56, no. 2: 37–58.</ref-fulltext>
+<ce:source-text>Gillespie, Andra, and Nadia E. Brown. 2019. “#BlackGirlMagic Demystified.” Phylon (1960–) 56, no. 2: 37–58.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Toward an Explanation of the Racial Liberalism of American Jews</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Glaser</ce:surname>
+<ce:given-name>James M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Political Research Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>50</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>437</first-page>
+<last-page>458</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Glaser, James M. 1997. “Toward an Explanation of the Racial Liberalism of American Jews.” Political Research Quarterly 50, no. 2: 437–458.</ref-fulltext>
+<ce:source-text>Glaser, James M. 1997. “Toward an Explanation of the Racial Liberalism of American Jews.” Political Research Quarterly 50, no. 2: 437–458.</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.A.</ce:initials>
+<ce:surname>Greene</ce:surname>
+<ce:given-name>Stacey Ann</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Intergroup Commonality through Shared Marginality</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>PhD diss., University of California, Los Angeles</ref-text>
+</ref-info>
+<ref-fulltext>Greene, Stacey Ann. 2016. “Intergroup Commonality through Shared Marginality.” PhD diss., University of California, Los Angeles.</ref-fulltext>
+<ce:source-text>Greene, Stacey Ann. 2016. “Intergroup Commonality through Shared Marginality.” PhD diss., University of California, Los Angeles.</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Helping to Break the Glass Ceiling? Fathers, First Daughters, and Presidential Vote Choice in 2016</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Greenlee</ce:surname>
+<ce:given-name>Jill S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.M.</ce:initials>
+<ce:surname>Nteta</ce:surname>
+<ce:given-name>Tatishe M.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.H.</ce:initials>
+<ce:surname>Rhodes</ce:surname>
+<ce:given-name>Jesse H.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>E.A.</ce:initials>
+<ce:surname>Sharrow</ce:surname>
+<ce:given-name>Elizabeth A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Political Behavior</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>42</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>655</first-page>
+<last-page>695</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Greenlee, Jill S., Tatishe M. Nteta, Jesse H. Rhodes, and Elizabeth A. Sharrow. 2020. “Helping to Break the Glass Ceiling? Fathers, First Daughters, and Presidential Vote Choice in 2016.” Political Behavior 42: 655–695.</ref-fulltext>
+<ce:source-text>Greenlee, Jill S., Tatishe M. Nteta, Jesse H. Rhodes, and Elizabeth A. Sharrow. 2020. “Helping to Break the Glass Ceiling? Fathers, First Daughters, and Presidential Vote Choice in 2016.” Political Behavior 42: 655–695.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Intersectional Political Consciousness: Appreciation for Intragroup Differences and Solidarity in Diverse Groups</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.M.</ce:initials>
+<ce:surname>Greenwood</ce:surname>
+<ce:given-name>Ronni Michelle</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Psychology of Women Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>36</first-page>
+<last-page>47</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Greenwood, Ronni Michelle. 2008. “Intersectional Political Consciousness: Appreciation for Intragroup Differences and Solidarity in Diverse Groups.” Psychology of Women Quarterly 32, no. 1: 36–47.</ref-fulltext>
+<ce:source-text>Greenwood, Ronni Michelle. 2008. “Intersectional Political Consciousness: Appreciation for Intragroup Differences and Solidarity in Diverse Groups.” Psychology of Women Quarterly 32, no. 1: 36–47.</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What Happens When We Unpack the Invisible Knapsack? Intersectional Political Consciousness and Inter-Group Appraisals</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.M.</ce:initials>
+<ce:surname>Greenwood</ce:surname>
+<ce:given-name>Ronni Michelle</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Christian</ce:surname>
+<ce:given-name>Aidan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sex Roles</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>59</vol-first>
+<iss-first>5</iss-first>
+<iss-last>6</iss-last>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>404</first-page>
+<last-page>417</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Greenwood, Ronni Michelle, and Aidan Christian. 2008. “What Happens When We Unpack the Invisible Knapsack? Intersectional Political Consciousness and Inter-Group Appraisals.” Sex Roles 59, no. 5–6: 404–417.</ref-fulltext>
+<ce:source-text>Greenwood, Ronni Michelle, and Aidan Christian. 2008. “What Happens When We Unpack the Invisible Knapsack? Intersectional Political Consciousness and Inter-Group Appraisals.” Sex Roles 59, no. 5–6: 404–417.</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.M.</ce:initials>
+<ce:surname>Greer</ce:surname>
+<ce:given-name>Christina M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Ethnics: Race, Immigration, and the Pursuit of the American Dream</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=Ol5pAgAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=black+ethnics+greer&amp;ots=KHJUJ52nh-&amp;sig=RqwMzL0tLbO_1d9hxbo-5mrgXJ4</ce:e-address>
+</ref-website>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Greer, Christina M. 2013. Black Ethnics: Race, Immigration, and the Pursuit of the American Dream. New York: Oxford University Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=Ol5pAgAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=black+ethnics+greer&amp;ots=KHJUJ52nh-&amp;sig=RqwMzL0tLbO_1d9hxbo-5mrgXJ4.</ref-fulltext>
+<ce:source-text>Greer, Christina M. 2013. Black Ethnics: Race, Immigration, and the Pursuit of the American Dream. New York: Oxford University Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=Ol5pAgAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=black+ethnics+greer&amp;ots=KHJUJ52nh-&amp;sig=RqwMzL0tLbO_1d9hxbo-5mrgXJ4.</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Griffith</ce:surname>
+<ce:given-name>Daiana</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>LGBTQ Youth are at Greater Risk of Homelessness and Incarceration</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<ref-website>
+<ce:e-address type="url">https://www.prisonpolicy.org/blog/2019/01/22/lgbtq_youth/</ce:e-address>
+</ref-website>
+<ref-text>Prison Policy Iniative. January 22</ref-text>
+</ref-info>
+<ref-fulltext>Griffith, Daiana. “LGBTQ Youth Are at Greater Risk of Homelessness and Incarceration.” Prison Policy Iniative. January 22, 2019. https://www.prisonpolicy.org/blog/2019/01/22/lgbtq_youth/.</ref-fulltext>
+<ce:source-text>Griffith, Daiana. “LGBTQ Youth Are at Greater Risk of Homelessness and Incarceration.” Prison Policy Iniative. January 22, 2019. https://www.prisonpolicy.org/blog/2019/01/22/lgbtq_youth/.</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Sexual Orientation Differences in Whites’ Racial Attitudes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.A.</ce:initials>
+<ce:surname>Grollman</ce:surname>
+<ce:given-name>Eric Anthony</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sociological Forum</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>33</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>186</first-page>
+<last-page>210</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Grollman, Eric Anthony. 2018. “Sexual Orientation Differences in Whites’ Racial Attitudes.” Sociological Forum 33: 186–210.</ref-fulltext>
+<ce:source-text>Grollman, Eric Anthony. 2018. “Sexual Orientation Differences in Whites’ Racial Attitudes.” Sociological Forum 33: 186–210.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Stratum Identification and Consciousness</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Gurin</ce:surname>
+<ce:given-name>Patricia</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.H.</ce:initials>
+<ce:surname>Miller</ce:surname>
+<ce:given-name>Arthur H.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:surname>Gurin</ce:surname>
+<ce:given-name>Gerald</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Psychology Quarterly</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>43</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>30</first-page>
+<last-page>47</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gurin, Patricia, Arthur H. Miller, and Gerald Gurin. 1980. “Stratum Identification and Consciousness.” Social Psychology Quarterly 43, no. 1: 30–47.</ref-fulltext>
+<ce:source-text>Gurin, Patricia, Arthur H. Miller, and Gerald Gurin. 1980. “Stratum Identification and Consciousness.” Social Psychology Quarterly 43, no. 1: 30–47.</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Why Does Ethnic Diversity Undermine Public Goods Provision</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Habyarimana</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Humphreys</ce:surname>
+<ce:given-name>Macartan</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>D.N.</ce:initials>
+<ce:surname>Posner</ce:surname>
+<ce:given-name>Daniel N.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Weinstein</ce:surname>
+<ce:given-name>Jeremy M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Political Science Review</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>101</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>709</first-page>
+<last-page>725</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Habyarimana, James, Macartan Humphreys, Daniel N. Posner, and Jeremy M. Weinstein. 2007. “Why Does Ethnic Diversity Undermine Public Goods Provision?” American Political Science Review 101, no. 4: 709–725.</ref-fulltext>
+<ce:source-text>Habyarimana, James, Macartan Humphreys, Daniel N. Posner, and Jeremy M. Weinstein. 2007. “Why Does Ethnic Diversity Undermine Public Goods Provision?” American Political Science Review 101, no. 4: 709–725.</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.-M.</ce:initials>
+<ce:surname>Hancock</ce:surname>
+<ce:given-name>Ange-Marie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>When Multiplication Doesn’t Equal Quick Addition: Examining Intersectionality as a Research Paradigm</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>63</first-page>
+<last-page>79</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Perspectives on Politics</ref-text>
+</ref-info>
+<ref-fulltext>Hancock, Ange-Marie. 2007. “When Multiplication Doesn’t Equal Quick Addition: Examining Intersectionality as a Research Paradigm.” Perspectives on Politics 5, no. 1: 63–79.</ref-fulltext>
+<ce:source-text>Hancock, Ange-Marie. 2007. “When Multiplication Doesn’t Equal Quick Addition: Examining Intersectionality as a Research Paradigm.” Perspectives on Politics 5, no. 1: 63–79.</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.-M.</ce:initials>
+<ce:surname>Hancock</ce:surname>
+<ce:given-name>Ange-Marie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Solidarity Politics for Millennials: A Guide to Ending the Oppression Olympics</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>New York: Springer</ref-text>
+</ref-info>
+<ref-fulltext>Hancock, Ange-Marie. 2011. Solidarity Politics for Millennials: A Guide to Ending the Oppression Olympics. New York: Springer.</ref-fulltext>
+<ce:source-text>Hancock, Ange-Marie. 2011. Solidarity Politics for Millennials: A Guide to Ending the Oppression Olympics. New York: Springer.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.E.</ce:initials>
+<ce:surname>Harnois</ce:surname>
+<ce:given-name>Catherine E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Feminist Measures in Survey Research</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>Thousand Oaks, CA: Sage Publications</ref-text>
+</ref-info>
+<ref-fulltext>Harnois, Catherine E. 2012. Feminist Measures in Survey Research. Thousand Oaks, CA: Sage Publications.</ref-fulltext>
+<ce:source-text>Harnois, Catherine E. 2012. Feminist Measures in Survey Research. Thousand Oaks, CA: Sage Publications.</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Race, Ethnicity, Sexuality, and Women’s Political Consciousness of Gender</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.E.</ce:initials>
+<ce:surname>Harnois</ce:surname>
+<ce:given-name>Catherine E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Psychology Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>78</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>365</first-page>
+<last-page>386</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Harnois, Catherine E. 2015. “Race, Ethnicity, Sexuality, and Women’s Political Consciousness of Gender.” Social Psychology Quarterly 78, no. 4: 365–386.</ref-fulltext>
+<ce:source-text>Harnois, Catherine E. 2015. “Race, Ethnicity, Sexuality, and Women’s Political Consciousness of Gender.” Social Psychology Quarterly 78, no. 4: 365–386.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Rise of Respectability Politics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.C.</ce:initials>
+<ce:surname>Harris</ce:surname>
+<ce:given-name>Fredrick C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dissent</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>61</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>33</first-page>
+<last-page>37</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Harris, Fredrick C. 2014. “The Rise of Respectability Politics.” Dissent 61, no. 1: 33–37.</ref-fulltext>
+<ce:source-text>Harris, Fredrick C. 2014. “The Rise of Respectability Politics.” Dissent 61, no. 1: 33–37.</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Nationalism as Group Solidarity</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Hechter</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ethnic and Racial Studies</ref-sourcetitle>
+<ref-publicationyear first="1987"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>10</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>415</first-page>
+<last-page>426</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hechter, Michael. 1987. “Nationalism as Group Solidarity.” Ethnic and Racial Studies 10, no. 4: 415–426.</ref-fulltext>
+<ce:source-text>Hechter, Michael. 1987. “Nationalism as Group Solidarity.” Ethnic and Racial Studies 10, no. 4: 415–426.</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Interpreting the magnitudes of correlation coefficients</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.F.</ce:initials>
+<ce:surname>Hemphill</ce:surname>
+<ce:given-name>James F.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The American Psychologist</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>58</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>78</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hemphill, James F. 2003. “Interpreting the magnitudes of correlation coefficients.” The American psychologist 58: 78.</ref-fulltext>
+<ce:source-text>Hemphill, James F. 2003. “Interpreting the magnitudes of correlation coefficients.” The American psychologist 58: 78.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.B.</ce:initials>
+<ce:surname>Higginbotham</ce:surname>
+<ce:given-name>Evelyn Brooks</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Righteous Discontent: The Women’s Movement in The Black Baptist Church, 1880–1920</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Higginbotham, Evelyn Brooks. 1993. Righteous Discontent: The Women’s Movement in the Black Baptist Church, 1880–1920. Vol. 14. Cambridge, MA: Harvard University Press.</ref-fulltext>
+<ce:source-text>Higginbotham, Evelyn Brooks. 1993. Righteous Discontent: The Women’s Movement in the Black Baptist Church, 1880–1920. Vol. 14. Cambridge, MA: Harvard University Press.</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Skin Color Paradox and the American Racial Order</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.L.</ce:initials>
+<ce:surname>Hochschild</ce:surname>
+<ce:given-name>Jennifer L.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>V.</ce:initials>
+<ce:surname>Weaver</ce:surname>
+<ce:given-name>Vesla</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Forces</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>86</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>643</first-page>
+<last-page>670</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hochschild, Jennifer L., and Vesla Weaver. 2007. “The Skin Color Paradox and the American Racial Order.” Social Forces 86, no. 2: 643–670.</ref-fulltext>
+<ce:source-text>Hochschild, Jennifer L., and Vesla Weaver. 2007. “The Skin Color Paradox and the American Racial Order.” Social Forces 86, no. 2: 643–670.</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Hooks</ce:surname>
+<ce:given-name>Bell</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Women Shaping Feminist Theory</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<ref-text>Ann Arbor, MI: Pro- Quest Information and Learning</ref-text>
+</ref-info>
+<ref-fulltext>Hooks, Bell. 1984. Black Women Shaping Feminist Theory. Ann Arbor, MI: Pro- Quest Information and Learning.</ref-fulltext>
+<ce:source-text>Hooks, Bell. 1984. Black Women Shaping Feminist Theory. Ann Arbor, MI: Pro- Quest Information and Learning.</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Partisan Sorting and the Feminist Gap in American Politics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Huddy</ce:surname>
+<ce:given-name>Leonie</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Willmann</ce:surname>
+<ce:given-name>Johanna</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Unpublished Manuscript, Stony Brook University</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2</first-page>
+<last-page>4</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Huddy, Leonie, and Johanna Willmann. 2017. “Partisan Sorting and the Feminist Gap in American Politics.” Unpublished Manuscript, Stony Brook University 3, no. 1: 4–2.</ref-fulltext>
+<ce:source-text>Huddy, Leonie, and Johanna Willmann. 2017. “Partisan Sorting and the Feminist Gap in American Politics.” Unpublished Manuscript, Stony Brook University 3, no. 1: 4–2.</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The National Ethnic Politics Study (NEPS): Ethnic Pluralism &amp; Politics in the 21st Century</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Hutchings</ce:surname>
+<ce:given-name>Vincent</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Wong</ce:surname>
+<ce:given-name>Cara</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>R.</ce:initials>
+<ce:surname>Brown</ce:surname>
+<ce:given-name>Ronald</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:surname>Jackson</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+<author seq="5">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Son</ce:surname>
+<ce:given-name>Nakesha Fai-</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Presented at the American Association of Public Opinion Research Conference</ref-sourcetitle>
+<ref-text>Miami Beach, FL, May</ref-text>
+</ref-info>
+<ref-fulltext>Hutchings, Vincent, Cara Wong, Ronald Brown, James Jackson, and Nakesha Fai- son. 2005. “The National Ethnic Politics Study (NEPS): Ethnic Pluralism &amp; Politics in the 21st Century.” Presented at the American Association of Public Opinion Research Conference, Miami Beach, FL, May.</ref-fulltext>
+<ce:source-text>Hutchings, Vincent, Cara Wong, Ronald Brown, James Jackson, and Nakesha Fai- son. 2005. “The National Ethnic Politics Study (NEPS): Ethnic Pluralism &amp; Politics in the 21st Century.” Presented at the American Association of Public Opinion Research Conference, Miami Beach, FL, May.</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Am I a Black Woman or a Woman Who Is Black? A Few Thoughts on the Meaning of Intersectionality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Jordan-Zachery</ce:surname>
+<ce:given-name>Julia S.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics &amp; Gender</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>254</first-page>
+<last-page>263</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Jordan-Zachery, Julia S. 2007. “Am I a Black Woman or a Woman Who Is Black? A Few Thoughts on the Meaning of Intersectionality.” Politics &amp; Gender 3, no. 2: 254–263.</ref-fulltext>
+<ce:source-text>Jordan-Zachery, Julia S. 2007. “Am I a Black Woman or a Woman Who Is Black? A Few Thoughts on the Meaning of Intersectionality.” Politics &amp; Gender 3, no. 2: 254–263.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Trump Majority: White Womanhood and the Making of Female Voters in the U.S</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Junn</ce:surname>
+<ce:given-name>Jane</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics, Groups, and Identities</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>343</first-page>
+<last-page>352</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/21565503.2017.1304224</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Junn, Jane. 2017. “The Trump Majority: White Womanhood and the Making of Female Voters in the U.S.” Politics, Groups, and Identities 5, no. 2: 343–352. https://doi.org/10.1080/21565503.2017.1304224.</ref-fulltext>
+<ce:source-text>Junn, Jane. 2017. “The Trump Majority: White Womanhood and the Making of Female Voters in the U.S.” Politics, Groups, and Identities 5, no. 2: 343–352. https://doi.org/10.1080/21565503.2017.1304224.</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Asian American Identity: Shared Racial Status and Political Context</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Junn</ce:surname>
+<ce:given-name>Jane</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Masuoka</ce:surname>
+<ce:given-name>Natalie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Perspectives on Politics</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>729</first-page>
+<last-page>740</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Junn, Jane, and Natalie Masuoka. 2008. “Asian American Identity: Shared Racial Status and Political Context.” Perspectives on Politics 6, no. 4: 729–740.</ref-fulltext>
+<ce:source-text>Junn, Jane, and Natalie Masuoka. 2008. “Asian American Identity: Shared Racial Status and Political Context.” Perspectives on Politics 6, no. 4: 729–740.</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Feminist and Sym- pathetic Feminist Consciousness</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Kalmuss</ce:surname>
+<ce:given-name>Debra</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Gurin</ce:surname>
+<ce:given-name>Patricia</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.L.</ce:initials>
+<ce:surname>Townsend</ce:surname>
+<ce:given-name>Aloen L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Social Psychology</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>131</first-page>
+<last-page>147</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1002/ejsp.2420110202</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Kalmuss, Debra, Patricia Gurin, and Aloen L. Townsend. 1981. “Feminist and Sym- pathetic Feminist Consciousness.” European Journal of Social Psychology 11, no. 2: 131–147. https://doi.org/10.1002/ejsp.2420110202.</ref-fulltext>
+<ce:source-text>Kalmuss, Debra, Patricia Gurin, and Aloen L. Townsend. 1981. “Feminist and Sym- pathetic Feminist Consciousness.” European Journal of Social Psychology 11, no. 2: 131–147. https://doi.org/10.1002/ejsp.2420110202.</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Kaufman</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Broken Alliance</ref-sourcetitle>
+<ref-text>New York: Simon and Schuster</ref-text>
+</ref-info>
+<ref-fulltext>Kaufman, Jonathan. 1988. Broken Alliance. New York: Simon and Schuster.</ref-fulltext>
+<ce:source-text>Kaufman, Jonathan. 1988. Broken Alliance. New York: Simon and Schuster.</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Culture Wars, Secular Realignment, and the Gender Gap in Party Identification</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.M.</ce:initials>
+<ce:surname>Kaufmann</ce:surname>
+<ce:given-name>Karen M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Political Behavior</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>283</first-page>
+<last-page>307</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kaufmann, Karen M. 2002. “Culture Wars, Secular Realignment, and the Gender Gap in Party Identification.” Political Behavior 24, no. 3: 283–307.</ref-fulltext>
+<ce:source-text>Kaufmann, Karen M. 2002. “Culture Wars, Secular Realignment, and the Gender Gap in Party Identification.” Political Behavior 24, no. 3: 283–307.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Changing Politics of Amer- ican Men: Understanding the Sources of the Gender Gap</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.M.</ce:initials>
+<ce:surname>Kaufmann</ce:surname>
+<ce:given-name>Karen M.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.R.</ce:initials>
+<ce:surname>Petrocik</ce:surname>
+<ce:given-name>John R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Journal of Political Science</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>43</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>864</first-page>
+<last-page>887</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kaufmann, Karen M., and John R. Petrocik. 1999. “The Changing Politics of Amer- ican Men: Understanding the Sources of the Gender Gap.” American Journal of Political Science 43, no. 3: 864–887.</ref-fulltext>
+<ce:source-text>Kaufmann, Karen M., and John R. Petrocik. 1999. “The Changing Politics of Amer- ican Men: Understanding the Sources of the Gender Gap.” American Journal of Political Science 43, no. 3: 864–887.</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Evaluation of Breastfeeding Promotion, Support, and Knowledge of Benefits on Breastfeeding Outcomes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Kornides</ce:surname>
+<ce:given-name>Melanie</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Kitsantas</ce:surname>
+<ce:given-name>Panagiota</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Child Health Care</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>264</first-page>
+<last-page>273</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/1367493512461460</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Kornides, Melanie, and Panagiota Kitsantas. 2013. “Evaluation of Breastfeeding Promotion, Support, and Knowledge of Benefits on Breastfeeding Outcomes.” Journal of Child Health Care 17, no. 3: 264–273. https://doi.org/10.1177/ 1367493512461460.</ref-fulltext>
+<ce:source-text>Kornides, Melanie, and Panagiota Kitsantas. 2013. “Evaluation of Breastfeeding Promotion, Support, and Knowledge of Benefits on Breastfeeding Outcomes.” Journal of Child Health Care 17, no. 3: 264–273. https://doi.org/10.1177/ 1367493512461460.</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Does Maternal Employment Affect Breast-Feeding</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Kurinij</ce:surname>
+<ce:given-name>Natalie</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Shiono</ce:surname>
+<ce:given-name>Patricia H.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>S.F.</ce:initials>
+<ce:surname>Ezrine</ce:surname>
+<ce:given-name>Sandi F.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>G.G.</ce:initials>
+<ce:surname>Rhoads</ce:surname>
+<ce:given-name>George G.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Journal of Public Health</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>79</vol-first>
+<iss-first>9</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1247</first-page>
+<last-page>1250</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kurinij, Natalie, Patricia H. Shiono, Sandi F. Ezrine, and George G. Rhoads. 1989. “Does Maternal Employment Affect Breast-Feeding?” American Journal of Public Health 79, no. 9: 1247–1250.</ref-fulltext>
+<ce:source-text>Kurinij, Natalie, Patricia H. Shiono, Sandi F. Ezrine, and George G. Rhoads. 1989. “Does Maternal Employment Affect Breast-Feeding?” American Journal of Public Health 79, no. 9: 1247–1250.</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Nebraska Teen Who Used Pills to End Pregnancy Gets 90 Days in Jail</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Levenson</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The New York Times</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://www.nytimes.com/2023/07/20/us/celeste-burgess-abortion-pill-nebraska.html</ce:e-address>
+</ref-website>
+<ref-text>(New York), July 20, 2023</ref-text>
+</ref-info>
+<ref-fulltext>Levenson, Michael. 2023. “Nebraska Teen Who Used Pills to End Pregnancy Gets 90 Days in Jail.” The New York Times (New York), July 20, 2023. https://www. nytimes.com/2023/07/20/us/celeste-burgess-abortion-pill-nebraska.html.</ref-fulltext>
+<ce:source-text>Levenson, Michael. 2023. “Nebraska Teen Who Used Pills to End Pregnancy Gets 90 Days in Jail.” The New York Times (New York), July 20, 2023. https://www. nytimes.com/2023/07/20/us/celeste-burgess-abortion-pill-nebraska.html.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Lorde</ce:surname>
+<ce:given-name>Audre</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sister Outsider: Essays and Speeches</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=kE3ek_-FGWgC&amp;oi=fnd&amp;pg=PA6&amp;dq=sister±outsider±lorde&amp;ots=iHW1_FSKX7&amp;sig=cFcS8792pFU10pNTJPVjQQQrIJ8</ce:e-address>
+</ref-website>
+<ref-text>Berkeley, CA: Crossing Press</ref-text>
+</ref-info>
+<ref-fulltext>Lorde, Audre. 1984. Sister Outsider: Essays and Speeches. Berkeley, CA: Crossing Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=kE3ek_-FGWgC&amp;oi= fnd&amp;pg=PA6&amp;dq=sister±outsider±lorde&amp;ots=iHW1_FSKX7&amp;sig=cFcS8792p FU10pNTJPVjQQQrIJ8.</ref-fulltext>
+<ce:source-text>Lorde, Audre. 1984. Sister Outsider: Essays and Speeches. Berkeley, CA: Crossing Press. https://books.google.com/books?hl=en&amp;lr=&amp;id=kE3ek_-FGWgC&amp;oi= fnd&amp;pg=PA6&amp;dq=sister±outsider±lorde&amp;ots=iHW1_FSKX7&amp;sig=cFcS8792p FU10pNTJPVjQQQrIJ8.</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Attitudes and Behaviours of Maternal Health Care Providers in Inter- actions with Clients: A Systematic Review</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Mannava</ce:surname>
+<ce:given-name>Priya</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Durrant</ce:surname>
+<ce:given-name>Kelly</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:surname>Fisher</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:surname>Chersich</ce:surname>
+<ce:given-name>Matthew</ce:given-name>
+</author>
+<author seq="5">
+<ce:initials>S.</ce:initials>
+<ce:surname>Luchters</ce:surname>
+<ce:given-name>Stanley</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Globalization and Health</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>36</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Mannava, Priya, Kelly Durrant, J. Fisher, Matthew Chersich, and Stanley Luchters. 2015. “Attitudes and Behaviours of Maternal Health Care Providers in Inter- actions with Clients: A Systematic Review.” Globalization and Health 11, no. 1: 36.</ref-fulltext>
+<ce:source-text>Mannava, Priya, Kelly Durrant, J. Fisher, Matthew Chersich, and Stanley Luchters. 2015. “Attitudes and Behaviours of Maternal Health Care Providers in Inter- actions with Clients: A Systematic Review.” Globalization and Health 11, no. 1: 36.</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Should Blacks Represent Blacks and Women Represent Women? A Contingent ‘Yes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Mansbridge</ce:surname>
+<ce:given-name>Jane</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Journal of Politics</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>61</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>628</first-page>
+<last-page>657</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.2307/2647821</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Mansbridge, Jane. 1999. “Should Blacks Represent Blacks and Women Represent Women? A Contingent ‘Yes.’” The Journal of Politics 61, no. 3: 628–657. https:// doi.org/10.2307/2647821.</ref-fulltext>
+<ce:source-text>Mansbridge, Jane. 1999. “Should Blacks Represent Blacks and Women Represent Women? A Contingent ‘Yes.’” The Journal of Politics 61, no. 3: 628–657. https:// doi.org/10.2307/2647821.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Together They Become One: Examining the Predic- tors of Panethnic Group Consciousness Among Asian Americans and Latinos</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Masuoka</ce:surname>
+<ce:given-name>Natalie</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Science Quarterly</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>87</vol-first>
+<suppl>Supplement 1</suppl>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>993</first-page>
+<last-page>1011</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/j.1540-6237.2006.00412.x</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Masuoka, Natalie. 2006. “Together They Become One: Examining the Predic- tors of Panethnic Group Consciousness Among Asian Americans and Latinos.” Social Science Quarterly 87, no. s1: 993–1011. https://doi.org/10.1111/j.1540- 6237.2006.00412.x</ref-fulltext>
+<ce:source-text>Masuoka, Natalie. 2006. “Together They Become One: Examining the Predic- tors of Panethnic Group Consciousness Among Asian Americans and Latinos.” Social Science Quarterly 87, no. s1: 993–1011. https://doi.org/10.1111/j.1540- 6237.2006.00412.x</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Tracking Abortion Bans Across the Country</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>McCan</ce:surname>
+<ce:given-name>Allison</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.S.</ce:initials>
+<ce:surname>Walker</ce:surname>
+<ce:given-name>Amy Schoenfeld</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The New York Times</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://www.nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html</ce:e-address>
+</ref-website>
+<ref-text>(New York), August 23, 2024</ref-text>
+</ref-info>
+<ref-fulltext>McCan, Allison, and Amy Schoenfeld Walker. “Tracking Abortion Bans Across the Country.” The New York Times (New York), August 23, 2024. https://www. nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html.</ref-fulltext>
+<ce:source-text>McCan, Allison, and Amy Schoenfeld Walker. “Tracking Abortion Bans Across the Country.” The New York Times (New York), August 23, 2024. https://www. nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html.</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Mendelberg</ce:surname>
+<ce:given-name>Tali</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Race Card: Campaign Strategy, Implicit Messages, and the Norm of Equality</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Mendelberg, Tali. 2001. “The Race Card: Campaign Strategy, Implicit Messages, and the Norm of Equality.”.</ref-fulltext>
+<ce:source-text>Mendelberg, Tali. 2001. “The Race Card: Campaign Strategy, Implicit Messages, and the Norm of Equality.”.</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Melucci</ce:surname>
+<ce:given-name>Alberto</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Challenging Codes: Collective Action in the Information Age</ref-sourcetitle>
+<ref-text>New York: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Melucci, Alberto. 1996. Challenging Codes: Collective Action in the Information Age. New York: Cambridge University Press.</ref-fulltext>
+<ce:source-text>Melucci, Alberto. 1996. Challenging Codes: Collective Action in the Information Age. New York: Cambridge University Press.</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A New Political Generation: Millennials and the Post-2008 Wave of Protest</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Milkman</ce:surname>
+<ce:given-name>Ruth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Sociological Review</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>82</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>31</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/0003122416681031</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Milkman, Ruth. 2017. “A New Political Generation: Millennials and the Post-2008 Wave of Protest.” American Sociological Review 82, no. 1: 1–31. https://doi.org/ 10.1177/0003122416681031.</ref-fulltext>
+<ce:source-text>Milkman, Ruth. 2017. “A New Political Generation: Millennials and the Post-2008 Wave of Protest.” American Sociological Review 82, no. 1: 1–31. https://doi.org/ 10.1177/0003122416681031.</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Group Consciousness and Political Participation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.H.</ce:initials>
+<ce:surname>Miller</ce:surname>
+<ce:given-name>Arthur H.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Gurin</ce:surname>
+<ce:given-name>Patricia</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:surname>Gurin</ce:surname>
+<ce:given-name>Gerald</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>O.</ce:initials>
+<ce:surname>Malanchuk</ce:surname>
+<ce:given-name>Oksana</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Journal of Political Science</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>494</first-page>
+<last-page>511</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Miller, Arthur H., Patricia Gurin, Gerald Gurin, and Oksana Malanchuk. 1981. “Group Consciousness and Political Participation.” American Journal of Political Science 25, no. 3: 494–511.</ref-fulltext>
+<ce:source-text>Miller, Arthur H., Patricia Gurin, Gerald Gurin, and Oksana Malanchuk. 1981. “Group Consciousness and Political Participation.” American Journal of Political Science 25, no. 3: 494–511.</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Their Mother’s Daughters? The Intergenerational Transmission of Gender Attitudes in a World of Changing Roles</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Moen</ce:surname>
+<ce:given-name>Phyllis</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Erickson</ce:surname>
+<ce:given-name>Mary Ann</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>D.</ce:initials>
+<ce:surname>Dempster-McClain</ce:surname>
+<ce:given-name>Donna</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Marriage and the Family</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>59</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>281</first-page>
+<last-page>293</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Moen, Phyllis, Mary Ann Erickson, and Donna Dempster-mcclain. 1997. “Their Mother’s Daughters? The Intergenerational Transmission of Gender Attitudes in a World of Changing Roles.” Journal of Marriage and the Family 59, no. 2: 281–293.</ref-fulltext>
+<ce:source-text>Moen, Phyllis, Mary Ann Erickson, and Donna Dempster-mcclain. 1997. “Their Mother’s Daughters? The Intergenerational Transmission of Gender Attitudes in a World of Changing Roles.” Journal of Marriage and the Family 59, no. 2: 281–293.</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Review: Intersectionality and Its Discontents</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Nash</ce:surname>
+<ce:given-name>Jennifer C.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>60</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>117</first-page>
+<last-page>129</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://www.jstor.org/stable/26360804?casa_token=qawds1VLrUwAAAAA:HSIkNS5qVm0yKgCga8FrkLtUm5dKud8bABGW2ftFi2HN7wHeoJvNVZ-xeauD7KeQRjo5ZUCsQtFEjkAoGePQPQhmBHc4q7aKB5uXMqy0Z0Pcm5mTUjA</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Nash, Jennifer C. 2017. “Review: Intersectionality and Its Discontents.” American Quarterly 60, no. 1: 117–129. https://www.jstor.org/stable/26360804?casa_ token=qawds1VLrUwAAAAA:HSIkNS5qVm0yKgCga8FrkLtUm5dKud8bAB GW2ftFi2HN7wHeoJvNVZ-xeauD7KeQRjo5ZUCsQtFEjkAoGePQPQhmBH c4q7aKB5uXMqy0Z0Pcm5mTUjA.</ref-fulltext>
+<ce:source-text>Nash, Jennifer C. 2017. “Review: Intersectionality and Its Discontents.” American Quarterly 60, no. 1: 117–129. https://www.jstor.org/stable/26360804?casa_ token=qawds1VLrUwAAAAA:HSIkNS5qVm0yKgCga8FrkLtUm5dKud8bAB GW2ftFi2HN7wHeoJvNVZ-xeauD7KeQRjo5ZUCsQtFEjkAoGePQPQhmBH c4q7aKB5uXMqy0Z0Pcm5mTUjA.</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>National Domestic Violence Hotline</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Domestic Violence Statistics</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://www.thehotline.org/stakeholders/domestic-violence-statistics/</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>National Domestic Violence Hotline. 2024. “Domestic Violence Statistics”. https://www.thehotline.org/stakeholders/domestic-violence-statistics/.</ref-fulltext>
+<ce:source-text>National Domestic Violence Hotline. 2024. “Domestic Violence Statistics”. https://www.thehotline.org/stakeholders/domestic-violence-statistics/.</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>National Research Council</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Women, Work, and Wages: Equal Pay for Jobs of Equal Value</ref-sourcetitle>
+<ref-text>Washington, DC: National Academies Press</ref-text>
+</ref-info>
+<ref-fulltext>National Research Council. 1981. Women, Work, and Wages: Equal Pay for Jobs of Equal Value. Washington, DC: National Academies Press.</ref-fulltext>
+<ce:source-text>National Research Council. 1981. Women, Work, and Wages: Equal Pay for Jobs of Equal Value. Washington, DC: National Academies Press.</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Trump’s Lasting Impact on the Federal Judiciary</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.L.</ce:initials>
+<ce:surname>Nemacheck</ce:surname>
+<ce:given-name>Christine L.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Trump Administration</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>115</first-page>
+<last-page>133</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://www.taylorfrancis.com/chapters/edit/10.4324/9781003259923-10/trump-lasting-impact-federal-judiciary-christine-nemacheck</ce:e-address>
+</ref-website>
+<ref-text>New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Nemacheck, Christine L. 2022. “Trump’s Lasting Impact on the Federal Judiciary.” In The Trump Administration, edited by Toby S. James, 115–133. New York: Routledge. https://www.taylorfrancis.com/chapters/edit/10.4324/97810032599 23-10/trump-lasting-impact-federal-judiciary-christine-nemacheck.</ref-fulltext>
+<ce:source-text>Nemacheck, Christine L. 2022. “Trump’s Lasting Impact on the Federal Judiciary.” In The Trump Administration, edited by Toby S. James, 115–133. New York: Routledge. https://www.taylorfrancis.com/chapters/edit/10.4324/97810032599 23-10/trump-lasting-impact-federal-judiciary-christine-nemacheck.</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How the US Used Jazz as a Cold War Secret Weapon</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Perrigo</ce:surname>
+<ce:given-name>Billy</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Time Magazine</ref-sourcetitle>
+<ref-text>December 22, 2017</ref-text>
+</ref-info>
+<ref-fulltext>Perrigo, Billy. 2017. “How the US Used Jazz as a Cold War Secret Weapon.” Time Magazine, December 22, 2017.</ref-fulltext>
+<ce:source-text>Perrigo, Billy. 2017. “How the US Used Jazz as a Cold War Secret Weapon.” Time Magazine, December 22, 2017.</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.H.</ce:initials>
+<ce:surname>Petersen</ce:surname>
+<ce:given-name>Anne Helen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Too Fat, Too Slutty, Too Loud: The Rise and Reign of The Unruly Woman</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=v3djDwAAQBAJ&amp;oi=fnd&amp;pg=PR13&amp;dq=petersen±too±fat±too±slutty&amp;ots=ddhIFyXeFD&amp;sig=gvsQbM3t7oySEdxEohHF21FwWu4</ce:e-address>
+</ref-website>
+<ref-text>New York: Penguin</ref-text>
+</ref-info>
+<ref-fulltext>Petersen, Anne Helen. 2018. Too Fat, Too Slutty, Too Loud: The Rise and Reign of the Unruly Woman. New York: Penguin. https://books.google.com/books?hl= en&amp;lr=&amp;id=v3djDwAAQBAJ&amp;oi=fnd&amp;pg=PR13&amp;dq=petersen±too±fat±too± slutty&amp;ots=ddhIFyXeFD&amp;sig=gvsQbM3t7oySEdxEohHF21FwWu4.</ref-fulltext>
+<ce:source-text>Petersen, Anne Helen. 2018. Too Fat, Too Slutty, Too Loud: The Rise and Reign of the Unruly Woman. New York: Penguin. https://books.google.com/books?hl= en&amp;lr=&amp;id=v3djDwAAQBAJ&amp;oi=fnd&amp;pg=PR13&amp;dq=petersen±too±fat±too± slutty&amp;ots=ddhIFyXeFD&amp;sig=gvsQbM3t7oySEdxEohHF21FwWu4.</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Category ‘Prostitute’ in Scientific Inquiry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Pheterson</ce:surname>
+<ce:given-name>Gail</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Sex Research</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>27</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>397</first-page>
+<last-page>407</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pheterson, Gail. 1990. “The Category ‘Prostitute’ in Scientific Inquiry.” Journal of Sex Research 27, no. 3: 397–407.</ref-fulltext>
+<ce:source-text>Pheterson, Gail. 1990. “The Category ‘Prostitute’ in Scientific Inquiry.” Journal of Sex Research 27, no. 3: 397–407.</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Superficial Equality: Gender and immigration in Asian American political participation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.D.</ce:initials>
+<ce:surname>Phillips</ce:surname>
+<ce:given-name>Christian Dyogi</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Lee</ce:surname>
+<ce:given-name>Taeku</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Asian Pacific American Politics</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>45</first-page>
+<last-page>60</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Phillips, Christian Dyogi, and Taeku Lee. 2020. “Superficial Equality: Gender and immigration in Asian American political participation.” Asian Pacific American Politics. Routledge, 45–60.</ref-fulltext>
+<ce:source-text>Phillips, Christian Dyogi, and Taeku Lee. 2020. “Superficial Equality: Gender and immigration in Asian American political participation.” Asian Pacific American Politics. Routledge, 45–60.</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-title>
+<ref-titletext-english>One of Our Own: Black Female Candi- dates and the Voters Who Support Them</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.S.</ce:initials>
+<ce:surname>Philpot</ce:surname>
+<ce:given-name>Tasha S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Walton</ce:surname>
+<ce:given-name>Hanes</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Journal of Political Science</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>51</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>49</first-page>
+<last-page>62</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/j.1540-5907.2007.00236.x</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Philpot, Tasha S., and Hanes Walton. 2007. “One of Our Own: Black Female Candi- dates and the Voters Who Support Them.” American Journal of Political Science 51, no. 1: 49–62. https://doi.org/10.1111/j.1540-5907.2007.00236.x.</ref-fulltext>
+<ce:source-text>Philpot, Tasha S., and Hanes Walton. 2007. “One of Our Own: Black Female Candi- dates and the Voters Who Support Them.” American Journal of Political Science 51, no. 1: 49–62. https://doi.org/10.1111/j.1540-5907.2007.00236.x.</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-title>
+<ref-titletext-english>African-American Political Participa- tion</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.S.</ce:initials>
+<ce:surname>Philpot</ce:surname>
+<ce:given-name>Tasha S.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Walton</ce:surname>
+<ce:given-name>Hanes</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of Racial and Ethnic Politics in the United States</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://academic.oup.com/edited-volume/34719/chapter/296456081</ce:e-address>
+</ref-website>
+<ref-text>New York: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Philpot, Tasha S., and Hanes Walton. 2014. “African-American Political Participa- tion.” In The Oxford Handbook of Racial and Ethnic Politics in the United States, edited by David Leal. New York: Oxford University Press. https://academic.oup. com/edited-volume/34719/chapter/296456081.</ref-fulltext>
+<ce:source-text>Philpot, Tasha S., and Hanes Walton. 2014. “African-American Political Participa- tion.” In The Oxford Handbook of Racial and Ethnic Politics in the United States, edited by David Leal. New York: Oxford University Press. https://academic.oup. com/edited-volume/34719/chapter/296456081.</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-title>
+<ref-titletext-english>US Immigration Policy under Trump: Deep Changes and Lasting Impacts</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Pierce</ce:surname>
+<ce:given-name>Sarah</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Bolter</ce:surname>
+<ce:given-name>Jessica</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Selee</ce:surname>
+<ce:given-name>Andrew</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Migration Policy Institute</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>24</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pierce, Sarah, Jessica Bolter, and Andrew Selee. 2018. “US Immigration Policy under Trump: Deep Changes and Lasting Impacts.” Migration Policy Institute 9: 1–24.</ref-fulltext>
+<ce:source-text>Pierce, Sarah, Jessica Bolter, and Andrew Selee. 2018. “US Immigration Policy under Trump: Deep Changes and Lasting Impacts.” Migration Policy Institute 9: 1–24.</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Barri- ers to Women Engaging in Collective Action to Overcome Sexism</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.R.M.</ce:initials>
+<ce:surname>Radke</ce:surname>
+<ce:given-name>Helena R.M.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Hornsey</ce:surname>
+<ce:given-name>Matthew J.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>F.K.</ce:initials>
+<ce:surname>Barlow</ce:surname>
+<ce:given-name>Fiona Kate</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Psychologist</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>71</vol-first>
+<iss-first>9</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>863</first-page>
+<last-page>874</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Radke, Helena R.M., Matthew J. Hornsey, and Fiona Kate Barlow. 2016. “Barri- ers to Women Engaging in Collective Action to Overcome Sexism.” American Psychologist 71, no. 9: 863–874.</ref-fulltext>
+<ce:source-text>Radke, Helena R.M., Matthew J. Hornsey, and Fiona Kate Barlow. 2016. “Barri- ers to Women Engaging in Collective Action to Overcome Sexism.” American Psychologist 71, no. 9: 863–874.</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The ‘Double Punishment’ for Black Undocumented Immi- grants</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Raff</ce:surname>
+<ce:given-name>Jeremy</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Atlantic</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-website>
+<ce:e-address type="url">https://www.theatlantic.com/politics/archive/2017/12/the-double-punishment-for-black-immigrants/549425/</ce:e-address>
+</ref-website>
+<ref-text>December 30</ref-text>
+</ref-info>
+<ref-fulltext>Raff, Jeremy. “The ‘Double Punishment’ for Black Undocumented Immi- grants.” The Atlantic, December 30, 2017. https://www.theatlantic.com/politics/ archive/2017/12/the-double-punishment-for-black-immigrants/549425/.</ref-fulltext>
+<ce:source-text>Raff, Jeremy. “The ‘Double Punishment’ for Black Undocumented Immi- grants.” The Atlantic, December 30, 2017. https://www.theatlantic.com/politics/ archive/2017/12/the-double-punishment-for-black-immigrants/549425/.</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Ransby</ce:surname>
+<ce:given-name>Barbara</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ella Baker and the Black Freedom Movement: A Radical Democratic Vision</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=DwGN3Z6ga28C&amp;oi=fnd&amp;pg=PR1&amp;dq=ella±baker±ransby&amp;ots=qqUs6J2D2c&amp;sig=0yOBOratX9VhsWo3ZAuuPSwoJzQ</ce:e-address>
+</ref-website>
+<ref-text>Chapel Hill: University of North Carolina Press</ref-text>
+</ref-info>
+<ref-fulltext>Ransby, Barbara. 2003. Ella Baker and the Black Freedom Movement: A Radical Democratic Vision. Chapel Hill: University of North Carolina Press. https:// books.google.com/books?hl=en&amp;lr=&amp;id=DwGN3Z6ga28C&amp;oi=fnd&amp;pg=PR1 &amp;dq=ella±baker±ransby&amp;ots=qqUs6J2D2c&amp;sig=0yOBOratX9VhsWo3ZAuuP SwoJzQ.</ref-fulltext>
+<ce:source-text>Ransby, Barbara. 2003. Ella Baker and the Black Freedom Movement: A Radical Democratic Vision. Chapel Hill: University of North Carolina Press. https:// books.google.com/books?hl=en&amp;lr=&amp;id=DwGN3Z6ga28C&amp;oi=fnd&amp;pg=PR1 &amp;dq=ella±baker±ransby&amp;ots=qqUs6J2D2c&amp;sig=0yOBOratX9VhsWo3ZAuuP SwoJzQ.</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Exploring the Determinants of Feminist Consciousness in the United States</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Reingold</ce:surname>
+<ce:given-name>Beth</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Foust</ce:surname>
+<ce:given-name>Heather</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Women &amp; Politics</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>19</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>19</first-page>
+<last-page>48</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Reingold, Beth, and Heather Foust. 1998. “Exploring the Determinants of Feminist Consciousness in the United States.” Women &amp; Politics 19, no. 3: 19–48.</ref-fulltext>
+<ce:source-text>Reingold, Beth, and Heather Foust. 1998. “Exploring the Determinants of Feminist Consciousness in the United States.” Women &amp; Politics 19, no. 3: 19–48.</ce:source-text>
+</reference>
+<reference seq="118">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Richie</ce:surname>
+<ce:given-name>Beth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Compelled to Crime: The Gender Entrapment of Battered Black Women</ref-sourcetitle>
+<ref-text>London, England: Psychology Press</ref-text>
+</ref-info>
+<ref-fulltext>Richie, Beth. 1996. Compelled to Crime: The Gender Entrapment of Battered Black Women. London, England: Psychology Press.</ref-fulltext>
+<ce:source-text>Richie, Beth. 1996. Compelled to Crime: The Gender Entrapment of Battered Black Women. London, England: Psychology Press.</ce:source-text>
+</reference>
+<reference seq="119">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.E.</ce:initials>
+<ce:surname>Roberts</ce:surname>
+<ce:given-name>Dorothy E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Killing the Black Body: Race, Reproduction, and the Meaning of Liberty</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>New York: Vintage</ref-text>
+</ref-info>
+<ref-fulltext>Roberts, Dorothy E. 1999. Killing the Black Body: Race, Reproduction, and the Meaning of Liberty. New York: Vintage.</ref-fulltext>
+<ce:source-text>Roberts, Dorothy E. 1999. Killing the Black Body: Race, Reproduction, and the Meaning of Liberty. New York: Vintage.</ce:source-text>
+</reference>
+<reference seq="120">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Inclusion of Citizenship Status in Intersectionality: What Immigration Raids Tells Us about Mixed-Status Families, the State and Assimilation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Romero</ce:surname>
+<ce:given-name>Mary</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Sociology of the Family</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>34</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>131</first-page>
+<last-page>152</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Romero, Mary. 2008. “The Inclusion of Citizenship Status in Intersectionality: What Immigration Raids Tells Us about Mixed-Status Families, the State and Assimilation.” International Journal of Sociology of the Family 34, no. 2: 131–152.</ref-fulltext>
+<ce:source-text>Romero, Mary. 2008. “The Inclusion of Citizenship Status in Intersectionality: What Immigration Raids Tells Us about Mixed-Status Families, the State and Assimilation.” International Journal of Sociology of the Family 34, no. 2: 131–152.</ce:source-text>
+</reference>
+<reference seq="121">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Explaining Racial Disparities in Adverse Birth Outcomes: Unique Sources of Stress for Black American Women</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Rosenthal</ce:surname>
+<ce:given-name>Lisa</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Lobel</ce:surname>
+<ce:given-name>Marci</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Science &amp; Medicine</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>72</vol-first>
+<iss-first>6</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>977</first-page>
+<last-page>983</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rosenthal, Lisa, and Marci Lobel. 2011. “Explaining Racial Disparities in Adverse Birth Outcomes: Unique Sources of Stress for Black American Women.” Social Science &amp; Medicine 72, no. 6: 977–983.</ref-fulltext>
+<ce:source-text>Rosenthal, Lisa, and Marci Lobel. 2011. “Explaining Racial Disparities in Adverse Birth Outcomes: Unique Sources of Stress for Black American Women.” Social Science &amp; Medicine 72, no. 6: 977–983.</ce:source-text>
+</reference>
+<reference seq="122">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Performing Black Womanhood: A Qualitative Study of Stereotypes and the Healthcare Encounter</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.K.</ce:initials>
+<ce:surname>Sacks</ce:surname>
+<ce:given-name>Tina K.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Critical Public Health</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>59</first-page>
+<last-page>69</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sacks, Tina K. 2018. “Performing Black Womanhood: A Qualitative Study of Stereotypes and the Healthcare Encounter.” Critical Public Health 28, no. 1: 59–69.</ref-fulltext>
+<ce:source-text>Sacks, Tina K. 2018. “Performing Black Womanhood: A Qualitative Study of Stereotypes and the Healthcare Encounter.” Critical Public Health 28, no. 1: 59–69.</ce:source-text>
+</reference>
+<reference seq="123">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Role of Group Consciousness in Political Par- ticipation among Latinos in the United States</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.R.</ce:initials>
+<ce:surname>Sanchez</ce:surname>
+<ce:given-name>Gabriel R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Politics Research</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>34</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>427</first-page>
+<last-page>450</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sanchez, Gabriel R. 2006. “The Role of Group Consciousness in Political Par- ticipation among Latinos in the United States.” American Politics Research 34, no. 4: 427–450.</ref-fulltext>
+<ce:source-text>Sanchez, Gabriel R. 2006. “The Role of Group Consciousness in Political Par- ticipation among Latinos in the United States.” American Politics Research 34, no. 4: 427–450.</ce:source-text>
+</reference>
+<reference seq="124">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The First-Daughter Effect: The Impact of Fathering Daughters on Men’s Preferences for Gender-Equality Policies</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.A.</ce:initials>
+<ce:surname>Sharrow</ce:surname>
+<ce:given-name>Elizabeth A.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.H.</ce:initials>
+<ce:surname>Rhodes</ce:surname>
+<ce:given-name>Jesse H.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>T.M.</ce:initials>
+<ce:surname>Nteta</ce:surname>
+<ce:given-name>Tatishe M.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Greenlee</ce:surname>
+<ce:given-name>Jill S.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Public Opinion Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>82</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>493</first-page>
+<last-page>523</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sharrow, Elizabeth A., Jesse H. Rhodes, Tatishe M. Nteta, and Jill S. Greenlee. 2018. “The First-Daughter Effect: The Impact of Fathering Daughters on Men’s Preferences for Gender-Equality Policies.” Public Opinion Quarterly 82, no. 3: 493–523.</ref-fulltext>
+<ce:source-text>Sharrow, Elizabeth A., Jesse H. Rhodes, Tatishe M. Nteta, and Jill S. Greenlee. 2018. “The First-Daughter Effect: The Impact of Fathering Daughters on Men’s Preferences for Gender-Equality Policies.” Public Opinion Quarterly 82, no. 3: 493–523.</ce:source-text>
+</reference>
+<reference seq="125">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Black Consciousness and Political Participation: The Missing Link</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.D.</ce:initials>
+<ce:surname>Shingles</ce:surname>
+<ce:given-name>Richard D.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Political Science Review</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>75</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>76</first-page>
+<last-page>91</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Shingles, Richard D. 1981. “Black Consciousness and Political Participation: The Missing Link.” American Political Science Review 75, no. 1: 76–91.</ref-fulltext>
+<ce:source-text>Shingles, Richard D. 1981. “Black Consciousness and Political Participation: The Missing Link.” American Political Science Review 75, no. 1: 76–91.</ce:source-text>
+</reference>
+<reference seq="126">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Race, Gender, and Linked Fate</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.M.</ce:initials>
+<ce:surname>Simien</ce:surname>
+<ce:given-name>Evelyn M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Black Studies</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>35</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>529</first-page>
+<last-page>550</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/0021934704265899</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Simien, Evelyn M. 2005. “Race, Gender, and Linked Fate.” Journal of Black Studies 35, no. 5: 529–550. https://doi.org/10.1177/0021934704265899.</ref-fulltext>
+<ce:source-text>Simien, Evelyn M. 2005. “Race, Gender, and Linked Fate.” Journal of Black Studies 35, no. 5: 529–550. https://doi.org/10.1177/0021934704265899.</ce:source-text>
+</reference>
+<reference seq="127">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.M.</ce:initials>
+<ce:surname>Simien</ce:surname>
+<ce:given-name>Evelyn M.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Black Feminist Voices in Politics</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=Oiv</ce:e-address>
+</ref-website>
+<ref-text>New York: State Univer- sity of New York Press</ref-text>
+</ref-info>
+<ref-fulltext>Simien, Evelyn M. 2006. Black Feminist Voices in Politics. New York: State Univer- sity of New York Press.https://books.google.com/books?hl=en&amp;lr=&amp;id=Oiv Bug9T3ZYC&amp;oi=fnd&amp;pg=PR1&amp;dq=black±feminist±voices&amp;ots=F3HQ5dhcz V&amp;sig=G9—tqOFcywNzmqyER7SFYWCS80.</ref-fulltext>
+<ce:source-text>Simien, Evelyn M. 2006. Black Feminist Voices in Politics. New York: State Univer- sity of New York Press.https://books.google.com/books?hl=en&amp;lr=&amp;id=Oiv Bug9T3ZYC&amp;oi=fnd&amp;pg=PR1&amp;dq=black±feminist±voices&amp;ots=F3HQ5dhcz V&amp;sig=G9—tqOFcywNzmqyER7SFYWCS80.</ce:source-text>
+</reference>
+<reference seq="128">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Intersection of Race and Gender: An Examination of Black Feminist Consciousness, Race Consciousness, and Policy Attitudes</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.M.</ce:initials>
+<ce:surname>Simien</ce:surname>
+<ce:given-name>Evelyn M.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>R.A.</ce:initials>
+<ce:surname>Clawson</ce:surname>
+<ce:given-name>Rosalee A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Science Quarterly</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>85</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>793</first-page>
+<last-page>810</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Simien, Evelyn M., and Rosalee A. Clawson. 2004. “The Intersection of Race and Gender: An Examination of Black Feminist Consciousness, Race Consciousness, and Policy Attitudes.” Social Science Quarterly 85, no. 3: 793–810.</ref-fulltext>
+<ce:source-text>Simien, Evelyn M., and Rosalee A. Clawson. 2004. “The Intersection of Race and Gender: An Examination of Black Feminist Consciousness, Race Consciousness, and Policy Attitudes.” Social Science Quarterly 85, no. 3: 793–810.</ce:source-text>
+</reference>
+<reference seq="129">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Social Causes and Political Consequences of Group Empathy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.V.</ce:initials>
+<ce:surname>Sirin</ce:surname>
+<ce:given-name>Cigdem V.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.A.</ce:initials>
+<ce:surname>Valentino</ce:surname>
+<ce:given-name>Nicholas A.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>J.D.</ce:initials>
+<ce:surname>Villalobos</ce:surname>
+<ce:given-name>José D.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Political Psychology</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>38</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>427</first-page>
+<last-page>448</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sirin, Cigdem V., Nicholas A. Valentino, and José D. Villalobos. 2017. “The Social Causes and Political Consequences of Group Empathy.” Political Psychology 38, no. 3: 427–448.</ref-fulltext>
+<ce:source-text>Sirin, Cigdem V., Nicholas A. Valentino, and José D. Villalobos. 2017. “The Social Causes and Political Consequences of Group Empathy.” Political Psychology 38, no. 3: 427–448.</ce:source-text>
+</reference>
+<reference seq="130">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Slaughter</ce:surname>
+<ce:given-name>Christine</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Crowder</ce:surname>
+<ce:given-name>Chaya</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>C.</ce:initials>
+<ce:surname>Greer</ce:surname>
+<ce:given-name>Christina</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics &amp; Gender</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>162</first-page>
+<last-page>181</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Slaughter, Christine, Chaya Crowder, and Christina Greer. 2019. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics &amp; Gender 20, no. 1 162–181.</ref-fulltext>
+<ce:source-text>Slaughter, Christine, Chaya Crowder, and Christina Greer. 2019. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics &amp; Gender 20, no. 1 162–181.</ce:source-text>
+</reference>
+<reference seq="131">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Intersectionality in Electoral Politics: A Mess Worth Making</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Smooth</ce:surname>
+<ce:given-name>Wendy</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics &amp; Gender</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>400</first-page>
+<last-page>414</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Smooth, Wendy. 2006. “Intersectionality in Electoral Politics: A Mess Worth Making.” Politics &amp; Gender 2, no. 3: 400–414.</ref-fulltext>
+<ce:source-text>Smooth, Wendy. 2006. “Intersectionality in Electoral Politics: A Mess Worth Making.” Politics &amp; Gender 2, no. 3: 400–414.</ce:source-text>
+</reference>
+<reference seq="132">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.V.</ce:initials>
+<ce:surname>Spelman</ce:surname>
+<ce:given-name>Elizabeth V.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Inessential Woman: Problems of Exclusion in Feminist Thought</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<ref-text>Boston: Beacon Press</ref-text>
+</ref-info>
+<ref-fulltext>Spelman, Elizabeth V. 1988. Inessential Woman: Problems of Exclusion in Feminist Thought. Boston: Beacon Press.</ref-fulltext>
+<ce:source-text>Spelman, Elizabeth V. 1988. Inessential Woman: Problems of Exclusion in Feminist Thought. Boston: Beacon Press.</ce:source-text>
+</reference>
+<reference seq="133">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Affirmative Advocacy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.Z.</ce:initials>
+<ce:surname>Strolovitch</ce:surname>
+<ce:given-name>Dara Z.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Race, Class, and Gender in Interest Group</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Strolovitch, Dara Z. 2007. “Affirmative Advocacy.” Race, Class, and Gender in Interest Group. Chicago: University of Chicago Press.</ref-fulltext>
+<ce:source-text>Strolovitch, Dara Z. 2007. “Affirmative Advocacy.” Race, Class, and Gender in Interest Group. Chicago: University of Chicago Press.</ce:source-text>
+</reference>
+<reference seq="134">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Intersectionality in Time: Sexuality and the Shifting Boundaries of Intersectional Marginalization</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.Z.</ce:initials>
+<ce:surname>Strolovitch</ce:surname>
+<ce:given-name>Dara Z.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics &amp; Gender</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>8</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>386</first-page>
+<last-page>396</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Strolovitch, Dara Z. 2012. “Intersectionality in Time: Sexuality and the Shifting Boundaries of Intersectional Marginalization.” Politics &amp; Gender 8, no. 3: 386– 396.</ref-fulltext>
+<ce:source-text>Strolovitch, Dara Z. 2012. “Intersectionality in Time: Sexuality and the Shifting Boundaries of Intersectional Marginalization.” Politics &amp; Gender 8, no. 3: 386– 396.</ce:source-text>
+</reference>
+<reference seq="135">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Respectability, Anti- Respectability, and Intersectionally Responsible Representation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.Z.</ce:initials>
+<ce:surname>Strolovitch</ce:surname>
+<ce:given-name>Dara Z.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.Y.</ce:initials>
+<ce:surname>Crowder</ce:surname>
+<ce:given-name>Chaya Y.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>PS: Political Science &amp; Politics</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>51</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>340</first-page>
+<last-page>344</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Strolovitch, Dara Z., and Chaya Y. Crowder. 2018. “Respectability, Anti- Respectability, and Intersectionally Responsible Representation.” PS: Political Science &amp; Politics 51, no. 2: 340–344.</ref-fulltext>
+<ce:source-text>Strolovitch, Dara Z., and Chaya Y. Crowder. 2018. “Respectability, Anti- Respectability, and Intersectionally Responsible Representation.” PS: Political Science &amp; Politics 51, no. 2: 340–344.</ce:source-text>
+</reference>
+<reference seq="136">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Possessive Investment in White Heteropatriarchy? The 2016 Election and the Politics of Race, Gender, and Sexuality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.Z.</ce:initials>
+<ce:surname>Strolovitch</ce:surname>
+<ce:given-name>Dara Z.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Wong</ce:surname>
+<ce:given-name>Janelle S.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Proctor</ce:surname>
+<ce:given-name>Andrew</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics, Groups, and Identities</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>353</first-page>
+<last-page>363</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/21565503.2017.1310659</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Strolovitch, Dara Z., Janelle S. Wong, and Andrew Proctor. 2017. “A Possessive Investment in White Heteropatriarchy? The 2016 Election and the Politics of Race, Gender, and Sexuality.” Politics, Groups, and Identities 5, no. 2: 353–363. https://doi.org/10.1080/21565503.2017.1310659.</ref-fulltext>
+<ce:source-text>Strolovitch, Dara Z., Janelle S. Wong, and Andrew Proctor. 2017. “A Possessive Investment in White Heteropatriarchy? The 2016 Election and the Politics of Race, Gender, and Sexuality.” Politics, Groups, and Identities 5, no. 2: 353–363. https://doi.org/10.1080/21565503.2017.1310659.</ce:source-text>
+</reference>
+<reference seq="137">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Tate</ce:surname>
+<ce:given-name>Katherine</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From Protest to Politics: The New Black Voters in American Elections</ref-sourcetitle>
+<ref-text>Cambridge, MA: Harvard University Press</ref-text>
+</ref-info>
+<ref-fulltext>Tate, Katherine. 1994. From Protest to Politics: The New Black Voters in American Elections. Cambridge, MA: Harvard University Press.</ref-fulltext>
+<ce:source-text>Tate, Katherine. 1994. From Protest to Politics: The New Black Voters in American Elections. Cambridge, MA: Harvard University Press.</ce:source-text>
+</reference>
+<reference seq="138">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.-Y.</ce:initials>
+<ce:surname>Taylor</ce:surname>
+<ce:given-name>Keeanga-Yamahtta</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>From# Blacklivesmatter to Black Liberation</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=kB6GCwAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=from+black+lives+matter+to+black</ce:e-address>
+</ref-website>
+<ref-text>Chicago: Haymarket Books</ref-text>
+</ref-info>
+<ref-fulltext>Taylor, Keeanga-Yamahtta. 2016. From# BlackLivesMatter to Black Liberation. Chicago: Haymarket Books. https://books.google.com/books?hl=en&amp;lr=&amp;id= kB6GCwAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=from+black+lives+matter+to+black+liberation&amp;ots=7pFURuHDnJ&amp;sig=g49lY7MducmnPLv7OqNQhDr8Pnw.</ref-fulltext>
+<ce:source-text>Taylor, Keeanga-Yamahtta. 2016. From# BlackLivesMatter to Black Liberation. Chicago: Haymarket Books. https://books.google.com/books?hl=en&amp;lr=&amp;id= kB6GCwAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=from+black+lives+matter+to+black+liberation&amp;ots=7pFURuHDnJ&amp;sig=g49lY7MducmnPLv7OqNQhDr8Pnw.</ce:source-text>
+</reference>
+<reference seq="139">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>The New York Times</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Transcript: Donald Trump’s Taped Comments about Women</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">https://www.nytimes.com/2016/10/08/us/donald-trump-tape-transcript.html</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>The New York Times. 2016. “Transcript: Donald Trump’s Taped Comments About Women”. https://www.nytimes.com/2016/10/08/us/donald-trump-tape- transcript.html.</ref-fulltext>
+<ce:source-text>The New York Times. 2016. “Transcript: Donald Trump’s Taped Comments About Women”. https://www.nytimes.com/2016/10/08/us/donald-trump-tape- transcript.html.</ce:source-text>
+</reference>
+<reference seq="140">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Intersectional Solidarity</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Tormos</ce:surname>
+<ce:given-name>Fernando</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Politics, Groups, and Identities</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>707</first-page>
+<last-page>720</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tormos, Fernando. 2017. “Intersectional Solidarity.” Politics, Groups, and Identities 5, no. 4: 707–720.</ref-fulltext>
+<ce:source-text>Tormos, Fernando. 2017. “Intersectional Solidarity.” Politics, Groups, and Identities 5, no. 4: 707–720.</ce:source-text>
+</reference>
+<reference seq="141">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Impact of a Breastfeeding-Friendly Workplace on an Employed Mother’s Intention to Continue Breastfeeding after Returning to Work</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.-Y.</ce:initials>
+<ce:surname>Tsai</ce:surname>
+<ce:given-name>Su-Ying</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Breastfeeding Medicine</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>8</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>210</first-page>
+<last-page>216</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tsai, Su-Ying. 2013. “Impact of a Breastfeeding-Friendly Workplace on an Employed Mother’s Intention to Continue Breastfeeding after Returning to Work.” Breastfeeding Medicine 8, no. 2: 210–216.</ref-fulltext>
+<ce:source-text>Tsai, Su-Ying. 2013. “Impact of a Breastfeeding-Friendly Workplace on an Employed Mother’s Intention to Continue Breastfeeding after Returning to Work.” Breastfeeding Medicine 8, no. 2: 210–216.</ce:source-text>
+</reference>
+<reference seq="142">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Black–White Disparity in Pregnancy-Related Mortality from 5 Condi- tions: Differences in Prevalence and Case-Fatality Rates</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Tucker</ce:surname>
+<ce:given-name>Myra J.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.J.</ce:initials>
+<ce:surname>Berg</ce:surname>
+<ce:given-name>Cynthia J.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>W.M.</ce:initials>
+<ce:surname>Callaghan</ce:surname>
+<ce:given-name>William M.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:surname>Hsia</ce:surname>
+<ce:given-name>Jason</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Journal of Public Health</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>97</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>247</first-page>
+<last-page>251</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tucker, Myra J., Cynthia J. Berg, William M. Callaghan, and Jason Hsia. 2007. “The Black–White Disparity in Pregnancy-Related Mortality from 5 Condi- tions: Differences in Prevalence and Case-Fatality Rates.” American Journal of Public Health 97, no. 2: 247–251.</ref-fulltext>
+<ce:source-text>Tucker, Myra J., Cynthia J. Berg, William M. Callaghan, and Jason Hsia. 2007. “The Black–White Disparity in Pregnancy-Related Mortality from 5 Condi- tions: Differences in Prevalence and Case-Fatality Rates.” American Journal of Public Health 97, no. 2: 247–251.</ce:source-text>
+</reference>
+<reference seq="143">
+<ref-info>
+<ref-title>
+<ref-titletext-english>I had the luxury …’: Organiza- tional breastfeeding support as privatized privilege</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.K.</ce:initials>
+<ce:surname>Turner</ce:surname>
+<ce:given-name>Paaige K.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Norwood</ce:surname>
+<ce:given-name>Kristen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Relations</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>67</vol-first>
+<iss-first>7</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>849</first-page>
+<last-page>874</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Turner, Paaige K., and Kristen Norwood. 2014. “‘I had the luxury …’: Organiza- tional breastfeeding support as privatized privilege.” Human Relations 67, no. 7: 849–874.</ref-fulltext>
+<ce:source-text>Turner, Paaige K., and Kristen Norwood. 2014. “‘I had the luxury …’: Organiza- tional breastfeeding support as privatized privilege.” Human Relations 67, no. 7: 849–874.</ce:source-text>
+</reference>
+<reference seq="144">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Verba</ce:surname>
+<ce:given-name>Sidney</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>N.H.</ce:initials>
+<ce:surname>Nie</ce:surname>
+<ce:given-name>Norman H.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Participation in America</ref-sourcetitle>
+<ref-text>New York: Harper &amp; Row</ref-text>
+</ref-info>
+<ref-fulltext>Verba, Sidney, and Norman H. Nie. 1972. Participation in America. New York: Harper &amp; Row.</ref-fulltext>
+<ce:source-text>Verba, Sidney, and Norman H. Nie. 1972. Participation in America. New York: Harper &amp; Row.</ce:source-text>
+</reference>
+<reference seq="145">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.A.</ce:initials>
+<ce:surname>Washington</ce:surname>
+<ce:given-name>Harriet A.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to The Present</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=q0bMejttqgEC&amp;oi=fnd&amp;pg=PA1&amp;dq=medical±experiments±on±black±women±slavery&amp;ots=wc-HWfantb&amp;sig=3fLngH17uDto3dv-qbKeFWl6Jw</ce:e-address>
+</ref-website>
+<ref-text>New York: Doubleday Books</ref-text>
+</ref-info>
+<ref-fulltext>Washington, Harriet A. 2006. Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present. New York: Doubleday Books. https://books.google.com/books?hl=en&amp;lr= &amp;id=q0bMejttqgEC&amp;oi=fnd&amp;pg=PA1&amp;dq=medical±experiments±on±black± women±slavery&amp;ots=wc-HWfantb&amp;sig=3fLngH17uDto3dv-qbKeFWl6Jw.</ref-fulltext>
+<ce:source-text>Washington, Harriet A. 2006. Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present. New York: Doubleday Books. https://books.google.com/books?hl=en&amp;lr= &amp;id=q0bMejttqgEC&amp;oi=fnd&amp;pg=PA1&amp;dq=medical±experiments±on±black± women±slavery&amp;ots=wc-HWfantb&amp;sig=3fLngH17uDto3dv-qbKeFWl6Jw.</ce:source-text>
+</reference>
+<reference seq="146">
+<ref-info>
+<ref-title>
+<ref-titletext-english>When Race Matters and When It Doesn’t: Racial Group Differences in Response to Racial Cues</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.K.</ce:initials>
+<ce:surname>White</ce:surname>
+<ce:given-name>Ismail K.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Political Science Review</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>101</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>339</first-page>
+<last-page>354</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>White, Ismail K. 2007. “When Race Matters and When It Doesn’t: Racial Group Differences in Response to Racial Cues.” American Political Science Review 101, no. 2: 339–354.</ref-fulltext>
+<ce:source-text>White, Ismail K. 2007. “When Race Matters and When It Doesn’t: Racial Group Differences in Response to Racial Cues.” American Political Science Review 101, no. 2: 339–354.</ce:source-text>
+</reference>
+<reference seq="147">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Selling Out?: The Pol- itics of Navigating Conflicts between Racial Group Interest and Self-Interest</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.K.</ce:initials>
+<ce:surname>White</ce:surname>
+<ce:given-name>Ismail K.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.N.</ce:initials>
+<ce:surname>Laird</ce:surname>
+<ce:given-name>Chryl N.</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>T.D.</ce:initials>
+<ce:surname>Allen</ce:surname>
+<ce:given-name>Troy D.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Political Science Review</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>108</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>783</first-page>
+<last-page>800</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>White, Ismail K., Chryl N. Laird, and Troy D. Allen. 2014. “Selling Out?: The Pol- itics of Navigating Conflicts between Racial Group Interest and Self-Interest.” American Political Science Review 108, no. 4: 783–800.</ref-fulltext>
+<ce:source-text>White, Ismail K., Chryl N. Laird, and Troy D. Allen. 2014. “Selling Out?: The Pol- itics of Navigating Conflicts between Racial Group Interest and Self-Interest.” American Political Science Review 108, no. 4: 783–800.</ce:source-text>
+</reference>
+<reference seq="148">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Work, Race and Breast- feeding Outcomes for Mothers in the United States</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.D.</ce:initials>
+<ce:surname>Whitley</ce:surname>
+<ce:given-name>Margaret D.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ro</ce:surname>
+<ce:given-name>Annie</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Palma</ce:surname>
+<ce:given-name>Anton</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Plos One</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>16</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>e0251125</ref-text>
+</ref-info>
+<ref-fulltext>Whitley, Margaret D., Annie Ro, and Anton Palma. 2021. “Work, Race and Breast- feeding Outcomes for Mothers in the United States.” PloS One 16, no. 5: e0251125.</ref-fulltext>
+<ce:source-text>Whitley, Margaret D., Annie Ro, and Anton Palma. 2021. “Work, Race and Breast- feeding Outcomes for Mothers in the United States.” PloS One 16, no. 5: e0251125.</ce:source-text>
+</reference>
+<reference seq="149">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.J.</ce:initials>
+<ce:surname>Wilson</ce:surname>
+<ce:given-name>William Julius</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Declining Significance of Race: Blacks and Changing American Institutions</ref-sourcetitle>
+<ref-text>Chicago: University of Chicago Press</ref-text>
+</ref-info>
+<ref-fulltext>Wilson, William Julius. 1978. The Declining Significance of Race: Blacks and Changing American Institutions. Chicago: University of Chicago Press.</ref-fulltext>
+<ce:source-text>Wilson, William Julius. 1978. The Declining Significance of Race: Blacks and Changing American Institutions. Chicago: University of Chicago Press.</ce:source-text>
+</reference>
+<reference seq="150">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.M.</ce:initials>
+<ce:surname>Young</ce:surname>
+<ce:given-name>Iris Marion</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Intersecting Voices: Dilemmas of Gender, Political Philos- Ophy, and Policy</ref-sourcetitle>
+<ref-text>Princeton, NJ: Princeton University Press</ref-text>
+</ref-info>
+<ref-fulltext>Young, Iris Marion. 1997. Intersecting Voices: Dilemmas of Gender, Political Philos- ophy, and Policy. Princeton, NJ: Princeton University Press.</ref-fulltext>
+<ce:source-text>Young, Iris Marion. 1997. Intersecting Voices: Dilemmas of Gender, Political Philos- ophy, and Policy. Princeton, NJ: Princeton University Press.</ce:source-text>
+</reference>
+<reference seq="151">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Zeisler</ce:surname>
+<ce:given-name>Andi</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>We were Feminists Once: From Riot Grrrl to Covergirl, the Buying and Selling of a Political Movement</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-website>
+<ce:e-address type="url">https://books.google.com/books?hl=en&amp;lr=&amp;id=728aDAAAQBAJ&amp;oi=fnd&amp;pg=PR9&amp;dq=zeisler±we±were±feminists±once&amp;ots=0TTvc3Ot_D&amp;sig=5V5W4AocSSIP2c0sgHzG8w7u95E</ce:e-address>
+</ref-website>
+<ref-text>New York: Public Affairs</ref-text>
+</ref-info>
+<ref-fulltext>Zeisler, Andi. 2016. We Were Feminists Once: From Riot Grrrl to CoverGirl, the Buying and Selling of a Political Movement. New York: Public Affairs. https://books.google.com/books?hl=en&amp;lr=&amp;id=728aDAAAQBAJ&amp;oi=fnd&amp;pg=PR9&amp;dq=zeisler±we±were±feminists±once&amp;ots=0TTvc3Ot_D&amp;sig=5V5W4AocSSIP2c0sgHzG8w7u95E.</ref-fulltext>
+<ce:source-text>Zeisler, Andi. 2016. We Were Feminists Once: From Riot Grrrl to CoverGirl, the Buying and Selling of a Political Movement. New York: Public Affairs. https://books.google.com/books?hl=en&amp;lr=&amp;id=728aDAAAQBAJ&amp;oi=fnd&amp;pg=PR9&amp;dq=zeisler±we±were±feminists±once&amp;ots=0TTvc3Ot_D&amp;sig=5V5W4AocSSIP2c0sgHzG8w7u95E.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit>
+</units>
