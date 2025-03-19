@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Comments></Comments>
+    <Selected_for_coverage_YorN>Y</Selected_for_coverage_YorN>
+    <ASJC1>2200</ASJC1>
+    <ASJC2>1200</ASJC2>
+    <ASJC3>2300</ASJC3>
+    <ASJC4>3300</ASJC4>
+    <Book_Language>ENG</Book_Language>
+    <Book_Title>Implementing Sustainable Cities</Book_Title>
+    <Publisher_Name>Taylor &amp; Francis</Publisher_Name>
+    <Publisher_Year>2024-09-16T00:00:00</Publisher_Year>
+    <ISBN13>9781003451402; 9781032587684; 9781040132067; 9781032587707</ISBN13>
+    <E-ISBN13>9781040132043</E-ISBN13>
+    <Audience_Type>05</Audience_Type>
+    <Product_Selection>Scopus; CPX</Product_Selection>
+  </record>
+</Inventory>
