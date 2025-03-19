@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage xmlns="http://ns.editeur.org/onix/3.0/reference"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             release="3.0"
+             xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference ONIX_BookProduct_3.0_reference.xsd">
+   <Header>
+      <Sender>
+         <SenderName>Oxford University Press</SenderName>
+      </Sender>
+      <SentDateTime>20241120T0817Z</SentDateTime>
+      <MessageNote>Online product metadata for Scopus discoverability only platform</MessageNote>
+      <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+   </Header>
+   <Product>
+      <RecordReference>oup.scopus.onix.9780198909620</RecordReference>
+      <NotificationType>03</NotificationType>
+      <ProductIdentifier>
+         <ProductIDType>15</ProductIDType>
+         <IDValue>9780198909620</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+         <ProductIDType>06</ProductIDType>
+         <IDValue>10.1093/9780198909620.001.0001</IDValue>
+      </ProductIdentifier>
+      <DescriptiveDetail>
+         <ProductComposition>00</ProductComposition>
+         <ProductForm>EC</ProductForm>
+         <Collection>
+            <CollectionType>10</CollectionType>
+            <TitleDetail>
+               <TitleType>01</TitleType>
+               <TitleElement>
+                  <TitleElementLevel>02</TitleElementLevel>
+                  <TitleText>Oxford Scholarship Online</TitleText>
+               </TitleElement>
+            </TitleDetail>
+         </Collection>
+         <TitleDetail>
+            <TitleType>01</TitleType>
+            <TitleElement>
+               <TitleElementLevel>01</TitleElementLevel>
+               <TitlePrefix>The</TitlePrefix>
+               <TitleWithoutPrefix>Concept of Emotional Disorder</TitleWithoutPrefix>
+            </TitleElement>
+         </TitleDetail>
+         <Contributor>
+            <SequenceNumber>1</SequenceNumber>
+            <ContributorRole>A01</ContributorRole>
+            <PersonName>Gloria Sibson Ayob</PersonName>
+            <PersonNameInverted>Sibson Ayob, Gloria</PersonNameInverted>
+            <NamesBeforeKey>Gloria</NamesBeforeKey>
+            <KeyNames>Sibson Ayob</KeyNames>
+            <ProfessionalAffiliation>
+               <Affiliation>University of Central Lancashire, Preston, United Kingdom of Great Britain and Northern Ireland (the)</Affiliation>
+            </ProfessionalAffiliation>
+         </Contributor>
+         <EditionNumber>01</EditionNumber>
+         <Extent>
+            <ExtentType>00</ExtentType>
+            <ExtentValue>240</ExtentValue>
+            <ExtentUnit>03</ExtentUnit>
+         </Extent>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>JMQ</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>HPM</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>MMH</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>MMF</SubjectCode>
+         </Subject>
+         <Audience>
+            <AudienceCodeType>01</AudienceCodeType>
+            <AudienceCodeValue>06</AudienceCodeValue>
+         </Audience>
+      </DescriptiveDetail>
+      <CollateralDetail>
+         <TextContent>
+            <TextType>03</TextType>
+            <ContentAudience>00</ContentAudience>
+            <Text textformat="05">
+               <p>This book examines judgements about emotional health and pathology, with the aim of understanding the conceptual structure of these judgements. This is essential for adjudicating the debate about whether psychiatry (over)-pathologizes ordinary emotional experiences, and more broadly, for understanding the place of emotions—especially distressing and unpleasant emotions—in a form of life in which flourishing, personal and moral agency, and self-identity matter. This investigation into the concept of emotional disorder promises to enrich our understanding of the value of emotions in human life. It also introduces new considerations that are germane to the debate about the concept of mental disorder.</p>
+            </Text>
+         </TextContent>
+      </CollateralDetail>
+      <PublishingDetail>
+         <Imprint>
+            <ImprintName>Oxford University Press</ImprintName>
+         </Imprint>
+         <Publisher>
+            <PublishingRole>01</PublishingRole>
+            <PublisherName>Oxford University Press</PublisherName>
+         </Publisher>
+         <CityOfPublication>Oxford</CityOfPublication>
+         <CountryOfPublication>GB</CountryOfPublication>
+         <PublishingStatus>04</PublishingStatus>
+         <PublishingDate>
+            <PublishingDateRole>01</PublishingDateRole>
+            <DateFormat>00</DateFormat>
+            <Date>20241016</Date>
+         </PublishingDate>
+         <SalesRights>
+            <SalesRightsType>02</SalesRightsType>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </SalesRights>
+      </PublishingDetail>
+      <RelatedMaterial>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>15</WorkIDType>
+               <IDValue>9780198909606</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>06</WorkIDType>
+               <IDValue>10.1093/9780198909620.001.0001</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedProduct>
+            <ProductRelationCode>06</ProductRelationCode>
+            <ProductIdentifier>
+               <ProductIDType>15</ProductIDType>
+               <IDValue>9780198909606</IDValue>
+            </ProductIdentifier>
+         </RelatedProduct>
+      </RelatedMaterial>
+      <ProductSupply>
+         <Market>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </Market>
+         <SupplyDetail>
+            <Supplier>
+               <SupplierRole>01</SupplierRole>
+               <SupplierIdentifier>
+                  <SupplierIDType>06</SupplierIDType>
+                  <IDTypeName>GLN</IDTypeName>
+                  <IDValue>5013546025036</IDValue>
+               </SupplierIdentifier>
+               <SupplierName>Oxford University Press</SupplierName>
+               <Website>
+                  <WebsiteRole>29</WebsiteRole>
+                  <WebsiteLink>https://doi.org/10.1093/9780198909620.001.0001</WebsiteLink>
+               </Website>
+            </Supplier>
+            <ProductAvailability>20</ProductAvailability>
+            <UnpricedItemType>04</UnpricedItemType>
+         </SupplyDetail>
+      </ProductSupply>
+   </Product>
+</ONIXMessage>

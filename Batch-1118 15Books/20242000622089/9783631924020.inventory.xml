@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Comments></Comments>
+    <Selected_for_coverage_YorN>Y</Selected_for_coverage_YorN>
+    <ASJC1>3300</ASJC1>
+    <ASJC2>1200</ASJC2>
+    <Book_Language>ENG</Book_Language>
+    <Book_Title>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</Book_Title>
+    <Publisher_Name>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</Publisher_Name>
+    <Publisher_Year>2024-12-03T00:00:00</Publisher_Year>
+    <E-ISBN13>9783631924020</E-ISBN13>
+    <Audience_Type>06</Audience_Type>
+    <Product_Selection>Scopus</Product_Selection>
+  </record>
+</Inventory>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Comments></Comments>
+    <Selected_for_coverage_YorN>Y</Selected_for_coverage_YorN>
+    <ASJC1>1200</ASJC1>
+    <ASJC2>3200</ASJC2>
+    <ASJC3>2700</ASJC3>
+    <Book_Language>ENG</Book_Language>
+    <Book_Title>The Concept of Emotional Disorder</Book_Title>
+    <Publisher_Name>Oxford University Press</Publisher_Name>
+    <Publisher_Year>2024-10-16T00:00:00</Publisher_Year>
+    <ISBN13>9780198909606</ISBN13>
+    <E-ISBN13>9780198909620</E-ISBN13>
+    <Series_Title>Oxford Scholarship Online</Series_Title>
+    <Audience_Type>06</Audience_Type>
+    <Product_Selection>Scopus</Product_Selection>
+  </record>
+</Inventory>
