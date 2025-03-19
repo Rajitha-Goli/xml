@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage xmlns="http://ns.editeur.org/onix/3.0/reference"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             release="3.0"
+             xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference ONIX_BookProduct_3.0_reference.xsd">
+   <Header>
+      <Sender>
+         <SenderName>Oxford University Press</SenderName>
+      </Sender>
+      <SentDateTime>20250225T1751Z</SentDateTime>
+      <MessageNote>Online product metadata for Scopus discoverability only platform</MessageNote>
+      <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+   </Header>
+   <Product>
+      <RecordReference>oup.scopus.onix.9780198943884</RecordReference>
+      <NotificationType>03</NotificationType>
+      <ProductIdentifier>
+         <ProductIDType>15</ProductIDType>
+         <IDValue>9780198943884</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+         <ProductIDType>06</ProductIDType>
+         <IDValue>10.1093/9780198943884.001.0001</IDValue>
+      </ProductIdentifier>
+      <DescriptiveDetail>
+         <ProductComposition>00</ProductComposition>
+         <ProductForm>EC</ProductForm>
+         <Collection>
+            <CollectionType>10</CollectionType>
+            <TitleDetail>
+               <TitleType>01</TitleType>
+               <TitleElement>
+                  <TitleElementLevel>02</TitleElementLevel>
+                  <TitleText>Oxford Scholarship Online</TitleText>
+               </TitleElement>
+            </TitleDetail>
+         </Collection>
+         <TitleDetail>
+            <TitleType>01</TitleType>
+            <TitleElement>
+               <TitleElementLevel>01</TitleElementLevel>
+               <TitleText>Churchyard Poetics</TitleText>
+               <Subtitle>Landscape, Labour, and the Legacy of Genre</Subtitle>
+            </TitleElement>
+         </TitleDetail>
+         <Contributor>
+            <SequenceNumber>1</SequenceNumber>
+            <ContributorRole>A01</ContributorRole>
+            <PersonName>James Metcalf</PersonName>
+            <PersonNameInverted>Metcalf, James</PersonNameInverted>
+            <NamesBeforeKey>James</NamesBeforeKey>
+            <KeyNames>Metcalf</KeyNames>
+            <ProfessionalAffiliation>
+               <Affiliation>The University of Manchester, United Kingdom of Great Britain and Northern Ireland (the)</Affiliation>
+            </ProfessionalAffiliation>
+         </Contributor>
+         <EditionNumber>01</EditionNumber>
+         <Extent>
+            <ExtentType>00</ExtentType>
+            <ExtentValue>208</ExtentValue>
+            <ExtentUnit>03</ExtentUnit>
+         </Extent>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>DCF</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>D</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>DSBD</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>DSC</SubjectCode>
+         </Subject>
+         <Audience>
+            <AudienceCodeType>01</AudienceCodeType>
+            <AudienceCodeValue>06</AudienceCodeValue>
+         </Audience>
+      </DescriptiveDetail>
+      <CollateralDetail>
+         <TextContent>
+            <TextType>03</TextType>
+            <ContentAudience>00</ContentAudience>
+            <Text textformat="05">
+               <p>The familiar literary-critical category of ‘graveyard poetry’ has made the eighteenth-century churchyard a commonplace in the period’s cultural imaginary: a location in which melancholy, religious poets get lost in imaginative reveries or didactic visions of the afterlife. By contrast, Churchyard Poetics: Landscape, Labour, and the Legacy of Genre shows how the churchyard takes on a new shape and a fresh importance for a counter-tradition of women and labouring-class poets, for whom this landscape is a resting place with no closure. In work by Mary Leapor, Ann Yearsley, Charlotte Smith, and John Clare—but also for Robert Blair, Thomas Gray, and William Wordsworth—the churchyard emerges as a contested space of social life through a shared focus on the body as the instrument of labour. The book focuses on how these poets use genres such as georgic, pastoral, topographical poetry, and elegy to locate the churchyard in a broader terrain of laborious life, disarranged in the press towards industrial capitalism. Managing the material of their violently reordered world through genre and other aesthetic strategies, these poets articulate the pressures on working bodies and the associated structures of feeling attendant on the experience of history at its sharpest edge. The poems examined in Churchyard Poetics thus strain against without resolving the ideal the churchyard is made to express: that collective life is reassuringly organized around places of burial and remembrance. Declining continuity or consolation, the poets at the centre of this book refigure the churchyard as a traumatized landscape and unearth from its wounded ground an affective archive of social injury—of bodies compelled into service by new regimes of labour and dispatched to the churchyard when their usefulness runs out.</p>
+            </Text>
+         </TextContent>
+      </CollateralDetail>
+      <PublishingDetail>
+         <Imprint>
+            <ImprintName>Oxford University Press</ImprintName>
+         </Imprint>
+         <Publisher>
+            <PublishingRole>01</PublishingRole>
+            <PublisherName>Oxford University Press</PublisherName>
+         </Publisher>
+         <CityOfPublication>Oxford</CityOfPublication>
+         <CountryOfPublication>GB</CountryOfPublication>
+         <PublishingStatus>04</PublishingStatus>
+         <PublishingDate>
+            <PublishingDateRole>01</PublishingDateRole>
+            <DateFormat>00</DateFormat>
+            <Date>20250106</Date>
+         </PublishingDate>
+         <SalesRights>
+            <SalesRightsType>02</SalesRightsType>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </SalesRights>
+      </PublishingDetail>
+      <RelatedMaterial>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>15</WorkIDType>
+               <IDValue>9780198943853</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>06</WorkIDType>
+               <IDValue>10.1093/9780198943884.001.0001</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedProduct>
+            <ProductRelationCode>06</ProductRelationCode>
+            <ProductIdentifier>
+               <ProductIDType>15</ProductIDType>
+               <IDValue>9780198943853</IDValue>
+            </ProductIdentifier>
+         </RelatedProduct>
+      </RelatedMaterial>
+      <ProductSupply>
+         <Market>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </Market>
+         <SupplyDetail>
+            <Supplier>
+               <SupplierRole>01</SupplierRole>
+               <SupplierIdentifier>
+                  <SupplierIDType>06</SupplierIDType>
+                  <IDTypeName>GLN</IDTypeName>
+                  <IDValue>5013546025036</IDValue>
+               </SupplierIdentifier>
+               <SupplierName>Oxford University Press</SupplierName>
+               <Website>
+                  <WebsiteRole>29</WebsiteRole>
+                  <WebsiteLink>https://doi.org/10.1093/9780198943884.001.0001</WebsiteLink>
+               </Website>
+            </Supplier>
+            <ProductAvailability>20</ProductAvailability>
+            <UnpricedItemType>04</UnpricedItemType>
+         </SupplyDetail>
+      </ProductSupply>
+   </Product>
+</ONIXMessage>

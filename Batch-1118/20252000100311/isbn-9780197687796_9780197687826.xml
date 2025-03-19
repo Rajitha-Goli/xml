@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage xmlns="http://ns.editeur.org/onix/3.0/reference"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             release="3.0"
+             xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference ONIX_BookProduct_3.0_reference.xsd">
+   <Header>
+      <Sender>
+         <SenderName>Oxford University Press</SenderName>
+      </Sender>
+      <SentDateTime>20250225T1751Z</SentDateTime>
+      <MessageNote>Online product metadata for Scopus discoverability only platform</MessageNote>
+      <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+   </Header>
+   <Product>
+      <RecordReference>oup.scopus.onix.9780197687826</RecordReference>
+      <NotificationType>03</NotificationType>
+      <ProductIdentifier>
+         <ProductIDType>15</ProductIDType>
+         <IDValue>9780197687826</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+         <ProductIDType>06</ProductIDType>
+         <IDValue>10.1093/9780197687826.001.0001</IDValue>
+      </ProductIdentifier>
+      <DescriptiveDetail>
+         <ProductComposition>00</ProductComposition>
+         <ProductForm>EC</ProductForm>
+         <Collection>
+            <CollectionType>10</CollectionType>
+            <TitleDetail>
+               <TitleType>01</TitleType>
+               <TitleElement>
+                  <TitleElementLevel>02</TitleElementLevel>
+                  <TitleText>Oxford Scholarship Online</TitleText>
+               </TitleElement>
+            </TitleDetail>
+         </Collection>
+         <TitleDetail>
+            <TitleType>01</TitleType>
+            <TitleElement>
+               <TitleElementLevel>01</TitleElementLevel>
+               <TitlePrefix>The</TitlePrefix>
+               <TitleWithoutPrefix>Social Cost of Carbon</TitleWithoutPrefix>
+               <Subtitle>Ethics and the Limits of Climate Change Economics</Subtitle>
+            </TitleElement>
+         </TitleDetail>
+         <Contributor>
+            <SequenceNumber>1</SequenceNumber>
+            <ContributorRole>A01</ContributorRole>
+            <PersonName>J. Paul Kelleher</PersonName>
+            <PersonNameInverted>Kelleher, J. Paul</PersonNameInverted>
+            <NamesBeforeKey>J. Paul</NamesBeforeKey>
+            <KeyNames>Kelleher</KeyNames>
+            <ProfessionalAffiliation>
+               <Affiliation>University of Wisconsin–Madison</Affiliation>
+            </ProfessionalAffiliation>
+         </Contributor>
+         <EditionNumber>01</EditionNumber>
+         <Extent>
+            <ExtentType>00</ExtentType>
+            <ExtentValue>280</ExtentValue>
+            <ExtentUnit>03</ExtentUnit>
+         </Extent>
+         <Subject>
+            <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BISAC Subject Heading</SubjectSchemeName>
+            <SubjectCode>PHI005000</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BISAC Subject Heading</SubjectSchemeName>
+            <SubjectCode>POL044000</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BISAC Subject Heading</SubjectSchemeName>
+            <SubjectCode>PHI019000</SubjectCode>
+         </Subject>
+         <Audience>
+            <AudienceCodeType>01</AudienceCodeType>
+            <AudienceCodeValue>06</AudienceCodeValue>
+         </Audience>
+      </DescriptiveDetail>
+      <CollateralDetail>
+         <TextContent>
+            <TextType>03</TextType>
+            <ContentAudience>00</ContentAudience>
+            <Text textformat="05">
+               <p>Climate change economists have called it “the most important number you have never heard of” and the “holy grail of climate economic analysis.” It is the social cost of carbon (SCC), and its purpose is to reflect—in one dollar figure—the harm caused by emitting a single ton of carbon dioxide into the atmosphere. The SCC is an essential concept for environmental cost-benefit analysis, and for the idea of an “optimal tax” on carbon emissions. It is also the subject of fierce debate in the academic literature and in American politics. This book offers the most systematic analysis yet of the social cost of carbon, its theoretical basis, and its proper role in climate economics and climate policy design. It explains that the SCC is not one concept but four, each of which is addressed to a distinct task in climate economics. Moreover, these four concepts can be sorted into two families that correspond to the two main branches of welfare economics, social choice theory and general equilibrium theory. The book explains these radically different theoretical frameworks and how a mathematically identical pair of SCC concepts can emerge from each. It then argues that the analytical power of each SCC concept is limited by its inability to capture the full array of ethical considerations that bear on responsible climate policy. Despite these limitations, the book explains how at least some SCC concepts can and should be put to work in real-world climate change policy analysis.</p>
+            </Text>
+         </TextContent>
+      </CollateralDetail>
+      <PublishingDetail>
+         <Imprint>
+            <ImprintName>Oxford University Press</ImprintName>
+         </Imprint>
+         <Publisher>
+            <PublishingRole>01</PublishingRole>
+            <PublisherName>Oxford University Press</PublisherName>
+         </Publisher>
+         <CityOfPublication>New York, NY</CityOfPublication>
+         <CountryOfPublication>US</CountryOfPublication>
+         <PublishingStatus>04</PublishingStatus>
+         <PublishingDate>
+            <PublishingDateRole>01</PublishingDateRole>
+            <DateFormat>00</DateFormat>
+            <Date>20250102</Date>
+         </PublishingDate>
+         <SalesRights>
+            <SalesRightsType>02</SalesRightsType>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </SalesRights>
+      </PublishingDetail>
+      <RelatedMaterial>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>15</WorkIDType>
+               <IDValue>9780197687796</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>06</WorkIDType>
+               <IDValue>10.1093/9780197687826.001.0001</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedProduct>
+            <ProductRelationCode>06</ProductRelationCode>
+            <ProductIdentifier>
+               <ProductIDType>15</ProductIDType>
+               <IDValue>9780197687796</IDValue>
+            </ProductIdentifier>
+         </RelatedProduct>
+      </RelatedMaterial>
+      <ProductSupply>
+         <Market>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </Market>
+         <SupplyDetail>
+            <Supplier>
+               <SupplierRole>01</SupplierRole>
+               <SupplierIdentifier>
+                  <SupplierIDType>06</SupplierIDType>
+                  <IDTypeName>GLN</IDTypeName>
+                  <IDValue>5013546025036</IDValue>
+               </SupplierIdentifier>
+               <SupplierName>Oxford University Press</SupplierName>
+               <Website>
+                  <WebsiteRole>29</WebsiteRole>
+                  <WebsiteLink>https://doi.org/10.1093/9780197687826.001.0001</WebsiteLink>
+               </Website>
+            </Supplier>
+            <ProductAvailability>20</ProductAvailability>
+            <UnpricedItemType>04</UnpricedItemType>
+         </SupplyDetail>
+      </ProductSupply>
+   </Product>
+</ONIXMessage>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage xmlns="http://ns.editeur.org/onix/3.0/reference"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             release="3.0"
+             xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference ONIX_BookProduct_3.0_reference.xsd">
+   <Header>
+      <Sender>
+         <SenderName>Oxford University Press</SenderName>
+      </Sender>
+      <SentDateTime>20250225T1752Z</SentDateTime>
+      <MessageNote>Online product metadata for Scopus discoverability only platform</MessageNote>
+      <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+   </Header>
+   <Product>
+      <RecordReference>oup.scopus.onix.9780191954931</RecordReference>
+      <NotificationType>03</NotificationType>
+      <ProductIdentifier>
+         <ProductIDType>15</ProductIDType>
+         <IDValue>9780191954931</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+         <ProductIDType>06</ProductIDType>
+         <IDValue>10.1093/9780191954931.001.0001</IDValue>
+      </ProductIdentifier>
+      <DescriptiveDetail>
+         <ProductComposition>00</ProductComposition>
+         <ProductForm>EC</ProductForm>
+         <Collection>
+            <CollectionType>10</CollectionType>
+            <TitleDetail>
+               <TitleType>01</TitleType>
+               <TitleElement>
+                  <TitleElementLevel>02</TitleElementLevel>
+                  <TitleText>Oxford Scholarship Online</TitleText>
+               </TitleElement>
+            </TitleDetail>
+         </Collection>
+         <TitleDetail>
+            <TitleType>01</TitleType>
+            <TitleElement>
+               <TitleElementLevel>01</TitleElementLevel>
+               <TitlePrefix>The</TitlePrefix>
+               <TitleWithoutPrefix>Ethics of Advising</TitleWithoutPrefix>
+            </TitleElement>
+         </TitleDetail>
+         <Contributor>
+            <SequenceNumber>1</SequenceNumber>
+            <ContributorRole>A01</ContributorRole>
+            <PersonName>Monique Jonas</PersonName>
+            <PersonNameInverted>Jonas, Monique</PersonNameInverted>
+            <NamesBeforeKey>Monique</NamesBeforeKey>
+            <KeyNames>Jonas</KeyNames>
+            <ProfessionalAffiliation>
+               <Affiliation>University of Auckland, New Zealand</Affiliation>
+            </ProfessionalAffiliation>
+         </Contributor>
+         <EditionNumber>01</EditionNumber>
+         <Extent>
+            <ExtentType>00</ExtentType>
+            <ExtentValue>256</ExtentValue>
+            <ExtentUnit>03</ExtentUnit>
+         </Extent>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>HPQ</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>CFA</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BIC subject category</SubjectSchemeName>
+            <SubjectCode>HPS</SubjectCode>
+         </Subject>
+         <Audience>
+            <AudienceCodeType>01</AudienceCodeType>
+            <AudienceCodeValue>06</AudienceCodeValue>
+         </Audience>
+      </DescriptiveDetail>
+      <CollateralDetail>
+         <TextContent>
+            <TextType>03</TextType>
+            <ContentAudience>00</ContentAudience>
+            <Text textformat="05">
+               <p>We give and receive advice daily, to good and bad effect and across a wide range of relational contexts, yet philosophers have devoted little attention to the ethics of advising. This book fills that gap. It offers a new theory of advising as an act of help with practical reasoning and explores its implications across a range of personal and professional contexts. At its heart is a ground-breaking account of the norms of advice, rooted in advice’s defining purpose: to help an advisee see how to proceed. Our ethical expectations of advice, advisors, and the advice relationship are drawn out through a series of cases that evoke reactive attitudes such as resentment and gratitude. This book addresses common concerns about advising, relating to manipulative techniques, conflicts of interest, the disruptive effects of power upon advice relationships, how responsibility for advised acts should be apportioned, and how the norms of advice apply in professional and personal settings. It explains what is ethically problematic about certain strategic invocations of an advice relationship and offers guidance about how to balance role responsibilities and responsiveness to advisees across professional contexts including policy advice, law, and medical practice. It explains how advice from strangers can be received well or badly, and develops rules of practice for advice within close relationships.</p>
+            </Text>
+         </TextContent>
+      </CollateralDetail>
+      <PublishingDetail>
+         <Imprint>
+            <ImprintName>Oxford University Press</ImprintName>
+         </Imprint>
+         <Publisher>
+            <PublishingRole>01</PublishingRole>
+            <PublisherName>Oxford University Press</PublisherName>
+         </Publisher>
+         <CityOfPublication>Oxford</CityOfPublication>
+         <CountryOfPublication>GB</CountryOfPublication>
+         <PublishingStatus>04</PublishingStatus>
+         <PublishingDate>
+            <PublishingDateRole>01</PublishingDateRole>
+            <DateFormat>00</DateFormat>
+            <Date>20250121</Date>
+         </PublishingDate>
+         <SalesRights>
+            <SalesRightsType>02</SalesRightsType>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </SalesRights>
+      </PublishingDetail>
+      <RelatedMaterial>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>15</WorkIDType>
+               <IDValue>9780192864390</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>06</WorkIDType>
+               <IDValue>10.1093/9780191954931.001.0001</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedProduct>
+            <ProductRelationCode>06</ProductRelationCode>
+            <ProductIdentifier>
+               <ProductIDType>15</ProductIDType>
+               <IDValue>9780192864390</IDValue>
+            </ProductIdentifier>
+         </RelatedProduct>
+      </RelatedMaterial>
+      <ProductSupply>
+         <Market>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </Market>
+         <SupplyDetail>
+            <Supplier>
+               <SupplierRole>01</SupplierRole>
+               <SupplierIdentifier>
+                  <SupplierIDType>06</SupplierIDType>
+                  <IDTypeName>GLN</IDTypeName>
+                  <IDValue>5013546025036</IDValue>
+               </SupplierIdentifier>
+               <SupplierName>Oxford University Press</SupplierName>
+               <Website>
+                  <WebsiteRole>29</WebsiteRole>
+                  <WebsiteLink>https://doi.org/10.1093/9780191954931.001.0001</WebsiteLink>
+               </Website>
+            </Supplier>
+            <ProductAvailability>20</ProductAvailability>
+            <UnpricedItemType>04</UnpricedItemType>
+         </SupplyDetail>
+      </ProductSupply>
+   </Product>
+</ONIXMessage>

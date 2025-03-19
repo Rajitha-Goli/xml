@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Comments></Comments>
+    <Selected_for_coverage_YorN>Y</Selected_for_coverage_YorN>
+    <ASJC1>1900</ASJC1>
+    <ASJC2>1100</ASJC2>
+    <ASJC3>2300</ASJC3>
+    <Book_Language>ENG</Book_Language>
+    <Book_Title>Mysterious Ways: Contingency, Emergence, and Selection in Nature</Book_Title>
+    <Publisher_Name>Oxford University Press</Publisher_Name>
+    <Publisher_Year>2025-01-21T00:00:00</Publisher_Year>
+    <ISBN13>9780197755099</ISBN13>
+    <E-ISBN13>9780197755129</E-ISBN13>
+    <Series_Title>Oxford Scholarship Online</Series_Title>
+    <Audience_Type>06</Audience_Type>
+    <Product_Selection>Scopus</Product_Selection>
+  </record>
+</Inventory>

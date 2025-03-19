@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Comments></Comments>
+    <Selected_for_coverage_YorN>Y</Selected_for_coverage_YorN>
+    <ASJC1>1200</ASJC1>
+    <Book_Language>ENG</Book_Language>
+    <Book_Title>Churchyard Poetics: Landscape, Labour, and the Legacy of Genre</Book_Title>
+    <Publisher_Name>Oxford University Press</Publisher_Name>
+    <Publisher_Year>2025-01-06T00:00:00</Publisher_Year>
+    <ISBN13>9780198943853</ISBN13>
+    <E-ISBN13>9780198943884</E-ISBN13>
+    <Series_Title>Oxford Scholarship Online</Series_Title>
+    <Audience_Type>06</Audience_Type>
+    <Product_Selection>Scopus</Product_Selection>
+  </record>
+</Inventory>
