@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage xmlns="http://ns.editeur.org/onix/3.0/reference"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             release="3.0"
+             xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference ONIX_BookProduct_3.0_reference.xsd">
+   <Header>
+      <Sender>
+         <SenderName>Oxford University Press</SenderName>
+      </Sender>
+      <SentDateTime>20250225T1750Z</SentDateTime>
+      <MessageNote>Online product metadata for Scopus discoverability only platform</MessageNote>
+      <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+   </Header>
+   <Product>
+      <RecordReference>oup.scopus.onix.9780197800188</RecordReference>
+      <NotificationType>03</NotificationType>
+      <ProductIdentifier>
+         <ProductIDType>15</ProductIDType>
+         <IDValue>9780197800188</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+         <ProductIDType>06</ProductIDType>
+         <IDValue>10.1093/9780197800188.001.0001</IDValue>
+      </ProductIdentifier>
+      <DescriptiveDetail>
+         <ProductComposition>00</ProductComposition>
+         <ProductForm>EC</ProductForm>
+         <Collection>
+            <CollectionType>10</CollectionType>
+            <TitleDetail>
+               <TitleType>01</TitleType>
+               <TitleElement>
+                  <TitleElementLevel>02</TitleElementLevel>
+                  <TitleText>Oxford Scholarship Online</TitleText>
+               </TitleElement>
+            </TitleDetail>
+         </Collection>
+         <TitleDetail>
+            <TitleType>01</TitleType>
+            <TitleElement>
+               <TitleElementLevel>01</TitleElementLevel>
+               <TitleText>It's Only Human</TitleText>
+               <Subtitle>The Evolution of Distinctively Human Cognition</Subtitle>
+            </TitleElement>
+         </TitleDetail>
+         <Contributor>
+            <SequenceNumber>1</SequenceNumber>
+            <ContributorRole>A01</ContributorRole>
+            <PersonName>Armin W. Schulz</PersonName>
+            <PersonNameInverted>Schulz, Armin W.</PersonNameInverted>
+            <NamesBeforeKey>Armin W.</NamesBeforeKey>
+            <KeyNames>Schulz</KeyNames>
+         </Contributor>
+         <EditionNumber>01</EditionNumber>
+         <Extent>
+            <ExtentType>00</ExtentType>
+            <ExtentValue>272</ExtentValue>
+            <ExtentUnit>03</ExtentUnit>
+         </Extent>
+         <Subject>
+            <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BISAC Subject Heading</SubjectSchemeName>
+            <SubjectCode>PHI015000</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BISAC Subject Heading</SubjectSchemeName>
+            <SubjectCode>PHI034000</SubjectCode>
+         </Subject>
+         <Subject>
+            <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+            <SubjectSchemeName>BISAC Subject Heading</SubjectSchemeName>
+            <SubjectCode>PHI038000</SubjectCode>
+         </Subject>
+         <Audience>
+            <AudienceCodeType>01</AudienceCodeType>
+            <AudienceCodeValue>06</AudienceCodeValue>
+         </Audience>
+      </DescriptiveDetail>
+      <CollateralDetail>
+         <TextContent>
+            <TextType>03</TextType>
+            <ContentAudience>00</ContentAudience>
+            <Text textformat="05">
+               <p>What makes humans cognitively unique—and why are they unique in these ways? These are interesting questions not just because we are humans, but also because we have an outsized influence on the planet as a whole. To answer them, this book begins by providing a clearer characterization of the nature of human cognitive uniqueness: it sets out and justifies an inventory of key features of distinctively human cognition. On this basis, the book assesses the major existing theories seeking to explain distinctively human thought from across the cognitive, social, and human sciences and argues that a new account is needed, one that bridges nativist and learning-based approaches. It then presents exactly such an account. At the heart of this account is a positive feedback loop that links evolved representations, forms of cultural learning, and technology. With the help of this feedback loop, key examples of uniquely human cognition can be explained: distinctively human mindreading, distinctively human moral cognition, and the distinctively human propensity for trade. The book concludes with an application of this interactionist theory of distinctively human cognition to various issues of contemporary importance: the relationship between distinctively human cognition and increasingly sophisticated artificial intelligence, the role of religion in human thought and action, and the relationship between extensive patent regimes and human innovation. In doing all this, the book takes a simultaneous methodological and explanatory approach: it shows how to best conduct the study of human cognitive uniqueness and actually engages in this study itself.</p>
+            </Text>
+         </TextContent>
+      </CollateralDetail>
+      <PublishingDetail>
+         <Imprint>
+            <ImprintName>Oxford University Press</ImprintName>
+         </Imprint>
+         <Publisher>
+            <PublishingRole>01</PublishingRole>
+            <PublisherName>Oxford University Press</PublisherName>
+         </Publisher>
+         <CityOfPublication>New York, NY</CityOfPublication>
+         <CountryOfPublication>US</CountryOfPublication>
+         <PublishingStatus>04</PublishingStatus>
+         <PublishingDate>
+            <PublishingDateRole>01</PublishingDateRole>
+            <DateFormat>00</DateFormat>
+            <Date>20250109</Date>
+         </PublishingDate>
+         <SalesRights>
+            <SalesRightsType>02</SalesRightsType>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </SalesRights>
+      </PublishingDetail>
+      <RelatedMaterial>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>15</WorkIDType>
+               <IDValue>9780197800157</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedWork>
+            <WorkRelationCode>02</WorkRelationCode>
+            <WorkIdentifier>
+               <WorkIDType>06</WorkIDType>
+               <IDValue>10.1093/9780197800188.001.0001</IDValue>
+            </WorkIdentifier>
+         </RelatedWork>
+         <RelatedProduct>
+            <ProductRelationCode>06</ProductRelationCode>
+            <ProductIdentifier>
+               <ProductIDType>15</ProductIDType>
+               <IDValue>9780197800157</IDValue>
+            </ProductIdentifier>
+         </RelatedProduct>
+      </RelatedMaterial>
+      <ProductSupply>
+         <Market>
+            <Territory>
+               <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+         </Market>
+         <SupplyDetail>
+            <Supplier>
+               <SupplierRole>01</SupplierRole>
+               <SupplierIdentifier>
+                  <SupplierIDType>06</SupplierIDType>
+                  <IDTypeName>GLN</IDTypeName>
+                  <IDValue>5013546025036</IDValue>
+               </SupplierIdentifier>
+               <SupplierName>Oxford University Press</SupplierName>
+               <Website>
+                  <WebsiteRole>29</WebsiteRole>
+                  <WebsiteLink>https://doi.org/10.1093/9780197800188.001.0001</WebsiteLink>
+               </Website>
+            </Supplier>
+            <ProductAvailability>20</ProductAvailability>
+            <UnpricedItemType>04</UnpricedItemType>
+         </SupplyDetail>
+      </ProductSupply>
+   </Product>
+</ONIXMessage>
